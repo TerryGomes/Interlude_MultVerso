@@ -1,0 +1,51 @@
+<html><body>
+	<table width=270>
+		<tr>
+			<td width=45><button value="Main" action="bypass -h admin_admin" width=45 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+			<td width=180><center>%castleName% castle</center></td>
+			<td width=45><button value="Back" action="bypass -h admin_siege" width=45 height=15 back="sek.cbui94" fore="sek.cbui92"></td>
+		</tr>
+	</table><br>
+	<center>
+	<table width=270>
+		<tr>
+			<td width=150>Circlet id: %circletId%</td><td width=120>Left cert.: %certificates% (<a action="bypass -h admin_castle certificates %castleName%">reset</a>)</td>
+		</tr><tr>
+			<td>Artifact id: %artifactId%</td><td></td>
+		</tr><tr>
+			<td>Ticket templates: %ticketsNumber%</td><td>NPCs number: %npcsNumber%</td>
+		</tr><tr>
+			<td>Dropped tickets: %droppedTicketsNumber%</td><td></td>
+		</tr>
+	</table><br>
+	<table width=270>
+		<tr>
+			<td><font color="LEVEL">Control Towers</font></td>
+		</tr><tr>
+			<td>%ct%</td>
+		</tr>
+	</table><br>
+	<table width=270>
+		<tr>
+			<td><font color="LEVEL">Flame Towers</font></td>
+		</tr><tr>
+			<td>%ft%</td>
+		</tr>
+	</table><br>
+	<table width=240>
+		<tr>
+			<td><button value="Add Attacker" action="bypass -h admin_siege attack %castleName%" width=75 height=21 back="L2UI_ch3.Btn1_normalOn" fore="L2UI_ch3.Btn1_normal"></td>
+			<td><button value="Start Siege" action="bypass -h admin_siege start %castleName%" width=75 height=21 back="L2UI_ch3.Btn1_normalOn" fore="L2UI_ch3.Btn1_normal"></td>
+			<td><button value="Set Castle" action="bypass -h admin_castle set %castleName%" width=75 height=21 back="L2UI_ch3.Btn1_normalOn" fore="L2UI_ch3.Btn1_normal"></td>
+		</tr><tr>
+			<td><button value="Add Defender" action="bypass -h admin_siege defend %castleName%" width=75 height=21 back="L2UI_ch3.Btn1_normalOn" fore="L2UI_ch3.Btn1_normal"></td>
+			<td><button value="End Siege" action="bypass -h admin_siege end %castleName%" width=75 height=21 back="L2UI_ch3.Btn1_normalOn" fore="L2UI_ch3.Btn1_normal"></td>
+			<td><button value="Remove Castle" action="bypass -h admin_castle remove %castleName%" width=75 height=21 back="L2UI_ch3.Btn1_normalOn" fore="L2UI_ch3.Btn1_normal"></td>
+		</tr><tr>
+			<td></td>
+			<td><button value="Clear List" action="bypass -h admin_siege clear %castleName%" width=75 height=21 back="L2UI_ch3.Btn1_normalOn" fore="L2UI_ch3.Btn1_normal"></td>
+			<td></td>
+		</tr>
+	</table>
+	</center>
+</body></html>
