@@ -1,10 +1,9 @@
 # Interlude_MultVerso
  <div>
   <h1>Transfome sua doação em estímulo <br>  * Turn your donation into stimulus <br>   * Convierte tu donación en estímulo</h1>
-    <h3>projetos_Em_andamentos_Gratuitos()</h3>
+    <h3>projetos_Free()</h3>
     {
     <ul>
-    <li>Freya High Five = Base L2Russo/Tales/FandC   / Projeto MultVerso </li>
     <li>Interlude Projeto Free = Base L2Acis   / L2jBrasil / MultVerso </li>
  </ul>
      }  
