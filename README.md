@@ -6,7 +6,7 @@
     <ul>
     <li>Freya High Five = Base L2Russo/Tales/FandC   / Projeto MultVerso </li>
     <li>Interlude Projeto Free = Base L2Acis   / L2jBrasil / MultVerso </li>
-    </ul>
+ </ul>
      }  
     <h3>Contato()</h3>
     {
