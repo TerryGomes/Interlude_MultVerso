@@ -104,6 +104,7 @@ public class DrChaos extends AttackableAIScript
 		addAttackActId(CHAOS_GOLEM); // Random messages when he attacks.
 	}
 	
+	@SuppressWarnings("null")
 	@Override
 	public String onTimer(String name, Npc npc, Player player)
 	{

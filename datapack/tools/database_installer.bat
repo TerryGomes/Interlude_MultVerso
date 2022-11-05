@@ -4,18 +4,18 @@ REM ############################################
 REM ## You can change here your own DB params ##
 REM ############################################
 REM MYSQL BIN PATH
-set mysqlBinPath=C:\Program Files\MariaDB 10.4\bin
+set mysqlBinPath=C:\Program Files\MySQL\MySQL Server 5.5\bin
 
 REM LOGINSERVER
 set lsuser=root
 set lspass=
-set lsdb=acis
+set lsdb=p_interlude_acis
 set lshost=localhost
 
 REM GAMESERVER
 set gsuser=root
 set gspass=
-set gsdb=acis
+set gsdb=p_interlude_acis
 set gshost=localhost
 REM ############################################
 
