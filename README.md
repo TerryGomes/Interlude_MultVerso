@@ -20,5 +20,9 @@
   
 <h1>Projeto Interlude Base L2Acis 401</h1>
 
-Fixados:
-java 18
+<div>
+ <ul>
+      <h3>Fixados: <h3>
+  <li>java 18</li>
+ </ul>
+ </div>
