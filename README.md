@@ -30,5 +30,5 @@
  </ul>
  </div>
 
-<h2>Projeto com parceria.</h2>
+<h2>Projeto com parceria L2JBRASIL.</h2>
 https://www.l2jbrasil.com/topic/144801-l2-multverso-interlude/#comment-838185
