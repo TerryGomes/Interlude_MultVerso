@@ -27,7 +27,7 @@
  <ul>
       <h3>Fixados: </h3>
   <li>Organização dos arquivos.</li>
-  <li>Otimização da source [FORMATAÇÃO E CUSTOMIZAÇÃO DO CÓGIGO].</li>
+  <li>Otimização da source [FORMATAÇÃO E CUSTOMIZAÇÃO DO CÓDIGO].</li>
   <li>jInício da conversão para java 18.</li>
   
  </ul>
