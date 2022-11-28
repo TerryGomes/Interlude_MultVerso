@@ -9,6 +9,7 @@
 	<property name="build.dist.login" location="${build.dist}/login" />
 	<property name="build.dist.game" location="${build.dist}/gameserver" />
 
+
 	<target name="dist" depends="jar">
 		<copy todir="${build.dist.login}/libs">
 			<fileset dir="${src}/../lib">
