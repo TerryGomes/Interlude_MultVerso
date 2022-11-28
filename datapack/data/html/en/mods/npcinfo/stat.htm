@@ -1,0 +1,57 @@
+<html><title>NPC Info</title><body>
+	<center>
+		<table width="100%">
+			<tr>
+				<td><button value="Stat" action="bypass -h user_npc_info %objid%" width=65 height=19 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2"></td>
+				<td><button value="Drops" action="bypass -h user_npc_info %objid% drop" width=65 height=19 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2"></td>
+				<td><button value="Spoils" action="bypass -h user_npc_info %objid% spoil" width=65 height=19 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2"></td>
+				<td><button value="Aggr" action="bypass -h user_npc_info %objid% aggr" width=65 height=19 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2"></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td><button value="Effects" action="bypass -h user_npc_info %objid% effects" width=65 height=19 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2"></td>
+				<td><button value="Skills" action="bypass -h user_npc_info %objid% skill" width=65 height=19 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2"></td>
+				<td></td>
+			</tr>
+		</table><br>
+		<font color="LEVEL">Combat Informations</font>
+		<table width="100%">
+			<tr><td><font color="LEVEL">HP:</font></td><td><font color=FF4040>%hp%/%hpmax%</font></td><td><font color="LEVEL">MP:</font></td><td><font color=6161FF>%mp%/%mpmax%</font></td></tr>
+			<tr><td>P.Atk.</td><td>%patk%</td><td>M.Atk.</td><td>%matk%</td></tr>
+			<tr><td>P.Def.</td><td>%pdef%</td><td>M.Def.</td><td>%mdef%</td></tr>
+			<tr><td>Accuracy</td><td>%accu%</td><td>Evasion</td><td>%evas%</td></tr>
+			<tr><td>Critical</td><td>%crit%</td><td>Speed</td><td>%rspd%</td></tr>
+			<tr><td>Atk.Spd</td><td>%aspd%</td><td>Cast.Spd</td><td>%cspd%</td></tr>
+		</table><br>
+
+		<font color="LEVEL">Basic Stats</font>
+		<table width="100%">
+			<tr>
+				<td>STR</td><td>%str%</td>
+				<td>DEX</td><td>%dex%</td>
+				<td>CON</td><td>%con%</td>
+			</tr>
+			<tr>
+				<td>INT</td><td>%int%</td>
+				<td>WIT</td><td>%wit%</td>
+				<td>MEN</td><td>%men%</td>
+			</tr>
+		</table><br>
+
+		<font color="LEVEL">Elements</font>
+		<table border="0" width="100%">
+			<tr>
+				<td>Fire</td><td>%ele_fire%</td>
+				<td>Water</td><td>%ele_water%</td>
+			</tr>
+			<tr>
+				<td>Wind</td><td>%ele_wind%</td>
+				<td>Earth</td><td>%ele_earth%</td>
+			</tr>
+			<tr>
+				<td>Holy</td><td>%ele_holy%</td>
+				<td>Dark</td><td>%ele_dark%</td>
+			</tr>
+		</table>
+	</center>
+</body></html>

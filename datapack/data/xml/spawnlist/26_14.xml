@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Goddard Area
+ * Valakas' Lair
+ * Hall of Flames
+-->
+<list>
+	<!--  -->
+	<territory name="boss_26_14" minZ="-2572" maxZ="5428">
+		<node x="196866" y="-130845" />
+		<node x="229289" y="-130860" />
+		<node x="229176" y="-98508" />
+		<node x="196880" y="-98498" />
+	</territory>
+	<npcmaker name="boss_26_14" territory="boss_26_14" spawn="ALL" maximumNpcs="100">
+		<npc id="29028" pos="-105200;-253104;-15264;0" total="1" respawnDelay="264h" respawnRandom="72h" dbName="valakas" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="bosscuve_26_14" minZ="-2572" maxZ="5428">
+		<node x="196866" y="-130845" />
+		<node x="229289" y="-130860" />
+		<node x="229176" y="-98508" />
+		<node x="196880" y="-98498" />
+	</territory>
+	<npcmaker name="bosscuve_26_14" territory="bosscuve_26_14" spawn="ALL" maximumNpcs="20" event="boss_26_14">
+	</npcmaker>
+</list>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+<zone shape="NPoly" minZ="-1024" maxZ="976">
+	<node x="35488" y="-51154" />
+	<node x="35743" y="-51220" />
+	<node x="35732" y="-50625" />
+	<node x="35536" y="-50649" />
+</zone>
+<zone shape="NPoly" minZ="-1758" maxZ="242">
+	<node x="35537" y="-50665" />
+	<node x="35749" y="-50664" />
+	<node x="35916" y="-49441" />
+	<node x="35312" y="-49441" />
+</zone>
+</list>

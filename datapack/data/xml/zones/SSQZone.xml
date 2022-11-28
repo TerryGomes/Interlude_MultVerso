@@ -1,0 +1,188 @@
+<list>
+  <zone name="ssq_main_pvp_1720_01" shape="NPoly" minZ="-5200" maxZ="-5000">
+      <node x="-79735" y="85612"/>
+      <node x="-78957" y="85605"/>
+      <node x="-78957" y="85690"/>
+      <node x="-79735" y="85700"/>
+  </zone>
+  <zone name="ssq_main_pvp_1720_02" shape="NPoly" minZ="-5200" maxZ="-5000">
+      <node x="-80952" y="85605"/>
+      <node x="-80139" y="85597"/>
+      <node x="-80139" y="85696"/>
+      <node x="-80952" y="85690"/>
+  </zone>
+  <zone name="ssq_main_pvp_1720_03" shape="NPoly" minZ="-5192" maxZ="-4992">
+      <node x="-80962" y="83695"/>
+      <node x="-78946" y="83691"/>
+      <node x="-78959" y="85626"/>
+      <node x="-80947" y="85625"/>
+  </zone>
+  <zone name="ssq_main_pvp_1720_04" shape="NPoly" minZ="-5196" maxZ="-4996">
+      <node x="-81199" y="87363"/>
+      <node x="-80386" y="87358"/>
+      <node x="-80386" y="87449"/>
+      <node x="-81203" y="87454"/>
+  </zone>
+  <zone name="ssq_main_pvp_1720_05" shape="NPoly" minZ="-5196" maxZ="-4996">
+      <node x="-79990" y="87361"/>
+      <node x="-79212" y="87360"/>
+      <node x="-79212" y="87460"/>
+      <node x="-79989" y="87446"/>
+  </zone>
+  <zone name="ssq_main_pvp_1720_06" shape="NPoly" minZ="-5200" maxZ="-5000">
+      <node x="-81205" y="87433"/>
+      <node x="-79212" y="87432"/>
+      <node x="-79208" y="89361"/>
+      <node x="-81207" y="89361"/>
+  </zone>
+  <zone name="ssq_main_pvp_1720_07" shape="NPoly" minZ="-5200" maxZ="-5000">
+      <node x="-78197" y="87968"/>
+      <node x="-77373" y="87961"/>
+      <node x="-77365" y="88060"/>
+      <node x="-78197" y="88060"/>
+  </zone>
+  <zone name="ssq_main_pvp_1720_08" shape="NPoly" minZ="-5200" maxZ="-5000">
+      <node x="-77025" y="87959"/>
+      <node x="-76209" y="87969"/>
+      <node x="-76202" y="88069"/>
+      <node x="-77026" y="88061"/>
+  </zone>
+  <zone name="ssq_main_pvp_1720_09" shape="NPoly" minZ="-5196" maxZ="-4996">
+      <node x="-78196" y="88060"/>
+      <node x="-76200" y="88068"/>
+      <node x="-76192" y="89970"/>
+      <node x="-78196" y="89970"/>
+  </zone>
+  <zone name="ssq_main_pvp_1720_10" shape="NPoly" minZ="-5204" maxZ="-5004">
+      <node x="-76797" y="86142"/>
+      <node x="-75947" y="86147"/>
+      <node x="-75945" y="86304"/>
+      <node x="-76794" y="86298"/>
+  </zone>
+  <zone name="ssq_main_pvp_1720_11" shape="NPoly" minZ="-5196" maxZ="-4996">
+      <node x="-77944" y="86148"/>
+      <node x="-77189" y="86148"/>
+      <node x="-77194" y="86291"/>
+      <node x="-77942" y="86295"/>
+  </zone>
+  <zone name="ssq_main_pvp_1720_12" shape="NPoly" minZ="-5196" maxZ="-4996">
+      <node x="-77949" y="84300"/>
+      <node x="-75940" y="84300"/>
+      <node x="-75943" y="86185"/>
+      <node x="-77939" y="86187"/>
+  </zone>
+  <zone name="ssq_main_pvp_1720_13" shape="NPoly" minZ="-5200" maxZ="-5000">
+      <node x="-75870" y="87311"/>
+      <node x="-75738" y="87309"/>
+      <node x="-75738" y="88130"/>
+      <node x="-75870" y="88125"/>
+  </zone>
+  <zone name="ssq_main_pvp_1720_14" shape="NPoly" minZ="-5200" maxZ="-5000">
+      <node x="-75865" y="86137"/>
+      <node x="-75747" y="86134"/>
+      <node x="-75740" y="86958"/>
+      <node x="-75865" y="86963"/>
+  </zone>
+  <zone name="ssq_main_pvp_1720_15" shape="NPoly" minZ="-5200" maxZ="-5000">
+      <node x="-75758" y="86126"/>
+      <node x="-73857" y="86139"/>
+      <node x="-73855" y="88140"/>
+      <node x="-75769" y="88133"/>
+  </zone>
+  <zone name="ssq_main_pvp_1721_01" shape="NPoly" minZ="-4948" maxZ="-4748">
+      <node x="-78713" y="110409"/>
+      <node x="-77923" y="110423"/>
+      <node x="-77923" y="110522"/>
+      <node x="-78708" y="110515"/>
+  </zone>
+  <zone name="ssq_main_pvp_1721_02" shape="NPoly" minZ="-4940" maxZ="-4740">
+      <node x="-79923" y="110427"/>
+      <node x="-79109" y="110432"/>
+      <node x="-79105" y="110524"/>
+      <node x="-79923" y="110528"/>
+  </zone>
+  <zone name="ssq_main_pvp_1721_03" shape="NPoly" minZ="-4944" maxZ="-4744">
+      <node x="-79931" y="108523"/>
+      <node x="-77928" y="108523"/>
+      <node x="-77932" y="110445"/>
+      <node x="-79925" y="110453"/>
+  </zone>
+  <zone name="ssq_main_pvp_1721_04" shape="NPoly" minZ="-4940" maxZ="-4740">
+      <node x="-75761" y="111051"/>
+      <node x="-74921" y="111033"/>
+      <node x="-74921" y="111142"/>
+      <node x="-75757" y="111151"/>
+  </zone>
+  <zone name="ssq_main_pvp_1721_05" shape="NPoly" minZ="-4940" maxZ="-4740">
+      <node x="-76920" y="111022"/>
+      <node x="-76089" y="111022"/>
+      <node x="-76085" y="111105"/>
+      <node x="-76920" y="111097"/>
+  </zone>
+  <zone name="ssq_main_pvp_1721_06" shape="NPoly" minZ="-4932" maxZ="-4732">
+      <node x="-76920" y="109134"/>
+      <node x="-74928" y="109134"/>
+      <node x="-74920" y="111099"/>
+      <node x="-76920" y="111087"/>
+  </zone>
+  <zone name="ssq_main_pvp_1721_07" shape="NPoly" minZ="-4944" maxZ="-4744">
+      <node x="-77176" y="112795"/>
+      <node x="-76350" y="112795"/>
+      <node x="-76344" y="112897"/>
+      <node x="-77176" y="112903"/>
+  </zone>
+  <zone name="ssq_main_pvp_1721_08" shape="NPoly" minZ="-4940" maxZ="-4740">
+      <node x="-76002" y="112810"/>
+      <node x="-75182" y="112806"/>
+      <node x="-75176" y="112904"/>
+      <node x="-76002" y="112898"/>
+  </zone>
+  <zone name="ssq_main_pvp_1721_09" shape="NPoly" minZ="-4944" maxZ="-4744">
+      <node x="-77174" y="112902"/>
+      <node x="-75172" y="112902"/>
+      <node x="-75167" y="114798"/>
+      <node x="-77173" y="114806"/>
+  </zone>
+  <zone name="ssq_main_pvp_1721_10" shape="NPoly" minZ="-4940" maxZ="-4740">
+      <node x="-80178" y="112233"/>
+      <node x="-79362" y="112250"/>
+      <node x="-79356" y="112294"/>
+      <node x="-80190" y="112301"/>
+  </zone>
+  <zone name="ssq_main_pvp_1721_11" shape="NPoly" minZ="-4940" maxZ="-4740">
+      <node x="-78861" y="112220"/>
+      <node x="-78196" y="112201"/>
+      <node x="-78178" y="112294"/>
+      <node x="-78994" y="112294"/>
+  </zone>
+  <zone name="ssq_main_pvp_1721_12" shape="NPoly" minZ="-4940" maxZ="-4740">
+      <node x="-80184" y="112276"/>
+      <node x="-78188" y="112262"/>
+      <node x="-78176" y="114188"/>
+      <node x="-80190" y="114196"/>
+  </zone>
+  <zone name="ssq_main_pvp_1721_13" shape="NPoly" minZ="-4940" maxZ="-4740">
+      <node x="-74840" y="112152"/>
+      <node x="-74704" y="112157"/>
+      <node x="-74707" y="112966"/>
+      <node x="-74840" y="112966"/>
+  </zone>
+  <zone name="ssq_main_pvp_1721_14" shape="NPoly" minZ="-4948" maxZ="-4748">
+      <node x="-74840" y="110962"/>
+      <node x="-74737" y="110962"/>
+      <node x="-74741" y="111793"/>
+      <node x="-74840" y="111796"/>
+  </zone>
+  <zone name="ssq_main_pvp_1721_15" shape="NPoly" minZ="-4936" maxZ="-4736">
+      <node x="-74737" y="110969"/>
+      <node x="-72838" y="110964"/>
+      <node x="-72830" y="112974"/>
+      <node x="-74740" y="112965"/>
+  </zone>
+  <zone name="ssq_main_pvp_1721_16" shape="NPoly" minZ="-4912" maxZ="-4712">
+      <node x="-76922" y="110997"/>
+      <node x="-76177" y="110995"/>
+      <node x="-76175" y="111133"/>
+      <node x="-76917" y="111133"/>
+  </zone>
+</list>
