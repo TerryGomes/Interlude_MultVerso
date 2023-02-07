@@ -104,8 +104,8 @@
 
 	<target name="checkRequirements" description="Check requirements.">
 		<echo message="Verification of your JDK version."/>
-		<available classname="java.util.stream.Stream" property="JDK18.present" />
-		<fail unless="JDK18.present" message="JDK18 is required, but your version is Java ${ant.java.version}. Install latest JDK." />
+		<available classname="java.util.stream.Stream" property="JDK17.present" />
+		<fail unless="JDK17.present" message="JDK17 is required, but your version is Java ${ant.java.version}. Install latest JDK." />
 	</target>
 	
 	<path id="classpath">
