@@ -1,0 +1,2449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Shuttgart Area
+ * Town of Schuttgart
+ * Schuttgart Castle
+-->
+<list>
+	<!--  -->
+	<territory name="court_magician_schuttgart" minZ="-544" maxZ="0">
+		<node x="77744" y="-152754" />
+		<node x="78140" y="-152757" />
+		<node x="78127" y="-153154" />
+		<node x="77851" y="-153155" />
+	</territory>
+	<npcmaker name="court_magician_schuttgart" territory="court_magician_schuttgart" spawn="ALL" maximumNpcs="1">
+		<npc id="35656" pos="77904;-152913;-544;16384" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="event_zaken_curse_schuttgart1" minZ="-2400" maxZ="-2100">
+		<node x="92130" y="-139900" />
+		<node x="91635" y="-141105" />
+		<node x="92440" y="-141335" />
+		<node x="93160" y="-140135" />
+		<node x="92715" y="-139280" />
+	</territory>
+	<npcmaker name="event_zaken_curse_schuttgart1" territory="event_zaken_curse_schuttgart1" spawn="ALL" maximumNpcs="30" event="zaken_curse">
+		<npc id="13031" total="4" respawnDelay="45s"/>
+		<npc id="13032" total="4" respawnDelay="45s"/>
+		<npc id="13033" total="4" respawnDelay="45s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="event_zaken_curse_schuttgart2" minZ="-2450" maxZ="-2200">
+		<node x="90060" y="-137920" />
+		<node x="91550" y="-139190" />
+		<node x="92215" y="-138435" />
+		<node x="90255" y="-137505" />
+	</territory>
+	<npcmaker name="event_zaken_curse_schuttgart2" territory="event_zaken_curse_schuttgart2" spawn="ALL" maximumNpcs="30" event="zaken_curse">
+		<npc id="13031" total="4" respawnDelay="45s"/>
+		<npc id="13032" total="4" respawnDelay="45s"/>
+		<npc id="13033" total="4" respawnDelay="45s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schoutgard_adolph" minZ="-1540" maxZ="-1220">
+		<node x="84308" y="-144153" />
+		<node x="84508" y="-144153" />
+		<node x="84508" y="-143953" />
+		<node x="84308" y="-143953" />
+	</territory>
+	<npcmaker name="schoutgard_adolph" territory="schoutgard_adolph" spawn="ALL" maximumNpcs="1">
+		<npc id="32070" pos="84408;-144053;-1528;0" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schoutgard_edwin" minZ="-1556" maxZ="-1236">
+		<node x="90171" y="-143986" />
+		<node x="90371" y="-143986" />
+		<node x="90371" y="-143786" />
+		<node x="90171" y="-143786" />
+	</territory>
+	<npcmaker name="schoutgard_edwin" territory="schoutgard_edwin" spawn="ALL" maximumNpcs="1">
+		<npc id="32072" pos="84408;-144053;-1528;0" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt03_npc2416_01" minZ="-536" maxZ="-336">
+		<node x="77409" y="-153418" />
+		<node x="77609" y="-153418" />
+		<node x="77609" y="-153218" />
+		<node x="77409" y="-153218" />
+	</territory>
+	<npcmaker name="schutt03_npc2416_0101" territory="schutt03_npc2416_01" spawn="ALL" maximumNpcs="1">
+		<npc id="35555" pos="77493;-153350;-384;18236" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt03_npc2416_02" minZ="-534" maxZ="-214">
+		<node x="77597" y="-153556" />
+		<node x="77997" y="-153556" />
+		<node x="77997" y="-153156" />
+		<node x="77597" y="-153156" />
+	</territory>
+	<npcmaker name="schutt03_npc2416_0201" territory="schutt03_npc2416_02" spawn="ALL" maximumNpcs="1">
+		<npc id="35557" pos="77797;-153356;-514;16500" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt03_npc2416_03" minZ="1196" maxZ="1396">
+		<node x="77457" y="-153226" />
+		<node x="77657" y="-153226" />
+		<node x="77657" y="-153026" />
+		<node x="77457" y="-153026" />
+	</territory>
+	<npcmaker name="schutt03_npc2416_0301" territory="schutt03_npc2416_03" spawn="ALL" maximumNpcs="1">
+		<npc id="35556" pos="77555;-153137;1233;16500" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt03_npc2416_04" minZ="-1332" maxZ="-1012">
+		<node x="75490" y="-145135" />
+		<node x="75690" y="-145135" />
+		<node x="75690" y="-144935" />
+		<node x="75490" y="-144935" />
+	</territory>
+	<npcmaker name="schutt03_npc2416_0401" territory="schutt03_npc2416_04" spawn="ALL" maximumNpcs="1">
+		<npc id="35559" pos="75590;-145035;-1312;16384" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt03_npc2416_05" minZ="-392" maxZ="-192">
+		<node x="77793" y="-149466" />
+		<node x="77993" y="-149466" />
+		<node x="77993" y="-149266" />
+		<node x="77793" y="-149266" />
+	</territory>
+	<npcmaker name="schutt03_npc2416_0501" territory="schutt03_npc2416_05" spawn="ALL" maximumNpcs="1">
+		<npc id="35548" pos="77893;-149382;-347;17736" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt03_npc2416_06" minZ="-400" maxZ="-200">
+		<node x="77206" y="-149834" />
+		<node x="77406" y="-149834" />
+		<node x="77406" y="-149634" />
+		<node x="77206" y="-149634" />
+	</territory>
+	<npcmaker name="schutt03_npc2416_0601" territory="schutt03_npc2416_06" spawn="ALL" maximumNpcs="1">
+		<npc id="35548" pos="77349;-149686;-347;50236" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt03_npc2416_07" minZ="716" maxZ="973">
+		<node x="77372" y="-151186" />
+		<node x="77372" y="-150319" />
+		<node x="77735" y="-150319" />
+		<node x="77735" y="-151186" />
+	</territory>
+	<npcmaker name="schutt03_npc2416_0701" territory="schutt03_npc2416_07" spawn="ALL" maximumNpcs="1">
+		<npc id="35547" pos="77541;-150502;773;50736" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt03_npc2416_08" minZ="-936" maxZ="-736">
+		<node x="76977" y="-153002" />
+		<node x="77177" y="-153002" />
+		<node x="77177" y="-152802" />
+		<node x="76977" y="-152802" />
+	</territory>
+	<npcmaker name="schutt03_npc2416_0801" territory="schutt03_npc2416_08" spawn="ALL" maximumNpcs="1">
+		<npc id="35553" pos="77077;-152950;-902;17736" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt03_npc2416_09" minZ="-948" maxZ="-748">
+		<node x="77953" y="-153034" />
+		<node x="78153" y="-153034" />
+		<node x="78153" y="-152834" />
+		<node x="77953" y="-152834" />
+	</territory>
+	<npcmaker name="schutt03_npc2416_0901" territory="schutt03_npc2416_09" spawn="ALL" maximumNpcs="1">
+		<npc id="35554" pos="78037;-152966;-902;17736" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt03_npc2416_10" minZ="976" maxZ="1176">
+		<node x="78637" y="-153358" />
+		<node x="78845" y="-153346" />
+		<node x="78841" y="-153026" />
+		<node x="78641" y="-153026" />
+	</territory>
+	<npcmaker name="schutt03_npc2416_1001" territory="schutt03_npc2416_10" spawn="ALL" maximumNpcs="2">
+		<npc id="35551" pos="78697;-153058;1048;17736" total="1" respawnDelay="1m"/>
+		<npc id="35551" pos="78749;-153222;1064;49736" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt03_npc2416_11" minZ="1000" maxZ="1200">
+		<node x="76257" y="-153242" />
+		<node x="76457" y="-153242" />
+		<node x="76457" y="-153042" />
+		<node x="76257" y="-153042" />
+	</territory>
+	<npcmaker name="schutt03_npc2416_1101" territory="schutt03_npc2416_11" spawn="ALL" maximumNpcs="2">
+		<npc id="35552" pos="76397;-153058;1048;17736" total="1" respawnDelay="1m"/>
+		<npc id="35552" pos="76365;-153234;1064;49736" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt03_npc2416_12" minZ="-692" maxZ="-492">
+		<node x="79065" y="-152250" />
+		<node x="79421" y="-152250" />
+		<node x="79413" y="-152050" />
+		<node x="79065" y="-152050" />
+	</territory>
+	<npcmaker name="schutt03_npc2416_1201" territory="schutt03_npc2416_12" spawn="ALL" maximumNpcs="2">
+		<npc id="35550" pos="79357;-152142;-646;1736" total="1" respawnDelay="1m"/>
+		<npc id="35550" pos="79109;-152134;-646;34736" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt03_npc2416_13" minZ="-696" maxZ="-496">
+		<node x="75629" y="-152250" />
+		<node x="76105" y="-152250" />
+		<node x="76105" y="-152050" />
+		<node x="75653" y="-152050" />
+	</territory>
+	<npcmaker name="schutt03_npc2416_1301" territory="schutt03_npc2416_13" spawn="ALL" maximumNpcs="2">
+		<npc id="35549" pos="75725;-152150;-646;33736" total="1" respawnDelay="1m"/>
+		<npc id="35549" pos="75989;-152150;-646;1736" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_0201" minZ="341" maxZ="541">
+		<node x="77169" y="-149390" />
+		<node x="77354" y="-149390" />
+		<node x="77323" y="-149182" />
+		<node x="77201" y="-149181" />
+	</territory>
+	<npcmaker name="schutt_castle2416_0201m1" territory="schutt_castle2416_0201" spawn="ALL" maximumNpcs="8" event="siege_warfare_start(9)">
+		<npc id="35532" pos="77219;-149202;379;18152" total="1" respawnDelay="3h" dbName="schutt_siege_001" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77303;-149202;379;18152" total="1" respawnDelay="3h" dbName="schutt_siege_002" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77190;-149317;379;33032" total="1" respawnDelay="3h" dbName="schutt_siege_003" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77202;-149234;379;33032" total="1" respawnDelay="3h" dbName="schutt_siege_004" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="77196;-149275;379;33032" total="1" respawnDelay="3h" dbName="schutt_siege_005" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="77326;-149279;379;3160" total="1" respawnDelay="3h" dbName="schutt_siege_006" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77332;-149321;379;3160" total="1" respawnDelay="3h" dbName="schutt_siege_007" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77321;-149238;379;3160" total="1" respawnDelay="3h" dbName="schutt_siege_008" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	<npcmaker name="schutt_castle2416_0201m2" territory="schutt_castle2416_0201" spawn="ALL" maximumNpcs="8" event="pc_siege_warfare_start(9)">
+		<npc id="35532" pos="77219;-149202;379;18152" total="1" respawnDelay="3h" dbName="schutt_siege_535" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77303;-149202;379;18152" total="1" respawnDelay="3h" dbName="schutt_siege_536" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77190;-149317;379;33032" total="1" respawnDelay="3h" dbName="schutt_siege_537" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77202;-149234;379;33032" total="1" respawnDelay="3h" dbName="schutt_siege_538" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="77196;-149275;379;33032" total="1" respawnDelay="3h" dbName="schutt_siege_539" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="77326;-149279;379;3160" total="1" respawnDelay="3h" dbName="schutt_siege_540" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77332;-149321;379;3160" total="1" respawnDelay="3h" dbName="schutt_siege_541" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77321;-149238;379;3160" total="1" respawnDelay="3h" dbName="schutt_siege_542" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_0202" minZ="334" maxZ="534">
+		<node x="77747" y="-149390" />
+		<node x="77932" y="-149389" />
+		<node x="77901" y="-149181" />
+		<node x="77779" y="-149183" />
+	</territory>
+	<npcmaker name="schutt_castle2416_0202m1" territory="schutt_castle2416_0202" spawn="ALL" maximumNpcs="8" event="siege_warfare_start(9)">
+		<npc id="35543" pos="77799;-149202;379;18152" total="1" respawnDelay="3h" dbName="schutt_siege_009" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="77882;-149202;379;18152" total="1" respawnDelay="3h" dbName="schutt_siege_010" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77769;-149312;379;33032" total="1" respawnDelay="3h" dbName="schutt_siege_011" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77781;-149230;379;33032" total="1" respawnDelay="3h" dbName="schutt_siege_012" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="77775;-149271;379;33032" total="1" respawnDelay="3h" dbName="schutt_siege_013" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="77905;-149275;379;3160" total="1" respawnDelay="3h" dbName="schutt_siege_014" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77911;-149316;379;3160" total="1" respawnDelay="3h" dbName="schutt_siege_015" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77900;-149233;379;3160" total="1" respawnDelay="3h" dbName="schutt_siege_016" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	<npcmaker name="schutt_castle2416_0202m2" territory="schutt_castle2416_0202" spawn="ALL" maximumNpcs="8" event="pc_siege_warfare_start(9)">
+		<npc id="35543" pos="77799;-149202;379;18152" total="1" respawnDelay="3h" dbName="schutt_siege_543" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="77882;-149202;379;18152" total="1" respawnDelay="3h" dbName="schutt_siege_544" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77769;-149312;379;33032" total="1" respawnDelay="3h" dbName="schutt_siege_545" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77781;-149230;379;33032" total="1" respawnDelay="3h" dbName="schutt_siege_546" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="77775;-149271;379;33032" total="1" respawnDelay="3h" dbName="schutt_siege_547" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="77905;-149275;379;3160" total="1" respawnDelay="3h" dbName="schutt_siege_548" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77911;-149316;379;3160" total="1" respawnDelay="3h" dbName="schutt_siege_549" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77900;-149233;379;3160" total="1" respawnDelay="3h" dbName="schutt_siege_550" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_0301" minZ="-390" maxZ="-190">
+		<node x="77378" y="-149561" />
+		<node x="77720" y="-149561" />
+		<node x="77720" y="-149401" />
+		<node x="77380" y="-149401" />
+	</territory>
+	<npcmaker name="schutt_castle2416_0301" territory="schutt_castle2416_0301" spawn="ALL" maximumNpcs="27" event="siege_warfare_start(9)">
+		<npc id="35543" pos="77400;-149550;-346;18032" total="1" respawnDelay="3h" dbName="schutt_siege_583" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77438;-149550;-346;18032" total="1" respawnDelay="3h" dbName="schutt_siege_017" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77476;-149550;-346;18032" total="1" respawnDelay="3h" dbName="schutt_siege_018" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77512;-149550;-346;18032" total="1" respawnDelay="3h" dbName="schutt_siege_019" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77548;-149550;-346;18032" total="1" respawnDelay="3h" dbName="schutt_siege_020" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77585;-149551;-346;18032" total="1" respawnDelay="3h" dbName="schutt_siege_021" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77622;-149551;-346;18032" total="1" respawnDelay="3h" dbName="schutt_siege_022" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77659;-149551;-346;18032" total="1" respawnDelay="3h" dbName="schutt_siege_023" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77696;-149550;-346;18032" total="1" respawnDelay="3h" dbName="schutt_siege_024" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="77401;-149478;-346;18032" total="1" respawnDelay="3h" dbName="schutt_siege_025" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="77437;-149479;-346;18032" total="1" respawnDelay="3h" dbName="schutt_siege_026" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="77474;-149479;-346;18032" total="1" respawnDelay="3h" dbName="schutt_siege_027" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="77510;-149480;-346;18032" total="1" respawnDelay="3h" dbName="schutt_siege_028" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="77547;-149479;-346;18032" total="1" respawnDelay="3h" dbName="schutt_siege_029" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="77585;-149478;-346;18032" total="1" respawnDelay="3h" dbName="schutt_siege_030" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="77621;-149478;-346;18032" total="1" respawnDelay="3h" dbName="schutt_siege_031" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="77658;-149478;-346;18032" total="1" respawnDelay="3h" dbName="schutt_siege_032" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="77693;-149479;-346;18032" total="1" respawnDelay="3h" dbName="schutt_siege_033" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35531" pos="77546;-149425;-346;18032" total="1" respawnDelay="3h" dbName="schutt_siege_034" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77508;-149426;-346;18032" total="1" respawnDelay="3h" dbName="schutt_siege_035" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77472;-149427;-346;18032" total="1" respawnDelay="3h" dbName="schutt_siege_036" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77401;-149426;-346;18032" total="1" respawnDelay="3h" dbName="schutt_siege_037" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77435;-149426;-346;18032" total="1" respawnDelay="3h" dbName="schutt_siege_038" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77691;-149427;-346;18032" total="1" respawnDelay="3h" dbName="schutt_siege_039" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77655;-149428;-346;18032" total="1" respawnDelay="3h" dbName="schutt_siege_040" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77584;-149427;-346;18032" total="1" respawnDelay="3h" dbName="schutt_siege_041" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77618;-149427;-346;18032" total="1" respawnDelay="3h" dbName="schutt_siege_042" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_0303" minZ="-393" maxZ="-193">
+		<node x="77370" y="-149780" />
+		<node x="77750" y="-149779" />
+		<node x="77751" y="-149651" />
+		<node x="77370" y="-149651" />
+	</territory>
+	<npcmaker name="schutt_castle2416_0303" territory="schutt_castle2416_0303" spawn="ALL" maximumNpcs="18" event="siege_warfare_start(9)">
+		<npc id="35542" pos="77550;-149673;-346;18088" total="1" respawnDelay="3h" dbName="schutt_siege_043" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77511;-149673;-346;18088" total="1" respawnDelay="3h" dbName="schutt_siege_044" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77475;-149673;-346;18088" total="1" respawnDelay="3h" dbName="schutt_siege_045" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77441;-149674;-346;18088" total="1" respawnDelay="3h" dbName="schutt_siege_046" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77405;-149674;-346;18088" total="1" respawnDelay="3h" dbName="schutt_siege_047" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77694;-149673;-346;18088" total="1" respawnDelay="3h" dbName="schutt_siege_048" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77658;-149673;-346;18088" total="1" respawnDelay="3h" dbName="schutt_siege_049" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77624;-149673;-346;18088" total="1" respawnDelay="3h" dbName="schutt_siege_050" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77588;-149674;-346;18088" total="1" respawnDelay="3h" dbName="schutt_siege_051" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="77549;-149728;-346;18088" total="1" respawnDelay="3h" dbName="schutt_siege_052" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="77514;-149728;-346;18088" total="1" respawnDelay="3h" dbName="schutt_siege_053" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="77479;-149728;-346;18088" total="1" respawnDelay="3h" dbName="schutt_siege_054" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="77444;-149728;-346;18088" total="1" respawnDelay="3h" dbName="schutt_siege_055" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="77405;-149729;-346;18088" total="1" respawnDelay="3h" dbName="schutt_siege_056" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="77695;-149729;-346;18088" total="1" respawnDelay="3h" dbName="schutt_siege_057" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="77660;-149729;-346;18088" total="1" respawnDelay="3h" dbName="schutt_siege_058" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="77624;-149730;-346;18088" total="1" respawnDelay="3h" dbName="schutt_siege_059" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="77586;-149729;-346;18088" total="1" respawnDelay="3h" dbName="schutt_siege_060" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_0401" minZ="-395" maxZ="-195">
+		<node x="77132" y="-149981" />
+		<node x="77267" y="-149981" />
+		<node x="77267" y="-149714" />
+		<node x="77143" y="-149714" />
+		<node x="77092" y="-149862" />
+	</territory>
+	<npcmaker name="schutt_castle2416_0401" territory="schutt_castle2416_0401" spawn="ALL" maximumNpcs="19" event="siege_warfare_start(9)">
+		<npc id="35542" pos="77252;-149731;-346;1672" total="1" respawnDelay="3h" dbName="schutt_siege_061" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77244;-149761;-346;1672" total="1" respawnDelay="3h" dbName="schutt_siege_062" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77252;-149789;-346;1672" total="1" respawnDelay="3h" dbName="schutt_siege_063" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77243;-149819;-346;1688" total="1" respawnDelay="3h" dbName="schutt_siege_064" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35531" pos="77252;-149849;-346;1672" total="1" respawnDelay="3h" dbName="schutt_siege_065" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77242;-149879;-346;1704" total="1" respawnDelay="3h" dbName="schutt_siege_066" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77253;-149906;-346;1672" total="1" respawnDelay="3h" dbName="schutt_siege_067" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77242;-149935;-346;1672" total="1" respawnDelay="3h" dbName="schutt_siege_068" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77253;-149964;-346;1672" total="1" respawnDelay="3h" dbName="schutt_siege_069" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77196;-149733;-346;1672" total="1" respawnDelay="3h" dbName="schutt_siege_070" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77188;-149762;-346;1672" total="1" respawnDelay="3h" dbName="schutt_siege_071" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77196;-149791;-346;1672" total="1" respawnDelay="3h" dbName="schutt_siege_072" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77187;-149820;-346;1688" total="1" respawnDelay="3h" dbName="schutt_siege_073" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77195;-149850;-346;1672" total="1" respawnDelay="3h" dbName="schutt_siege_074" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77186;-149880;-346;1704" total="1" respawnDelay="3h" dbName="schutt_siege_075" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77197;-149907;-346;1672" total="1" respawnDelay="3h" dbName="schutt_siege_076" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77185;-149937;-346;1672" total="1" respawnDelay="3h" dbName="schutt_siege_077" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77196;-149965;-346;1672" total="1" respawnDelay="3h" dbName="schutt_siege_078" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35533" pos="77136;-149847;-346;1672" total="1" respawnDelay="3h" dbName="schutt_siege_079" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_0402" minZ="-383" maxZ="-183">
+		<node x="77799" y="-149980" />
+		<node x="78043" y="-149982" />
+		<node x="77965" y="-149714" />
+		<node x="77799" y="-149713" />
+	</territory>
+	<npcmaker name="schutt_castle2416_0402" territory="schutt_castle2416_0402" spawn="ALL" maximumNpcs="19" event="siege_warfare_start(9)">
+		<npc id="35542" pos="77856;-149732;-346;34504" total="1" respawnDelay="3h" dbName="schutt_siege_080" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77864;-149760;-346;34504" total="1" respawnDelay="3h" dbName="schutt_siege_081" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77856;-149789;-346;34504" total="1" respawnDelay="3h" dbName="schutt_siege_082" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77864;-149818;-346;34504" total="1" respawnDelay="3h" dbName="schutt_siege_083" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77857;-149848;-346;34504" total="1" respawnDelay="3h" dbName="schutt_siege_084" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77865;-149877;-346;34504" total="1" respawnDelay="3h" dbName="schutt_siege_085" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77857;-149906;-346;34504" total="1" respawnDelay="3h" dbName="schutt_siege_086" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77863;-149935;-346;34504" total="1" respawnDelay="3h" dbName="schutt_siege_087" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77857;-149965;-346;34504" total="1" respawnDelay="3h" dbName="schutt_siege_088" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77908;-149732;-346;34504" total="1" respawnDelay="3h" dbName="schutt_siege_089" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77916;-149760;-346;34504" total="1" respawnDelay="3h" dbName="schutt_siege_090" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77908;-149789;-346;34504" total="1" respawnDelay="3h" dbName="schutt_siege_091" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77916;-149818;-346;34504" total="1" respawnDelay="3h" dbName="schutt_siege_092" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77909;-149848;-346;34504" total="1" respawnDelay="3h" dbName="schutt_siege_093" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77917;-149877;-346;34504" total="1" respawnDelay="3h" dbName="schutt_siege_094" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77909;-149906;-346;34504" total="1" respawnDelay="3h" dbName="schutt_siege_095" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77915;-149935;-346;34504" total="1" respawnDelay="3h" dbName="schutt_siege_096" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77909;-149964;-346;34504" total="1" respawnDelay="3h" dbName="schutt_siege_097" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35533" pos="77983;-149847;-346;34504" total="1" respawnDelay="3h" dbName="schutt_siege_098" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_0501" minZ="-43" maxZ="157">
+		<node x="76510" y="-149870" />
+		<node x="77048" y="-149721" />
+		<node x="77038" y="-149636" />
+		<node x="76516" y="-149771" />
+	</territory>
+	<npcmaker name="schutt_castle2416_0501" territory="schutt_castle2416_0501" spawn="ALL" maximumNpcs="15" event="siege_warfare_start(9)">
+		<npc id="35543" pos="76782;-149713;-8;20672" total="1" respawnDelay="3h" dbName="schutt_siege_099" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76816;-149704;-8;20672" total="1" respawnDelay="3h" dbName="schutt_siege_100" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="76851;-149695;-8;20672" total="1" respawnDelay="3h" dbName="schutt_siege_101" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76924;-149676;-8;20672" total="1" respawnDelay="3h" dbName="schutt_siege_102" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76854;-149760;-8;53776" total="1" respawnDelay="3h" dbName="schutt_siege_103" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="76886;-149686;-8;20672" total="1" respawnDelay="3h" dbName="schutt_siege_104" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76960;-149666;-8;20672" total="1" respawnDelay="3h" dbName="schutt_siege_105" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76997;-149657;-8;20672" total="1" respawnDelay="3h" dbName="schutt_siege_106" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76818;-149773;-8;53776" total="1" respawnDelay="3h" dbName="schutt_siege_107" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76782;-149785;-8;53776" total="1" respawnDelay="3h" dbName="schutt_siege_108" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76743;-149796;-8;53776" total="1" respawnDelay="3h" dbName="schutt_siege_109" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35533" pos="76705;-149806;-8;53776" total="1" respawnDelay="3h" dbName="schutt_siege_110" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76666;-149818;-8;53776" total="1" respawnDelay="3h" dbName="schutt_siege_111" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76628;-149828;-8;53776" total="1" respawnDelay="3h" dbName="schutt_siege_112" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76591;-149839;-8;53776" total="1" respawnDelay="3h" dbName="schutt_siege_113" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_0502" minZ="-43" maxZ="157">
+		<node x="78051" y="-149719" />
+		<node x="78592" y="-149870" />
+		<node x="78612" y="-149780" />
+		<node x="78051" y="-149635" />
+	</territory>
+	<npcmaker name="schutt_castle2416_0502" territory="schutt_castle2416_0502" spawn="ALL" maximumNpcs="15" event="siege_warfare_start(9)">
+		<npc id="35543" pos="78089;-149657;-8;15448" total="1" respawnDelay="3h" dbName="schutt_siege_114" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78124;-149666;-8;15448" total="1" respawnDelay="3h" dbName="schutt_siege_115" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78159;-149674;-8;15448" total="1" respawnDelay="3h" dbName="schutt_siege_116" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="78194;-149683;-8;15448" total="1" respawnDelay="3h" dbName="schutt_siege_117" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78266;-149702;-8;15448" total="1" respawnDelay="3h" dbName="schutt_siege_118" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="78228;-149692;-8;15448" total="1" respawnDelay="3h" dbName="schutt_siege_119" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78304;-149710;-8;15448" total="1" respawnDelay="3h" dbName="schutt_siege_120" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78518;-149838;-8;48112" total="1" respawnDelay="3h" dbName="schutt_siege_121" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78480;-149830;-8;48112" total="1" respawnDelay="3h" dbName="schutt_siege_122" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78441;-149819;-8;48112" total="1" respawnDelay="3h" dbName="schutt_siege_123" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35533" pos="78403;-149809;-8;48112" total="1" respawnDelay="3h" dbName="schutt_siege_124" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78364;-149798;-8;48112" total="1" respawnDelay="3h" dbName="schutt_siege_125" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78326;-149787;-8;48112" total="1" respawnDelay="3h" dbName="schutt_siege_126" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78289;-149777;-8;48112" total="1" respawnDelay="3h" dbName="schutt_siege_127" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78250;-149766;-8;48112" total="1" respawnDelay="3h" dbName="schutt_siege_128" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_0601" minZ="-69" maxZ="131">
+		<node x="76409" y="-149810" />
+		<node x="76564" y="-149751" />
+		<node x="76474" y="-149578" />
+		<node x="76366" y="-149619" />
+	</territory>
+	<npcmaker name="schutt_castle2416_0601m1" territory="schutt_castle2416_0601" spawn="ALL" maximumNpcs="8" event="siege_warfare_start(9)">
+		<npc id="35543" pos="76390;-149625;-8;21696" total="1" respawnDelay="3h" dbName="schutt_siege_129" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="76458;-149598;-8;21696" total="1" respawnDelay="3h" dbName="schutt_siege_130" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76485;-149622;-8;6480" total="1" respawnDelay="3h" dbName="schutt_siege_131" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="76504;-149654;-8;6480" total="1" respawnDelay="3h" dbName="schutt_siege_132" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76520;-149687;-8;6088" total="1" respawnDelay="3h" dbName="schutt_siege_133" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76402;-149732;-8;36624" total="1" respawnDelay="3h" dbName="schutt_siege_134" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="76395;-149696;-8;36232" total="1" respawnDelay="3h" dbName="schutt_siege_135" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76387;-149659;-8;36232" total="1" respawnDelay="3h" dbName="schutt_siege_136" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	<npcmaker name="schutt_castle2416_0601m2" territory="schutt_castle2416_0601" spawn="ALL" maximumNpcs="8" event="pc_siege_warfare_start(9)">
+		<npc id="35543" pos="76390;-149625;-8;21696" total="1" respawnDelay="3h" dbName="schutt_siege_551" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="76458;-149598;-8;21696" total="1" respawnDelay="3h" dbName="schutt_siege_552" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76485;-149622;-8;6480" total="1" respawnDelay="3h" dbName="schutt_siege_553" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="76504;-149654;-8;6480" total="1" respawnDelay="3h" dbName="schutt_siege_554" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76520;-149687;-8;6088" total="1" respawnDelay="3h" dbName="schutt_siege_555" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76402;-149732;-8;36624" total="1" respawnDelay="3h" dbName="schutt_siege_556" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="76395;-149696;-8;36232" total="1" respawnDelay="3h" dbName="schutt_siege_557" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76387;-149659;-8;36232" total="1" respawnDelay="3h" dbName="schutt_siege_558" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_0602" minZ="-54" maxZ="146">
+		<node x="78538" y="-149748" />
+		<node x="78690" y="-149807" />
+		<node x="78732" y="-149621" />
+		<node x="78625" y="-149582" />
+	</territory>
+	<npcmaker name="schutt_castle2416_0602m1" territory="schutt_castle2416_0602" spawn="ALL" maximumNpcs="8" event="siege_warfare_start(9)">
+		<npc id="35532" pos="78637;-149600;-8;14568" total="1" respawnDelay="3h" dbName="schutt_siege_137" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78706;-149623;-8;14568" total="1" respawnDelay="3h" dbName="schutt_siege_138" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78713;-149658;-8;64888" total="1" respawnDelay="3h" dbName="schutt_siege_139" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="78707;-149696;-8;64888" total="1" respawnDelay="3h" dbName="schutt_siege_140" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78698;-149731;-8;64496" total="1" respawnDelay="3h" dbName="schutt_siege_141" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78578;-149692;-8;29496" total="1" respawnDelay="3h" dbName="schutt_siege_142" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="78596;-149659;-8;29104" total="1" respawnDelay="3h" dbName="schutt_siege_143" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78613;-149625;-8;29104" total="1" respawnDelay="3h" dbName="schutt_siege_144" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	<npcmaker name="schutt_castle2416_0602m2" territory="schutt_castle2416_0602" spawn="ALL" maximumNpcs="8" event="pc_siege_warfare_start(9)">
+		<npc id="35532" pos="78637;-149600;-8;14568" total="1" respawnDelay="3h" dbName="schutt_siege_559" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78706;-149623;-8;14568" total="1" respawnDelay="3h" dbName="schutt_siege_560" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78713;-149658;-8;64888" total="1" respawnDelay="3h" dbName="schutt_siege_561" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="78707;-149696;-8;64888" total="1" respawnDelay="3h" dbName="schutt_siege_562" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78698;-149731;-8;64496" total="1" respawnDelay="3h" dbName="schutt_siege_563" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78578;-149692;-8;29496" total="1" respawnDelay="3h" dbName="schutt_siege_564" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="78596;-149659;-8;29104" total="1" respawnDelay="3h" dbName="schutt_siege_565" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78613;-149625;-8;29104" total="1" respawnDelay="3h" dbName="schutt_siege_566" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_0701" minZ="-49" maxZ="151">
+		<node x="75785" y="-150167" />
+		<node x="75920" y="-150070" />
+		<node x="75383" y="-149354" />
+		<node x="75292" y="-149422" />
+	</territory>
+	<npcmaker name="schutt_castle2416_0701" territory="schutt_castle2416_0701" spawn="ALL" maximumNpcs="16" event="siege_warfare_start(9)">
+		<npc id="35543" pos="75472;-149499;-8;7864" total="1" respawnDelay="3h" dbName="schutt_siege_145" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="75602;-149667;-8;7864" total="1" respawnDelay="3h" dbName="schutt_siege_146" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="75639;-149719;-8;7408" total="1" respawnDelay="3h" dbName="schutt_siege_147" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="75517;-149557;-8;7864" total="1" respawnDelay="3h" dbName="schutt_siege_148" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="75558;-149614;-8;7864" total="1" respawnDelay="3h" dbName="schutt_siege_149" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="75676;-149772;-8;7864" total="1" respawnDelay="3h" dbName="schutt_siege_150" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="75717;-149829;-8;7864" total="1" respawnDelay="3h" dbName="schutt_siege_151" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="75757;-149882;-8;7864" total="1" respawnDelay="3h" dbName="schutt_siege_152" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="75549;-149784;-8;41000" total="1" respawnDelay="3h" dbName="schutt_siege_153" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="75584;-149837;-8;41000" total="1" respawnDelay="3h" dbName="schutt_siege_154" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="75620;-149890;-8;41000" total="1" respawnDelay="3h" dbName="schutt_siege_155" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="75651;-149937;-8;41000" total="1" respawnDelay="3h" dbName="schutt_siege_156" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="75515;-149734;-8;41000" total="1" respawnDelay="3h" dbName="schutt_siege_157" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="75479;-149681;-8;41000" total="1" respawnDelay="3h" dbName="schutt_siege_158" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="75441;-149624;-8;41000" total="1" respawnDelay="3h" dbName="schutt_siege_159" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="75407;-149570;-8;41000" total="1" respawnDelay="3h" dbName="schutt_siege_160" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_0702" minZ="-52" maxZ="148">
+		<node x="79186" y="-150072" />
+		<node x="79313" y="-150164" />
+		<node x="79806" y="-149422" />
+		<node x="79716" y="-149354" />
+	</territory>
+	<npcmaker name="schutt_castle2416_0702" territory="schutt_castle2416_0702" spawn="ALL" maximumNpcs="16" event="siege_warfare_start(9)">
+		<npc id="35543" pos="79692;-149570;-8;60632" total="1" respawnDelay="3h" dbName="schutt_siege_161" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="79578;-149749;-8;60632" total="1" respawnDelay="3h" dbName="schutt_siege_162" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="79541;-149801;-8;60176" total="1" respawnDelay="3h" dbName="schutt_siege_163" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="79652;-149631;-8;60632" total="1" respawnDelay="3h" dbName="schutt_siege_164" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="79613;-149689;-8;60632" total="1" respawnDelay="3h" dbName="schutt_siege_165" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="79504;-149854;-8;60632" total="1" respawnDelay="3h" dbName="schutt_siege_166" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="79464;-149912;-8;60632" total="1" respawnDelay="3h" dbName="schutt_siege_167" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="79428;-149968;-8;60632" total="1" respawnDelay="3h" dbName="schutt_siege_168" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="79450;-149739;-8;28232" total="1" respawnDelay="3h" dbName="schutt_siege_169" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="79411;-149790;-8;28232" total="1" respawnDelay="3h" dbName="schutt_siege_170" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="79374;-149841;-8;28232" total="1" respawnDelay="3h" dbName="schutt_siege_171" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="79341;-149887;-8;28232" total="1" respawnDelay="3h" dbName="schutt_siege_172" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="79485;-149690;-8;28232" total="1" respawnDelay="3h" dbName="schutt_siege_173" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="79522;-149638;-8;28232" total="1" respawnDelay="3h" dbName="schutt_siege_174" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="79563;-149582;-8;28232" total="1" respawnDelay="3h" dbName="schutt_siege_175" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="79602;-149533;-8;28232" total="1" respawnDelay="3h" dbName="schutt_siege_176" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_0801" minZ="-51" maxZ="149">
+		<node x="74706" y="-151155" />
+		<node x="74869" y="-151267" />
+		<node x="74946" y="-151116" />
+		<node x="74760" y="-151052" />
+	</territory>
+	<npcmaker name="schutt_castle2416_0801m1" territory="schutt_castle2416_0801" spawn="ALL" maximumNpcs="8" event="siege_warfare_start(9)">
+		<npc id="35543" pos="74730;-151144;-8;29648" total="1" respawnDelay="3h" dbName="schutt_siege_177" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="74761;-151078;-8;29648" total="1" respawnDelay="3h" dbName="schutt_siege_178" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="74796;-151076;-8;14432" total="1" respawnDelay="3h" dbName="schutt_siege_179" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="74833;-151087;-8;14432" total="1" respawnDelay="3h" dbName="schutt_siege_180" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="74867;-151100;-8;14040" total="1" respawnDelay="3h" dbName="schutt_siege_181" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="74813;-151214;-8;44576" total="1" respawnDelay="3h" dbName="schutt_siege_182" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="74783;-151193;-8;44184" total="1" respawnDelay="3h" dbName="schutt_siege_183" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="74751;-151171;-8;44184" total="1" respawnDelay="3h" dbName="schutt_siege_184" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	<npcmaker name="schutt_castle2416_0801m2" territory="schutt_castle2416_0801" spawn="ALL" maximumNpcs="8" event="pc_siege_warfare_start(9)">
+		<npc id="35543" pos="74730;-151144;-8;29648" total="1" respawnDelay="3h" dbName="schutt_siege_567" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="74761;-151078;-8;29648" total="1" respawnDelay="3h" dbName="schutt_siege_568" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="74796;-151076;-8;14432" total="1" respawnDelay="3h" dbName="schutt_siege_569" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="74833;-151087;-8;14432" total="1" respawnDelay="3h" dbName="schutt_siege_570" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="74867;-151100;-8;14040" total="1" respawnDelay="3h" dbName="schutt_siege_571" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="74813;-151214;-8;44576" total="1" respawnDelay="3h" dbName="schutt_siege_572" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="74783;-151193;-8;44184" total="1" respawnDelay="3h" dbName="schutt_siege_573" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="74751;-151171;-8;44184" total="1" respawnDelay="3h" dbName="schutt_siege_574" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_0802" minZ="-41" maxZ="159">
+		<node x="80235" y="-151263" />
+		<node x="80395" y="-151158" />
+		<node x="80339" y="-151054" />
+		<node x="80160" y="-151110" />
+	</territory>
+	<npcmaker name="schutt_castle2416_0802m1" territory="schutt_castle2416_0802" spawn="ALL" maximumNpcs="8" event="siege_warfare_start(9)">
+		<npc id="35532" pos="80339;-151077;-8;6472" total="1" respawnDelay="3h" dbName="schutt_siege_185" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="80373;-151141;-8;6472" total="1" respawnDelay="3h" dbName="schutt_siege_186" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="80353;-151171;-8;56792" total="1" respawnDelay="3h" dbName="schutt_siege_187" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="80323;-151193;-8;56792" total="1" respawnDelay="3h" dbName="schutt_siege_188" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="80291;-151213;-8;56400" total="1" respawnDelay="3h" dbName="schutt_siege_189" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="80233;-151101;-8;21400" total="1" respawnDelay="3h" dbName="schutt_siege_190" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="80269;-151090;-8;21008" total="1" respawnDelay="3h" dbName="schutt_siege_191" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="80305;-151077;-8;21008" total="1" respawnDelay="3h" dbName="schutt_siege_192" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	<npcmaker name="schutt_castle2416_0802m2" territory="schutt_castle2416_0802" spawn="ALL" maximumNpcs="8" event="pc_siege_warfare_start(9)">
+		<npc id="35532" pos="80339;-151077;-8;6472" total="1" respawnDelay="3h" dbName="schutt_siege_575" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="80373;-151141;-8;6472" total="1" respawnDelay="3h" dbName="schutt_siege_576" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="80353;-151171;-8;56792" total="1" respawnDelay="3h" dbName="schutt_siege_577" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="80323;-151193;-8;56792" total="1" respawnDelay="3h" dbName="schutt_siege_578" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="80291;-151213;-8;56400" total="1" respawnDelay="3h" dbName="schutt_siege_579" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="80233;-151101;-8;21400" total="1" respawnDelay="3h" dbName="schutt_siege_580" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="80269;-151090;-8;21008" total="1" respawnDelay="3h" dbName="schutt_siege_581" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="80305;-151077;-8;21008" total="1" respawnDelay="3h" dbName="schutt_siege_582" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_0901" minZ="-60" maxZ="140">
+		<node x="74451" y="-151876" />
+		<node x="74619" y="-151954" />
+		<node x="74668" y="-151788" />
+		<node x="74482" y="-151765" />
+	</territory>
+	<npcmaker name="schutt_castle2416_0901" territory="schutt_castle2416_0901" spawn="ALL" maximumNpcs="8" event="siege_warfare_start(9)">
+		<npc id="35543" pos="74468;-151859;-8;31288" total="1" respawnDelay="3h" dbName="schutt_siege_193" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="74488;-151789;-8;31288" total="1" respawnDelay="3h" dbName="schutt_siege_194" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="74524;-151782;-8;16072" total="1" respawnDelay="3h" dbName="schutt_siege_195" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="74561;-151786;-8;16072" total="1" respawnDelay="3h" dbName="schutt_siege_196" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="74597;-151794;-8;15680" total="1" respawnDelay="3h" dbName="schutt_siege_197" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="74561;-151915;-8;46216" total="1" respawnDelay="3h" dbName="schutt_siege_198" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="74528;-151899;-8;45824" total="1" respawnDelay="3h" dbName="schutt_siege_199" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="74494;-151882;-8;45824" total="1" respawnDelay="3h" dbName="schutt_siege_200" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_0902" minZ="-44" maxZ="156">
+		<node x="80475" y="-151954" />
+		<node x="80650" y="-151875" />
+		<node x="80616" y="-151766" />
+		<node x="80430" y="-151791" />
+	</territory>
+	<npcmaker name="schutt_castle2416_0902" territory="schutt_castle2416_0902" spawn="ALL" maximumNpcs="8" event="siege_warfare_start(9)">
+		<npc id="35532" pos="80610;-151787;-8;4696" total="1" respawnDelay="3h" dbName="schutt_siege_201" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="80632;-151857;-8;4696" total="1" respawnDelay="3h" dbName="schutt_siege_202" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="80607;-151883;-8;55016" total="1" respawnDelay="3h" dbName="schutt_siege_203" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="80573;-151900;-8;55016" total="1" respawnDelay="3h" dbName="schutt_siege_204" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="80539;-151914;-8;54624" total="1" respawnDelay="3h" dbName="schutt_siege_205" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="80501;-151793;-8;19624" total="1" respawnDelay="3h" dbName="schutt_siege_206" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="80538;-151788;-8;19232" total="1" respawnDelay="3h" dbName="schutt_siege_207" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="80576;-151782;-8;19232" total="1" respawnDelay="3h" dbName="schutt_siege_208" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_1001" minZ="-687" maxZ="-487">
+		<node x="75679" y="-152417" />
+		<node x="75856" y="-152416" />
+		<node x="75853" y="-152172" />
+		<node x="75677" y="-152172" />
+	</territory>
+	<npcmaker name="schutt_castle2416_1001" territory="schutt_castle2416_1001" spawn="ALL" maximumNpcs="18" event="siege_warfare_start(9)">
+		<npc id="35542" pos="75700;-152392;-645;34480" total="1" respawnDelay="3h" dbName="schutt_siege_209" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="75701;-152354;-645;34480" total="1" respawnDelay="3h" dbName="schutt_siege_210" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="75701;-152317;-645;34480" total="1" respawnDelay="3h" dbName="schutt_siege_211" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="75700;-152280;-645;34480" total="1" respawnDelay="3h" dbName="schutt_siege_212" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="75700;-152242;-645;34480" total="1" respawnDelay="3h" dbName="schutt_siege_213" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="75700;-152203;-645;34480" total="1" respawnDelay="3h" dbName="schutt_siege_214" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="75747;-152392;-645;34480" total="1" respawnDelay="3h" dbName="schutt_siege_215" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="75747;-152353;-645;34480" total="1" respawnDelay="3h" dbName="schutt_siege_216" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="75747;-152316;-645;34480" total="1" respawnDelay="3h" dbName="schutt_siege_217" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="75746;-152279;-645;34480" total="1" respawnDelay="3h" dbName="schutt_siege_218" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="75746;-152241;-645;34480" total="1" respawnDelay="3h" dbName="schutt_siege_219" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="75746;-152203;-645;34480" total="1" respawnDelay="3h" dbName="schutt_siege_220" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="75806;-152392;-645;34480" total="1" respawnDelay="3h" dbName="schutt_siege_221" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="75806;-152353;-645;34480" total="1" respawnDelay="3h" dbName="schutt_siege_222" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="75806;-152316;-645;34480" total="1" respawnDelay="3h" dbName="schutt_siege_223" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="75805;-152279;-645;34480" total="1" respawnDelay="3h" dbName="schutt_siege_224" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="75805;-152241;-645;34480" total="1" respawnDelay="3h" dbName="schutt_siege_225" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="75805;-152202;-645;34480" total="1" respawnDelay="3h" dbName="schutt_siege_226" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_1002" minZ="-683" maxZ="-483">
+		<node x="79246" y="-152418" />
+		<node x="79421" y="-152420" />
+		<node x="79421" y="-152172" />
+		<node x="79246" y="-152172" />
+	</territory>
+	<npcmaker name="schutt_castle2416_1002" territory="schutt_castle2416_1002" spawn="ALL" maximumNpcs="18" event="siege_warfare_start(9)">
+		<npc id="35542" pos="79403;-152197;-645;1736" total="1" respawnDelay="3h" dbName="schutt_siege_227" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="79404;-152235;-645;1736" total="1" respawnDelay="3h" dbName="schutt_siege_228" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="79405;-152276;-645;1736" total="1" respawnDelay="3h" dbName="schutt_siege_229" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="79405;-152316;-645;1736" total="1" respawnDelay="3h" dbName="schutt_siege_230" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="79404;-152354;-645;1736" total="1" respawnDelay="3h" dbName="schutt_siege_231" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="79404;-152395;-645;1736" total="1" respawnDelay="3h" dbName="schutt_siege_232" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="79359;-152198;-645;1736" total="1" respawnDelay="3h" dbName="schutt_siege_233" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="79359;-152236;-645;1736" total="1" respawnDelay="3h" dbName="schutt_siege_234" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="79360;-152277;-645;1736" total="1" respawnDelay="3h" dbName="schutt_siege_235" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="79360;-152317;-645;1736" total="1" respawnDelay="3h" dbName="schutt_siege_236" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="79359;-152355;-645;1736" total="1" respawnDelay="3h" dbName="schutt_siege_237" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="79359;-152396;-645;1736" total="1" respawnDelay="3h" dbName="schutt_siege_238" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="79263;-152193;-645;1736" total="1" respawnDelay="3h" dbName="schutt_siege_239" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="79263;-152232;-645;1736" total="1" respawnDelay="3h" dbName="schutt_siege_240" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="79264;-152272;-645;1736" total="1" respawnDelay="3h" dbName="schutt_siege_241" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="79265;-152312;-645;1736" total="1" respawnDelay="3h" dbName="schutt_siege_242" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="79264;-152350;-645;1736" total="1" respawnDelay="3h" dbName="schutt_siege_243" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="79263;-152392;-645;1736" total="1" respawnDelay="3h" dbName="schutt_siege_244" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_1101" minZ="88" maxZ="288">
+		<node x="75797" y="-151819" />
+		<node x="75967" y="-151899" />
+		<node x="76024" y="-151779" />
+		<node x="75853" y="-151699" />
+	</territory>
+	<npcmaker name="schutt_castle2416_1101" territory="schutt_castle2416_1101" spawn="ALL" maximumNpcs="17" event="siege_warfare_start(9)">
+		<npc id="35535" pos="75971;-151846;132;29888" total="1" respawnDelay="3h" dbName="schutt_siege_245" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="75985;-151817;132;29888" total="1" respawnDelay="3h" dbName="schutt_siege_246" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="75957;-151876;132;29888" total="1" respawnDelay="3h" dbName="schutt_siege_247" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="75999;-151788;132;29888" total="1" respawnDelay="3h" dbName="schutt_siege_248" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="75951;-151834;132;29888" total="1" respawnDelay="3h" dbName="schutt_siege_249" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="75965;-151805;132;29888" total="1" respawnDelay="3h" dbName="schutt_siege_250" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="75937;-151863;132;29888" total="1" respawnDelay="3h" dbName="schutt_siege_251" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="75979;-151775;132;29888" total="1" respawnDelay="3h" dbName="schutt_siege_252" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="75863;-151797;132;29888" total="1" respawnDelay="3h" dbName="schutt_siege_253" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="75878;-151767;132;29888" total="1" respawnDelay="3h" dbName="schutt_siege_254" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35531" pos="75890;-151790;132;29888" total="1" respawnDelay="3h" dbName="schutt_siege_255" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="75913;-151747;132;29888" total="1" respawnDelay="3h" dbName="schutt_siege_256" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="75872;-151835;132;29888" total="1" respawnDelay="3h" dbName="schutt_siege_257" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="75931;-151825;132;29888" total="1" respawnDelay="3h" dbName="schutt_siege_258" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="75945;-151796;132;29888" total="1" respawnDelay="3h" dbName="schutt_siege_259" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="75916;-151854;132;29888" total="1" respawnDelay="3h" dbName="schutt_siege_260" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="75958;-151766;132;29888" total="1" respawnDelay="3h" dbName="schutt_siege_261" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_1102" minZ="88" maxZ="288">
+		<node x="79129" y="-151900" />
+		<node x="79310" y="-151817" />
+		<node x="79253" y="-151695" />
+		<node x="79072" y="-151780" />
+	</territory>
+	<npcmaker name="schutt_castle2416_1102" territory="schutt_castle2416_1102" spawn="ALL" maximumNpcs="17" event="siege_warfare_start(9)">
+		<npc id="35535" pos="79112;-151817;132;6408" total="1" respawnDelay="3h" dbName="schutt_siege_262" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="79127;-151847;132;6408" total="1" respawnDelay="3h" dbName="schutt_siege_263" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="79099;-151787;132;6408" total="1" respawnDelay="3h" dbName="schutt_siege_264" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="79141;-151875;132;6408" total="1" respawnDelay="3h" dbName="schutt_siege_265" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="79135;-151810;132;6408" total="1" respawnDelay="3h" dbName="schutt_siege_266" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="79149;-151839;132;6408" total="1" respawnDelay="3h" dbName="schutt_siege_267" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="79121;-151780;132;6408" total="1" respawnDelay="3h" dbName="schutt_siege_268" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="79163;-151868;132;6408" total="1" respawnDelay="3h" dbName="schutt_siege_269" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="79219;-151764;132;6408" total="1" respawnDelay="3h" dbName="schutt_siege_270" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="79233;-151795;132;6408" total="1" respawnDelay="3h" dbName="schutt_siege_271" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35531" pos="79208;-151790;132;6408" total="1" respawnDelay="3h" dbName="schutt_siege_272" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="79226;-151834;132;6408" total="1" respawnDelay="3h" dbName="schutt_siege_273" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="79184;-151747;132;6408" total="1" respawnDelay="3h" dbName="schutt_siege_274" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="79155;-151799;132;6408" total="1" respawnDelay="3h" dbName="schutt_siege_275" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="79169;-151828;132;6408" total="1" respawnDelay="3h" dbName="schutt_siege_276" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="79141;-151769;132;6408" total="1" respawnDelay="3h" dbName="schutt_siege_277" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="79183;-151857;132;6408" total="1" respawnDelay="3h" dbName="schutt_siege_278" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_1201" minZ="71" maxZ="221">
+		<node x="75924" y="-152053" />
+		<node x="76028" y="-152098" />
+		<node x="76224" y="-151712" />
+		<node x="76114" y="-151650" />
+	</territory>
+	<npcmaker name="schutt_castle2416_1201" territory="schutt_castle2416_1201" spawn="ALL" maximumNpcs="18" event="siege_warfare_start(9)">
+		<npc id="35543" pos="76080;-151747;128;29864" total="1" respawnDelay="3h" dbName="schutt_siege_279" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76096;-151716;128;29864" total="1" respawnDelay="3h" dbName="schutt_siege_280" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76104;-151761;128;29864" total="1" respawnDelay="3h" dbName="schutt_siege_281" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76121;-151730;128;29864" total="1" respawnDelay="3h" dbName="schutt_siege_282" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76132;-151775;128;29864" total="1" respawnDelay="3h" dbName="schutt_siege_283" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="76149;-151744;128;29864" total="1" respawnDelay="3h" dbName="schutt_siege_284" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="75961;-151995;128;29864" total="1" respawnDelay="3h" dbName="schutt_siege_285" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="75978;-151964;128;29864" total="1" respawnDelay="3h" dbName="schutt_siege_286" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="75981;-152004;128;29864" total="1" respawnDelay="3h" dbName="schutt_siege_287" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="75998;-151972;128;29864" total="1" respawnDelay="3h" dbName="schutt_siege_288" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="76006;-152015;128;29864" total="1" respawnDelay="3h" dbName="schutt_siege_289" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76023;-151984;128;29864" total="1" respawnDelay="3h" dbName="schutt_siege_290" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="76034;-152026;128;29864" total="1" respawnDelay="3h" dbName="schutt_siege_291" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76051;-151995;128;29864" total="1" respawnDelay="3h" dbName="schutt_siege_292" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76162;-151790;128;29864" total="1" respawnDelay="3h" dbName="schutt_siege_293" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="76178;-151759;128;29864" total="1" respawnDelay="3h" dbName="schutt_siege_294" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35533" pos="76167;-151711;128;29864" total="1" respawnDelay="3h" dbName="schutt_siege_295" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35533" pos="75990;-152054;128;29864" total="1" respawnDelay="3h" dbName="schutt_siege_296" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_1202" minZ="78" maxZ="228">
+		<node x="79004" y="-152127" />
+		<node x="79187" y="-152074" />
+		<node x="78995" y="-151664" />
+		<node x="78761" y="-151675" />
+	</territory>
+	<npcmaker name="schutt_castle2416_1202" territory="schutt_castle2416_1202" spawn="ALL" maximumNpcs="22" event="siege_warfare_start(9)">
+		<npc id="35543" pos="79118;-151957;128;6160" total="1" respawnDelay="3h" dbName="schutt_siege_297" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="79132;-151988;128;6160" total="1" respawnDelay="3h" dbName="schutt_siege_298" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="79087;-151969;128;6160" total="1" respawnDelay="3h" dbName="schutt_siege_299" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="79101;-152001;128;6160" total="1" respawnDelay="3h" dbName="schutt_siege_300" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="79062;-151981;128;6160" total="1" respawnDelay="3h" dbName="schutt_siege_301" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="79045;-152031;128;6160" total="1" respawnDelay="3h" dbName="schutt_siege_302" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78998;-152010;128;6160" total="1" respawnDelay="3h" dbName="schutt_siege_303" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="79014;-152042;128;6160" total="1" respawnDelay="3h" dbName="schutt_siege_304" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="79008;-151726;128;6160" total="1" respawnDelay="3h" dbName="schutt_siege_305" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="79022;-151754;128;6160" total="1" respawnDelay="3h" dbName="schutt_siege_306" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78985;-151736;128;6160" total="1" respawnDelay="3h" dbName="schutt_siege_307" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="79000;-151766;128;6160" total="1" respawnDelay="3h" dbName="schutt_siege_308" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78953;-151748;128;6160" total="1" respawnDelay="3h" dbName="schutt_siege_309" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78967;-151779;128;6160" total="1" respawnDelay="3h" dbName="schutt_siege_310" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="78916;-151765;128;6160" total="1" respawnDelay="3h" dbName="schutt_siege_311" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="78873;-151783;128;6160" total="1" respawnDelay="3h" dbName="schutt_siege_312" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35533" pos="79059;-152061;128;6160" total="1" respawnDelay="3h" dbName="schutt_siege_313" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35533" pos="78900;-151734;128;6160" total="1" respawnDelay="3h" dbName="schutt_siege_314" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_1301" minZ="91" maxZ="291">
+		<node x="76527" y="-151284" />
+		<node x="76889" y="-151072" />
+		<node x="76826" y="-151012" />
+		<node x="76485" y="-151232" />
+	</territory>
+	<npcmaker name="schutt_castle2416_1301" territory="schutt_castle2416_1301" spawn="ALL" maximumNpcs="8" event="siege_warfare_start(9)">
+		<npc id="35543" pos="76552;-151203;128;23664" total="1" respawnDelay="3h" dbName="schutt_siege_315" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76733;-151089;128;23664" total="1" respawnDelay="3h" dbName="schutt_siege_316" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76670;-151129;128;23664" total="1" respawnDelay="3h" dbName="schutt_siege_317" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76612;-151164;128;23664" total="1" respawnDelay="3h" dbName="schutt_siege_318" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76588;-151192;128;54984" total="1" respawnDelay="3h" dbName="schutt_siege_319" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76769;-151077;128;54984" total="1" respawnDelay="3h" dbName="schutt_siege_320" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76706;-151117;128;54984" total="1" respawnDelay="3h" dbName="schutt_siege_321" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76648;-151153;128;54984" total="1" respawnDelay="3h" dbName="schutt_siege_322" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_1302" minZ="81" maxZ="281">
+		<node x="78229" y="-151116" />
+		<node x="78560" y="-151315" />
+		<node x="78618" y="-151237" />
+		<node x="78277" y="-151025" />
+	</territory>
+	<npcmaker name="schutt_castle2416_1302" territory="schutt_castle2416_1302" spawn="ALL" maximumNpcs="8" event="siege_warfare_start(9)">
+		<npc id="35543" pos="78377;-151102;128;12488" total="1" respawnDelay="3h" dbName="schutt_siege_323" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78433;-151134;128;12488" total="1" respawnDelay="3h" dbName="schutt_siege_324" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78494;-151172;128;12488" total="1" respawnDelay="3h" dbName="schutt_siege_325" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78546;-151206;128;12488" total="1" respawnDelay="3h" dbName="schutt_siege_326" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78347;-151086;128;46792" total="1" respawnDelay="3h" dbName="schutt_siege_327" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78404;-151119;128;46792" total="1" respawnDelay="3h" dbName="schutt_siege_328" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78465;-151157;128;46792" total="1" respawnDelay="3h" dbName="schutt_siege_329" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78517;-151190;128;46792" total="1" respawnDelay="3h" dbName="schutt_siege_330" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_1401" minZ="81" maxZ="281">
+		<node x="76752" y="-151503" />
+		<node x="76943" y="-151394" />
+		<node x="76869" y="-151276" />
+		<node x="76681" y="-151392" />
+	</territory>
+	<npcmaker name="schutt_castle2416_1401" territory="schutt_castle2416_1401" spawn="ALL" maximumNpcs="10" event="siege_warfare_start(9)">
+		<npc id="35542" pos="76737;-151437;123;54984" total="1" respawnDelay="3h" dbName="schutt_siege_331" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="76771;-151416;123;54984" total="1" respawnDelay="3h" dbName="schutt_siege_332" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="76806;-151393;123;54984" total="1" respawnDelay="3h" dbName="schutt_siege_333" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="76875;-151349;123;54984" total="1" respawnDelay="3h" dbName="schutt_siege_334" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="76839;-151372;123;54984" total="1" respawnDelay="3h" dbName="schutt_siege_335" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="76766;-151482;123;54984" total="1" respawnDelay="3h" dbName="schutt_siege_336" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="76801;-151461;123;54984" total="1" respawnDelay="3h" dbName="schutt_siege_337" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="76835;-151438;123;54984" total="1" respawnDelay="3h" dbName="schutt_siege_338" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="76904;-151394;123;54984" total="1" respawnDelay="3h" dbName="schutt_siege_339" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="76868;-151417;123;54984" total="1" respawnDelay="3h" dbName="schutt_siege_340" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_1402" minZ="76" maxZ="276">
+		<node x="78171" y="-151374" />
+		<node x="78359" y="-151485" />
+		<node x="78428" y="-151376" />
+		<node x="78236" y="-151266" />
+	</territory>
+	<npcmaker name="schutt_castle2416_1402" territory="schutt_castle2416_1402" spawn="ALL" maximumNpcs="10" event="siege_warfare_start(9)">
+		<npc id="35542" pos="78221;-151346;123;46792" total="1" respawnDelay="3h" dbName="schutt_siege_341" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="78260;-151367;123;46792" total="1" respawnDelay="3h" dbName="schutt_siege_342" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="78300;-151389;123;46792" total="1" respawnDelay="3h" dbName="schutt_siege_343" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="78336;-151411;123;46792" total="1" respawnDelay="3h" dbName="schutt_siege_344" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="78369;-151432;123;46792" total="1" respawnDelay="3h" dbName="schutt_siege_345" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="78199;-151382;123;46792" total="1" respawnDelay="3h" dbName="schutt_siege_346" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="78237;-151402;123;46792" total="1" respawnDelay="3h" dbName="schutt_siege_347" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="78278;-151425;123;46792" total="1" respawnDelay="3h" dbName="schutt_siege_348" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="78313;-151447;123;46792" total="1" respawnDelay="3h" dbName="schutt_siege_349" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="78347;-151468;123;46792" total="1" respawnDelay="3h" dbName="schutt_siege_350" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_1501" minZ="-436" maxZ="-236">
+		<node x="77167" y="-154134" />
+		<node x="77525" y="-154132" />
+		<node x="77529" y="-153899" />
+		<node x="77234" y="-153887" />
+	</territory>
+	<npcmaker name="schutt_castle2416_1501" territory="schutt_castle2416_1501" spawn="ALL" maximumNpcs="14" event="siege_warfare_start(9)">
+		<npc id="35542" pos="77186;-154110;-392;31784" total="1" respawnDelay="3h" dbName="schutt_siege_351" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77196;-154076;-392;31784" total="1" respawnDelay="3h" dbName="schutt_siege_352" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77204;-154042;-392;31784" total="1" respawnDelay="3h" dbName="schutt_siege_353" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77212;-154010;-392;31784" total="1" respawnDelay="3h" dbName="schutt_siege_354" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77222;-153977;-392;31784" total="1" respawnDelay="3h" dbName="schutt_siege_355" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77229;-153948;-392;31784" total="1" respawnDelay="3h" dbName="schutt_siege_356" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77238;-153914;-392;31784" total="1" respawnDelay="3h" dbName="schutt_siege_357" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="77217;-154106;-392;31784" total="1" respawnDelay="3h" dbName="schutt_siege_358" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="77226;-154071;-392;31784" total="1" respawnDelay="3h" dbName="schutt_siege_359" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="77235;-154037;-392;31784" total="1" respawnDelay="3h" dbName="schutt_siege_360" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="77243;-154005;-392;31784" total="1" respawnDelay="3h" dbName="schutt_siege_361" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="77253;-153972;-392;31784" total="1" respawnDelay="3h" dbName="schutt_siege_362" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="77260;-153943;-392;31784" total="1" respawnDelay="3h" dbName="schutt_siege_363" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="77269;-153909;-392;31784" total="1" respawnDelay="3h" dbName="schutt_siege_364" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_1502" minZ="-392" maxZ="-192">
+		<node x="77686" y="-154114" />
+		<node x="77940" y="-154112" />
+		<node x="77873" y="-153855" />
+		<node x="77686" y="-153914" />
+	</territory>
+	<npcmaker name="schutt_castle2416_1502" territory="schutt_castle2416_1502" spawn="ALL" maximumNpcs="14" event="siege_warfare_start(9)">
+		<npc id="35542" pos="77867;-153899;-392;4448" total="1" respawnDelay="3h" dbName="schutt_siege_365" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77876;-153933;-392;4448" total="1" respawnDelay="3h" dbName="schutt_siege_366" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77886;-153967;-392;4448" total="1" respawnDelay="3h" dbName="schutt_siege_367" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77894;-153999;-392;4448" total="1" respawnDelay="3h" dbName="schutt_siege_368" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77902;-154032;-392;4448" total="1" respawnDelay="3h" dbName="schutt_siege_369" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77911;-154061;-392;4448" total="1" respawnDelay="3h" dbName="schutt_siege_370" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="77920;-154095;-392;4448" total="1" respawnDelay="3h" dbName="schutt_siege_371" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="77835;-153896;-392;4448" total="1" respawnDelay="3h" dbName="schutt_siege_372" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="77845;-153931;-392;4448" total="1" respawnDelay="3h" dbName="schutt_siege_373" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="77854;-153965;-392;4448" total="1" respawnDelay="3h" dbName="schutt_siege_374" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="77862;-153997;-392;4448" total="1" respawnDelay="3h" dbName="schutt_siege_375" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="77870;-154029;-392;4448" total="1" respawnDelay="3h" dbName="schutt_siege_376" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="77879;-154059;-392;4448" total="1" respawnDelay="3h" dbName="schutt_siege_377" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="77888;-154092;-392;4448" total="1" respawnDelay="3h" dbName="schutt_siege_378" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_1601" minZ="-427" maxZ="-227">
+		<node x="77266" y="-153890" />
+		<node x="76881" y="-153890" />
+		<node x="76881" y="-153585" />
+		<node x="77266" y="-153585" />
+	</territory>
+	<npcmaker name="schutt_castle2416_1601" territory="schutt_castle2416_1601" spawn="ALL" maximumNpcs="6" event="siege_warfare_start(9)">
+		<npc id="35543" pos="76981;-153685;-389;45256" total="1" respawnDelay="3h" dbName="schutt_siege_379" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77019;-153707;-389;45256" total="1" respawnDelay="3h" dbName="schutt_siege_380" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77056;-153728;-389;45256" total="1" respawnDelay="3h" dbName="schutt_siege_381" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77091;-153749;-389;45256" total="1" respawnDelay="3h" dbName="schutt_siege_382" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77126;-153769;-389;45256" total="1" respawnDelay="3h" dbName="schutt_siege_383" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77166;-153790;-389;45256" total="1" respawnDelay="3h" dbName="schutt_siege_384" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_1602" minZ="-444" maxZ="-244">
+		<node x="77903" y="-153837" />
+		<node x="78156" y="-153686" />
+		<node x="78095" y="-153567" />
+		<node x="77849" y="-153664" />
+	</territory>
+	<npcmaker name="schutt_castle2416_1602" territory="schutt_castle2416_1602" spawn="ALL" maximumNpcs="6" event="siege_warfare_start(9)">
+		<npc id="35543" pos="77948;-153797;-389;56352" total="1" respawnDelay="3h" dbName="schutt_siege_385" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="77985;-153774;-389;56352" total="1" respawnDelay="3h" dbName="schutt_siege_386" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78022;-153752;-389;56352" total="1" respawnDelay="3h" dbName="schutt_siege_387" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78058;-153731;-389;56352" total="1" respawnDelay="3h" dbName="schutt_siege_388" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78092;-153710;-389;56352" total="1" respawnDelay="3h" dbName="schutt_siege_389" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78129;-153686;-389;56352" total="1" respawnDelay="3h" dbName="schutt_siege_390" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_1701" minZ="85" maxZ="285">
+		<node x="75901" y="-154362" />
+		<node x="76283" y="-154362" />
+		<node x="76282" y="-154136" />
+		<node x="75902" y="-154137" />
+	</territory>
+	<npcmaker name="schutt_castle2416_1701" territory="schutt_castle2416_1701" spawn="ALL" maximumNpcs="24" event="siege_warfare_start(9)">
+		<npc id="35542" pos="75922;-154152;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_391" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="75954;-154152;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_392" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="75985;-154152;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_393" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="76016;-154152;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_394" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="76048;-154152;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_395" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="76079;-154152;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_396" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="76111;-154152;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_397" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="76142;-154152;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_398" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="75937;-154190;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_399" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="75969;-154190;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_400" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="76000;-154190;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_401" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="76031;-154190;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_402" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="76063;-154190;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_403" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="76095;-154190;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_404" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="76126;-154190;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_405" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="76157;-154190;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_406" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="75935;-154231;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_407" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35533" pos="75967;-154231;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_408" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="75998;-154231;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_409" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="76029;-154231;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_410" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35518" pos="76061;-154231;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_411" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="76092;-154231;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_412" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35533" pos="76124;-154231;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_413" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35517" pos="76155;-154231;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_414" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_1702" minZ="80" maxZ="280">
+		<node x="78819" y="-154358" />
+		<node x="79197" y="-154357" />
+		<node x="79197" y="-154136" />
+		<node x="78818" y="-154136" />
+	</territory>
+	<npcmaker name="schutt_castle2416_1702" territory="schutt_castle2416_1702" spawn="ALL" maximumNpcs="24" event="siege_warfare_start(9)">
+		<npc id="35542" pos="78962;-154150;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_415" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="78994;-154150;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_416" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="79025;-154150;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_417" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="79056;-154150;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_418" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="79088;-154150;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_419" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="79119;-154150;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_420" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="79151;-154150;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_421" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35542" pos="79182;-154150;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_422" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="78947;-154186;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_423" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="78979;-154186;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_424" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="79010;-154186;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_425" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="79041;-154186;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_426" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="79073;-154186;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_427" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="79105;-154186;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_428" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="79136;-154186;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_429" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="79167;-154186;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_430" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35516" pos="78945;-154228;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_431" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35533" pos="78977;-154228;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_432" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="79008;-154228;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_433" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35518" pos="79039;-154228;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_434" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="79071;-154228;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_435" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="79102;-154228;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_436" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35533" pos="79134;-154228;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_437" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35535" pos="79165;-154228;135;18048" total="1" respawnDelay="3h" dbName="schutt_siege_438" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_1801" minZ="97" maxZ="297">
+		<node x="75909" y="-154883" />
+		<node x="77071" y="-154880" />
+		<node x="77071" y="-154670" />
+		<node x="75908" y="-154668" />
+	</territory>
+	<npcmaker name="schutt_castle2416_1801" territory="schutt_castle2416_1801" spawn="ALL" maximumNpcs="24" event="siege_warfare_start(9)">
+		<npc id="35522" pos="76054;-154696;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_439" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35522" pos="76102;-154696;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_440" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35522" pos="76153;-154696;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_441" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35522" pos="76202;-154696;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_442" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35522" pos="76253;-154696;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_443" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35522" pos="76302;-154696;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_444" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35522" pos="76353;-154696;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_445" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35522" pos="76401;-154696;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_446" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35518" pos="76050;-154732;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_447" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35519" pos="76099;-154732;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_448" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35520" pos="76150;-154732;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_449" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35520" pos="76198;-154732;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_450" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35520" pos="76249;-154732;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_451" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35520" pos="76298;-154732;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_452" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35519" pos="76349;-154732;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_453" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35518" pos="76398;-154732;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_454" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76528;-154775;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_455" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76577;-154775;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_456" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76628;-154775;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_457" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76677;-154775;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_458" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76728;-154775;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_459" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76776;-154775;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_460" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76827;-154775;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_461" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76876;-154775;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_462" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_1802" minZ="95" maxZ="295">
+		<node x="78044" y="-154883" />
+		<node x="79197" y="-154882" />
+		<node x="79197" y="-154719" />
+		<node x="78044" y="-154721" />
+	</territory>
+	<npcmaker name="schutt_castle2416_1802" territory="schutt_castle2416_1802" spawn="ALL" maximumNpcs="24" event="siege_warfare_start(9)">
+		<npc id="35522" pos="78745;-154746;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_463" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35522" pos="78794;-154746;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_464" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35522" pos="78844;-154746;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_465" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35522" pos="78893;-154746;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_466" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35522" pos="78944;-154746;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_467" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35522" pos="78993;-154746;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_468" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35522" pos="79044;-154746;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_469" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35522" pos="79093;-154746;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_470" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35518" pos="78741;-154782;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_471" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35519" pos="78790;-154782;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_472" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35520" pos="78841;-154782;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_473" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35520" pos="78890;-154782;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_474" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35520" pos="78941;-154782;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_475" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35520" pos="78989;-154782;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_476" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35519" pos="79040;-154782;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_477" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35518" pos="79089;-154782;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_478" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78229;-154790;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_479" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78278;-154790;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_480" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78329;-154790;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_481" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78378;-154790;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_482" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78429;-154790;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_483" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78477;-154790;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_484" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78528;-154790;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_485" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78577;-154790;135;18048" total="1" respawnDelay="2m" dbName="schutt_siege_486" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_1901" minZ="356" maxZ="556">
+		<node x="75764" y="-154883" />
+		<node x="75880" y="-154884" />
+		<node x="75879" y="-154216" />
+		<node x="75764" y="-154217" />
+	</territory>
+	<npcmaker name="schutt_castle2416_1901" territory="schutt_castle2416_1901" spawn="ALL" maximumNpcs="8" event="siege_warfare_start(9)">
+		<npc id="35532" pos="75864;-154425;395;1736" total="1" respawnDelay="3h" dbName="schutt_siege_487" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="75864;-154379;395;1736" total="1" respawnDelay="3h" dbName="schutt_siege_488" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35533" pos="75863;-154335;395;1736" total="1" respawnDelay="3h" dbName="schutt_siege_489" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="75864;-154473;395;1736" total="1" respawnDelay="3h" dbName="schutt_siege_490" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="75863;-154523;395;1736" total="1" respawnDelay="3h" dbName="schutt_siege_491" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="75863;-154660;395;1736" total="1" respawnDelay="3h" dbName="schutt_siege_492" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="75862;-154615;395;1736" total="1" respawnDelay="3h" dbName="schutt_siege_493" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="75863;-154567;395;1736" total="1" respawnDelay="3h" dbName="schutt_siege_494" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_1902" minZ="354" maxZ="554">
+		<node x="79218" y="-154898" />
+		<node x="79326" y="-154898" />
+		<node x="79325" y="-154216" />
+		<node x="79218" y="-154216" />
+	</territory>
+	<npcmaker name="schutt_castle2416_1902" territory="schutt_castle2416_1902" spawn="ALL" maximumNpcs="8" event="siege_warfare_start(9)">
+		<npc id="35532" pos="79235;-154443;395;34504" total="1" respawnDelay="3h" dbName="schutt_siege_495" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="79235;-154398;395;34504" total="1" respawnDelay="3h" dbName="schutt_siege_496" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35533" pos="79235;-154353;395;34504" total="1" respawnDelay="3h" dbName="schutt_siege_497" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="79235;-154491;395;34504" total="1" respawnDelay="3h" dbName="schutt_siege_498" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="79235;-154542;395;34504" total="1" respawnDelay="3h" dbName="schutt_siege_499" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="79235;-154678;395;34504" total="1" respawnDelay="3h" dbName="schutt_siege_500" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="79235;-154633;395;34504" total="1" respawnDelay="3h" dbName="schutt_siege_501" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="79235;-154585;395;34504" total="1" respawnDelay="3h" dbName="schutt_siege_502" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_2001" minZ="347" maxZ="547">
+		<node x="75902" y="-155030" />
+		<node x="77065" y="-155018" />
+		<node x="77064" y="-154830" />
+		<node x="75901" y="-154830" />
+	</territory>
+	<npcmaker name="schutt_castle2416_2001" territory="schutt_castle2416_2001" spawn="ALL" maximumNpcs="8" event="siege_warfare_start(9)">
+		<npc id="35532" pos="76273;-154930;395;18152" total="1" respawnDelay="3h" dbName="schutt_siege_503" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76328;-154930;395;18152" total="1" respawnDelay="3h" dbName="schutt_siege_504" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35533" pos="76448;-154930;395;18152" total="1" respawnDelay="3h" dbName="schutt_siege_505" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76387;-154930;395;18152" total="1" respawnDelay="3h" dbName="schutt_siege_506" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76508;-154930;395;18152" total="1" respawnDelay="3h" dbName="schutt_siege_507" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76565;-154930;395;18152" total="1" respawnDelay="3h" dbName="schutt_siege_508" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76675;-154930;395;18152" total="1" respawnDelay="3h" dbName="schutt_siege_509" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="76618;-154930;395;18152" total="1" respawnDelay="3h" dbName="schutt_siege_510" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_2002" minZ="349" maxZ="549">
+		<node x="78044" y="-155020" />
+		<node x="79206" y="-155019" />
+		<node x="79206" y="-154909" />
+		<node x="78043" y="-154910" />
+	</territory>
+	<npcmaker name="schutt_castle2416_2002" territory="schutt_castle2416_2002" spawn="ALL" maximumNpcs="8" event="siege_warfare_start(9)">
+		<npc id="35532" pos="78402;-154925;395;18152" total="1" respawnDelay="3h" dbName="schutt_siege_511" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78457;-154925;395;18152" total="1" respawnDelay="3h" dbName="schutt_siege_512" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35533" pos="78576;-154925;395;18152" total="1" respawnDelay="3h" dbName="schutt_siege_513" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78515;-154925;395;18152" total="1" respawnDelay="3h" dbName="schutt_siege_514" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78636;-154925;395;18152" total="1" respawnDelay="3h" dbName="schutt_siege_515" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78693;-154925;395;18152" total="1" respawnDelay="3h" dbName="schutt_siege_516" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78804;-154925;395;18152" total="1" respawnDelay="3h" dbName="schutt_siege_517" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="78746;-154925;395;18152" total="1" respawnDelay="3h" dbName="schutt_siege_518" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_2101" minZ="357" maxZ="557">
+		<node x="76288" y="-154115" />
+		<node x="77063" y="-154115" />
+		<node x="77084" y="-154004" />
+		<node x="76289" y="-154004" />
+	</territory>
+	<npcmaker name="schutt_castle2416_2101" territory="schutt_castle2416_2101" spawn="ALL" maximumNpcs="8" event="siege_warfare_start(9)">
+		<npc id="35543" pos="76498;-154101;395;50888" total="1" respawnDelay="3h" dbName="schutt_siege_519" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76558;-154102;395;50888" total="1" respawnDelay="3h" dbName="schutt_siege_520" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76612;-154102;395;50888" total="1" respawnDelay="3h" dbName="schutt_siege_521" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="76727;-154103;395;50888" total="1" respawnDelay="3h" dbName="schutt_siege_522" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76670;-154102;395;50888" total="1" respawnDelay="3h" dbName="schutt_siege_523" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76840;-154104;395;50888" total="1" respawnDelay="3h" dbName="schutt_siege_524" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76782;-154104;395;50888" total="1" respawnDelay="3h" dbName="schutt_siege_525" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="76894;-154105;395;50888" total="1" respawnDelay="3h" dbName="schutt_siege_526" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schutt_castle2416_2102" minZ="358" maxZ="558">
+		<node x="78039" y="-154115" />
+		<node x="78810" y="-154118" />
+		<node x="78809" y="-154006" />
+		<node x="78039" y="-154005" />
+	</territory>
+	<npcmaker name="schutt_castle2416_2102" territory="schutt_castle2416_2102" spawn="ALL" maximumNpcs="8" event="siege_warfare_start(9)">
+		<npc id="35543" pos="78240;-154099;395;50888" total="1" respawnDelay="3h" dbName="schutt_siege_527" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78300;-154099;395;50888" total="1" respawnDelay="3h" dbName="schutt_siege_528" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78354;-154100;395;50888" total="1" respawnDelay="3h" dbName="schutt_siege_529" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35532" pos="78469;-154100;395;50888" total="1" respawnDelay="3h" dbName="schutt_siege_530" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78413;-154100;395;50888" total="1" respawnDelay="3h" dbName="schutt_siege_531" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78582;-154102;395;50888" total="1" respawnDelay="3h" dbName="schutt_siege_532" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78524;-154101;395;50888" total="1" respawnDelay="3h" dbName="schutt_siege_533" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35543" pos="78637;-154102;395;50888" total="1" respawnDelay="3h" dbName="schutt_siege_534" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_0" minZ="-1351" maxZ="-1231">
+		<node x="87138" y="-144917" />
+		<node x="87338" y="-144917" />
+		<node x="87338" y="-144717" />
+		<node x="87138" y="-144717" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_001" territory="schuttgart01_npcxxxx_0" spawn="ALL" maximumNpcs="1">
+		<npc id="31973" pos="87238;-144817;-1291;49538" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_1" minZ="-1353" maxZ="-1233">
+		<node x="87344" y="-146142" />
+		<node x="87544" y="-146142" />
+		<node x="87544" y="-145942" />
+		<node x="87344" y="-145942" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_101" territory="schuttgart01_npcxxxx_1" spawn="ALL" maximumNpcs="1">
+		<npc id="31968" pos="87444;-146042;-1293;9673" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_10" minZ="-1353" maxZ="-1233">
+		<node x="88560" y="-145183" />
+		<node x="88760" y="-145183" />
+		<node x="88760" y="-144983" />
+		<node x="88560" y="-144983" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_1001" territory="schuttgart01_npcxxxx_10" spawn="ALL" maximumNpcs="1">
+		<npc id="31972" pos="88660;-145083;-1293;49152" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_11" minZ="-1353" maxZ="-1233">
+		<node x="88471" y="-145173" />
+		<node x="88671" y="-145173" />
+		<node x="88671" y="-144973" />
+		<node x="88471" y="-144973" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_1101" territory="schuttgart01_npcxxxx_11" spawn="ALL" maximumNpcs="1">
+		<npc id="32098" pos="88571;-145073;-1293;46596" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_12" minZ="-1353" maxZ="-1233">
+		<node x="88370" y="-145180" />
+		<node x="88570" y="-145180" />
+		<node x="88570" y="-144980" />
+		<node x="88370" y="-144980" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_1201" territory="schuttgart01_npcxxxx_12" spawn="ALL" maximumNpcs="1">
+		<npc id="31996" pos="88470;-145080;-1293;49730" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_13" minZ="-1353" maxZ="-1233">
+		<node x="87569" y="-143551" />
+		<node x="87769" y="-143551" />
+		<node x="87769" y="-143351" />
+		<node x="87569" y="-143351" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_1301" territory="schuttgart01_npcxxxx_13" spawn="ALL" maximumNpcs="1">
+		<npc id="31690" pos="87669;-143451;-1293;16211" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_14" minZ="-1353" maxZ="-1233">
+		<node x="87497" y="-143539" />
+		<node x="87697" y="-143539" />
+		<node x="87697" y="-143339" />
+		<node x="87497" y="-143339" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_1401" territory="schuttgart01_npcxxxx_14" spawn="ALL" maximumNpcs="1">
+		<npc id="31688" pos="87597;-143439;-1293;16384" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_15" minZ="-1353" maxZ="-1233">
+		<node x="86948" y="-143548" />
+		<node x="87148" y="-143548" />
+		<node x="87148" y="-143348" />
+		<node x="86948" y="-143348" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_1501" territory="schuttgart01_npcxxxx_15" spawn="ALL" maximumNpcs="1">
+		<npc id="31964" pos="87048;-143448;-1293;15584" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_16" minZ="-1353" maxZ="-1233">
+		<node x="86991" y="-143543" />
+		<node x="87191" y="-143543" />
+		<node x="87191" y="-143343" />
+		<node x="86991" y="-143343" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_1601" territory="schuttgart01_npcxxxx_16" spawn="ALL" maximumNpcs="1">
+		<npc id="30994" pos="87091;-143443;-1293;13029" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_17" minZ="-1403" maxZ="-1283">
+		<node x="88123" y="-142449" />
+		<node x="88323" y="-142449" />
+		<node x="88323" y="-142249" />
+		<node x="88123" y="-142249" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_1701" territory="schuttgart01_npcxxxx_17" spawn="ALL" maximumNpcs="1">
+		<npc id="31734" pos="88223;-142349;-1343;60027" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_18" minZ="-1403" maxZ="-1283">
+		<node x="88450" y="-143374" />
+		<node x="88650" y="-143374" />
+		<node x="88650" y="-143174" />
+		<node x="88450" y="-143174" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_1801" territory="schuttgart01_npcxxxx_18" spawn="ALL" maximumNpcs="1">
+		<npc id="35587" pos="88550;-143274;-1343;27132" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_19" minZ="-1387" maxZ="-1267">
+		<node x="88564" y="-143240" />
+		<node x="88764" y="-143240" />
+		<node x="88764" y="-143040" />
+		<node x="88564" y="-143040" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_1901" territory="schuttgart01_npcxxxx_19" spawn="ALL" maximumNpcs="1">
+		<npc id="35586" pos="88664;-143140;-1327;27132" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_2" minZ="-1353" maxZ="-1233">
+		<node x="87182" y="-146157" />
+		<node x="87382" y="-146157" />
+		<node x="87382" y="-145957" />
+		<node x="87182" y="-145957" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_201" territory="schuttgart01_npcxxxx_2" spawn="ALL" maximumNpcs="1">
+		<npc id="32095" pos="87282;-146057;-1293;13029" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_20" minZ="-1403" maxZ="-1283">
+		<node x="87884" y="-142403" />
+		<node x="88084" y="-142403" />
+		<node x="88084" y="-142203" />
+		<node x="87884" y="-142203" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_2001" territory="schuttgart01_npcxxxx_20" spawn="ALL" maximumNpcs="1">
+		<npc id="35585" pos="87984;-142303;-1343;36736" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_21" minZ="-1387" maxZ="-1267">
+		<node x="87833" y="-142244" />
+		<node x="88033" y="-142244" />
+		<node x="88033" y="-142044" />
+		<node x="87833" y="-142044" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_2101" territory="schuttgart01_npcxxxx_21" spawn="ALL" maximumNpcs="1">
+		<npc id="35584" pos="87933;-142144;-1327;36736" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_22" minZ="-1403" maxZ="-1283">
+		<node x="86645" y="-142398" />
+		<node x="86845" y="-142398" />
+		<node x="86845" y="-142198" />
+		<node x="86645" y="-142198" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_2201" territory="schuttgart01_npcxxxx_22" spawn="ALL" maximumNpcs="1">
+		<npc id="35583" pos="86745;-142298;-1343;49152" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_23" minZ="-1387" maxZ="-1267">
+		<node x="86699" y="-142237" />
+		<node x="86899" y="-142237" />
+		<node x="86899" y="-142037" />
+		<node x="86699" y="-142037" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_2301" territory="schuttgart01_npcxxxx_23" spawn="ALL" maximumNpcs="1">
+		<npc id="35582" pos="86799;-142137;-1327;49152" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_24" minZ="-1402" maxZ="-1282">
+		<node x="86083" y="-143364" />
+		<node x="86283" y="-143364" />
+		<node x="86283" y="-143164" />
+		<node x="86083" y="-143164" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_2401" territory="schuttgart01_npcxxxx_24" spawn="ALL" maximumNpcs="1">
+		<npc id="35581" pos="86183;-143264;-1342;64055" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_25" minZ="-1387" maxZ="-1267">
+		<node x="85943" y="-143230" />
+		<node x="86143" y="-143230" />
+		<node x="86143" y="-143030" />
+		<node x="85943" y="-143030" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_2501" territory="schuttgart01_npcxxxx_25" spawn="ALL" maximumNpcs="1">
+		<npc id="35580" pos="86043;-143130;-1327;64055" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_26" minZ="-1403" maxZ="-1283">
+		<node x="86414" y="-142440" />
+		<node x="86614" y="-142440" />
+		<node x="86614" y="-142240" />
+		<node x="86414" y="-142240" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_2601" territory="schuttgart01_npcxxxx_26" spawn="ALL" maximumNpcs="1">
+		<npc id="31732" pos="86514;-142340;-1343;32768" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_27" minZ="-1402" maxZ="-1282">
+		<node x="85614" y="-142469" />
+		<node x="85814" y="-142469" />
+		<node x="85814" y="-142269" />
+		<node x="85614" y="-142269" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_2701" territory="schuttgart01_npcxxxx_27" spawn="ALL" maximumNpcs="1">
+		<npc id="31982" pos="85714;-142369;-1342;59709" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_28" minZ="-1402" maxZ="-1282">
+		<node x="85765" y="-142253" />
+		<node x="85965" y="-142253" />
+		<node x="85965" y="-142053" />
+		<node x="85765" y="-142053" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_2801" territory="schuttgart01_npcxxxx_28" spawn="ALL" maximumNpcs="1">
+		<npc id="31981" pos="85865;-142153;-1342;59402" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_29" minZ="-1602" maxZ="-1482">
+		<node x="85132" y="-141829" />
+		<node x="85332" y="-141829" />
+		<node x="85332" y="-141629" />
+		<node x="85132" y="-141629" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_2901" territory="schuttgart01_npcxxxx_29" spawn="ALL" maximumNpcs="1">
+		<npc id="31674" pos="85232;-141729;-1542;27617" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_3" minZ="-1353" maxZ="-1233">
+		<node x="86888" y="-146316" />
+		<node x="87088" y="-146316" />
+		<node x="87088" y="-146116" />
+		<node x="86888" y="-146116" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_301" territory="schuttgart01_npcxxxx_3" spawn="ALL" maximumNpcs="1">
+		<npc id="31970" pos="86988;-146216;-1293;16222" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_30" minZ="-1602" maxZ="-1482">
+		<node x="85002" y="-142024" />
+		<node x="85202" y="-142024" />
+		<node x="85202" y="-141824" />
+		<node x="85002" y="-141824" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_3001" territory="schuttgart01_npcxxxx_30" spawn="ALL" maximumNpcs="1">
+		<npc id="31674" pos="85102;-141924;-1542;22518" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_31" minZ="-1602" maxZ="-1482">
+		<node x="84421" y="-141291" />
+		<node x="84621" y="-141291" />
+		<node x="84621" y="-141091" />
+		<node x="84421" y="-141091" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_3101" territory="schuttgart01_npcxxxx_31" spawn="ALL" maximumNpcs="1">
+		<npc id="31738" pos="84521;-141191;-1542;57344" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_32" minZ="-1598" maxZ="-1478">
+		<node x="84256" y="-140980" />
+		<node x="84456" y="-140980" />
+		<node x="84456" y="-140780" />
+		<node x="84256" y="-140780" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_3201" territory="schuttgart01_npcxxxx_32" spawn="ALL" maximumNpcs="1">
+		<npc id="31983" pos="84356;-140880;-1538;54303" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_33" minZ="-1598" maxZ="-1478">
+		<node x="84367" y="-140810" />
+		<node x="84567" y="-140810" />
+		<node x="84567" y="-140610" />
+		<node x="84367" y="-140610" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_3301" territory="schuttgart01_npcxxxx_33" spawn="ALL" maximumNpcs="1">
+		<npc id="31984" pos="84467;-140710;-1538;59066" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_34" minZ="-2342" maxZ="-2222">
+		<node x="82816" y="-139572" />
+		<node x="83016" y="-139572" />
+		<node x="83016" y="-139372" />
+		<node x="82816" y="-139372" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_3401" territory="schuttgart01_npcxxxx_34" spawn="ALL" maximumNpcs="1">
+		<npc id="31673" pos="82916;-139472;-2282;16384" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_35" minZ="-2340" maxZ="-2220">
+		<node x="82597" y="-139844" />
+		<node x="82797" y="-139844" />
+		<node x="82797" y="-139644" />
+		<node x="82597" y="-139644" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_3501" territory="schuttgart01_npcxxxx_35" spawn="ALL" maximumNpcs="1">
+		<npc id="31673" pos="82697;-139744;-2280;23776" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_36" minZ="-2338" maxZ="-2218">
+		<node x="87080" y="-137418" />
+		<node x="87280" y="-137418" />
+		<node x="87280" y="-137218" />
+		<node x="87080" y="-137218" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_3601" territory="schuttgart01_npcxxxx_36" spawn="ALL" maximumNpcs="1">
+		<npc id="31673" pos="87180;-137318;-2278;18107" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_37" minZ="-2338" maxZ="-2218">
+		<node x="87449" y="-137419" />
+		<node x="87649" y="-137419" />
+		<node x="87649" y="-137219" />
+		<node x="87449" y="-137219" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_3701" territory="schuttgart01_npcxxxx_37" spawn="ALL" maximumNpcs="1">
+		<npc id="31673" pos="87549;-137319;-2278;14126" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_38" minZ="-1599" maxZ="-1479">
+		<node x="87142" y="-139379" />
+		<node x="87342" y="-139379" />
+		<node x="87342" y="-139179" />
+		<node x="87142" y="-139179" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_3801" territory="schuttgart01_npcxxxx_38" spawn="ALL" maximumNpcs="1">
+		<npc id="31985" pos="87242;-139279;-1539;15816" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_39" minZ="-1598" maxZ="-1478">
+		<node x="87374" y="-139375" />
+		<node x="87574" y="-139375" />
+		<node x="87574" y="-139175" />
+		<node x="87374" y="-139175" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_3901" territory="schuttgart01_npcxxxx_39" spawn="ALL" maximumNpcs="1">
+		<npc id="31986" pos="87474;-139275;-1538;18107" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_4" minZ="-1353" maxZ="-1233">
+		<node x="87621" y="-146330" />
+		<node x="87821" y="-146330" />
+		<node x="87821" y="-146130" />
+		<node x="87621" y="-146130" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_401" territory="schuttgart01_npcxxxx_4" spawn="ALL" maximumNpcs="1">
+		<npc id="31969" pos="87721;-146230;-1293;15470" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_40" minZ="-1588" maxZ="-1468">
+		<node x="85653" y="-141460" />
+		<node x="85853" y="-141460" />
+		<node x="85853" y="-141260" />
+		<node x="85653" y="-141260" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_4001" territory="schuttgart01_npcxxxx_40" spawn="ALL" maximumNpcs="1">
+		<npc id="31952" pos="85753;-141360;-1528;3853" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_41" minZ="-1588" maxZ="-1468">
+		<node x="85559" y="-141281" />
+		<node x="85759" y="-141281" />
+		<node x="85759" y="-141081" />
+		<node x="85559" y="-141081" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_4101" territory="schuttgart01_npcxxxx_41" spawn="ALL" maximumNpcs="1">
+		<npc id="31951" pos="85659;-141181;-1528;58498" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_42" minZ="-1588" maxZ="-1468">
+		<node x="85572" y="-141246" />
+		<node x="85772" y="-141246" />
+		<node x="85772" y="-141046" />
+		<node x="85572" y="-141046" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_4201" territory="schuttgart01_npcxxxx_42" spawn="ALL" maximumNpcs="1">
+		<npc id="31949" pos="85672;-141146;-1528;57344" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_43" minZ="-1588" maxZ="-1468">
+		<node x="85679" y="-141200" />
+		<node x="85879" y="-141200" />
+		<node x="85879" y="-141000" />
+		<node x="85679" y="-141000" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_4301" territory="schuttgart01_npcxxxx_43" spawn="ALL" maximumNpcs="1">
+		<npc id="31950" pos="85779;-141100;-1528;54094" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_44" minZ="-1588" maxZ="-1468">
+		<node x="85716" y="-141178" />
+		<node x="85916" y="-141178" />
+		<node x="85916" y="-140978" />
+		<node x="85716" y="-140978" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_4401" territory="schuttgart01_npcxxxx_44" spawn="ALL" maximumNpcs="1">
+		<npc id="31989" pos="85816;-141078;-1528;54682" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_45" minZ="-1588" maxZ="-1468">
+		<node x="85931" y="-141135" />
+		<node x="86131" y="-141135" />
+		<node x="86131" y="-140935" />
+		<node x="85931" y="-140935" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_4501" territory="schuttgart01_npcxxxx_45" spawn="ALL" maximumNpcs="1">
+		<npc id="31953" pos="86031;-141035;-1528;36636" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_46" minZ="-1602" maxZ="-1482">
+		<node x="86287" y="-140256" />
+		<node x="86487" y="-140256" />
+		<node x="86487" y="-140056" />
+		<node x="86287" y="-140056" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_4601" territory="schuttgart01_npcxxxx_46" spawn="ALL" maximumNpcs="3">
+		<npc id="31954" pos="86387;-140156;-1542;54278" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_48" minZ="-1587" maxZ="-1467">
+		<node x="86044" y="-139900" />
+		<node x="86244" y="-139900" />
+		<node x="86244" y="-139700" />
+		<node x="86044" y="-139700" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_4801" territory="schuttgart01_npcxxxx_48" spawn="ALL" maximumNpcs="1">
+		<npc id="31948" pos="86144;-139800;-1527;60527" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_49" minZ="-1587" maxZ="-1467">
+		<node x="86359" y="-139731" />
+		<node x="86559" y="-139731" />
+		<node x="86559" y="-139531" />
+		<node x="86359" y="-139531" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_4901" territory="schuttgart01_npcxxxx_49" spawn="ALL" maximumNpcs="1">
+		<npc id="31945" pos="86459;-139631;-1527;52453" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_5" minZ="-1353" maxZ="-1233">
+		<node x="86236" y="-145178" />
+		<node x="86436" y="-145178" />
+		<node x="86436" y="-144978" />
+		<node x="86236" y="-144978" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_501" territory="schuttgart01_npcxxxx_5" spawn="ALL" maximumNpcs="1">
+		<npc id="31967" pos="86336;-145078;-1293;50056" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_50" minZ="-1587" maxZ="-1467">
+		<node x="86207" y="-139761" />
+		<node x="86407" y="-139761" />
+		<node x="86407" y="-139561" />
+		<node x="86207" y="-139561" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_5001" territory="schuttgart01_npcxxxx_50" spawn="ALL" maximumNpcs="1">
+		<npc id="31946" pos="86307;-139661;-1527;51608" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_51" minZ="-1588" maxZ="-1468">
+		<node x="86182" y="-139782" />
+		<node x="86382" y="-139782" />
+		<node x="86382" y="-139582" />
+		<node x="86182" y="-139582" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_5101" territory="schuttgart01_npcxxxx_51" spawn="ALL" maximumNpcs="1">
+		<npc id="31947" pos="86282;-139682;-1528;54339" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_52" minZ="-1602" maxZ="-1482">
+		<node x="87141" y="-140791" />
+		<node x="87341" y="-140791" />
+		<node x="87341" y="-140591" />
+		<node x="87141" y="-140591" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_5201" territory="schuttgart01_npcxxxx_52" spawn="ALL" maximumNpcs="1">
+		<npc id="31674" pos="87241;-140691;-1542;15713" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_53" minZ="-1602" maxZ="-1482">
+		<node x="87382" y="-140791" />
+		<node x="87582" y="-140791" />
+		<node x="87582" y="-140591" />
+		<node x="87382" y="-140591" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_5301" territory="schuttgart01_npcxxxx_53" spawn="ALL" maximumNpcs="1">
+		<npc id="31674" pos="87482;-140691;-1542;15345" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_54" minZ="-1602" maxZ="-1482">
+		<node x="87030" y="-140854" />
+		<node x="87230" y="-140854" />
+		<node x="87230" y="-140654" />
+		<node x="87030" y="-140654" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_5401" territory="schuttgart01_npcxxxx_54" spawn="ALL" maximumNpcs="1">
+		<npc id="31733" pos="87130;-140754;-1542;15201" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_56" minZ="-1594" maxZ="-1474">
+		<node x="88081" y="-139676" />
+		<node x="88281" y="-139676" />
+		<node x="88281" y="-139476" />
+		<node x="88081" y="-139476" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_5601" territory="schuttgart01_npcxxxx_56" spawn="ALL" maximumNpcs="1">
+		<npc id="31963" pos="88181;-139576;-1534;44098" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_57" minZ="-1594" maxZ="-1474">
+		<node x="88171" y="-139897" />
+		<node x="88371" y="-139897" />
+		<node x="88371" y="-139697" />
+		<node x="88171" y="-139697" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_5701" territory="schuttgart01_npcxxxx_57" spawn="ALL" maximumNpcs="1">
+		<npc id="31962" pos="88271;-139797;-1534;11851" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_58" minZ="-1593" maxZ="-1473">
+		<node x="88305" y="-139869" />
+		<node x="88505" y="-139869" />
+		<node x="88505" y="-139669" />
+		<node x="88305" y="-139669" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_5801" territory="schuttgart01_npcxxxx_58" spawn="ALL" maximumNpcs="1">
+		<npc id="31961" pos="88405;-139769;-1533;28800" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_59" minZ="-1593" maxZ="-1473">
+		<node x="88367" y="-139941" />
+		<node x="88567" y="-139941" />
+		<node x="88567" y="-139741" />
+		<node x="88367" y="-139741" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_5901" territory="schuttgart01_npcxxxx_59" spawn="ALL" maximumNpcs="1">
+		<npc id="31960" pos="88467;-139841;-1533;19038" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_6" minZ="-1353" maxZ="-1233">
+		<node x="86138" y="-145165" />
+		<node x="86338" y="-145165" />
+		<node x="86338" y="-144965" />
+		<node x="86138" y="-144965" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_601" territory="schuttgart01_npcxxxx_6" spawn="ALL" maximumNpcs="1">
+		<npc id="31965" pos="86238;-145065;-1293;49334" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_60" minZ="-1593" maxZ="-1473">
+		<node x="88327" y="-139923" />
+		<node x="88527" y="-139923" />
+		<node x="88527" y="-139723" />
+		<node x="88327" y="-139723" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_6001" territory="schuttgart01_npcxxxx_60" spawn="ALL" maximumNpcs="1">
+		<npc id="32093" pos="88427;-139823;-1533;10590" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_61" minZ="-1593" maxZ="-1473">
+		<node x="88347" y="-139775" />
+		<node x="88547" y="-139775" />
+		<node x="88547" y="-139575" />
+		<node x="88347" y="-139575" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_6101" territory="schuttgart01_npcxxxx_61" spawn="ALL" maximumNpcs="1">
+		<npc id="31990" pos="88447;-139675;-1533;48655" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_62" minZ="-1587" maxZ="-1467">
+		<node x="88452" y="-140884" />
+		<node x="88652" y="-140884" />
+		<node x="88652" y="-140684" />
+		<node x="88452" y="-140684" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_6201" territory="schuttgart01_npcxxxx_62" spawn="ALL" maximumNpcs="1">
+		<npc id="31958" pos="88552;-140784;-1527;41872" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_63" minZ="-1587" maxZ="-1467">
+		<node x="88604" y="-141624" />
+		<node x="89204" y="-141624" />
+		<node x="89204" y="-141024" />
+		<node x="88604" y="-141024" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_6301" territory="schuttgart01_npcxxxx_63" spawn="ALL" maximumNpcs="1">
+		<npc id="31959" pos="88904;-141324;-1527;19923" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_64" minZ="-1587" maxZ="-1467">
+		<node x="88526" y="-141306" />
+		<node x="88726" y="-141306" />
+		<node x="88726" y="-141106" />
+		<node x="88526" y="-141106" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_6401" territory="schuttgart01_npcxxxx_64" spawn="ALL" maximumNpcs="1">
+		<npc id="31956" pos="88626;-141206;-1527;10796" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_65" minZ="-1587" maxZ="-1467">
+		<node x="88563" y="-141331" />
+		<node x="88763" y="-141331" />
+		<node x="88763" y="-141131" />
+		<node x="88563" y="-141131" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_6501" territory="schuttgart01_npcxxxx_65" spawn="ALL" maximumNpcs="1">
+		<npc id="31957" pos="88663;-141231;-1527;10174" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_66" minZ="-1602" maxZ="-1482">
+		<node x="89387" y="-141835" />
+		<node x="89587" y="-141835" />
+		<node x="89587" y="-141635" />
+		<node x="89387" y="-141635" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_6601" territory="schuttgart01_npcxxxx_66" spawn="ALL" maximumNpcs="1">
+		<npc id="31674" pos="89487;-141735;-1542;5795" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_67" minZ="-1602" maxZ="-1482">
+		<node x="89533" y="-142022" />
+		<node x="89733" y="-142022" />
+		<node x="89733" y="-141822" />
+		<node x="89533" y="-141822" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_6701" territory="schuttgart01_npcxxxx_67" spawn="ALL" maximumNpcs="1">
+		<npc id="31674" pos="89633;-141922;-1542;2281" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_68" minZ="-1602" maxZ="-1482">
+		<node x="90240" y="-141473" />
+		<node x="90440" y="-141473" />
+		<node x="90440" y="-141273" />
+		<node x="90240" y="-141273" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_6801" territory="schuttgart01_npcxxxx_68" spawn="ALL" maximumNpcs="1">
+		<npc id="31729" pos="90340;-141373;-1542;39084" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_69" minZ="-1598" maxZ="-1478">
+		<node x="90168" y="-140787" />
+		<node x="90368" y="-140787" />
+		<node x="90368" y="-140587" />
+		<node x="90168" y="-140587" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_6901" territory="schuttgart01_npcxxxx_69" spawn="ALL" maximumNpcs="1">
+		<npc id="31987" pos="90268;-140687;-1538;63813" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_7" minZ="-1353" maxZ="-1233">
+		<node x="86070" y="-145168" />
+		<node x="86270" y="-145168" />
+		<node x="86270" y="-144968" />
+		<node x="86070" y="-144968" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_701" territory="schuttgart01_npcxxxx_7" spawn="ALL" maximumNpcs="1">
+		<npc id="32094" pos="86170;-145068;-1293;46596" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_70" minZ="-1598" maxZ="-1478">
+		<node x="90283" y="-140957" />
+		<node x="90483" y="-140957" />
+		<node x="90483" y="-140757" />
+		<node x="90283" y="-140757" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_7001" territory="schuttgart01_npcxxxx_70" spawn="ALL" maximumNpcs="1">
+		<npc id="31988" pos="90383;-140857;-1538;14232" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_71" minZ="-2373" maxZ="-2253">
+		<node x="91962" y="-139802" />
+		<node x="92162" y="-139802" />
+		<node x="92162" y="-139602" />
+		<node x="91962" y="-139602" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_7101" territory="schuttgart01_npcxxxx_71" spawn="ALL" maximumNpcs="1">
+		<npc id="31673" pos="92062;-139702;-2313;5094" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_72" minZ="-2372" maxZ="-2252">
+		<node x="91737" y="-139537" />
+		<node x="91937" y="-139537" />
+		<node x="91937" y="-139337" />
+		<node x="91737" y="-139337" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_7201" territory="schuttgart01_npcxxxx_72" spawn="ALL" maximumNpcs="1">
+		<npc id="31673" pos="91837;-139437;-2312;5165" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_73" minZ="-1587" maxZ="-1467">
+		<node x="90482" y="-142099" />
+		<node x="90682" y="-142099" />
+		<node x="90682" y="-141899" />
+		<node x="90482" y="-141899" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_7301" territory="schuttgart01_npcxxxx_73" spawn="ALL" maximumNpcs="1">
+		<npc id="32096" pos="90582;-141999;-1527;33876" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_74" minZ="-1587" maxZ="-1467">
+		<node x="90459" y="-142011" />
+		<node x="90659" y="-142011" />
+		<node x="90659" y="-141811" />
+		<node x="90459" y="-141811" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_7401" territory="schuttgart01_npcxxxx_74" spawn="ALL" maximumNpcs="1">
+		<npc id="31974" pos="90559;-141911;-1527;31288" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_75" minZ="-1587" maxZ="-1467">
+		<node x="90288" y="-142285" />
+		<node x="90488" y="-142285" />
+		<node x="90488" y="-142085" />
+		<node x="90288" y="-142085" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_7501" territory="schuttgart01_npcxxxx_75" spawn="ALL" maximumNpcs="1">
+		<npc id="31976" pos="90388;-142185;-1527;18411" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_76" minZ="-1587" maxZ="-1467">
+		<node x="90213" y="-141901" />
+		<node x="90413" y="-141901" />
+		<node x="90413" y="-141701" />
+		<node x="90213" y="-141701" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_7601" territory="schuttgart01_npcxxxx_76" spawn="ALL" maximumNpcs="1">
+		<npc id="31975" pos="90313;-141801;-1527;50410" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_77" minZ="-1587" maxZ="-1467">
+		<node x="89859" y="-143357" />
+		<node x="90059" y="-143357" />
+		<node x="90059" y="-143157" />
+		<node x="89859" y="-143157" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_7701" territory="schuttgart01_npcxxxx_77" spawn="ALL" maximumNpcs="1">
+		<npc id="31977" pos="89959;-143257;-1527;1076" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_78" minZ="-1587" maxZ="-1467">
+		<node x="89900" y="-143386" />
+		<node x="90100" y="-143386" />
+		<node x="90100" y="-143186" />
+		<node x="89900" y="-143186" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_7801" territory="schuttgart01_npcxxxx_78" spawn="ALL" maximumNpcs="1">
+		<npc id="31978" pos="90000;-143286;-1527;0" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_79" minZ="-1587" maxZ="-1467">
+		<node x="89886" y="-143286" />
+		<node x="90086" y="-143286" />
+		<node x="90086" y="-143086" />
+		<node x="89886" y="-143086" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_7901" territory="schuttgart01_npcxxxx_79" spawn="ALL" maximumNpcs="1">
+		<npc id="31979" pos="89986;-143186;-1527;61002" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_8" minZ="-1353" maxZ="-1233">
+		<node x="85958" y="-145167" />
+		<node x="86158" y="-145167" />
+		<node x="86158" y="-144967" />
+		<node x="85958" y="-144967" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_801" territory="schuttgart01_npcxxxx_8" spawn="ALL" maximumNpcs="1">
+		<npc id="31966" pos="86058;-145067;-1293;49152" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_80" minZ="-1587" maxZ="-1467">
+		<node x="89864" y="-143321" />
+		<node x="90064" y="-143321" />
+		<node x="90064" y="-143121" />
+		<node x="89864" y="-143121" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_8001" territory="schuttgart01_npcxxxx_80" spawn="ALL" maximumNpcs="1">
+		<npc id="32097" pos="89964;-143221;-1527;61567" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_81" minZ="-1587" maxZ="-1467">
+		<node x="89988" y="-143323" />
+		<node x="90188" y="-143323" />
+		<node x="90188" y="-143123" />
+		<node x="89988" y="-143123" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_8101" territory="schuttgart01_npcxxxx_81" spawn="ALL" maximumNpcs="1">
+		<npc id="32057" pos="90088;-143223;-1527;47769" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_82" minZ="-1587" maxZ="-1467">
+		<node x="89839" y="-143554" />
+		<node x="90039" y="-143554" />
+		<node x="90039" y="-143354" />
+		<node x="89839" y="-143354" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_8201" territory="schuttgart01_npcxxxx_82" spawn="ALL" maximumNpcs="1">
+		<npc id="31980" pos="89939;-143454;-1527;9414" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_83" minZ="-1602" maxZ="-1482">
+		<node x="89794" y="-143891" />
+		<node x="89994" y="-143891" />
+		<node x="89994" y="-143691" />
+		<node x="89794" y="-143691" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_8301" territory="schuttgart01_npcxxxx_83" spawn="ALL" maximumNpcs="1">
+		<npc id="31092" pos="89894;-143791;-1542;61479" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_84" minZ="-1587" maxZ="-1467">
+		<node x="88429" y="-140916" />
+		<node x="88629" y="-140916" />
+		<node x="88629" y="-140716" />
+		<node x="88429" y="-140716" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_8401" territory="schuttgart01_npcxxxx_84" spawn="ALL" maximumNpcs="1">
+		<npc id="32092" pos="88529;-140816;-1527;59899" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_85" minZ="-1401" maxZ="-1281">
+		<node x="86695" y="-143228" />
+		<node x="86895" y="-143228" />
+		<node x="86895" y="-143028" />
+		<node x="86695" y="-143028" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_8501" territory="schuttgart01_npcxxxx_85" spawn="ALL" maximumNpcs="1">
+		<npc id="31997" pos="86795;-143128;-1341;21621" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_86" minZ="-1602" maxZ="-1482">
+		<node x="85029" y="-142253" />
+		<node x="85229" y="-142253" />
+		<node x="85229" y="-142053" />
+		<node x="85029" y="-142053" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_8601" territory="schuttgart01_npcxxxx_86" spawn="ALL" maximumNpcs="1">
+		<npc id="31998" pos="85129;-142153;-1542;26997" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_88" minZ="-1353" maxZ="-1233">
+		<node x="85000" y="-146000" />
+		<node x="87000" y="-146000" />
+		<node x="87000" y="-144000" />
+		<node x="85000" y="-144000" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_8801" territory="schuttgart01_npcxxxx_88" spawn="ALL" maximumNpcs="10">
+		<npc id="31691" pos="86318;-145200;-1293;0" total="1" respawnDelay="1m"/>
+		<npc id="31691" pos="86318;-145330;-1293;0" total="1" respawnDelay="1m"/>
+		<npc id="31691" pos="86318;-145460;-1293;0" total="1" respawnDelay="1m"/>
+		<npc id="31691" pos="86318;-145590;-1293;0" total="1" respawnDelay="1m"/>
+		<npc id="31691" pos="86318;-145720;-1293;0" total="1" respawnDelay="1m"/>
+		<npc id="31691" pos="86129;-145200;-1293;0" total="1" respawnDelay="1m"/>
+		<npc id="31691" pos="86129;-145330;-1293;0" total="1" respawnDelay="1m"/>
+		<npc id="31691" pos="86129;-145460;-1293;0" total="1" respawnDelay="1m"/>
+		<npc id="31691" pos="86129;-145590;-1293;0" total="1" respawnDelay="1m"/>
+		<npc id="31691" pos="86129;-145720;-1293;0" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_89" minZ="-1700" maxZ="-1282">
+		<node x="89000" y="-142000" />
+		<node x="89600" y="-142000" />
+		<node x="89600" y="-141000" />
+		<node x="89000" y="-141000" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_8901" territory="schuttgart01_npcxxxx_89" spawn="ALL" maximumNpcs="1">
+		<npc id="35558" pos="89357;-141589;-1536;0" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_9" minZ="-1353" maxZ="-1233">
+		<node x="88274" y="-145181" />
+		<node x="88474" y="-145181" />
+		<node x="88474" y="-144981" />
+		<node x="88274" y="-144981" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_901" territory="schuttgart01_npcxxxx_9" spawn="ALL" maximumNpcs="1">
+		<npc id="31971" pos="88374;-145081;-1293;40960" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npcxxxx_90" minZ="-1700" maxZ="-1282">
+		<node x="85000" y="-143200" />
+		<node x="86200" y="-143200" />
+		<node x="86200" y="-142000" />
+		<node x="85000" y="-142000" />
+	</territory>
+	<npcmaker name="schuttgart01_npcxxxx_9001" territory="schuttgart01_npcxxxx_90" spawn="ALL" maximumNpcs="1">
+		<npc id="30767" pos="85802;-142801;-1336;0" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart02_npcxxxx_01" minZ="-2196" maxZ="-1000">
+		<node x="87000" y="-142600" />
+		<node x="87300" y="-142600" />
+		<node x="87300" y="-142400" />
+		<node x="87000" y="-142400" />
+	</territory>
+	<npcmaker name="schuttgart02_npcxxxx_01" territory="schuttgart02_npcxxxx_01" spawn="ALL" maximumNpcs="1" event="ssq_seal2_dawn">
+		<npc id="31999" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart02_npcxxxx_02" minZ="-2196" maxZ="-1000">
+		<node x="87000" y="-142500" />
+		<node x="87200" y="-142500" />
+		<node x="87200" y="-142200" />
+		<node x="87000" y="-142200" />
+	</territory>
+	<npcmaker name="schuttgart02_npcxxxx_02" territory="schuttgart02_npcxxxx_02" spawn="ALL" maximumNpcs="1" event="ssq_seal2_dawn">
+		<npc id="32003" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart02_npcxxxx_03" minZ="-2196" maxZ="-1000">
+		<node x="84600" y="-141700" />
+		<node x="84800" y="-141700" />
+		<node x="84800" y="-141500" />
+		<node x="84600" y="-141500" />
+	</territory>
+	<npcmaker name="schuttgart02_npcxxxx_03" territory="schuttgart02_npcxxxx_03" spawn="ALL" maximumNpcs="1" event="ssq_seal2_dawn">
+		<npc id="32000" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart02_npcxxxx_04" minZ="-2196" maxZ="-1000">
+		<node x="84700" y="-141400" />
+		<node x="84900" y="-141400" />
+		<node x="84900" y="-141200" />
+		<node x="84700" y="-141200" />
+	</territory>
+	<npcmaker name="schuttgart02_npcxxxx_04" territory="schuttgart02_npcxxxx_04" spawn="ALL" maximumNpcs="1" event="ssq_seal2_dawn">
+		<npc id="32004" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart02_npcxxxx_05" minZ="-2196" maxZ="-1000">
+		<node x="87100" y="-140200" />
+		<node x="87300" y="-140200" />
+		<node x="87300" y="-140000" />
+		<node x="87100" y="-140000" />
+	</territory>
+	<npcmaker name="schuttgart02_npcxxxx_05" territory="schuttgart02_npcxxxx_05" spawn="ALL" maximumNpcs="1" event="ssq_seal2_dawn">
+		<npc id="32001" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart02_npcxxxx_06" minZ="-2196" maxZ="-1000">
+		<node x="87500" y="-140300" />
+		<node x="87700" y="-140300" />
+		<node x="87700" y="-140100" />
+		<node x="87500" y="-140100" />
+	</territory>
+	<npcmaker name="schuttgart02_npcxxxx_06" territory="schuttgart02_npcxxxx_06" spawn="ALL" maximumNpcs="1" event="ssq_seal2_dawn">
+		<npc id="32005" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart02_npcxxxx_07" minZ="-2196" maxZ="-1000">
+		<node x="89500" y="-141400" />
+		<node x="89700" y="-141400" />
+		<node x="89700" y="-141200" />
+		<node x="89500" y="-141200" />
+	</territory>
+	<npcmaker name="schuttgart02_npcxxxx_07" territory="schuttgart02_npcxxxx_07" spawn="ALL" maximumNpcs="1" event="ssq_seal2_dawn">
+		<npc id="32002" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart02_npcxxxx_08" minZ="-2196" maxZ="-1000">
+		<node x="89700" y="-141600" />
+		<node x="89900" y="-141600" />
+		<node x="89900" y="-141400" />
+		<node x="89700" y="-141400" />
+	</territory>
+	<npcmaker name="schuttgart02_npcxxxx_08" territory="schuttgart02_npcxxxx_08" spawn="ALL" maximumNpcs="1" event="ssq_seal2_dawn">
+		<npc id="32006" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart20_npc2213_tb01" minZ="-1375" maxZ="-1175">
+		<node x="87692" y="-142340" />
+		<node x="87892" y="-142340" />
+		<node x="87892" y="-142140" />
+		<node x="87692" y="-142140" />
+	</territory>
+	<npcmaker name="schuttgart20_npc2213_tb01" territory="schuttgart20_npc2213_tb01" spawn="ALL" maximumNpcs="9" event="trick_or_transmutation">
+		<npc id="32132" pos="87792;-142240;-1343;44000" total="1" respawnDelay="1m"/>
+		<npc id="13036" pos="87872;-142244;-1339;64039" total="1" respawnDelay="15s"/>
+		<npc id="13036" pos="87729;-142173;-1341;25392" total="1" respawnDelay="15s"/>
+		<npc id="13036" pos="87858;-142283;-1339;59415" total="1" respawnDelay="15s"/>
+		<npc id="13036" pos="87829;-142312;-1339;55009" total="1" respawnDelay="15s"/>
+		<npc id="13036" pos="87784;-142322;-1339;47255" total="1" respawnDelay="15s"/>
+		<npc id="13036" pos="87722;-142289;-1341;40624" total="1" respawnDelay="15s"/>
+		<npc id="13036" pos="87705;-142249;-1341;33648" total="1" respawnDelay="15s"/>
+		<npc id="13036" pos="87708;-142209;-1341;30248" total="1" respawnDelay="15s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart20_npc2213_tb02" minZ="-1576" maxZ="-1376">
+		<node x="87450" y="-140745" />
+		<node x="87650" y="-140745" />
+		<node x="87650" y="-140545" />
+		<node x="87450" y="-140545" />
+	</territory>
+	<npcmaker name="schuttgart20_npc2213_tb02" territory="schuttgart20_npc2213_tb02" spawn="ALL" maximumNpcs="9" event="trick_or_transmutation">
+		<npc id="32132" pos="87557;-140657;-1542;20476" total="1" respawnDelay="1m"/>
+		<npc id="13036" pos="87494;-140712;-1539;40191" total="1" respawnDelay="15s"/>
+		<npc id="13036" pos="87642;-140651;-1540;1544" total="1" respawnDelay="15s"/>
+		<npc id="13036" pos="87474;-140675;-1539;35567" total="1" respawnDelay="15s"/>
+		<npc id="13036" pos="87471;-140634;-1539;31161" total="1" respawnDelay="15s"/>
+		<npc id="13036" pos="87494;-140594;-1539;23407" total="1" respawnDelay="15s"/>
+		<npc id="13036" pos="87559;-140569;-1540;16776" total="1" respawnDelay="15s"/>
+		<npc id="13036" pos="87600;-140582;-1540;9800" total="1" respawnDelay="15s"/>
+		<npc id="13036" pos="87628;-140611;-1540;6400" total="1" respawnDelay="15s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart_npc2213_omega01" minZ="-1556" maxZ="-1236">
+		<node x="89630" y="-140910" />
+		<node x="89830" y="-140910" />
+		<node x="89830" y="-140710" />
+		<node x="89630" y="-140710" />
+	</territory>
+	<npcmaker name="schuttgart_npc2213_omega01" territory="schuttgart_npc2213_omega01" spawn="ALL" maximumNpcs="1000" event="omegas_revenge">
+		<npc id="32091" pos="89730;-140810;-1536;32768" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart_npc2213_omega02" minZ="-1356" maxZ="-1036">
+		<node x="88640" y="-142840" />
+		<node x="88840" y="-142840" />
+		<node x="88840" y="-142640" />
+		<node x="88640" y="-142640" />
+	</territory>
+	<npcmaker name="schuttgart_npc2213_omega02" territory="schuttgart_npc2213_omega02" spawn="ALL" maximumNpcs="1000" event="omegas_revenge">
+		<npc id="32091" pos="88740;-142740;-1336;16384" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart_npc2213_omega03" minZ="-1356" maxZ="-1036">
+		<node x="85960" y="-142770" />
+		<node x="86160" y="-142770" />
+		<node x="86160" y="-142570" />
+		<node x="85960" y="-142570" />
+	</territory>
+	<npcmaker name="schuttgart_npc2213_omega03" territory="schuttgart_npc2213_omega03" spawn="ALL" maximumNpcs="1000" event="omegas_revenge">
+		<npc id="32091" pos="86060;-142670;-1336;16384" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart_npc2213_omega04" minZ="-1556" maxZ="-1236">
+		<node x="85210" y="-141460" />
+		<node x="85410" y="-141460" />
+		<node x="85410" y="-141260" />
+		<node x="85210" y="-141260" />
+	</territory>
+	<npcmaker name="schuttgart_npc2213_omega04" territory="schuttgart_npc2213_omega04" spawn="ALL" maximumNpcs="1000" event="omegas_revenge">
+		<npc id="32091" pos="85310;-141360;-1536;32768" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart_npc2213_xm01" minZ="-1556" maxZ="-1236">
+		<node x="89630" y="-140910" />
+		<node x="89830" y="-140910" />
+		<node x="89830" y="-140660" />
+		<node x="89630" y="-140660" />
+	</territory>
+	<npcmaker name="schuttgart_npc2213_xm01" territory="schuttgart_npc2213_xm01" spawn="ALL" maximumNpcs="2" event="christmas">
+		<npc id="31864" pos="89730;-140810;-1536;32768" total="1" respawnDelay="1m"/>
+		<npc id="13006" pos="89730;-140760;-1536;32768" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart_npc2213_xm02" minZ="-1356" maxZ="-1036">
+		<node x="88590" y="-142840" />
+		<node x="88840" y="-142840" />
+		<node x="88840" y="-142640" />
+		<node x="88590" y="-142640" />
+	</territory>
+	<npcmaker name="schuttgart_npc2213_xm02" territory="schuttgart_npc2213_xm02" spawn="ALL" maximumNpcs="2" event="christmas">
+		<npc id="31864" pos="88740;-142740;-1336;16384" total="1" respawnDelay="1m"/>
+		<npc id="13006" pos="88690;-142740;-1336;16384" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart_npc2213_xm03" minZ="-1356" maxZ="-1036">
+		<node x="85910" y="-142770" />
+		<node x="86160" y="-142770" />
+		<node x="86160" y="-142570" />
+		<node x="85910" y="-142570" />
+	</territory>
+	<npcmaker name="schuttgart_npc2213_xm03" territory="schuttgart_npc2213_xm03" spawn="ALL" maximumNpcs="2" event="christmas">
+		<npc id="31864" pos="86060;-142670;-1336;16384" total="1" respawnDelay="1m"/>
+		<npc id="13006" pos="86010;-142670;-1336;16384" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart_npc2213_xm04" minZ="-1556" maxZ="-1236">
+		<node x="85210" y="-141460" />
+		<node x="85410" y="-141460" />
+		<node x="85410" y="-141200" />
+		<node x="85210" y="-141200" />
+	</territory>
+	<npcmaker name="schuttgart_npc2213_xm04" territory="schuttgart_npc2213_xm04" spawn="ALL" maximumNpcs="2" event="christmas">
+		<npc id="31864" pos="85310;-141360;-1536;32768" total="1" respawnDelay="1m"/>
+		<npc id="13006" pos="85310;-141300;-1536;32768" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart_npc2213_zc01" minZ="-1556" maxZ="-1236">
+		<node x="89630" y="-140910" />
+		<node x="89830" y="-140910" />
+		<node x="89830" y="-140710" />
+		<node x="89630" y="-140710" />
+	</territory>
+	<npcmaker name="schuttgart_npc2213_zc01" territory="schuttgart_npc2213_zc01" spawn="ALL" maximumNpcs="1" event="zaken_curse">
+		<npc id="32131" pos="89730;-140810;-1536;32768" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart_npc2213_zc02" minZ="-1356" maxZ="-1036">
+		<node x="88640" y="-142840" />
+		<node x="88840" y="-142840" />
+		<node x="88840" y="-142640" />
+		<node x="88640" y="-142640" />
+	</territory>
+	<npcmaker name="schuttgart_npc2213_zc02" territory="schuttgart_npc2213_zc02" spawn="ALL" maximumNpcs="1" event="zaken_curse">
+		<npc id="32131" pos="88740;-142740;-1336;16384" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart_npc2213_zc03" minZ="-1356" maxZ="-1036">
+		<node x="85960" y="-142770" />
+		<node x="86160" y="-142770" />
+		<node x="86160" y="-142570" />
+		<node x="85960" y="-142570" />
+	</territory>
+	<npcmaker name="schuttgart_npc2213_zc03" territory="schuttgart_npc2213_zc03" spawn="ALL" maximumNpcs="1" event="zaken_curse">
+		<npc id="32131" pos="86060;-142670;-1336;16384" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart_npc2213_zc04" minZ="-1556" maxZ="-1236">
+		<node x="85210" y="-141460" />
+		<node x="85410" y="-141460" />
+		<node x="85410" y="-141260" />
+		<node x="85210" y="-141260" />
+	</territory>
+	<npcmaker name="schuttgart_npc2213_zc04" territory="schuttgart_npc2213_zc04" spawn="ALL" maximumNpcs="1" event="zaken_curse">
+		<npc id="32131" pos="85310;-141360;-1536;32768" total="1" respawnDelay="1m"/>
+	</npcmaker>
+</list>

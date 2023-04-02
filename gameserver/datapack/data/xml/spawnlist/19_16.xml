@@ -1,0 +1,4702 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Rune Area
+ * Pagan Temple
+-->
+<list>
+	<!--  -->
+	<territory name="Pagan_Temple_0" minZ="-11614" maxZ="-10814">
+		<node x="-12920" y="-54428" />
+		<node x="-11920" y="-54428" />
+		<node x="-11920" y="-53428" />
+		<node x="-12920" y="-53428" />
+	</territory>
+	<npcmaker name="Pagan_Temple_0" territory="Pagan_Temple_0" spawn="ALL" maximumNpcs="1">
+		<npc id="22152" pos="-12420;-53928;-11114;33922" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_1" minZ="-11917" maxZ="-9917">
+		<node x="-13817" y="-49281" />
+		<node x="-13817" y="-48881" />
+		<node x="-13417" y="-48881" />
+		<node x="-13417" y="-49281" />
+	</territory>
+	<npcmaker name="Pagan_Temple_1" territory="Pagan_Temple_1" spawn="ALL" maximumNpcs="1">
+		<npc id="22153" pos="-13617;-49081;-10917;23575" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_10" minZ="-11513" maxZ="-10713">
+		<node x="-12802" y="-52446" />
+		<node x="-11802" y="-52446" />
+		<node x="-11802" y="-51446" />
+		<node x="-12802" y="-51446" />
+	</territory>
+	<npcmaker name="Pagan_Temple_10" territory="Pagan_Temple_10" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-12302;-51946;-11013;26682" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_100" minZ="-11225" maxZ="-10425">
+		<node x="-16653" y="-42579" />
+		<node x="-15653" y="-42579" />
+		<node x="-15653" y="-41579" />
+		<node x="-16653" y="-41579" />
+	</territory>
+	<npcmaker name="Pagan_Temple_100" territory="Pagan_Temple_100" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-16153;-42079;-10725;59582" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_101" minZ="-11225" maxZ="-10425">
+		<node x="-17513" y="-40054" />
+		<node x="-16513" y="-40054" />
+		<node x="-16513" y="-39054" />
+		<node x="-17513" y="-39054" />
+	</territory>
+	<npcmaker name="Pagan_Temple_101" territory="Pagan_Temple_101" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-17013;-39554;-10725;42596" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_102" minZ="-11225" maxZ="-10425">
+		<node x="-17676" y="-41680" />
+		<node x="-16676" y="-41680" />
+		<node x="-16676" y="-40680" />
+		<node x="-17676" y="-40680" />
+	</territory>
+	<npcmaker name="Pagan_Temple_102" territory="Pagan_Temple_102" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-17176;-41180;-10725;45019" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_103" minZ="-11225" maxZ="-10425">
+		<node x="-17909" y="-45038" />
+		<node x="-16909" y="-45038" />
+		<node x="-16909" y="-44038" />
+		<node x="-17909" y="-44038" />
+	</territory>
+	<npcmaker name="Pagan_Temple_103" territory="Pagan_Temple_103" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-17409;-44538;-10725;36321" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_104" minZ="-11225" maxZ="-10425">
+		<node x="-17999" y="-46091" />
+		<node x="-16999" y="-46091" />
+		<node x="-16999" y="-45091" />
+		<node x="-17999" y="-45091" />
+	</territory>
+	<npcmaker name="Pagan_Temple_104" territory="Pagan_Temple_104" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-17499;-45591;-10725;25624" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_105" minZ="-11321" maxZ="-10521">
+		<node x="-18046" y="-47627" />
+		<node x="-17046" y="-47627" />
+		<node x="-17046" y="-46627" />
+		<node x="-18046" y="-46627" />
+	</territory>
+	<npcmaker name="Pagan_Temple_105" territory="Pagan_Temple_105" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-17546;-47127;-10821;45136" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_106" minZ="-11225" maxZ="-10425">
+		<node x="-18445" y="-45117" />
+		<node x="-17445" y="-45117" />
+		<node x="-17445" y="-44117" />
+		<node x="-18445" y="-44117" />
+	</territory>
+	<npcmaker name="Pagan_Temple_106" territory="Pagan_Temple_106" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-17945;-44617;-10725;54292" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_107" minZ="-11225" maxZ="-10425">
+		<node x="-18493" y="-46040" />
+		<node x="-17493" y="-46040" />
+		<node x="-17493" y="-45040" />
+		<node x="-18493" y="-45040" />
+	</territory>
+	<npcmaker name="Pagan_Temple_107" territory="Pagan_Temple_107" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-17993;-45540;-10725;9073" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_108" minZ="-11513" maxZ="-10713">
+		<node x="-12907" y="-52023" />
+		<node x="-11907" y="-52023" />
+		<node x="-11907" y="-51023" />
+		<node x="-12907" y="-51023" />
+	</territory>
+	<npcmaker name="Pagan_Temple_108" territory="Pagan_Temple_108" spawn="ALL" maximumNpcs="1">
+		<npc id="22151" pos="-12407;-51523;-11013;22227" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_109" minZ="-11513" maxZ="-10713">
+		<node x="-14120" y="-51298" />
+		<node x="-13120" y="-51298" />
+		<node x="-13120" y="-50298" />
+		<node x="-14120" y="-50298" />
+	</territory>
+	<npcmaker name="Pagan_Temple_109" territory="Pagan_Temple_109" spawn="ALL" maximumNpcs="1">
+		<npc id="22151" pos="-13620;-50798;-11013;64637" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_11" minZ="-11438" maxZ="-10638">
+		<node x="-13106" y="-53227" />
+		<node x="-12106" y="-53227" />
+		<node x="-12106" y="-52227" />
+		<node x="-13106" y="-52227" />
+	</territory>
+	<npcmaker name="Pagan_Temple_11" territory="Pagan_Temple_11" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-12606;-52727;-10938;5934" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_110" minZ="-11417" maxZ="-10617">
+		<node x="-19526" y="-49407" />
+		<node x="-18526" y="-49407" />
+		<node x="-18526" y="-48407" />
+		<node x="-19526" y="-48407" />
+	</territory>
+	<npcmaker name="Pagan_Temple_110" territory="Pagan_Temple_110" spawn="ALL" maximumNpcs="1">
+		<npc id="22151" pos="-19026;-48907;-10917;17369" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_111" minZ="-11513" maxZ="-10713">
+		<node x="-19817" y="-51807" />
+		<node x="-18817" y="-51807" />
+		<node x="-18817" y="-50807" />
+		<node x="-19817" y="-50807" />
+	</territory>
+	<npcmaker name="Pagan_Temple_111" territory="Pagan_Temple_111" spawn="ALL" maximumNpcs="1">
+		<npc id="22151" pos="-19317;-51307;-11013;5869" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_112" minZ="-11321" maxZ="-10521">
+		<node x="-15743" y="-48135" />
+		<node x="-14743" y="-48135" />
+		<node x="-14743" y="-47135" />
+		<node x="-15743" y="-47135" />
+	</territory>
+	<npcmaker name="Pagan_Temple_112" territory="Pagan_Temple_112" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-15243;-47635;-10821;2657" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_113" minZ="-11321" maxZ="-10521">
+		<node x="-15662" y="-47040" />
+		<node x="-14662" y="-47040" />
+		<node x="-14662" y="-46040" />
+		<node x="-15662" y="-46040" />
+	</territory>
+	<npcmaker name="Pagan_Temple_113" territory="Pagan_Temple_113" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-15162;-46540;-10821;49413" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_114" minZ="-11513" maxZ="-10713">
+		<node x="-14432" y="-52045" />
+		<node x="-13432" y="-52045" />
+		<node x="-13432" y="-51045" />
+		<node x="-14432" y="-51045" />
+	</territory>
+	<npcmaker name="Pagan_Temple_114" territory="Pagan_Temple_114" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-13932;-51545;-11013;36421" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_115" minZ="-11321" maxZ="-10521">
+		<node x="-14515" y="-47342" />
+		<node x="-13515" y="-47342" />
+		<node x="-13515" y="-46342" />
+		<node x="-14515" y="-46342" />
+	</territory>
+	<npcmaker name="Pagan_Temple_115" territory="Pagan_Temple_115" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-14015;-46842;-10821;46950" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_116" minZ="-11225" maxZ="-10425">
+		<node x="-16043" y="-45648" />
+		<node x="-15043" y="-45648" />
+		<node x="-15043" y="-44648" />
+		<node x="-16043" y="-44648" />
+	</territory>
+	<npcmaker name="Pagan_Temple_116" territory="Pagan_Temple_116" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-15543;-45148;-10725;21426" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_117" minZ="-11251" maxZ="-10451">
+		<node x="-18108" y="-45688" />
+		<node x="-17108" y="-45688" />
+		<node x="-17108" y="-44688" />
+		<node x="-18108" y="-44688" />
+	</territory>
+	<npcmaker name="Pagan_Temple_117" territory="Pagan_Temple_117" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-17608;-45188;-10751;21419" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_118" minZ="-11321" maxZ="-10521">
+		<node x="-18292" y="-48116" />
+		<node x="-17292" y="-48116" />
+		<node x="-17292" y="-47116" />
+		<node x="-18292" y="-47116" />
+	</territory>
+	<npcmaker name="Pagan_Temple_118" territory="Pagan_Temple_118" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-17792;-47616;-10821;43488" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_119" minZ="-11513" maxZ="-10713">
+		<node x="-19225" y="-51323" />
+		<node x="-18225" y="-51323" />
+		<node x="-18225" y="-50323" />
+		<node x="-19225" y="-50323" />
+	</territory>
+	<npcmaker name="Pagan_Temple_119" territory="Pagan_Temple_119" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-18725;-50823;-11013;51912" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_12" minZ="-11513" maxZ="-10713">
+		<node x="-14344" y="-51647" />
+		<node x="-13344" y="-51647" />
+		<node x="-13344" y="-50647" />
+		<node x="-14344" y="-50647" />
+	</territory>
+	<npcmaker name="Pagan_Temple_12" territory="Pagan_Temple_12" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-13844;-51147;-11013;54974" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_120" minZ="-11321" maxZ="-10521">
+		<node x="-19534" y="-47332" />
+		<node x="-18534" y="-47332" />
+		<node x="-18534" y="-46332" />
+		<node x="-19534" y="-46332" />
+	</territory>
+	<npcmaker name="Pagan_Temple_120" territory="Pagan_Temple_120" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-19034;-46832;-10821;52902" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_121" minZ="-11225" maxZ="-10425">
+		<node x="-19548" y="-45280" />
+		<node x="-18548" y="-45280" />
+		<node x="-18548" y="-44280" />
+		<node x="-19548" y="-44280" />
+	</territory>
+	<npcmaker name="Pagan_Temple_121" territory="Pagan_Temple_121" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-19048;-44780;-10725;3830" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_122" minZ="-11225" maxZ="-10425">
+		<node x="-19649" y="-45957" />
+		<node x="-18649" y="-45957" />
+		<node x="-18649" y="-44957" />
+		<node x="-19649" y="-44957" />
+	</territory>
+	<npcmaker name="Pagan_Temple_122" territory="Pagan_Temple_122" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-19149;-45457;-10725;13449" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_123" minZ="-11513" maxZ="-10713">
+		<node x="-19923" y="-51956" />
+		<node x="-18923" y="-51956" />
+		<node x="-18923" y="-50956" />
+		<node x="-19923" y="-50956" />
+	</territory>
+	<npcmaker name="Pagan_Temple_123" territory="Pagan_Temple_123" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-19423;-51456;-11013;40167" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_124" minZ="-11321" maxZ="-10521">
+		<node x="-21011" y="-47295" />
+		<node x="-20011" y="-47295" />
+		<node x="-20011" y="-46295" />
+		<node x="-21011" y="-46295" />
+	</territory>
+	<npcmaker name="Pagan_Temple_124" territory="Pagan_Temple_124" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-20511;-46795;-10821;44566" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_125" minZ="-11321" maxZ="-10521">
+		<node x="-21295" y="-48131" />
+		<node x="-20295" y="-48131" />
+		<node x="-20295" y="-47131" />
+		<node x="-21295" y="-47131" />
+	</territory>
+	<npcmaker name="Pagan_Temple_125" territory="Pagan_Temple_125" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-20795;-47631;-10821;1066" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_126" minZ="-11225" maxZ="-10425">
+		<node x="-15204" y="-45992" />
+		<node x="-14204" y="-45992" />
+		<node x="-14204" y="-44992" />
+		<node x="-15204" y="-44992" />
+	</territory>
+	<npcmaker name="Pagan_Temple_126" territory="Pagan_Temple_126" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-14704;-45492;-10725;51089" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_127" minZ="-11321" maxZ="-10521">
+		<node x="-15502" y="-47568" />
+		<node x="-14502" y="-47568" />
+		<node x="-14502" y="-46568" />
+		<node x="-15502" y="-46568" />
+	</territory>
+	<npcmaker name="Pagan_Temple_127" territory="Pagan_Temple_127" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-15002;-47068;-10821;41941" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_128" minZ="-11513" maxZ="-10713">
+		<node x="-20847" y="-51177" />
+		<node x="-19847" y="-51177" />
+		<node x="-19847" y="-50177" />
+		<node x="-20847" y="-50177" />
+	</territory>
+	<npcmaker name="Pagan_Temple_128" territory="Pagan_Temple_128" spawn="ALL" maximumNpcs="1">
+		<npc id="22151" pos="-20347;-50677;-11013;43591" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_13" minZ="-11443" maxZ="-10643">
+		<node x="-15501" y="-49506" />
+		<node x="-14501" y="-49506" />
+		<node x="-14501" y="-48506" />
+		<node x="-15501" y="-48506" />
+	</territory>
+	<npcmaker name="Pagan_Temple_13" territory="Pagan_Temple_13" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-15001;-49006;-10943;57447" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_14" minZ="-11417" maxZ="-10617">
+		<node x="-16024" y="-49585" />
+		<node x="-15024" y="-49585" />
+		<node x="-15024" y="-48585" />
+		<node x="-16024" y="-48585" />
+	</territory>
+	<npcmaker name="Pagan_Temple_14" territory="Pagan_Temple_14" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-15524;-49085;-10917;16951" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_15" minZ="-11614" maxZ="-10814">
+		<node x="-12867" y="-54799" />
+		<node x="-11867" y="-54799" />
+		<node x="-11867" y="-53799" />
+		<node x="-12867" y="-53799" />
+	</territory>
+	<npcmaker name="Pagan_Temple_15" territory="Pagan_Temple_15" spawn="ALL" maximumNpcs="1">
+		<npc id="22153" pos="-12367;-54299;-11114;2327" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_16" minZ="-11417" maxZ="-10617">
+		<node x="-12840" y="-49571" />
+		<node x="-11840" y="-49571" />
+		<node x="-11840" y="-48571" />
+		<node x="-12840" y="-48571" />
+	</territory>
+	<npcmaker name="Pagan_Temple_16" territory="Pagan_Temple_16" spawn="ALL" maximumNpcs="1">
+		<npc id="22153" pos="-12340;-49071;-10917;54978" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_162" minZ="-11335" maxZ="-10535">
+		<node x="-11734" y="-38357" />
+		<node x="-10734" y="-38357" />
+		<node x="-10734" y="-37357" />
+		<node x="-11734" y="-37357" />
+	</territory>
+	<npcmaker name="Pagan_Temple_162" territory="Pagan_Temple_162" spawn="ALL" maximumNpcs="1">
+		<npc id="22194" pos="-11234;-37857;-10835;30762" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_163" minZ="-11335" maxZ="-10535">
+		<node x="-11734" y="-38451" />
+		<node x="-10734" y="-38451" />
+		<node x="-10734" y="-37451" />
+		<node x="-11734" y="-37451" />
+	</territory>
+	<npcmaker name="Pagan_Temple_163" territory="Pagan_Temple_163" spawn="ALL" maximumNpcs="1">
+		<npc id="22194" pos="-11234;-37951;-10835;30762" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_164" minZ="-11321" maxZ="-10521">
+		<node x="-11734" y="-38539" />
+		<node x="-10734" y="-38539" />
+		<node x="-10734" y="-37539" />
+		<node x="-11734" y="-37539" />
+	</territory>
+	<npcmaker name="Pagan_Temple_164" territory="Pagan_Temple_164" spawn="ALL" maximumNpcs="1">
+		<npc id="22194" pos="-11234;-38039;-10821;30762" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_165" minZ="-11350" maxZ="-10550">
+		<node x="-22021" y="-42086" />
+		<node x="-21021" y="-42086" />
+		<node x="-21021" y="-41086" />
+		<node x="-22021" y="-41086" />
+	</territory>
+	<npcmaker name="Pagan_Temple_165" territory="Pagan_Temple_165" spawn="ALL" maximumNpcs="1">
+		<npc id="22194" pos="-21521;-41586;-10850;703" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_166" minZ="-11338" maxZ="-10538">
+		<node x="-22021" y="-42175" />
+		<node x="-21021" y="-42175" />
+		<node x="-21021" y="-41175" />
+		<node x="-22021" y="-41175" />
+	</territory>
+	<npcmaker name="Pagan_Temple_166" territory="Pagan_Temple_166" spawn="ALL" maximumNpcs="1">
+		<npc id="22194" pos="-21521;-41675;-10838;703" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_167" minZ="-11326" maxZ="-10526">
+		<node x="-22021" y="-42262" />
+		<node x="-21021" y="-42262" />
+		<node x="-21021" y="-41262" />
+		<node x="-22021" y="-41262" />
+	</territory>
+	<npcmaker name="Pagan_Temple_167" territory="Pagan_Temple_167" spawn="ALL" maximumNpcs="1">
+		<npc id="22194" pos="-21521;-41762;-10826;703" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_168" minZ="-11322" maxZ="-10522">
+		<node x="-22022" y="-40222" />
+		<node x="-21022" y="-40222" />
+		<node x="-21022" y="-39222" />
+		<node x="-22022" y="-39222" />
+	</territory>
+	<npcmaker name="Pagan_Temple_168" territory="Pagan_Temple_168" spawn="ALL" maximumNpcs="1">
+		<npc id="22194" pos="-21522;-39722;-10822;2407" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_169" minZ="-11352" maxZ="-10552">
+		<node x="-22022" y="-40319" />
+		<node x="-21022" y="-40319" />
+		<node x="-21022" y="-39319" />
+		<node x="-22022" y="-39319" />
+	</territory>
+	<npcmaker name="Pagan_Temple_169" territory="Pagan_Temple_169" spawn="ALL" maximumNpcs="1">
+		<npc id="22194" pos="-21522;-39819;-10852;2407" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_17" minZ="-11438" maxZ="-10638">
+		<node x="-13009" y="-53069" />
+		<node x="-12009" y="-53069" />
+		<node x="-12009" y="-52069" />
+		<node x="-13009" y="-52069" />
+	</territory>
+	<npcmaker name="Pagan_Temple_17" territory="Pagan_Temple_17" spawn="ALL" maximumNpcs="1">
+		<npc id="22152" pos="-12509;-52569;-10938;32156" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_170" minZ="-11325" maxZ="-10525">
+		<node x="-22022" y="-40410" />
+		<node x="-21022" y="-40410" />
+		<node x="-21022" y="-39410" />
+		<node x="-22022" y="-39410" />
+	</territory>
+	<npcmaker name="Pagan_Temple_170" territory="Pagan_Temple_170" spawn="ALL" maximumNpcs="1">
+		<npc id="22194" pos="-21522;-39910;-10825;2407" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_171" minZ="-11325" maxZ="-10525">
+		<node x="-22029" y="-43960" />
+		<node x="-21029" y="-43960" />
+		<node x="-21029" y="-42960" />
+		<node x="-22029" y="-42960" />
+	</territory>
+	<npcmaker name="Pagan_Temple_171" territory="Pagan_Temple_171" spawn="ALL" maximumNpcs="1">
+		<npc id="22194" pos="-21529;-43460;-10825;99" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_172" minZ="-11331" maxZ="-10531">
+		<node x="-22029" y="-44048" />
+		<node x="-21029" y="-44048" />
+		<node x="-21029" y="-43048" />
+		<node x="-22029" y="-43048" />
+	</territory>
+	<npcmaker name="Pagan_Temple_172" territory="Pagan_Temple_172" spawn="ALL" maximumNpcs="1">
+		<npc id="22194" pos="-21529;-43548;-10831;99" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_173" minZ="-11314" maxZ="-10514">
+		<node x="-22029" y="-44142" />
+		<node x="-21029" y="-44142" />
+		<node x="-21029" y="-43142" />
+		<node x="-22029" y="-43142" />
+	</territory>
+	<npcmaker name="Pagan_Temple_173" territory="Pagan_Temple_173" spawn="ALL" maximumNpcs="1">
+		<npc id="22194" pos="-21529;-43642;-10814;99" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_174" minZ="-11331" maxZ="-10531">
+		<node x="-22031" y="-38354" />
+		<node x="-21031" y="-38354" />
+		<node x="-21031" y="-37354" />
+		<node x="-22031" y="-37354" />
+	</territory>
+	<npcmaker name="Pagan_Temple_174" territory="Pagan_Temple_174" spawn="ALL" maximumNpcs="1">
+		<npc id="22194" pos="-21531;-37854;-10831;65271" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_175" minZ="-11345" maxZ="-10545">
+		<node x="-22031" y="-38451" />
+		<node x="-21031" y="-38451" />
+		<node x="-21031" y="-37451" />
+		<node x="-22031" y="-37451" />
+	</territory>
+	<npcmaker name="Pagan_Temple_175" territory="Pagan_Temple_175" spawn="ALL" maximumNpcs="1">
+		<npc id="22194" pos="-21531;-37951;-10845;65271" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_176" minZ="-11341" maxZ="-10541">
+		<node x="-11706" y="-42190" />
+		<node x="-10706" y="-42190" />
+		<node x="-10706" y="-41190" />
+		<node x="-11706" y="-41190" />
+	</territory>
+	<npcmaker name="Pagan_Temple_176" territory="Pagan_Temple_176" spawn="ALL" maximumNpcs="1">
+		<npc id="22194" pos="-11206;-41690;-10841;32668" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_177" minZ="-11327" maxZ="-10527">
+		<node x="-11706" y="-42097" />
+		<node x="-10706" y="-42097" />
+		<node x="-10706" y="-41097" />
+		<node x="-11706" y="-41097" />
+	</territory>
+	<npcmaker name="Pagan_Temple_177" territory="Pagan_Temple_177" spawn="ALL" maximumNpcs="1">
+		<npc id="22194" pos="-11206;-41597;-10827;32668" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_18" minZ="-11614" maxZ="-10814">
+		<node x="-13587" y="-54900" />
+		<node x="-12587" y="-54900" />
+		<node x="-12587" y="-53900" />
+		<node x="-13587" y="-53900" />
+	</territory>
+	<npcmaker name="Pagan_Temple_18" territory="Pagan_Temple_18" spawn="ALL" maximumNpcs="1">
+		<npc id="22152" pos="-13087;-54400;-11114;65404" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_185" minZ="-11333" maxZ="-10533">
+		<node x="-11666" y="-43964" />
+		<node x="-10666" y="-43964" />
+		<node x="-10666" y="-42964" />
+		<node x="-11666" y="-42964" />
+	</territory>
+	<npcmaker name="Pagan_Temple_185" territory="Pagan_Temple_185" spawn="ALL" maximumNpcs="1">
+		<npc id="22194" pos="-11166;-43464;-10833;32364" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_186" minZ="-11338" maxZ="-10538">
+		<node x="-11666" y="-44052" />
+		<node x="-10666" y="-44052" />
+		<node x="-10666" y="-43052" />
+		<node x="-11666" y="-43052" />
+	</territory>
+	<npcmaker name="Pagan_Temple_186" territory="Pagan_Temple_186" spawn="ALL" maximumNpcs="1">
+		<npc id="22194" pos="-11166;-43552;-10838;32364" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_187" minZ="-11341" maxZ="-10541">
+		<node x="-11666" y="-44138" />
+		<node x="-10666" y="-44138" />
+		<node x="-10666" y="-43138" />
+		<node x="-11666" y="-43138" />
+	</territory>
+	<npcmaker name="Pagan_Temple_187" territory="Pagan_Temple_187" spawn="ALL" maximumNpcs="1">
+		<npc id="22194" pos="-11166;-43638;-10841;32364" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_188" minZ="-11331" maxZ="-10531">
+		<node x="-11692" y="-40226" />
+		<node x="-10692" y="-40226" />
+		<node x="-10692" y="-39226" />
+		<node x="-11692" y="-39226" />
+	</territory>
+	<npcmaker name="Pagan_Temple_188" territory="Pagan_Temple_188" spawn="ALL" maximumNpcs="1">
+		<npc id="22194" pos="-11192;-39726;-10831;31528" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_189" minZ="-11332" maxZ="-10532">
+		<node x="-11692" y="-40313" />
+		<node x="-10692" y="-40313" />
+		<node x="-10692" y="-39313" />
+		<node x="-11692" y="-39313" />
+	</territory>
+	<npcmaker name="Pagan_Temple_189" territory="Pagan_Temple_189" spawn="ALL" maximumNpcs="1">
+		<npc id="22194" pos="-11192;-39813;-10832;31528" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_19" minZ="-11513" maxZ="-10713">
+		<node x="-14399" y="-51707" />
+		<node x="-13399" y="-51707" />
+		<node x="-13399" y="-50707" />
+		<node x="-14399" y="-50707" />
+	</territory>
+	<npcmaker name="Pagan_Temple_19" territory="Pagan_Temple_19" spawn="ALL" maximumNpcs="1">
+		<npc id="22152" pos="-13899;-51207;-11013;4363" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_190" minZ="-11332" maxZ="-10532">
+		<node x="-11692" y="-40405" />
+		<node x="-10692" y="-40405" />
+		<node x="-10692" y="-39405" />
+		<node x="-11692" y="-39405" />
+	</territory>
+	<npcmaker name="Pagan_Temple_190" territory="Pagan_Temple_190" spawn="ALL" maximumNpcs="1">
+		<npc id="22194" pos="-11192;-39905;-10832;31528" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_191" minZ="-11329" maxZ="-10529">
+		<node x="-11704" y="-42282" />
+		<node x="-10704" y="-42282" />
+		<node x="-10704" y="-41282" />
+		<node x="-11704" y="-41282" />
+	</territory>
+	<npcmaker name="Pagan_Temple_191" territory="Pagan_Temple_191" spawn="ALL" maximumNpcs="1">
+		<npc id="22194" pos="-11204;-41782;-10829;32668" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_192" minZ="-11335" maxZ="-10535">
+		<node x="-22031" y="-38532" />
+		<node x="-21031" y="-38532" />
+		<node x="-21031" y="-37532" />
+		<node x="-22031" y="-37532" />
+	</territory>
+	<npcmaker name="Pagan_Temple_192" territory="Pagan_Temple_192" spawn="ALL" maximumNpcs="1">
+		<npc id="22194" pos="-21531;-38032;-10835;65271" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_2" minZ="-11417" maxZ="-10617">
+		<node x="-14142" y="-50153" />
+		<node x="-13142" y="-50153" />
+		<node x="-13142" y="-49153" />
+		<node x="-14142" y="-49153" />
+	</territory>
+	<npcmaker name="Pagan_Temple_2" territory="Pagan_Temple_2" spawn="ALL" maximumNpcs="1">
+		<npc id="22153" pos="-13642;-49653;-10917;61593" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_20" minZ="-11443" maxZ="-10643">
+		<node x="-15812" y="-49973" />
+		<node x="-14812" y="-49973" />
+		<node x="-14812" y="-48973" />
+		<node x="-15812" y="-48973" />
+	</territory>
+	<npcmaker name="Pagan_Temple_20" territory="Pagan_Temple_20" spawn="ALL" maximumNpcs="1">
+		<npc id="22152" pos="-15312;-49473;-10943;38725" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_203" minZ="-12065" maxZ="-11265">
+		<node x="-15441" y="-53716" />
+		<node x="-14441" y="-53716" />
+		<node x="-14441" y="-52716" />
+		<node x="-15441" y="-52716" />
+	</territory>
+	<npcmaker name="Pagan_Temple_203" territory="Pagan_Temple_203" spawn="ALL" maximumNpcs="6">
+		<npc id="22163" pos="-14941;-53216;-11565;14739" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_204" minZ="-11350" maxZ="-10550">
+		<node x="-16885" y="-57531" />
+		<node x="-15885" y="-57531" />
+		<node x="-15885" y="-56531" />
+		<node x="-16885" y="-56531" />
+	</territory>
+	<npcmaker name="Pagan_Temple_204" territory="Pagan_Temple_204" spawn="ALL" maximumNpcs="7">
+		<npc id="22163" pos="-16385;-57031;-10850;34783" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_21" minZ="-11417" maxZ="-10617">
+		<node x="-15880" y="-49042" />
+		<node x="-14880" y="-49042" />
+		<node x="-14880" y="-48042" />
+		<node x="-15880" y="-48042" />
+	</territory>
+	<npcmaker name="Pagan_Temple_21" territory="Pagan_Temple_21" spawn="ALL" maximumNpcs="1">
+		<npc id="22152" pos="-15380;-48542;-10917;49337" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_22" minZ="-11417" maxZ="-10617">
+		<node x="-17725" y="-49106" />
+		<node x="-16725" y="-49106" />
+		<node x="-16725" y="-48106" />
+		<node x="-17725" y="-48106" />
+	</territory>
+	<npcmaker name="Pagan_Temple_22" territory="Pagan_Temple_22" spawn="ALL" maximumNpcs="1">
+		<npc id="22152" pos="-17225;-48606;-10917;47159" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_220" minZ="-11350" maxZ="-10550">
+		<node x="-15563" y="-57062" />
+		<node x="-14563" y="-57062" />
+		<node x="-14563" y="-56062" />
+		<node x="-15563" y="-56062" />
+	</territory>
+	<npcmaker name="Pagan_Temple_220" territory="Pagan_Temple_220" spawn="ALL" maximumNpcs="10">
+		<npc id="22159" pos="-15063;-56562;-10850;33926" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_221" minZ="-11350" maxZ="-10550">
+		<node x="-17316" y="-57067" />
+		<node x="-16316" y="-57067" />
+		<node x="-16316" y="-56067" />
+		<node x="-17316" y="-56067" />
+	</territory>
+	<npcmaker name="Pagan_Temple_221" territory="Pagan_Temple_221" spawn="ALL" maximumNpcs="10">
+		<npc id="22159" pos="-16816;-56567;-10850;41346" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_222" minZ="-12065" maxZ="-11265">
+		<node x="-17726" y="-53689" />
+		<node x="-16726" y="-53689" />
+		<node x="-16726" y="-52689" />
+		<node x="-17726" y="-52689" />
+	</territory>
+	<npcmaker name="Pagan_Temple_222" territory="Pagan_Temple_222" spawn="ALL" maximumNpcs="8">
+		<npc id="22159" pos="-17226;-53189;-11565;49964" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_223" minZ="-11438" maxZ="-10638">
+		<node x="-20569" y="-53282" />
+		<node x="-19569" y="-53282" />
+		<node x="-19569" y="-52282" />
+		<node x="-20569" y="-52282" />
+	</territory>
+	<npcmaker name="Pagan_Temple_223" territory="Pagan_Temple_223" spawn="ALL" maximumNpcs="6">
+		<npc id="22159" pos="-20069;-52782;-10938;13633" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_23" minZ="-11417" maxZ="-10617">
+		<node x="-18217" y="-50155" />
+		<node x="-17217" y="-50155" />
+		<node x="-17217" y="-49155" />
+		<node x="-18217" y="-49155" />
+	</territory>
+	<npcmaker name="Pagan_Temple_23" territory="Pagan_Temple_23" spawn="ALL" maximumNpcs="1">
+		<npc id="22152" pos="-17717;-49655;-10917;321" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_237" minZ="-12065" maxZ="-11265">
+		<node x="-16116" y="-54397" />
+		<node x="-15116" y="-54397" />
+		<node x="-15116" y="-53397" />
+		<node x="-16116" y="-53397" />
+	</territory>
+	<npcmaker name="Pagan_Temple_237" territory="Pagan_Temple_237" spawn="ALL" maximumNpcs="7">
+		<npc id="22171" pos="-15616;-53897;-11565;52028" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_238" minZ="-11350" maxZ="-10550">
+		<node x="-16264" y="-57112" />
+		<node x="-15264" y="-57112" />
+		<node x="-15264" y="-56112" />
+		<node x="-16264" y="-56112" />
+	</territory>
+	<npcmaker name="Pagan_Temple_238" territory="Pagan_Temple_238" spawn="ALL" maximumNpcs="7">
+		<npc id="22171" pos="-15764;-56612;-10850;15163" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_239" minZ="-11417" maxZ="-10617">
+		<node x="-21319" y="-49787" />
+		<node x="-20319" y="-49787" />
+		<node x="-20319" y="-48787" />
+		<node x="-21319" y="-48787" />
+	</territory>
+	<npcmaker name="Pagan_Temple_239" territory="Pagan_Temple_239" spawn="ALL" maximumNpcs="6">
+		<npc id="22171" pos="-20819;-49287;-10917;61766" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_24" minZ="-11513" maxZ="-10713">
+		<node x="-19200" y="-51318" />
+		<node x="-18200" y="-51318" />
+		<node x="-18200" y="-50318" />
+		<node x="-19200" y="-50318" />
+	</territory>
+	<npcmaker name="Pagan_Temple_24" territory="Pagan_Temple_24" spawn="ALL" maximumNpcs="1">
+		<npc id="22152" pos="-18700;-50818;-11013;3874" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_246" minZ="-12065" maxZ="-11265">
+		<node x="-17609" y="-54746" />
+		<node x="-16609" y="-54746" />
+		<node x="-16609" y="-53746" />
+		<node x="-17609" y="-53746" />
+	</territory>
+	<npcmaker name="Pagan_Temple_246" territory="Pagan_Temple_246" spawn="ALL" maximumNpcs="6">
+		<npc id="22167" pos="-17109;-54246;-11565;42723" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_247" minZ="-11350" maxZ="-10550">
+		<node x="-18035" y="-57042" />
+		<node x="-17035" y="-57042" />
+		<node x="-17035" y="-56042" />
+		<node x="-18035" y="-56042" />
+	</territory>
+	<npcmaker name="Pagan_Temple_247" territory="Pagan_Temple_247" spawn="ALL" maximumNpcs="8">
+		<npc id="22167" pos="-17535;-56542;-10850;45583" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_25" minZ="-11614" maxZ="-10814">
+		<node x="-20057" y="-54782" />
+		<node x="-19057" y="-54782" />
+		<node x="-19057" y="-53782" />
+		<node x="-20057" y="-53782" />
+	</territory>
+	<npcmaker name="Pagan_Temple_25" territory="Pagan_Temple_25" spawn="ALL" maximumNpcs="1">
+		<npc id="22152" pos="-19557;-54282;-11114;36442" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_258" minZ="-11225" maxZ="-10425">
+		<node x="-14948" y="-45067" />
+		<node x="-13948" y="-45067" />
+		<node x="-13948" y="-44067" />
+		<node x="-14948" y="-44067" />
+	</territory>
+	<npcmaker name="Pagan_Temple_258" territory="Pagan_Temple_258" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-14448;-44567;-10725;32698" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_259" minZ="-11321" maxZ="-10521">
+		<node x="-16493" y="-48357" />
+		<node x="-15493" y="-48357" />
+		<node x="-15493" y="-47357" />
+		<node x="-16493" y="-47357" />
+	</territory>
+	<npcmaker name="Pagan_Temple_259" territory="Pagan_Temple_259" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-15993;-47857;-10821;31547" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_26" minZ="-11614" maxZ="-10814">
+		<node x="-20891" y="-54818" />
+		<node x="-19891" y="-54818" />
+		<node x="-19891" y="-53818" />
+		<node x="-20891" y="-53818" />
+	</territory>
+	<npcmaker name="Pagan_Temple_26" territory="Pagan_Temple_26" spawn="ALL" maximumNpcs="1">
+		<npc id="22152" pos="-20391;-54318;-11114;17297" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_260" minZ="-11321" maxZ="-10521">
+		<node x="-16493" y="-48440" />
+		<node x="-15493" y="-48440" />
+		<node x="-15493" y="-47440" />
+		<node x="-16493" y="-47440" />
+	</territory>
+	<npcmaker name="Pagan_Temple_260" territory="Pagan_Temple_260" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-15993;-47940;-10821;31547" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_261" minZ="-11321" maxZ="-10521">
+		<node x="-16493" y="-48516" />
+		<node x="-15493" y="-48516" />
+		<node x="-15493" y="-47516" />
+		<node x="-16493" y="-47516" />
+	</territory>
+	<npcmaker name="Pagan_Temple_261" territory="Pagan_Temple_261" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-15993;-48016;-10821;31547" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_262" minZ="-11225" maxZ="-10425">
+		<node x="-16494" y="-46237" />
+		<node x="-15494" y="-46237" />
+		<node x="-15494" y="-45237" />
+		<node x="-16494" y="-45237" />
+	</territory>
+	<npcmaker name="Pagan_Temple_262" territory="Pagan_Temple_262" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-15994;-45737;-10725;32768" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_263" minZ="-11225" maxZ="-10425">
+		<node x="-16494" y="-46306" />
+		<node x="-15494" y="-46306" />
+		<node x="-15494" y="-45306" />
+		<node x="-16494" y="-45306" />
+	</territory>
+	<npcmaker name="Pagan_Temple_263" territory="Pagan_Temple_263" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-15994;-45806;-10725;31399" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_264" minZ="-11225" maxZ="-10425">
+		<node x="-16494" y="-46373" />
+		<node x="-15494" y="-46373" />
+		<node x="-15494" y="-45373" />
+		<node x="-16494" y="-45373" />
+	</territory>
+	<npcmaker name="Pagan_Temple_264" territory="Pagan_Temple_264" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-15994;-45873;-10725;31399" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_265" minZ="-11225" maxZ="-10425">
+		<node x="-16494" y="-46437" />
+		<node x="-15494" y="-46437" />
+		<node x="-15494" y="-45437" />
+		<node x="-16494" y="-45437" />
+	</territory>
+	<npcmaker name="Pagan_Temple_265" territory="Pagan_Temple_265" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-15994;-45937;-10725;31399" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_266" minZ="-11225" maxZ="-10425">
+		<node x="-17277" y="-46239" />
+		<node x="-16277" y="-46239" />
+		<node x="-16277" y="-45239" />
+		<node x="-17277" y="-45239" />
+	</territory>
+	<npcmaker name="Pagan_Temple_266" territory="Pagan_Temple_266" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-16777;-45739;-10725;211" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_267" minZ="-11225" maxZ="-10425">
+		<node x="-17277" y="-46305" />
+		<node x="-16277" y="-46305" />
+		<node x="-16277" y="-45305" />
+		<node x="-17277" y="-45305" />
+	</territory>
+	<npcmaker name="Pagan_Temple_267" territory="Pagan_Temple_267" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-16777;-45805;-10725;211" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_268" minZ="-11225" maxZ="-10425">
+		<node x="-17277" y="-46378" />
+		<node x="-16277" y="-46378" />
+		<node x="-16277" y="-45378" />
+		<node x="-17277" y="-45378" />
+	</territory>
+	<npcmaker name="Pagan_Temple_268" territory="Pagan_Temple_268" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-16777;-45878;-10725;211" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_269" minZ="-11225" maxZ="-10425">
+		<node x="-17277" y="-46442" />
+		<node x="-16277" y="-46442" />
+		<node x="-16277" y="-45442" />
+		<node x="-17277" y="-45442" />
+	</territory>
+	<npcmaker name="Pagan_Temple_269" territory="Pagan_Temple_269" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-16777;-45942;-10725;211" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_27" minZ="-11513" maxZ="-10713">
+		<node x="-20990" y="-51878" />
+		<node x="-19990" y="-51878" />
+		<node x="-19990" y="-50878" />
+		<node x="-20990" y="-50878" />
+	</territory>
+	<npcmaker name="Pagan_Temple_27" territory="Pagan_Temple_27" spawn="ALL" maximumNpcs="1">
+		<npc id="22152" pos="-20490;-51378;-11013;47484" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_270" minZ="-11225" maxZ="-10425">
+		<node x="-17277" y="-46490" />
+		<node x="-16277" y="-46490" />
+		<node x="-16277" y="-45490" />
+		<node x="-17277" y="-45490" />
+	</territory>
+	<npcmaker name="Pagan_Temple_270" territory="Pagan_Temple_270" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-16777;-45990;-10725;211" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_271" minZ="-11321" maxZ="-10521">
+		<node x="-17281" y="-48307" />
+		<node x="-16281" y="-48307" />
+		<node x="-16281" y="-47307" />
+		<node x="-17281" y="-47307" />
+	</territory>
+	<npcmaker name="Pagan_Temple_271" territory="Pagan_Temple_271" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-16781;-47807;-10821;64708" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_272" minZ="-11321" maxZ="-10521">
+		<node x="-17281" y="-48386" />
+		<node x="-16281" y="-48386" />
+		<node x="-16281" y="-47386" />
+		<node x="-17281" y="-47386" />
+	</territory>
+	<npcmaker name="Pagan_Temple_272" territory="Pagan_Temple_272" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-16781;-47886;-10821;64708" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_273" minZ="-11321" maxZ="-10521">
+		<node x="-16493" y="-48283" />
+		<node x="-15493" y="-48283" />
+		<node x="-15493" y="-47283" />
+		<node x="-16493" y="-47283" />
+	</territory>
+	<npcmaker name="Pagan_Temple_273" territory="Pagan_Temple_273" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-15993;-47783;-10821;31547" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_274" minZ="-11225" maxZ="-10425">
+		<node x="-16484" y="-46483" />
+		<node x="-15484" y="-46483" />
+		<node x="-15484" y="-45483" />
+		<node x="-16484" y="-45483" />
+	</territory>
+	<npcmaker name="Pagan_Temple_274" territory="Pagan_Temple_274" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-15984;-45983;-10725;34769" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_275" minZ="-11321" maxZ="-10521">
+		<node x="-15000" y="-47011" />
+		<node x="-14000" y="-47011" />
+		<node x="-14000" y="-46011" />
+		<node x="-15000" y="-46011" />
+	</territory>
+	<npcmaker name="Pagan_Temple_275" territory="Pagan_Temple_275" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-14500;-46511;-10821;32651" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_276" minZ="-11321" maxZ="-10521">
+		<node x="-15000" y="-47082" />
+		<node x="-14000" y="-47082" />
+		<node x="-14000" y="-46082" />
+		<node x="-15000" y="-46082" />
+	</territory>
+	<npcmaker name="Pagan_Temple_276" territory="Pagan_Temple_276" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-14500;-46582;-10821;32651" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_277" minZ="-11321" maxZ="-10521">
+		<node x="-15000" y="-47143" />
+		<node x="-14000" y="-47143" />
+		<node x="-14000" y="-46143" />
+		<node x="-15000" y="-46143" />
+	</territory>
+	<npcmaker name="Pagan_Temple_277" territory="Pagan_Temple_277" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-14500;-46643;-10821;32651" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_278" minZ="-11417" maxZ="-10617">
+		<node x="-15003" y="-49057" />
+		<node x="-14003" y="-49057" />
+		<node x="-14003" y="-48057" />
+		<node x="-15003" y="-48057" />
+	</territory>
+	<npcmaker name="Pagan_Temple_278" territory="Pagan_Temple_278" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-14503;-48557;-10917;31928" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_279" minZ="-11417" maxZ="-10617">
+		<node x="-15003" y="-49112" />
+		<node x="-14003" y="-49112" />
+		<node x="-14003" y="-48112" />
+		<node x="-15003" y="-48112" />
+	</territory>
+	<npcmaker name="Pagan_Temple_279" territory="Pagan_Temple_279" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-14503;-48612;-10917;31928" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_28" minZ="-11513" maxZ="-10713">
+		<node x="-21398" y="-51427" />
+		<node x="-20398" y="-51427" />
+		<node x="-20398" y="-50427" />
+		<node x="-21398" y="-50427" />
+	</territory>
+	<npcmaker name="Pagan_Temple_28" territory="Pagan_Temple_28" spawn="ALL" maximumNpcs="1">
+		<npc id="22152" pos="-20898;-50927;-11013;64243" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_280" minZ="-11417" maxZ="-10617">
+		<node x="-15003" y="-49181" />
+		<node x="-14003" y="-49181" />
+		<node x="-14003" y="-48181" />
+		<node x="-15003" y="-48181" />
+	</territory>
+	<npcmaker name="Pagan_Temple_280" territory="Pagan_Temple_280" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-14503;-48681;-10917;31928" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_281" minZ="-11513" maxZ="-10713">
+		<node x="-15004" y="-51121" />
+		<node x="-14004" y="-51121" />
+		<node x="-14004" y="-50121" />
+		<node x="-15004" y="-50121" />
+	</territory>
+	<npcmaker name="Pagan_Temple_281" territory="Pagan_Temple_281" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-14504;-50621;-11013;33522" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_282" minZ="-11513" maxZ="-10713">
+		<node x="-15004" y="-51181" />
+		<node x="-14004" y="-51181" />
+		<node x="-14004" y="-50181" />
+		<node x="-15004" y="-50181" />
+	</territory>
+	<npcmaker name="Pagan_Temple_282" territory="Pagan_Temple_282" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-14504;-50681;-11013;33522" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_283" minZ="-11513" maxZ="-10713">
+		<node x="-15004" y="-51240" />
+		<node x="-14004" y="-51240" />
+		<node x="-14004" y="-50240" />
+		<node x="-15004" y="-50240" />
+	</territory>
+	<npcmaker name="Pagan_Temple_283" territory="Pagan_Temple_283" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-14504;-50740;-11013;33522" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_284" minZ="-11417" maxZ="-10617">
+		<node x="-16263" y="-50595" />
+		<node x="-15263" y="-50595" />
+		<node x="-15263" y="-49595" />
+		<node x="-16263" y="-49595" />
+	</territory>
+	<npcmaker name="Pagan_Temple_284" territory="Pagan_Temple_284" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-15763;-50095;-10917;40662" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_285" minZ="-11417" maxZ="-10617">
+		<node x="-16319" y="-50561" />
+		<node x="-15319" y="-50561" />
+		<node x="-15319" y="-49561" />
+		<node x="-16319" y="-49561" />
+	</territory>
+	<npcmaker name="Pagan_Temple_285" territory="Pagan_Temple_285" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-15819;-50061;-10917;40662" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_286" minZ="-11417" maxZ="-10617">
+		<node x="-16354" y="-50510" />
+		<node x="-15354" y="-50510" />
+		<node x="-15354" y="-49510" />
+		<node x="-16354" y="-49510" />
+	</territory>
+	<npcmaker name="Pagan_Temple_286" territory="Pagan_Temple_286" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-15854;-50010;-10917;40662" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_287" minZ="-11417" maxZ="-10617">
+		<node x="-16370" y="-50441" />
+		<node x="-15370" y="-50441" />
+		<node x="-15370" y="-49441" />
+		<node x="-16370" y="-49441" />
+	</territory>
+	<npcmaker name="Pagan_Temple_287" territory="Pagan_Temple_287" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-15870;-49941;-10917;40662" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_288" minZ="-11417" maxZ="-10617">
+		<node x="-16412" y="-50379" />
+		<node x="-15412" y="-50379" />
+		<node x="-15412" y="-49379" />
+		<node x="-16412" y="-49379" />
+	</territory>
+	<npcmaker name="Pagan_Temple_288" territory="Pagan_Temple_288" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-15912;-49879;-10917;40662" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_289" minZ="-11321" maxZ="-10521">
+		<node x="-17281" y="-48459" />
+		<node x="-16281" y="-48459" />
+		<node x="-16281" y="-47459" />
+		<node x="-17281" y="-47459" />
+	</territory>
+	<npcmaker name="Pagan_Temple_289" territory="Pagan_Temple_289" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-16781;-47959;-10821;64708" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_29" minZ="-11513" maxZ="-10713">
+		<node x="-12763" y="-51632" />
+		<node x="-11763" y="-51632" />
+		<node x="-11763" y="-50632" />
+		<node x="-12763" y="-50632" />
+	</territory>
+	<npcmaker name="Pagan_Temple_29" territory="Pagan_Temple_29" spawn="ALL" maximumNpcs="1">
+		<npc id="22153" pos="-12263;-51132;-11013;37729" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_290" minZ="-11321" maxZ="-10521">
+		<node x="-17281" y="-48525" />
+		<node x="-16281" y="-48525" />
+		<node x="-16281" y="-47525" />
+		<node x="-17281" y="-47525" />
+	</territory>
+	<npcmaker name="Pagan_Temple_290" territory="Pagan_Temple_290" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-16781;-48025;-10821;64708" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_291" minZ="-11225" maxZ="-10425">
+		<node x="-18829" y="-45075" />
+		<node x="-17829" y="-45075" />
+		<node x="-17829" y="-44075" />
+		<node x="-18829" y="-44075" />
+	</territory>
+	<npcmaker name="Pagan_Temple_291" territory="Pagan_Temple_291" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-18329;-44575;-10725;0" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_292" minZ="-11321" maxZ="-10521">
+		<node x="-20376" y="-48106" />
+		<node x="-19376" y="-48106" />
+		<node x="-19376" y="-47106" />
+		<node x="-20376" y="-47106" />
+	</territory>
+	<npcmaker name="Pagan_Temple_292" territory="Pagan_Temple_292" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-19876;-47606;-10821;65001" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_293" minZ="-11321" maxZ="-10521">
+		<node x="-20376" y="-48174" />
+		<node x="-19376" y="-48174" />
+		<node x="-19376" y="-47174" />
+		<node x="-20376" y="-47174" />
+	</territory>
+	<npcmaker name="Pagan_Temple_293" territory="Pagan_Temple_293" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-19876;-47674;-10821;65001" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_294" minZ="-11321" maxZ="-10521">
+		<node x="-20376" y="-48237" />
+		<node x="-19376" y="-48237" />
+		<node x="-19376" y="-47237" />
+		<node x="-20376" y="-47237" />
+	</territory>
+	<npcmaker name="Pagan_Temple_294" territory="Pagan_Temple_294" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-19876;-47737;-10821;65001" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_295" minZ="-11225" maxZ="-10425">
+		<node x="-20383" y="-46060" />
+		<node x="-19383" y="-46060" />
+		<node x="-19383" y="-45060" />
+		<node x="-20383" y="-45060" />
+	</territory>
+	<npcmaker name="Pagan_Temple_295" territory="Pagan_Temple_295" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-19883;-45560;-10725;0" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_296" minZ="-11225" maxZ="-10425">
+		<node x="-20383" y="-46117" />
+		<node x="-19383" y="-46117" />
+		<node x="-19383" y="-45117" />
+		<node x="-20383" y="-45117" />
+	</territory>
+	<npcmaker name="Pagan_Temple_296" territory="Pagan_Temple_296" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-19883;-45617;-10725;0" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_297" minZ="-11225" maxZ="-10425">
+		<node x="-20383" y="-46175" />
+		<node x="-19383" y="-46175" />
+		<node x="-19383" y="-45175" />
+		<node x="-20383" y="-45175" />
+	</territory>
+	<npcmaker name="Pagan_Temple_297" territory="Pagan_Temple_297" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-19883;-45675;-10725;0" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_298" minZ="-11417" maxZ="-10617">
+		<node x="-20384" y="-50145" />
+		<node x="-19384" y="-50145" />
+		<node x="-19384" y="-49145" />
+		<node x="-20384" y="-49145" />
+	</territory>
+	<npcmaker name="Pagan_Temple_298" territory="Pagan_Temple_298" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-19884;-49645;-10917;0" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_299" minZ="-11417" maxZ="-10617">
+		<node x="-20384" y="-50212" />
+		<node x="-19384" y="-50212" />
+		<node x="-19384" y="-49212" />
+		<node x="-20384" y="-49212" />
+	</territory>
+	<npcmaker name="Pagan_Temple_299" territory="Pagan_Temple_299" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-19884;-49712;-10917;0" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_3" minZ="-11417" maxZ="-10617">
+		<node x="-15245" y="-49801" />
+		<node x="-14245" y="-49801" />
+		<node x="-14245" y="-48801" />
+		<node x="-15245" y="-48801" />
+	</territory>
+	<npcmaker name="Pagan_Temple_3" territory="Pagan_Temple_3" spawn="ALL" maximumNpcs="1">
+		<npc id="22153" pos="-14745;-49301;-10917;33937" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_30" minZ="-11443" maxZ="-10643">
+		<node x="-12812" y="-50082" />
+		<node x="-11812" y="-50082" />
+		<node x="-11812" y="-49082" />
+		<node x="-12812" y="-49082" />
+	</territory>
+	<npcmaker name="Pagan_Temple_30" territory="Pagan_Temple_30" spawn="ALL" maximumNpcs="1">
+		<npc id="22153" pos="-12312;-49582;-10943;5009" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_300" minZ="-11417" maxZ="-10617">
+		<node x="-20384" y="-50278" />
+		<node x="-19384" y="-50278" />
+		<node x="-19384" y="-49278" />
+		<node x="-20384" y="-49278" />
+	</territory>
+	<npcmaker name="Pagan_Temple_300" territory="Pagan_Temple_300" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-19884;-49778;-10917;0" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_301" minZ="-11513" maxZ="-10713">
+		<node x="-20386" y="-52188" />
+		<node x="-19386" y="-52188" />
+		<node x="-19386" y="-51188" />
+		<node x="-20386" y="-51188" />
+	</territory>
+	<npcmaker name="Pagan_Temple_301" territory="Pagan_Temple_301" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-19886;-51688;-11013;63878" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_302" minZ="-11513" maxZ="-10713">
+		<node x="-20386" y="-52254" />
+		<node x="-19386" y="-52254" />
+		<node x="-19386" y="-51254" />
+		<node x="-20386" y="-51254" />
+	</territory>
+	<npcmaker name="Pagan_Temple_302" territory="Pagan_Temple_302" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-19886;-51754;-11013;63878" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_303" minZ="-11513" maxZ="-10713">
+		<node x="-20386" y="-52326" />
+		<node x="-19386" y="-52326" />
+		<node x="-19386" y="-51326" />
+		<node x="-20386" y="-51326" />
+	</territory>
+	<npcmaker name="Pagan_Temple_303" territory="Pagan_Temple_303" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-19886;-51826;-11013;63878" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_304" minZ="-11225" maxZ="-10425">
+		<node x="-12547" y="-38409" />
+		<node x="-11547" y="-38409" />
+		<node x="-11547" y="-37409" />
+		<node x="-12547" y="-37409" />
+	</territory>
+	<npcmaker name="Pagan_Temple_304" territory="Pagan_Temple_304" spawn="ALL" maximumNpcs="1">
+		<npc id="22139" pos="-12047;-37909;-10725;7099" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_305" minZ="-11225" maxZ="-10425">
+		<node x="-18829" y="-45016" />
+		<node x="-17829" y="-45016" />
+		<node x="-17829" y="-44016" />
+		<node x="-18829" y="-44016" />
+	</territory>
+	<npcmaker name="Pagan_Temple_305" territory="Pagan_Temple_305" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-18329;-44516;-10725;0" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_306" minZ="-11225" maxZ="-10425">
+		<node x="-18829" y="-44961" />
+		<node x="-17829" y="-44961" />
+		<node x="-17829" y="-43961" />
+		<node x="-18829" y="-43961" />
+	</territory>
+	<npcmaker name="Pagan_Temple_306" territory="Pagan_Temple_306" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-18329;-44461;-10725;0" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_307" minZ="-11417" maxZ="-10617">
+		<node x="-17294" y="-50396" />
+		<node x="-16294" y="-50396" />
+		<node x="-16294" y="-49396" />
+		<node x="-17294" y="-49396" />
+	</territory>
+	<npcmaker name="Pagan_Temple_307" territory="Pagan_Temple_307" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-16794;-49896;-10917;63262" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_308" minZ="-11417" maxZ="-10617">
+		<node x="-17318" y="-50475" />
+		<node x="-16318" y="-50475" />
+		<node x="-16318" y="-49475" />
+		<node x="-17318" y="-49475" />
+	</territory>
+	<npcmaker name="Pagan_Temple_308" territory="Pagan_Temple_308" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-16818;-49975;-10917;63262" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_309" minZ="-11417" maxZ="-10617">
+		<node x="-17342" y="-50540" />
+		<node x="-16342" y="-50540" />
+		<node x="-16342" y="-49540" />
+		<node x="-17342" y="-49540" />
+	</territory>
+	<npcmaker name="Pagan_Temple_309" territory="Pagan_Temple_309" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-16842;-50040;-10917;63262" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_31" minZ="-11417" maxZ="-10617">
+		<node x="-17925" y="-49586" />
+		<node x="-16925" y="-49586" />
+		<node x="-16925" y="-48586" />
+		<node x="-17925" y="-48586" />
+	</territory>
+	<npcmaker name="Pagan_Temple_31" territory="Pagan_Temple_31" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-17425;-49086;-10917;56058" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_310" minZ="-11418" maxZ="-10618">
+		<node x="-17376" y="-50598" />
+		<node x="-16376" y="-50598" />
+		<node x="-16376" y="-49598" />
+		<node x="-17376" y="-49598" />
+	</territory>
+	<npcmaker name="Pagan_Temple_310" territory="Pagan_Temple_310" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-16876;-50098;-10918;63262" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_311" minZ="-11436" maxZ="-10636">
+		<node x="-17421" y="-50649" />
+		<node x="-16421" y="-50649" />
+		<node x="-16421" y="-49649" />
+		<node x="-17421" y="-49649" />
+	</territory>
+	<npcmaker name="Pagan_Temple_311" territory="Pagan_Temple_311" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-16921;-50149;-10936;63262" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_312" minZ="-11513" maxZ="-10713">
+		<node x="-18808" y="-51125" />
+		<node x="-17808" y="-51125" />
+		<node x="-17808" y="-50125" />
+		<node x="-18808" y="-50125" />
+	</territory>
+	<npcmaker name="Pagan_Temple_312" territory="Pagan_Temple_312" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-18308;-50625;-11013;63878" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_313" minZ="-11513" maxZ="-10713">
+		<node x="-18808" y="-51180" />
+		<node x="-17808" y="-51180" />
+		<node x="-17808" y="-50180" />
+		<node x="-18808" y="-50180" />
+	</territory>
+	<npcmaker name="Pagan_Temple_313" territory="Pagan_Temple_313" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-18308;-50680;-11013;63878" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_314" minZ="-11513" maxZ="-10713">
+		<node x="-18808" y="-51243" />
+		<node x="-17808" y="-51243" />
+		<node x="-17808" y="-50243" />
+		<node x="-18808" y="-50243" />
+	</territory>
+	<npcmaker name="Pagan_Temple_314" territory="Pagan_Temple_314" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-18308;-50743;-11013;63878" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_315" minZ="-11417" maxZ="-10617">
+		<node x="-18811" y="-49056" />
+		<node x="-17811" y="-49056" />
+		<node x="-17811" y="-48056" />
+		<node x="-18811" y="-48056" />
+	</territory>
+	<npcmaker name="Pagan_Temple_315" territory="Pagan_Temple_315" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-18311;-48556;-10917;0" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_316" minZ="-11417" maxZ="-10617">
+		<node x="-18811" y="-49120" />
+		<node x="-17811" y="-49120" />
+		<node x="-17811" y="-48120" />
+		<node x="-18811" y="-48120" />
+	</territory>
+	<npcmaker name="Pagan_Temple_316" territory="Pagan_Temple_316" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-18311;-48620;-10917;0" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_317" minZ="-11417" maxZ="-10617">
+		<node x="-18811" y="-49188" />
+		<node x="-17811" y="-49188" />
+		<node x="-17811" y="-48188" />
+		<node x="-18811" y="-48188" />
+	</territory>
+	<npcmaker name="Pagan_Temple_317" territory="Pagan_Temple_317" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-18311;-48688;-10917;0" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_318" minZ="-11321" maxZ="-10521">
+		<node x="-18823" y="-47005" />
+		<node x="-17823" y="-47005" />
+		<node x="-17823" y="-46005" />
+		<node x="-18823" y="-46005" />
+	</territory>
+	<npcmaker name="Pagan_Temple_318" territory="Pagan_Temple_318" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-18323;-46505;-10821;264" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_319" minZ="-11321" maxZ="-10521">
+		<node x="-18823" y="-47070" />
+		<node x="-17823" y="-47070" />
+		<node x="-17823" y="-46070" />
+		<node x="-18823" y="-46070" />
+	</territory>
+	<npcmaker name="Pagan_Temple_319" territory="Pagan_Temple_319" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-18323;-46570;-10821;264" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_32" minZ="-11417" maxZ="-10617">
+		<node x="-18162" y="-50241" />
+		<node x="-17162" y="-50241" />
+		<node x="-17162" y="-49241" />
+		<node x="-18162" y="-49241" />
+	</territory>
+	<npcmaker name="Pagan_Temple_32" territory="Pagan_Temple_32" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-17662;-49741;-10917;30529" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_320" minZ="-11321" maxZ="-10521">
+		<node x="-18823" y="-47139" />
+		<node x="-17823" y="-47139" />
+		<node x="-17823" y="-46139" />
+		<node x="-18823" y="-46139" />
+	</territory>
+	<npcmaker name="Pagan_Temple_320" territory="Pagan_Temple_320" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-18323;-46639;-10821;264" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_321" minZ="-11258" maxZ="-10458">
+		<node x="-12940" y="-40377" />
+		<node x="-11940" y="-40377" />
+		<node x="-11940" y="-39377" />
+		<node x="-12940" y="-39377" />
+	</territory>
+	<npcmaker name="Pagan_Temple_321" territory="Pagan_Temple_321" spawn="ALL" maximumNpcs="1">
+		<npc id="22139" pos="-12440;-39877;-10758;746" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_322" minZ="-11225" maxZ="-10425">
+		<node x="-14948" y="-45008" />
+		<node x="-13948" y="-45008" />
+		<node x="-13948" y="-44008" />
+		<node x="-14948" y="-44008" />
+	</territory>
+	<npcmaker name="Pagan_Temple_322" territory="Pagan_Temple_322" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-14448;-44508;-10725;32698" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_323" minZ="-11193" maxZ="-10393">
+		<node x="-16437" y="-37147" />
+		<node x="-15437" y="-37147" />
+		<node x="-15437" y="-36147" />
+		<node x="-16437" y="-36147" />
+	</territory>
+	<npcmaker name="Pagan_Temple_323" territory="Pagan_Temple_323" spawn="ALL" maximumNpcs="1">
+		<npc id="32034" pos="-15926;-36612;-10688;15439" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_324" minZ="-11417" maxZ="-10617">
+		<node x="-10885" y="-41263" />
+		<node x="-9885" y="-41263" />
+		<node x="-9885" y="-40263" />
+		<node x="-10885" y="-40263" />
+	</territory>
+	<npcmaker name="Pagan_Temple_324" territory="Pagan_Temple_324" spawn="ALL" maximumNpcs="1">
+		<npc id="22137" pos="-10385;-40763;-10917;48342" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_325" minZ="-11225" maxZ="-10425">
+		<node x="-12745" y="-39416" />
+		<node x="-11745" y="-39416" />
+		<node x="-11745" y="-38416" />
+		<node x="-12745" y="-38416" />
+	</territory>
+	<npcmaker name="Pagan_Temple_325" territory="Pagan_Temple_325" spawn="ALL" maximumNpcs="1">
+		<npc id="22137" pos="-12245;-38916;-10725;48792" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_326" minZ="-11225" maxZ="-10425">
+		<node x="-12747" y="-43112" />
+		<node x="-11747" y="-43112" />
+		<node x="-11747" y="-42112" />
+		<node x="-12747" y="-42112" />
+	</territory>
+	<npcmaker name="Pagan_Temple_326" territory="Pagan_Temple_326" spawn="ALL" maximumNpcs="1">
+		<npc id="22137" pos="-12247;-42612;-10725;48441" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_327" minZ="-11225" maxZ="-10425">
+		<node x="-12830" y="-39416" />
+		<node x="-11830" y="-39416" />
+		<node x="-11830" y="-38416" />
+		<node x="-12830" y="-38416" />
+	</territory>
+	<npcmaker name="Pagan_Temple_327" territory="Pagan_Temple_327" spawn="ALL" maximumNpcs="1">
+		<npc id="22137" pos="-12330;-38916;-10725;48792" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_328" minZ="-11225" maxZ="-10425">
+		<node x="-12841" y="-43112" />
+		<node x="-11841" y="-43112" />
+		<node x="-11841" y="-42112" />
+		<node x="-12841" y="-42112" />
+	</territory>
+	<npcmaker name="Pagan_Temple_328" territory="Pagan_Temple_328" spawn="ALL" maximumNpcs="1">
+		<npc id="22137" pos="-12341;-42612;-10725;48441" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_329" minZ="-11225" maxZ="-10425">
+		<node x="-12923" y="-39420" />
+		<node x="-11923" y="-39420" />
+		<node x="-11923" y="-38420" />
+		<node x="-12923" y="-38420" />
+	</territory>
+	<npcmaker name="Pagan_Temple_329" territory="Pagan_Temple_329" spawn="ALL" maximumNpcs="1">
+		<npc id="22137" pos="-12423;-38920;-10725;48792" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_330" minZ="-11225" maxZ="-10425">
+		<node x="-12934" y="-43112" />
+		<node x="-11934" y="-43112" />
+		<node x="-11934" y="-42112" />
+		<node x="-12934" y="-42112" />
+	</territory>
+	<npcmaker name="Pagan_Temple_330" territory="Pagan_Temple_330" spawn="ALL" maximumNpcs="1">
+		<npc id="22137" pos="-12434;-42612;-10725;48441" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_331" minZ="-11225" maxZ="-10425">
+		<node x="-13549" y="-41216" />
+		<node x="-12549" y="-41216" />
+		<node x="-12549" y="-40216" />
+		<node x="-13549" y="-40216" />
+	</territory>
+	<npcmaker name="Pagan_Temple_331" territory="Pagan_Temple_331" spawn="ALL" maximumNpcs="1">
+		<npc id="22137" pos="-13049;-40716;-10725;15777" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_332" minZ="-11225" maxZ="-10425">
+		<node x="-13653" y="-41216" />
+		<node x="-12653" y="-41216" />
+		<node x="-12653" y="-40216" />
+		<node x="-13653" y="-40216" />
+	</territory>
+	<npcmaker name="Pagan_Temple_332" territory="Pagan_Temple_332" spawn="ALL" maximumNpcs="1">
+		<npc id="22137" pos="-13153;-40716;-10725;15777" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_333" minZ="-11225" maxZ="-10425">
+		<node x="-13739" y="-41216" />
+		<node x="-12739" y="-41216" />
+		<node x="-12739" y="-40216" />
+		<node x="-13739" y="-40216" />
+	</territory>
+	<npcmaker name="Pagan_Temple_333" territory="Pagan_Temple_333" spawn="ALL" maximumNpcs="1">
+		<npc id="22137" pos="-13239;-40716;-10725;15777" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_334" minZ="-11225" maxZ="-10425">
+		<node x="-19985" y="-41261" />
+		<node x="-18985" y="-41261" />
+		<node x="-18985" y="-40261" />
+		<node x="-19985" y="-40261" />
+	</territory>
+	<npcmaker name="Pagan_Temple_334" territory="Pagan_Temple_334" spawn="ALL" maximumNpcs="1">
+		<npc id="22137" pos="-19485;-40761;-10725;49152" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_335" minZ="-11225" maxZ="-10425">
+		<node x="-20076" y="-41267" />
+		<node x="-19076" y="-41267" />
+		<node x="-19076" y="-40267" />
+		<node x="-20076" y="-40267" />
+	</territory>
+	<npcmaker name="Pagan_Temple_335" territory="Pagan_Temple_335" spawn="ALL" maximumNpcs="1">
+		<npc id="22137" pos="-19576;-40767;-10725;49066" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_336" minZ="-11225" maxZ="-10425">
+		<node x="-20161" y="-41283" />
+		<node x="-19161" y="-41283" />
+		<node x="-19161" y="-40283" />
+		<node x="-20161" y="-40283" />
+	</territory>
+	<npcmaker name="Pagan_Temple_336" territory="Pagan_Temple_336" spawn="ALL" maximumNpcs="1">
+		<npc id="22137" pos="-19661;-40783;-10725;47076" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_337" minZ="-11225" maxZ="-10425">
+		<node x="-20798" y="-43108" />
+		<node x="-19798" y="-43108" />
+		<node x="-19798" y="-42108" />
+		<node x="-20798" y="-42108" />
+	</territory>
+	<npcmaker name="Pagan_Temple_337" territory="Pagan_Temple_337" spawn="ALL" maximumNpcs="1">
+		<npc id="22137" pos="-20298;-42608;-10725;17185" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_338" minZ="-11417" maxZ="-10617">
+		<node x="-10803" y="-41263" />
+		<node x="-9803" y="-41263" />
+		<node x="-9803" y="-40263" />
+		<node x="-10803" y="-40263" />
+	</territory>
+	<npcmaker name="Pagan_Temple_338" territory="Pagan_Temple_338" spawn="ALL" maximumNpcs="1">
+		<npc id="22137" pos="-10303;-40763;-10917;48342" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_339" minZ="-11417" maxZ="-10617">
+		<node x="-10720" y="-41263" />
+		<node x="-9720" y="-41263" />
+		<node x="-9720" y="-40263" />
+		<node x="-10720" y="-40263" />
+	</territory>
+	<npcmaker name="Pagan_Temple_339" territory="Pagan_Temple_339" spawn="ALL" maximumNpcs="1">
+		<npc id="22137" pos="-10220;-40763;-10917;48342" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_340" minZ="-11225" maxZ="-10425">
+		<node x="-17222" y="-37428" />
+		<node x="-16222" y="-37428" />
+		<node x="-16222" y="-36428" />
+		<node x="-17222" y="-36428" />
+	</territory>
+	<npcmaker name="Pagan_Temple_340" territory="Pagan_Temple_340" spawn="ALL" maximumNpcs="1">
+		<npc id="32035" pos="-16722;-36928;-10725;52401" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_343" minZ="-11357" maxZ="-10557">
+		<node x="-12486" y="-36403" />
+		<node x="-11486" y="-36403" />
+		<node x="-11486" y="-35403" />
+		<node x="-12486" y="-35403" />
+	</territory>
+	<npcmaker name="Pagan_Temple_343" territory="Pagan_Temple_343" spawn="ALL" maximumNpcs="1">
+		<npc id="32040" pos="-11986;-35903;-10857;31655" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_354" minZ="-11225" maxZ="-10425">
+		<node x="-20804" y="-39384" />
+		<node x="-19804" y="-39384" />
+		<node x="-19804" y="-38384" />
+		<node x="-20804" y="-38384" />
+	</territory>
+	<npcmaker name="Pagan_Temple_354" territory="Pagan_Temple_354" spawn="ALL" maximumNpcs="1">
+		<npc id="22137" pos="-20304;-38884;-10725;16561" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_355" minZ="-11225" maxZ="-10425">
+		<node x="-20885" y="-43108" />
+		<node x="-19885" y="-43108" />
+		<node x="-19885" y="-42108" />
+		<node x="-20885" y="-42108" />
+	</territory>
+	<npcmaker name="Pagan_Temple_355" territory="Pagan_Temple_355" spawn="ALL" maximumNpcs="1">
+		<npc id="22137" pos="-20385;-42608;-10725;17185" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_356" minZ="-11417" maxZ="-10617">
+		<node x="-10177" y="-39411" />
+		<node x="-9177" y="-39411" />
+		<node x="-9177" y="-38411" />
+		<node x="-10177" y="-38411" />
+	</territory>
+	<npcmaker name="Pagan_Temple_356" territory="Pagan_Temple_356" spawn="ALL" maximumNpcs="1">
+		<npc id="22137" pos="-9677;-38911;-10917;48556" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_357" minZ="-11417" maxZ="-10617">
+		<node x="-10191" y="-43115" />
+		<node x="-9191" y="-43115" />
+		<node x="-9191" y="-42115" />
+		<node x="-10191" y="-42115" />
+	</territory>
+	<npcmaker name="Pagan_Temple_357" territory="Pagan_Temple_357" spawn="ALL" maximumNpcs="1">
+		<npc id="22137" pos="-9691;-42615;-10917;16303" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_358" minZ="-11225" maxZ="-10425">
+		<node x="-13413" y="-46058" />
+		<node x="-12413" y="-46058" />
+		<node x="-12413" y="-45058" />
+		<node x="-13413" y="-45058" />
+	</territory>
+	<npcmaker name="Pagan_Temple_358" territory="Pagan_Temple_358" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-12913;-45558;-10725;32698" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_359" minZ="-11225" maxZ="-10425">
+		<node x="-13413" y="-46112" />
+		<node x="-12413" y="-46112" />
+		<node x="-12413" y="-45112" />
+		<node x="-13413" y="-45112" />
+	</territory>
+	<npcmaker name="Pagan_Temple_359" territory="Pagan_Temple_359" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-12913;-45612;-10725;32698" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_360" minZ="-11225" maxZ="-10425">
+		<node x="-13413" y="-46167" />
+		<node x="-12413" y="-46167" />
+		<node x="-12413" y="-45167" />
+		<node x="-13413" y="-45167" />
+	</territory>
+	<npcmaker name="Pagan_Temple_360" territory="Pagan_Temple_360" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-12913;-45667;-10725;32698" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_361" minZ="-11417" maxZ="-10617">
+		<node x="-13414" y="-50149" />
+		<node x="-12414" y="-50149" />
+		<node x="-12414" y="-49149" />
+		<node x="-13414" y="-49149" />
+	</territory>
+	<npcmaker name="Pagan_Temple_361" territory="Pagan_Temple_361" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-12914;-49649;-10917;31928" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_362" minZ="-11417" maxZ="-10617">
+		<node x="-13414" y="-50217" />
+		<node x="-12414" y="-50217" />
+		<node x="-12414" y="-49217" />
+		<node x="-13414" y="-49217" />
+	</territory>
+	<npcmaker name="Pagan_Temple_362" territory="Pagan_Temple_362" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-12914;-49717;-10917;31928" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_363" minZ="-11417" maxZ="-10617">
+		<node x="-13414" y="-50291" />
+		<node x="-12414" y="-50291" />
+		<node x="-12414" y="-49291" />
+		<node x="-13414" y="-49291" />
+	</territory>
+	<npcmaker name="Pagan_Temple_363" territory="Pagan_Temple_363" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-12914;-49791;-10917;31928" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_364" minZ="-11321" maxZ="-10521">
+		<node x="-13430" y="-48115" />
+		<node x="-12430" y="-48115" />
+		<node x="-12430" y="-47115" />
+		<node x="-13430" y="-47115" />
+	</territory>
+	<npcmaker name="Pagan_Temple_364" territory="Pagan_Temple_364" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-12930;-47615;-10821;32651" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_365" minZ="-11321" maxZ="-10521">
+		<node x="-13430" y="-48175" />
+		<node x="-12430" y="-48175" />
+		<node x="-12430" y="-47175" />
+		<node x="-13430" y="-47175" />
+	</territory>
+	<npcmaker name="Pagan_Temple_365" territory="Pagan_Temple_365" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-12930;-47675;-10821;32651" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_366" minZ="-11321" maxZ="-10521">
+		<node x="-13430" y="-48235" />
+		<node x="-12430" y="-48235" />
+		<node x="-12430" y="-47235" />
+		<node x="-13430" y="-47235" />
+	</territory>
+	<npcmaker name="Pagan_Temple_366" territory="Pagan_Temple_366" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-12930;-47735;-10821;32651" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_367" minZ="-11513" maxZ="-10713">
+		<node x="-13446" y="-52190" />
+		<node x="-12446" y="-52190" />
+		<node x="-12446" y="-51190" />
+		<node x="-13446" y="-51190" />
+	</territory>
+	<npcmaker name="Pagan_Temple_367" territory="Pagan_Temple_367" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-12946;-51690;-11013;33522" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_368" minZ="-11513" maxZ="-10713">
+		<node x="-13446" y="-52245" />
+		<node x="-12446" y="-52245" />
+		<node x="-12446" y="-51245" />
+		<node x="-13446" y="-51245" />
+	</territory>
+	<npcmaker name="Pagan_Temple_368" territory="Pagan_Temple_368" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-12946;-51745;-11013;33522" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_369" minZ="-11513" maxZ="-10713">
+		<node x="-13446" y="-52322" />
+		<node x="-12446" y="-52322" />
+		<node x="-12446" y="-51322" />
+		<node x="-13446" y="-51322" />
+	</territory>
+	<npcmaker name="Pagan_Temple_369" territory="Pagan_Temple_369" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-12946;-51822;-11013;33522" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_370" minZ="-11417" maxZ="-10617">
+		<node x="-10099" y="-43115" />
+		<node x="-9099" y="-43115" />
+		<node x="-9099" y="-42115" />
+		<node x="-10099" y="-42115" />
+	</territory>
+	<npcmaker name="Pagan_Temple_370" territory="Pagan_Temple_370" spawn="ALL" maximumNpcs="1">
+		<npc id="22137" pos="-9599;-42615;-10917;16303" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_371" minZ="-11417" maxZ="-10617">
+		<node x="-10086" y="-39411" />
+		<node x="-9086" y="-39411" />
+		<node x="-9086" y="-38411" />
+		<node x="-10086" y="-38411" />
+	</territory>
+	<npcmaker name="Pagan_Temple_371" territory="Pagan_Temple_371" spawn="ALL" maximumNpcs="1">
+		<npc id="22137" pos="-9586;-38911;-10917;48556" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_372" minZ="-11225" maxZ="-10425">
+		<node x="-20889" y="-39384" />
+		<node x="-19889" y="-39384" />
+		<node x="-19889" y="-38384" />
+		<node x="-20889" y="-38384" />
+	</territory>
+	<npcmaker name="Pagan_Temple_372" territory="Pagan_Temple_372" spawn="ALL" maximumNpcs="1">
+		<npc id="22137" pos="-20389;-38884;-10725;16561" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_373" minZ="-11225" maxZ="-10425">
+		<node x="-20987" y="-39384" />
+		<node x="-19987" y="-39384" />
+		<node x="-19987" y="-38384" />
+		<node x="-20987" y="-38384" />
+	</territory>
+	<npcmaker name="Pagan_Temple_373" territory="Pagan_Temple_373" spawn="ALL" maximumNpcs="1">
+		<npc id="22137" pos="-20487;-38884;-10725;16561" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_374" minZ="-11225" maxZ="-10425">
+		<node x="-20988" y="-43108" />
+		<node x="-19988" y="-43108" />
+		<node x="-19988" y="-42108" />
+		<node x="-20988" y="-42108" />
+	</territory>
+	<npcmaker name="Pagan_Temple_374" territory="Pagan_Temple_374" spawn="ALL" maximumNpcs="1">
+		<npc id="22137" pos="-20488;-42608;-10725;17185" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_375" minZ="-11417" maxZ="-10617">
+		<node x="-22815" y="-41231" />
+		<node x="-21815" y="-41231" />
+		<node x="-21815" y="-40231" />
+		<node x="-22815" y="-40231" />
+	</territory>
+	<npcmaker name="Pagan_Temple_375" territory="Pagan_Temple_375" spawn="ALL" maximumNpcs="1">
+		<npc id="22137" pos="-22315;-40731;-10917;53141" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_376" minZ="-11417" maxZ="-10617">
+		<node x="-22910" y="-41231" />
+		<node x="-21910" y="-41231" />
+		<node x="-21910" y="-40231" />
+		<node x="-22910" y="-40231" />
+	</territory>
+	<npcmaker name="Pagan_Temple_376" territory="Pagan_Temple_376" spawn="ALL" maximumNpcs="1">
+		<npc id="22137" pos="-22410;-40731;-10917;53141" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_377" minZ="-11417" maxZ="-10617">
+		<node x="-23008" y="-41231" />
+		<node x="-22008" y="-41231" />
+		<node x="-22008" y="-40231" />
+		<node x="-23008" y="-40231" />
+	</territory>
+	<npcmaker name="Pagan_Temple_377" territory="Pagan_Temple_377" spawn="ALL" maximumNpcs="1">
+		<npc id="22137" pos="-22508;-40731;-10917;53141" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_378" minZ="-11417" maxZ="-10617">
+		<node x="-23539" y="-39382" />
+		<node x="-22539" y="-39382" />
+		<node x="-22539" y="-38382" />
+		<node x="-23539" y="-38382" />
+	</territory>
+	<npcmaker name="Pagan_Temple_378" territory="Pagan_Temple_378" spawn="ALL" maximumNpcs="1">
+		<npc id="22137" pos="-23039;-38882;-10917;16428" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_379" minZ="-11417" maxZ="-10617">
+		<node x="-23545" y="-43082" />
+		<node x="-22545" y="-43082" />
+		<node x="-22545" y="-42082" />
+		<node x="-23545" y="-42082" />
+	</territory>
+	<npcmaker name="Pagan_Temple_379" territory="Pagan_Temple_379" spawn="ALL" maximumNpcs="1">
+		<npc id="22137" pos="-23045;-42582;-10917;48397" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_380" minZ="-11417" maxZ="-10617">
+		<node x="-23636" y="-39382" />
+		<node x="-22636" y="-39382" />
+		<node x="-22636" y="-38382" />
+		<node x="-23636" y="-38382" />
+	</territory>
+	<npcmaker name="Pagan_Temple_380" territory="Pagan_Temple_380" spawn="ALL" maximumNpcs="1">
+		<npc id="22137" pos="-23136;-38882;-10917;16428" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_381" minZ="-11417" maxZ="-10617">
+		<node x="-23636" y="-43082" />
+		<node x="-22636" y="-43082" />
+		<node x="-22636" y="-42082" />
+		<node x="-23636" y="-42082" />
+	</territory>
+	<npcmaker name="Pagan_Temple_381" territory="Pagan_Temple_381" spawn="ALL" maximumNpcs="1">
+		<npc id="22137" pos="-23136;-42582;-10917;48397" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_382" minZ="-11417" maxZ="-10617">
+		<node x="-23719" y="-43082" />
+		<node x="-22719" y="-43082" />
+		<node x="-22719" y="-42082" />
+		<node x="-23719" y="-42082" />
+	</territory>
+	<npcmaker name="Pagan_Temple_382" territory="Pagan_Temple_382" spawn="ALL" maximumNpcs="1">
+		<npc id="22137" pos="-23219;-42582;-10917;48397" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_383" minZ="-11417" maxZ="-10617">
+		<node x="-23731" y="-39382" />
+		<node x="-22731" y="-39382" />
+		<node x="-22731" y="-38382" />
+		<node x="-23731" y="-38382" />
+	</territory>
+	<npcmaker name="Pagan_Temple_383" territory="Pagan_Temple_383" spawn="ALL" maximumNpcs="1">
+		<npc id="22137" pos="-23231;-38882;-10917;16428" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_384" minZ="-11417" maxZ="-10617">
+		<node x="-9995" y="-39411" />
+		<node x="-8995" y="-39411" />
+		<node x="-8995" y="-38411" />
+		<node x="-9995" y="-38411" />
+	</territory>
+	<npcmaker name="Pagan_Temple_384" territory="Pagan_Temple_384" spawn="ALL" maximumNpcs="1">
+		<npc id="22137" pos="-9495;-38911;-10917;48556" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_385" minZ="-11417" maxZ="-10617">
+		<node x="-10006" y="-43115" />
+		<node x="-9006" y="-43115" />
+		<node x="-9006" y="-42115" />
+		<node x="-10006" y="-42115" />
+	</territory>
+	<npcmaker name="Pagan_Temple_385" territory="Pagan_Temple_385" spawn="ALL" maximumNpcs="1">
+		<npc id="22137" pos="-9506;-42615;-10917;16303" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_386" minZ="-11225" maxZ="-10425">
+		<node x="-14948" y="-44946" />
+		<node x="-13948" y="-44946" />
+		<node x="-13948" y="-43946" />
+		<node x="-14948" y="-43946" />
+	</territory>
+	<npcmaker name="Pagan_Temple_386" territory="Pagan_Temple_386" spawn="ALL" maximumNpcs="1">
+		<npc id="22138" pos="-14448;-44446;-10725;32698" total="1" respawnDelay="180s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_387" minZ="-11225" maxZ="-10425">
+		<node x="-12935" y="-45793" />
+		<node x="-11935" y="-45793" />
+		<node x="-11935" y="-44793" />
+		<node x="-12935" y="-44793" />
+	</territory>
+	<npcmaker name="Pagan_Temple_387" territory="Pagan_Temple_387" spawn="ALL" maximumNpcs="1">
+		<npc id="22142" pos="-12435;-45293;-10725;9548" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_388" minZ="-11450" maxZ="-10650">
+		<node x="-9987" y="-40354" />
+		<node x="-8987" y="-40354" />
+		<node x="-8987" y="-39354" />
+		<node x="-9987" y="-39354" />
+	</territory>
+	<npcmaker name="Pagan_Temple_388" territory="Pagan_Temple_388" spawn="ALL" maximumNpcs="1">
+		<npc id="22142" pos="-9487;-39854;-10950;51898" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_389" minZ="-11449" maxZ="-10649">
+		<node x="-10018" y="-44178" />
+		<node x="-9018" y="-44178" />
+		<node x="-9018" y="-43178" />
+		<node x="-10018" y="-43178" />
+	</territory>
+	<npcmaker name="Pagan_Temple_389" territory="Pagan_Temple_389" spawn="ALL" maximumNpcs="1">
+		<npc id="22142" pos="-9518;-43678;-10949;33195" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_390" minZ="-11450" maxZ="-10650">
+		<node x="-10056" y="-40449" />
+		<node x="-9056" y="-40449" />
+		<node x="-9056" y="-39449" />
+		<node x="-10056" y="-39449" />
+	</territory>
+	<npcmaker name="Pagan_Temple_390" territory="Pagan_Temple_390" spawn="ALL" maximumNpcs="1">
+		<npc id="22142" pos="-9556;-39949;-10950;63860" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_391" minZ="-11450" maxZ="-10650">
+		<node x="-10436" y="-38326" />
+		<node x="-9436" y="-38326" />
+		<node x="-9436" y="-37326" />
+		<node x="-10436" y="-37326" />
+	</territory>
+	<npcmaker name="Pagan_Temple_391" territory="Pagan_Temple_391" spawn="ALL" maximumNpcs="1">
+		<npc id="22142" pos="-9936;-37826;-10950;24142" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_392" minZ="-11450" maxZ="-10650">
+		<node x="-10457" y="-43941" />
+		<node x="-9457" y="-43941" />
+		<node x="-9457" y="-42941" />
+		<node x="-10457" y="-42941" />
+	</territory>
+	<npcmaker name="Pagan_Temple_392" territory="Pagan_Temple_392" spawn="ALL" maximumNpcs="1">
+		<npc id="22142" pos="-9957;-43441;-10950;28959" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_393" minZ="-11225" maxZ="-10425">
+		<node x="-12377" y="-46080" />
+		<node x="-11377" y="-46080" />
+		<node x="-11377" y="-45080" />
+		<node x="-12377" y="-45080" />
+	</territory>
+	<npcmaker name="Pagan_Temple_393" territory="Pagan_Temple_393" spawn="ALL" maximumNpcs="1">
+		<npc id="22143" pos="-11877;-45580;-10725;24100" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_394" minZ="-11321" maxZ="-10521">
+		<node x="-12388" y="-47773" />
+		<node x="-11388" y="-47773" />
+		<node x="-11388" y="-46773" />
+		<node x="-12388" y="-46773" />
+	</territory>
+	<npcmaker name="Pagan_Temple_394" territory="Pagan_Temple_394" spawn="ALL" maximumNpcs="1">
+		<npc id="22143" pos="-11888;-47273;-10821;5637" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_395" minZ="-11321" maxZ="-10521">
+		<node x="-12434" y="-47389" />
+		<node x="-11434" y="-47389" />
+		<node x="-11434" y="-46389" />
+		<node x="-12434" y="-46389" />
+	</territory>
+	<npcmaker name="Pagan_Temple_395" territory="Pagan_Temple_395" spawn="ALL" maximumNpcs="1">
+		<npc id="22143" pos="-11934;-46889;-10821;18012" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_396" minZ="-11347" maxZ="-10547">
+		<node x="-12720" y="-47413" />
+		<node x="-11720" y="-47413" />
+		<node x="-11720" y="-46413" />
+		<node x="-12720" y="-46413" />
+	</territory>
+	<npcmaker name="Pagan_Temple_396" territory="Pagan_Temple_396" spawn="ALL" maximumNpcs="1">
+		<npc id="22143" pos="-12220;-46913;-10847;43474" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_397" minZ="-11225" maxZ="-10425">
+		<node x="-12793" y="-45311" />
+		<node x="-11793" y="-45311" />
+		<node x="-11793" y="-44311" />
+		<node x="-12793" y="-44311" />
+	</territory>
+	<npcmaker name="Pagan_Temple_397" territory="Pagan_Temple_397" spawn="ALL" maximumNpcs="1">
+		<npc id="22143" pos="-12293;-44811;-10725;48806" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_398" minZ="-11321" maxZ="-10521">
+		<node x="-12887" y="-47218" />
+		<node x="-11887" y="-47218" />
+		<node x="-11887" y="-46218" />
+		<node x="-12887" y="-46218" />
+	</territory>
+	<npcmaker name="Pagan_Temple_398" territory="Pagan_Temple_398" spawn="ALL" maximumNpcs="1">
+		<npc id="22143" pos="-12387;-46718;-10821;20484" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_399" minZ="-11321" maxZ="-10521">
+		<node x="-13912" y="-47864" />
+		<node x="-12912" y="-47864" />
+		<node x="-12912" y="-46864" />
+		<node x="-13912" y="-46864" />
+	</territory>
+	<npcmaker name="Pagan_Temple_399" territory="Pagan_Temple_399" spawn="ALL" maximumNpcs="1">
+		<npc id="22143" pos="-13412;-47364;-10821;58824" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_4" minZ="-11417" maxZ="-10617">
+		<node x="-18553" y="-49827" />
+		<node x="-17553" y="-49827" />
+		<node x="-17553" y="-48827" />
+		<node x="-18553" y="-48827" />
+	</territory>
+	<npcmaker name="Pagan_Temple_4" territory="Pagan_Temple_4" spawn="ALL" maximumNpcs="1">
+		<npc id="22153" pos="-18053;-49327;-10917;47311" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_400" minZ="-11513" maxZ="-10713">
+		<node x="-14075" y="-51724" />
+		<node x="-13075" y="-51724" />
+		<node x="-13075" y="-50724" />
+		<node x="-14075" y="-50724" />
+	</territory>
+	<npcmaker name="Pagan_Temple_400" territory="Pagan_Temple_400" spawn="ALL" maximumNpcs="1">
+		<npc id="22143" pos="-13575;-51224;-11013;21221" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_401" minZ="-11321" maxZ="-10521">
+		<node x="-14328" y="-47279" />
+		<node x="-13328" y="-47279" />
+		<node x="-13328" y="-46279" />
+		<node x="-14328" y="-46279" />
+	</territory>
+	<npcmaker name="Pagan_Temple_401" territory="Pagan_Temple_401" spawn="ALL" maximumNpcs="1">
+		<npc id="22143" pos="-13828;-46779;-10821;56780" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_402" minZ="-11450" maxZ="-10650">
+		<node x="-9915" y="-42086" />
+		<node x="-8915" y="-42086" />
+		<node x="-8915" y="-41086" />
+		<node x="-9915" y="-41086" />
+	</territory>
+	<npcmaker name="Pagan_Temple_402" territory="Pagan_Temple_402" spawn="ALL" maximumNpcs="1">
+		<npc id="22142" pos="-9415;-41586;-10950;15017" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_403" minZ="-11416" maxZ="-10616">
+		<node x="-24117" y="-42287" />
+		<node x="-23117" y="-42287" />
+		<node x="-23117" y="-41287" />
+		<node x="-24117" y="-41287" />
+	</territory>
+	<npcmaker name="Pagan_Temple_403" territory="Pagan_Temple_403" spawn="ALL" maximumNpcs="1">
+		<npc id="22142" pos="-23617;-41787;-10916;4149" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_404" minZ="-11225" maxZ="-10425">
+		<node x="-12954" y="-45314" />
+		<node x="-11954" y="-45314" />
+		<node x="-11954" y="-44314" />
+		<node x="-12954" y="-44314" />
+	</territory>
+	<npcmaker name="Pagan_Temple_404" territory="Pagan_Temple_404" spawn="ALL" maximumNpcs="1">
+		<npc id="22142" pos="-12454;-44814;-10725;27245" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_405" minZ="-11257" maxZ="-10457">
+		<node x="-13224" y="-42179" />
+		<node x="-12224" y="-42179" />
+		<node x="-12224" y="-41179" />
+		<node x="-13224" y="-41179" />
+	</territory>
+	<npcmaker name="Pagan_Temple_405" territory="Pagan_Temple_405" spawn="ALL" maximumNpcs="1">
+		<npc id="22142" pos="-12724;-41679;-10757;4346" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_406" minZ="-11258" maxZ="-10458">
+		<node x="-13286" y="-40319" />
+		<node x="-12286" y="-40319" />
+		<node x="-12286" y="-39319" />
+		<node x="-13286" y="-39319" />
+	</territory>
+	<npcmaker name="Pagan_Temple_406" territory="Pagan_Temple_406" spawn="ALL" maximumNpcs="1">
+		<npc id="22142" pos="-12786;-39819;-10758;399" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_407" minZ="-11225" maxZ="-10425">
+		<node x="-13942" y="-45492" />
+		<node x="-12942" y="-45492" />
+		<node x="-12942" y="-44492" />
+		<node x="-13942" y="-44492" />
+	</territory>
+	<npcmaker name="Pagan_Temple_407" territory="Pagan_Temple_407" spawn="ALL" maximumNpcs="1">
+		<npc id="22142" pos="-13442;-44992;-10725;14745" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_408" minZ="-11225" maxZ="-10425">
+		<node x="-14019" y="-45860" />
+		<node x="-13019" y="-45860" />
+		<node x="-13019" y="-44860" />
+		<node x="-14019" y="-44860" />
+	</territory>
+	<npcmaker name="Pagan_Temple_408" territory="Pagan_Temple_408" spawn="ALL" maximumNpcs="1">
+		<npc id="22142" pos="-13519;-45360;-10725;15580" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_409" minZ="-11321" maxZ="-10521">
+		<node x="-14097" y="-48240" />
+		<node x="-13097" y="-48240" />
+		<node x="-13097" y="-47240" />
+		<node x="-14097" y="-47240" />
+	</territory>
+	<npcmaker name="Pagan_Temple_409" territory="Pagan_Temple_409" spawn="ALL" maximumNpcs="1">
+		<npc id="22142" pos="-13597;-47740;-10821;36933" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_410" minZ="-11321" maxZ="-10521">
+		<node x="-14325" y="-47098" />
+		<node x="-13325" y="-47098" />
+		<node x="-13325" y="-46098" />
+		<node x="-14325" y="-46098" />
+	</territory>
+	<npcmaker name="Pagan_Temple_410" territory="Pagan_Temple_410" spawn="ALL" maximumNpcs="1">
+		<npc id="22142" pos="-13825;-46598;-10821;65033" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_411" minZ="-11321" maxZ="-10521">
+		<node x="-14377" y="-47643" />
+		<node x="-13377" y="-47643" />
+		<node x="-13377" y="-46643" />
+		<node x="-14377" y="-46643" />
+	</territory>
+	<npcmaker name="Pagan_Temple_411" territory="Pagan_Temple_411" spawn="ALL" maximumNpcs="1">
+		<npc id="22142" pos="-13877;-47143;-10821;45718" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_412" minZ="-11321" maxZ="-10521">
+		<node x="-19465" y="-47797" />
+		<node x="-18465" y="-47797" />
+		<node x="-18465" y="-46797" />
+		<node x="-19465" y="-46797" />
+	</territory>
+	<npcmaker name="Pagan_Temple_412" territory="Pagan_Temple_412" spawn="ALL" maximumNpcs="1">
+		<npc id="22142" pos="-18965;-47297;-10821;15280" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_413" minZ="-11258" maxZ="-10458">
+		<node x="-20569" y="-43996" />
+		<node x="-19569" y="-43996" />
+		<node x="-19569" y="-42996" />
+		<node x="-20569" y="-42996" />
+	</territory>
+	<npcmaker name="Pagan_Temple_413" territory="Pagan_Temple_413" spawn="ALL" maximumNpcs="1">
+		<npc id="22142" pos="-20069;-43496;-10758;31352" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_414" minZ="-11450" maxZ="-10650">
+		<node x="-23271" y="-42266" />
+		<node x="-22271" y="-42266" />
+		<node x="-22271" y="-41266" />
+		<node x="-23271" y="-41266" />
+	</territory>
+	<npcmaker name="Pagan_Temple_414" territory="Pagan_Temple_414" spawn="ALL" maximumNpcs="1">
+		<npc id="22142" pos="-22771;-41766;-10950;60584" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_415" minZ="-11476" maxZ="-10676">
+		<node x="-23323" y="-44208" />
+		<node x="-22323" y="-44208" />
+		<node x="-22323" y="-43208" />
+		<node x="-23323" y="-43208" />
+	</territory>
+	<npcmaker name="Pagan_Temple_415" territory="Pagan_Temple_415" spawn="ALL" maximumNpcs="1">
+		<npc id="22142" pos="-22823;-43708;-10976;37111" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_416" minZ="-11450" maxZ="-10650">
+		<node x="-23355" y="-38540" />
+		<node x="-22355" y="-38540" />
+		<node x="-22355" y="-37540" />
+		<node x="-23355" y="-37540" />
+	</territory>
+	<npcmaker name="Pagan_Temple_416" territory="Pagan_Temple_416" spawn="ALL" maximumNpcs="1">
+		<npc id="22142" pos="-22855;-38040;-10950;27932" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_417" minZ="-11417" maxZ="-10617">
+		<node x="-24076" y="-40125" />
+		<node x="-23076" y="-40125" />
+		<node x="-23076" y="-39125" />
+		<node x="-24076" y="-39125" />
+	</territory>
+	<npcmaker name="Pagan_Temple_417" territory="Pagan_Temple_417" spawn="ALL" maximumNpcs="1">
+		<npc id="22142" pos="-23576;-39625;-10917;4787" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_418" minZ="-11513" maxZ="-10713">
+		<node x="-14350" y="-51393" />
+		<node x="-13350" y="-51393" />
+		<node x="-13350" y="-50393" />
+		<node x="-14350" y="-50393" />
+	</territory>
+	<npcmaker name="Pagan_Temple_418" territory="Pagan_Temple_418" spawn="ALL" maximumNpcs="1">
+		<npc id="22143" pos="-13850;-50893;-11013;54001" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_419" minZ="-11225" maxZ="-10425">
+		<node x="-14395" y="-46271" />
+		<node x="-13395" y="-46271" />
+		<node x="-13395" y="-45271" />
+		<node x="-14395" y="-45271" />
+	</territory>
+	<npcmaker name="Pagan_Temple_419" territory="Pagan_Temple_419" spawn="ALL" maximumNpcs="1">
+		<npc id="22143" pos="-13895;-45771;-10725;1771" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_420" minZ="-11321" maxZ="-10521">
+		<node x="-19869" y="-47780" />
+		<node x="-18869" y="-47780" />
+		<node x="-18869" y="-46780" />
+		<node x="-19869" y="-46780" />
+	</territory>
+	<npcmaker name="Pagan_Temple_420" territory="Pagan_Temple_420" spawn="ALL" maximumNpcs="1">
+		<npc id="22143" pos="-19369;-47280;-10821;14697" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_421" minZ="-11417" maxZ="-10617">
+		<node x="-20870" y="-49444" />
+		<node x="-19870" y="-49444" />
+		<node x="-19870" y="-48444" />
+		<node x="-20870" y="-48444" />
+	</territory>
+	<npcmaker name="Pagan_Temple_421" territory="Pagan_Temple_421" spawn="ALL" maximumNpcs="1">
+		<npc id="22143" pos="-20370;-48944;-10917;12985" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_422" minZ="-11321" maxZ="-10521">
+		<node x="-21060" y="-47217" />
+		<node x="-20060" y="-47217" />
+		<node x="-20060" y="-46217" />
+		<node x="-21060" y="-46217" />
+	</territory>
+	<npcmaker name="Pagan_Temple_422" territory="Pagan_Temple_422" spawn="ALL" maximumNpcs="1">
+		<npc id="22143" pos="-20560;-46717;-10821;51482" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_423" minZ="-11225" maxZ="-10425">
+		<node x="-21273" y="-45869" />
+		<node x="-20273" y="-45869" />
+		<node x="-20273" y="-44869" />
+		<node x="-21273" y="-44869" />
+	</territory>
+	<npcmaker name="Pagan_Temple_423" territory="Pagan_Temple_423" spawn="ALL" maximumNpcs="1">
+		<npc id="22143" pos="-20773;-45369;-10725;30343" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_424" minZ="-11416" maxZ="-10616">
+		<node x="-22880" y="-40362" />
+		<node x="-21880" y="-40362" />
+		<node x="-21880" y="-39362" />
+		<node x="-22880" y="-39362" />
+	</territory>
+	<npcmaker name="Pagan_Temple_424" territory="Pagan_Temple_424" spawn="ALL" maximumNpcs="1">
+		<npc id="22143" pos="-22380;-39862;-10916;54039" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_425" minZ="-11450" maxZ="-10650">
+		<node x="-23392" y="-42107" />
+		<node x="-22392" y="-42107" />
+		<node x="-22392" y="-41107" />
+		<node x="-23392" y="-41107" />
+	</territory>
+	<npcmaker name="Pagan_Temple_425" territory="Pagan_Temple_425" spawn="ALL" maximumNpcs="1">
+		<npc id="22143" pos="-22892;-41607;-10950;2051" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_426" minZ="-11450" maxZ="-10650">
+		<node x="-23484" y="-44045" />
+		<node x="-22484" y="-44045" />
+		<node x="-22484" y="-43045" />
+		<node x="-23484" y="-43045" />
+	</territory>
+	<npcmaker name="Pagan_Temple_426" territory="Pagan_Temple_426" spawn="ALL" maximumNpcs="1">
+		<npc id="22143" pos="-22984;-43545;-10950;64947" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_427" minZ="-11450" maxZ="-10650">
+		<node x="-9972" y="-42066" />
+		<node x="-8972" y="-42066" />
+		<node x="-8972" y="-41066" />
+		<node x="-9972" y="-41066" />
+	</territory>
+	<npcmaker name="Pagan_Temple_427" territory="Pagan_Temple_427" spawn="ALL" maximumNpcs="1">
+		<npc id="22143" pos="-9472;-41566;-10950;1467" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_428" minZ="-11450" maxZ="-10650">
+		<node x="-10209" y="-44072" />
+		<node x="-9209" y="-44072" />
+		<node x="-9209" y="-43072" />
+		<node x="-10209" y="-43072" />
+	</territory>
+	<npcmaker name="Pagan_Temple_428" territory="Pagan_Temple_428" spawn="ALL" maximumNpcs="1">
+		<npc id="22143" pos="-9709;-43572;-10950;23422" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_429" minZ="-11450" maxZ="-10650">
+		<node x="-10277" y="-40419" />
+		<node x="-9277" y="-40419" />
+		<node x="-9277" y="-39419" />
+		<node x="-10277" y="-39419" />
+	</territory>
+	<npcmaker name="Pagan_Temple_429" territory="Pagan_Temple_429" spawn="ALL" maximumNpcs="1">
+		<npc id="22143" pos="-9777;-39919;-10950;62590" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_430" minZ="-11450" maxZ="-10650">
+		<node x="-23403" y="-42120" />
+		<node x="-22403" y="-42120" />
+		<node x="-22403" y="-41120" />
+		<node x="-23403" y="-41120" />
+	</territory>
+	<npcmaker name="Pagan_Temple_430" territory="Pagan_Temple_430" spawn="ALL" maximumNpcs="1">
+		<npc id="22144" pos="-22903;-41620;-10950;24052" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_431" minZ="-11450" maxZ="-10650">
+		<node x="-23510" y="-40329" />
+		<node x="-22510" y="-40329" />
+		<node x="-22510" y="-39329" />
+		<node x="-23510" y="-39329" />
+	</territory>
+	<npcmaker name="Pagan_Temple_431" territory="Pagan_Temple_431" spawn="ALL" maximumNpcs="1">
+		<npc id="22144" pos="-23010;-39829;-10950;3559" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_432" minZ="-11415" maxZ="-10615">
+		<node x="-23681" y="-38389" />
+		<node x="-22681" y="-38389" />
+		<node x="-22681" y="-37389" />
+		<node x="-23681" y="-37389" />
+	</territory>
+	<npcmaker name="Pagan_Temple_432" territory="Pagan_Temple_432" spawn="ALL" maximumNpcs="1">
+		<npc id="22144" pos="-23181;-37889;-10915;325" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_433" minZ="-11450" maxZ="-10650">
+		<node x="-23686" y="-44069" />
+		<node x="-22686" y="-44069" />
+		<node x="-22686" y="-43069" />
+		<node x="-23686" y="-43069" />
+	</territory>
+	<npcmaker name="Pagan_Temple_433" territory="Pagan_Temple_433" spawn="ALL" maximumNpcs="1">
+		<npc id="22144" pos="-23186;-43569;-10950;43933" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_434" minZ="-11513" maxZ="-10713">
+		<node x="-19817" y="-51249" />
+		<node x="-18817" y="-51249" />
+		<node x="-18817" y="-50249" />
+		<node x="-19817" y="-50249" />
+	</territory>
+	<npcmaker name="Pagan_Temple_434" territory="Pagan_Temple_434" spawn="ALL" maximumNpcs="1">
+		<npc id="22143" pos="-19317;-50749;-11013;63270" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_435" minZ="-11417" maxZ="-10617">
+		<node x="-19649" y="-49805" />
+		<node x="-18649" y="-49805" />
+		<node x="-18649" y="-48805" />
+		<node x="-19649" y="-48805" />
+	</territory>
+	<npcmaker name="Pagan_Temple_435" territory="Pagan_Temple_435" spawn="ALL" maximumNpcs="1">
+		<npc id="22143" pos="-19149;-49305;-10917;45931" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_436" minZ="-11225" maxZ="-10425">
+		<node x="-14413" y="-45522" />
+		<node x="-13413" y="-45522" />
+		<node x="-13413" y="-44522" />
+		<node x="-14413" y="-44522" />
+	</territory>
+	<npcmaker name="Pagan_Temple_436" territory="Pagan_Temple_436" spawn="ALL" maximumNpcs="1">
+		<npc id="22143" pos="-13913;-45022;-10725;52082" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_437" minZ="-11225" maxZ="-10425">
+		<node x="-14447" y="-45209" />
+		<node x="-13447" y="-45209" />
+		<node x="-13447" y="-44209" />
+		<node x="-14447" y="-44209" />
+	</territory>
+	<npcmaker name="Pagan_Temple_437" territory="Pagan_Temple_437" spawn="ALL" maximumNpcs="1">
+		<npc id="22143" pos="-13947;-44709;-10725;17513" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_438" minZ="-11347" maxZ="-10547">
+		<node x="-14455" y="-47884" />
+		<node x="-13455" y="-47884" />
+		<node x="-13455" y="-46884" />
+		<node x="-14455" y="-46884" />
+	</territory>
+	<npcmaker name="Pagan_Temple_438" territory="Pagan_Temple_438" spawn="ALL" maximumNpcs="1">
+		<npc id="22143" pos="-13955;-47384;-10847;45283" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_439" minZ="-11417" maxZ="-10617">
+		<node x="-15355" y="-49063" />
+		<node x="-14355" y="-49063" />
+		<node x="-14355" y="-48063" />
+		<node x="-15355" y="-48063" />
+	</territory>
+	<npcmaker name="Pagan_Temple_439" territory="Pagan_Temple_439" spawn="ALL" maximumNpcs="1">
+		<npc id="22143" pos="-14855;-48563;-10917;45676" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_440" minZ="-11321" maxZ="-10521">
+		<node x="-15484" y="-48059" />
+		<node x="-14484" y="-48059" />
+		<node x="-14484" y="-47059" />
+		<node x="-15484" y="-47059" />
+	</territory>
+	<npcmaker name="Pagan_Temple_440" territory="Pagan_Temple_440" spawn="ALL" maximumNpcs="1">
+		<npc id="22143" pos="-14984;-47559;-10821;28760" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_441" minZ="-11321" maxZ="-10521">
+		<node x="-15517" y="-47270" />
+		<node x="-14517" y="-47270" />
+		<node x="-14517" y="-46270" />
+		<node x="-15517" y="-46270" />
+	</territory>
+	<npcmaker name="Pagan_Temple_441" territory="Pagan_Temple_441" spawn="ALL" maximumNpcs="1">
+		<npc id="22143" pos="-15017;-46770;-10821;46292" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_442" minZ="-11225" maxZ="-10425">
+		<node x="-15726" y="-45880" />
+		<node x="-14726" y="-45880" />
+		<node x="-14726" y="-44880" />
+		<node x="-15726" y="-44880" />
+	</territory>
+	<npcmaker name="Pagan_Temple_442" territory="Pagan_Temple_442" spawn="ALL" maximumNpcs="1">
+		<npc id="22143" pos="-15226;-45380;-10725;32352" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_443" minZ="-11225" maxZ="-10425">
+		<node x="-15731" y="-45368" />
+		<node x="-14731" y="-45368" />
+		<node x="-14731" y="-44368" />
+		<node x="-15731" y="-44368" />
+	</territory>
+	<npcmaker name="Pagan_Temple_443" territory="Pagan_Temple_443" spawn="ALL" maximumNpcs="1">
+		<npc id="22143" pos="-15231;-44868;-10725;49057" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_444" minZ="-11417" maxZ="-10617">
+		<node x="-15798" y="-49863" />
+		<node x="-14798" y="-49863" />
+		<node x="-14798" y="-48863" />
+		<node x="-15798" y="-48863" />
+	</territory>
+	<npcmaker name="Pagan_Temple_444" territory="Pagan_Temple_444" spawn="ALL" maximumNpcs="1">
+		<npc id="22143" pos="-15298;-49363;-10917;23643" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_445" minZ="-11225" maxZ="-10425">
+		<node x="-18067" y="-45994" />
+		<node x="-17067" y="-45994" />
+		<node x="-17067" y="-44994" />
+		<node x="-18067" y="-44994" />
+	</territory>
+	<npcmaker name="Pagan_Temple_445" territory="Pagan_Temple_445" spawn="ALL" maximumNpcs="1">
+		<npc id="22143" pos="-17567;-45494;-10725;26460" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_446" minZ="-11225" maxZ="-10425">
+		<node x="-18155" y="-45440" />
+		<node x="-17155" y="-45440" />
+		<node x="-17155" y="-44440" />
+		<node x="-18155" y="-44440" />
+	</territory>
+	<npcmaker name="Pagan_Temple_446" territory="Pagan_Temple_446" spawn="ALL" maximumNpcs="1">
+		<npc id="22143" pos="-17655;-44940;-10725;49152" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_447" minZ="-11443" maxZ="-10643">
+		<node x="-18177" y="-49659" />
+		<node x="-17177" y="-49659" />
+		<node x="-17177" y="-48659" />
+		<node x="-18177" y="-48659" />
+	</territory>
+	<npcmaker name="Pagan_Temple_447" territory="Pagan_Temple_447" spawn="ALL" maximumNpcs="1">
+		<npc id="22143" pos="-17677;-49159;-10943;18694" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_448" minZ="-11321" maxZ="-10521">
+		<node x="-19266" y="-47636" />
+		<node x="-18266" y="-47636" />
+		<node x="-18266" y="-46636" />
+		<node x="-19266" y="-46636" />
+	</territory>
+	<npcmaker name="Pagan_Temple_448" territory="Pagan_Temple_448" spawn="ALL" maximumNpcs="1">
+		<npc id="22143" pos="-18766;-47136;-10821;55702" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_449" minZ="-11513" maxZ="-10713">
+		<node x="-19562" y="-51629" />
+		<node x="-18562" y="-51629" />
+		<node x="-18562" y="-50629" />
+		<node x="-19562" y="-50629" />
+	</territory>
+	<npcmaker name="Pagan_Temple_449" territory="Pagan_Temple_449" spawn="ALL" maximumNpcs="1">
+		<npc id="22143" pos="-19062;-51129;-11013;4422" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_450" minZ="-11450" maxZ="-10650">
+		<node x="-23803" y="-40433" />
+		<node x="-22803" y="-40433" />
+		<node x="-22803" y="-39433" />
+		<node x="-23803" y="-39433" />
+	</territory>
+	<npcmaker name="Pagan_Temple_450" territory="Pagan_Temple_450" spawn="ALL" maximumNpcs="1">
+		<npc id="22144" pos="-23303;-39933;-10950;63919" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_451" minZ="-11251" maxZ="-10451">
+		<node x="-12417" y="-45646" />
+		<node x="-11417" y="-45646" />
+		<node x="-11417" y="-44646" />
+		<node x="-12417" y="-44646" />
+	</territory>
+	<npcmaker name="Pagan_Temple_451" territory="Pagan_Temple_451" spawn="ALL" maximumNpcs="1">
+		<npc id="22142" pos="-11917;-45146;-10751;47515" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_452" minZ="-11257" maxZ="-10457">
+		<node x="-13191" y="-42187" />
+		<node x="-12191" y="-42187" />
+		<node x="-12191" y="-41187" />
+		<node x="-13191" y="-41187" />
+	</territory>
+	<npcmaker name="Pagan_Temple_452" territory="Pagan_Temple_452" spawn="ALL" maximumNpcs="1">
+		<npc id="22139" pos="-12691;-41687;-10757;31106" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_453" minZ="-11251" maxZ="-10451">
+		<node x="-12853" y="-44087" />
+		<node x="-11853" y="-44087" />
+		<node x="-11853" y="-43087" />
+		<node x="-12853" y="-43087" />
+	</territory>
+	<npcmaker name="Pagan_Temple_453" territory="Pagan_Temple_453" spawn="ALL" maximumNpcs="1">
+		<npc id="22140" pos="-12353;-43587;-10751;48903" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_454" minZ="-11258" maxZ="-10458">
+		<node x="-12974" y="-38421" />
+		<node x="-11974" y="-38421" />
+		<node x="-11974" y="-37421" />
+		<node x="-12974" y="-37421" />
+	</territory>
+	<npcmaker name="Pagan_Temple_454" territory="Pagan_Temple_454" spawn="ALL" maximumNpcs="1">
+		<npc id="22140" pos="-12474;-37921;-10758;60239" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_455" minZ="-11257" maxZ="-10457">
+		<node x="-13012" y="-42073" />
+		<node x="-12012" y="-42073" />
+		<node x="-12012" y="-41073" />
+		<node x="-13012" y="-41073" />
+	</territory>
+	<npcmaker name="Pagan_Temple_455" territory="Pagan_Temple_455" spawn="ALL" maximumNpcs="1">
+		<npc id="22140" pos="-12512;-41573;-10757;29413" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_456" minZ="-11258" maxZ="-10458">
+		<node x="-13070" y="-40230" />
+		<node x="-12070" y="-40230" />
+		<node x="-12070" y="-39230" />
+		<node x="-13070" y="-39230" />
+	</territory>
+	<npcmaker name="Pagan_Temple_456" territory="Pagan_Temple_456" spawn="ALL" maximumNpcs="1">
+		<npc id="22140" pos="-12570;-39730;-10758;21299" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_457" minZ="-11258" maxZ="-10458">
+		<node x="-13249" y="-44043" />
+		<node x="-12249" y="-44043" />
+		<node x="-12249" y="-43043" />
+		<node x="-13249" y="-43043" />
+	</territory>
+	<npcmaker name="Pagan_Temple_457" territory="Pagan_Temple_457" spawn="ALL" maximumNpcs="1">
+		<npc id="22140" pos="-12749;-43543;-10758;12061" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_458" minZ="-11258" maxZ="-10458">
+		<node x="-13450" y="-38395" />
+		<node x="-12450" y="-38395" />
+		<node x="-12450" y="-37395" />
+		<node x="-13450" y="-37395" />
+	</territory>
+	<npcmaker name="Pagan_Temple_458" territory="Pagan_Temple_458" spawn="ALL" maximumNpcs="1">
+		<npc id="22140" pos="-12950;-37895;-10758;57898" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_459" minZ="-11257" maxZ="-10457">
+		<node x="-13525" y="-42323" />
+		<node x="-12525" y="-42323" />
+		<node x="-12525" y="-41323" />
+		<node x="-13525" y="-41323" />
+	</territory>
+	<npcmaker name="Pagan_Temple_459" territory="Pagan_Temple_459" spawn="ALL" maximumNpcs="1">
+		<npc id="22140" pos="-13025;-41823;-10757;37729" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_460" minZ="-11284" maxZ="-10484">
+		<node x="-13598" y="-43922" />
+		<node x="-12598" y="-43922" />
+		<node x="-12598" y="-42922" />
+		<node x="-13598" y="-42922" />
+	</territory>
+	<npcmaker name="Pagan_Temple_460" territory="Pagan_Temple_460" spawn="ALL" maximumNpcs="1">
+		<npc id="22140" pos="-13098;-43422;-10784;30495" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_461" minZ="-11228" maxZ="-10428">
+		<node x="-13634" y="-38270" />
+		<node x="-12634" y="-38270" />
+		<node x="-12634" y="-37270" />
+		<node x="-13634" y="-37270" />
+	</territory>
+	<npcmaker name="Pagan_Temple_461" territory="Pagan_Temple_461" spawn="ALL" maximumNpcs="1">
+		<npc id="22140" pos="-13134;-37770;-10728;6344" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_462" minZ="-11236" maxZ="-10436">
+		<node x="-13664" y="-40341" />
+		<node x="-12664" y="-40341" />
+		<node x="-12664" y="-39341" />
+		<node x="-13664" y="-39341" />
+	</territory>
+	<npcmaker name="Pagan_Temple_462" territory="Pagan_Temple_462" spawn="ALL" maximumNpcs="1">
+		<npc id="22140" pos="-13164;-39841;-10736;7405" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_463" minZ="-11225" maxZ="-10425">
+		<node x="-15337" y="-38423" />
+		<node x="-14337" y="-38423" />
+		<node x="-14337" y="-37423" />
+		<node x="-15337" y="-37423" />
+	</territory>
+	<npcmaker name="Pagan_Temple_463" territory="Pagan_Temple_463" spawn="ALL" maximumNpcs="1">
+		<npc id="22140" pos="-14837;-37923;-10725;15439" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_464" minZ="-11225" maxZ="-10425">
+		<node x="-15635" y="-39952" />
+		<node x="-14635" y="-39952" />
+		<node x="-14635" y="-38952" />
+		<node x="-15635" y="-38952" />
+	</territory>
+	<npcmaker name="Pagan_Temple_464" territory="Pagan_Temple_464" spawn="ALL" maximumNpcs="1">
+		<npc id="22140" pos="-15135;-39452;-10725;11376" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_465" minZ="-11225" maxZ="-10425">
+		<node x="-15665" y="-40878" />
+		<node x="-14665" y="-40878" />
+		<node x="-14665" y="-39878" />
+		<node x="-15665" y="-39878" />
+	</territory>
+	<npcmaker name="Pagan_Temple_465" territory="Pagan_Temple_465" spawn="ALL" maximumNpcs="1">
+		<npc id="22140" pos="-15165;-40378;-10725;57526" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_466" minZ="-11225" maxZ="-10425">
+		<node x="-15671" y="-42068" />
+		<node x="-14671" y="-42068" />
+		<node x="-14671" y="-41068" />
+		<node x="-15671" y="-41068" />
+	</territory>
+	<npcmaker name="Pagan_Temple_466" territory="Pagan_Temple_466" spawn="ALL" maximumNpcs="1">
+		<npc id="22140" pos="-15171;-41568;-10725;16535" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_467" minZ="-11225" maxZ="-10425">
+		<node x="-12800" y="-40149" />
+		<node x="-11800" y="-40149" />
+		<node x="-11800" y="-39149" />
+		<node x="-12800" y="-39149" />
+	</territory>
+	<npcmaker name="Pagan_Temple_467" territory="Pagan_Temple_467" spawn="ALL" maximumNpcs="1">
+		<npc id="22140" pos="-12300;-39649;-10725;49443" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_468" minZ="-11225" maxZ="-10425">
+		<node x="-21230" y="-40314" />
+		<node x="-20230" y="-40314" />
+		<node x="-20230" y="-39314" />
+		<node x="-21230" y="-39314" />
+	</territory>
+	<npcmaker name="Pagan_Temple_468" territory="Pagan_Temple_468" spawn="ALL" maximumNpcs="1">
+		<npc id="22139" pos="-20730;-39814;-10725;33653" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_469" minZ="-11258" maxZ="-10458">
+		<node x="-13244" y="-38361" />
+		<node x="-12244" y="-38361" />
+		<node x="-12244" y="-37361" />
+		<node x="-13244" y="-37361" />
+	</territory>
+	<npcmaker name="Pagan_Temple_469" territory="Pagan_Temple_469" spawn="ALL" maximumNpcs="1">
+		<npc id="22139" pos="-12744;-37861;-10758;2967" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_470" minZ="-11225" maxZ="-10425">
+		<node x="-13339" y="-43846" />
+		<node x="-12339" y="-43846" />
+		<node x="-12339" y="-42846" />
+		<node x="-13339" y="-42846" />
+	</territory>
+	<npcmaker name="Pagan_Temple_470" territory="Pagan_Temple_470" spawn="ALL" maximumNpcs="1">
+		<npc id="22139" pos="-12839;-43346;-10725;30282" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_471" minZ="-11258" maxZ="-10458">
+		<node x="-13471" y="-40415" />
+		<node x="-12471" y="-40415" />
+		<node x="-12471" y="-39415" />
+		<node x="-13471" y="-39415" />
+	</territory>
+	<npcmaker name="Pagan_Temple_471" territory="Pagan_Temple_471" spawn="ALL" maximumNpcs="1">
+		<npc id="22139" pos="-12971;-39915;-10758;35143" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_472" minZ="-11225" maxZ="-10425">
+		<node x="-14019" y="-44039" />
+		<node x="-13019" y="-44039" />
+		<node x="-13019" y="-43039" />
+		<node x="-14019" y="-43039" />
+	</territory>
+	<npcmaker name="Pagan_Temple_472" territory="Pagan_Temple_472" spawn="ALL" maximumNpcs="1">
+		<npc id="22139" pos="-13519;-43539;-10725;817" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_473" minZ="-11225" maxZ="-10425">
+		<node x="-18119" y="-41321" />
+		<node x="-17119" y="-41321" />
+		<node x="-17119" y="-40321" />
+		<node x="-18119" y="-40321" />
+	</territory>
+	<npcmaker name="Pagan_Temple_473" territory="Pagan_Temple_473" spawn="ALL" maximumNpcs="1">
+		<npc id="22139" pos="-17619;-40821;-10725;45039" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_474" minZ="-11225" maxZ="-10425">
+		<node x="-18309" y="-38401" />
+		<node x="-17309" y="-38401" />
+		<node x="-17309" y="-37401" />
+		<node x="-18309" y="-37401" />
+	</territory>
+	<npcmaker name="Pagan_Temple_474" territory="Pagan_Temple_474" spawn="ALL" maximumNpcs="1">
+		<npc id="22139" pos="-17809;-37901;-10725;47429" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_475" minZ="-11225" maxZ="-10425">
+		<node x="-18386" y="-43348" />
+		<node x="-17386" y="-43348" />
+		<node x="-17386" y="-42348" />
+		<node x="-18386" y="-42348" />
+	</territory>
+	<npcmaker name="Pagan_Temple_475" territory="Pagan_Temple_475" spawn="ALL" maximumNpcs="1">
+		<npc id="22139" pos="-17886;-42848;-10725;17100" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_476" minZ="-11225" maxZ="-10425">
+		<node x="-19845" y="-42280" />
+		<node x="-18845" y="-42280" />
+		<node x="-18845" y="-41280" />
+		<node x="-19845" y="-41280" />
+	</territory>
+	<npcmaker name="Pagan_Temple_476" territory="Pagan_Temple_476" spawn="ALL" maximumNpcs="1">
+		<npc id="22139" pos="-19345;-41780;-10725;10251" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_477" minZ="-11258" maxZ="-10458">
+		<node x="-20266" y="-44085" />
+		<node x="-19266" y="-44085" />
+		<node x="-19266" y="-43085" />
+		<node x="-20266" y="-43085" />
+	</territory>
+	<npcmaker name="Pagan_Temple_477" territory="Pagan_Temple_477" spawn="ALL" maximumNpcs="1">
+		<npc id="22139" pos="-19766;-43585;-10758;33441" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_478" minZ="-11283" maxZ="-10483">
+		<node x="-20605" y="-40283" />
+		<node x="-19605" y="-40283" />
+		<node x="-19605" y="-39283" />
+		<node x="-20605" y="-39283" />
+	</territory>
+	<npcmaker name="Pagan_Temple_478" territory="Pagan_Temple_478" spawn="ALL" maximumNpcs="1">
+		<npc id="22139" pos="-20105;-39783;-10783;9483" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_479" minZ="-11258" maxZ="-10458">
+		<node x="-20714" y="-38451" />
+		<node x="-19714" y="-38451" />
+		<node x="-19714" y="-37451" />
+		<node x="-20714" y="-37451" />
+	</territory>
+	<npcmaker name="Pagan_Temple_479" territory="Pagan_Temple_479" spawn="ALL" maximumNpcs="1">
+		<npc id="22139" pos="-20214;-37951;-10758;32889" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_48" minZ="-11614" maxZ="-10814">
+		<node x="-20830" y="-54715" />
+		<node x="-19830" y="-54715" />
+		<node x="-19830" y="-53715" />
+		<node x="-20830" y="-53715" />
+	</territory>
+	<npcmaker name="Pagan_Temple_48" territory="Pagan_Temple_48" spawn="ALL" maximumNpcs="6">
+		<npc id="22155" pos="-20330;-54215;-11114;34741" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_480" minZ="-11258" maxZ="-10458">
+		<node x="-20774" y="-40500" />
+		<node x="-19774" y="-40500" />
+		<node x="-19774" y="-39500" />
+		<node x="-20774" y="-39500" />
+	</territory>
+	<npcmaker name="Pagan_Temple_480" territory="Pagan_Temple_480" spawn="ALL" maximumNpcs="1">
+		<npc id="22139" pos="-20274;-40000;-10758;37584" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_481" minZ="-11225" maxZ="-10425">
+		<node x="-21148" y="-42242" />
+		<node x="-20148" y="-42242" />
+		<node x="-20148" y="-41242" />
+		<node x="-21148" y="-41242" />
+	</territory>
+	<npcmaker name="Pagan_Temple_481" territory="Pagan_Temple_481" spawn="ALL" maximumNpcs="1">
+		<npc id="22139" pos="-20648;-41742;-10725;63671" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_482" minZ="-11225" maxZ="-10425">
+		<node x="-21172" y="-38216" />
+		<node x="-20172" y="-38216" />
+		<node x="-20172" y="-37216" />
+		<node x="-21172" y="-37216" />
+	</territory>
+	<npcmaker name="Pagan_Temple_482" territory="Pagan_Temple_482" spawn="ALL" maximumNpcs="1">
+		<npc id="22139" pos="-20672;-37716;-10725;27807" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_483" minZ="-11225" maxZ="-10425">
+		<node x="-15994" y="-41068" />
+		<node x="-14994" y="-41068" />
+		<node x="-14994" y="-40068" />
+		<node x="-15994" y="-40068" />
+	</territory>
+	<npcmaker name="Pagan_Temple_483" territory="Pagan_Temple_483" spawn="ALL" maximumNpcs="1">
+		<npc id="22140" pos="-15494;-40568;-10725;19919" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_484" minZ="-11225" maxZ="-10425">
+		<node x="-16340" y="-40097" />
+		<node x="-15340" y="-40097" />
+		<node x="-15340" y="-39097" />
+		<node x="-16340" y="-39097" />
+	</territory>
+	<npcmaker name="Pagan_Temple_484" territory="Pagan_Temple_484" spawn="ALL" maximumNpcs="1">
+		<npc id="22140" pos="-15840;-39597;-10725;64055" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_485" minZ="-11258" maxZ="-10458">
+		<node x="-20707" y="-42186" />
+		<node x="-19707" y="-42186" />
+		<node x="-19707" y="-41186" />
+		<node x="-20707" y="-41186" />
+	</territory>
+	<npcmaker name="Pagan_Temple_485" territory="Pagan_Temple_485" spawn="ALL" maximumNpcs="1">
+		<npc id="22140" pos="-20207;-41686;-10758;38448" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_486" minZ="-11258" maxZ="-10458">
+		<node x="-20725" y="-40252" />
+		<node x="-19725" y="-40252" />
+		<node x="-19725" y="-39252" />
+		<node x="-20725" y="-39252" />
+	</territory>
+	<npcmaker name="Pagan_Temple_486" territory="Pagan_Temple_486" spawn="ALL" maximumNpcs="1">
+		<npc id="22140" pos="-20225;-39752;-10758;57344" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_487" minZ="-11225" maxZ="-10425">
+		<node x="-12613" y="-44022" />
+		<node x="-11613" y="-44022" />
+		<node x="-11613" y="-43022" />
+		<node x="-12613" y="-43022" />
+	</territory>
+	<npcmaker name="Pagan_Temple_487" territory="Pagan_Temple_487" spawn="ALL" maximumNpcs="1">
+		<npc id="22141" pos="-12113;-43522;-10725;29949" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_488" minZ="-11257" maxZ="-10457">
+		<node x="-12957" y="-42340" />
+		<node x="-11957" y="-42340" />
+		<node x="-11957" y="-41340" />
+		<node x="-12957" y="-41340" />
+	</territory>
+	<npcmaker name="Pagan_Temple_488" territory="Pagan_Temple_488" spawn="ALL" maximumNpcs="1">
+		<npc id="22141" pos="-12457;-41840;-10757;37604" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_489" minZ="-11258" maxZ="-10458">
+		<node x="-12993" y="-38504" />
+		<node x="-11993" y="-38504" />
+		<node x="-11993" y="-37504" />
+		<node x="-12993" y="-37504" />
+	</territory>
+	<npcmaker name="Pagan_Temple_489" territory="Pagan_Temple_489" spawn="ALL" maximumNpcs="1">
+		<npc id="22141" pos="-12493;-38004;-10758;49577" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_49" minZ="-11513" maxZ="-10713">
+		<node x="-19395" y="-51765" />
+		<node x="-18395" y="-51765" />
+		<node x="-18395" y="-50765" />
+		<node x="-19395" y="-50765" />
+	</territory>
+	<npcmaker name="Pagan_Temple_49" territory="Pagan_Temple_49" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-18895;-51265;-11013;19425" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_490" minZ="-11258" maxZ="-10458">
+		<node x="-13031" y="-40313" />
+		<node x="-12031" y="-40313" />
+		<node x="-12031" y="-39313" />
+		<node x="-13031" y="-39313" />
+	</territory>
+	<npcmaker name="Pagan_Temple_490" territory="Pagan_Temple_490" spawn="ALL" maximumNpcs="1">
+		<npc id="22141" pos="-12531;-39813;-10758;30336" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_491" minZ="-11258" maxZ="-10458">
+		<node x="-13392" y="-38512" />
+		<node x="-12392" y="-38512" />
+		<node x="-12392" y="-37512" />
+		<node x="-13392" y="-37512" />
+	</territory>
+	<npcmaker name="Pagan_Temple_491" territory="Pagan_Temple_491" spawn="ALL" maximumNpcs="1">
+		<npc id="22141" pos="-12892;-38012;-10758;31224" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_492" minZ="-11257" maxZ="-10457">
+		<node x="-13553" y="-42174" />
+		<node x="-12553" y="-42174" />
+		<node x="-12553" y="-41174" />
+		<node x="-13553" y="-41174" />
+	</territory>
+	<npcmaker name="Pagan_Temple_492" territory="Pagan_Temple_492" spawn="ALL" maximumNpcs="1">
+		<npc id="22141" pos="-13053;-41674;-10757;9028" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_493" minZ="-11225" maxZ="-10425">
+		<node x="-16842" y="-42108" />
+		<node x="-15842" y="-42108" />
+		<node x="-15842" y="-41108" />
+		<node x="-16842" y="-41108" />
+	</territory>
+	<npcmaker name="Pagan_Temple_493" territory="Pagan_Temple_493" spawn="ALL" maximumNpcs="1">
+		<npc id="22141" pos="-16342;-41608;-10725;63541" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_494" minZ="-11258" maxZ="-10458">
+		<node x="-20141" y="-40185" />
+		<node x="-19141" y="-40185" />
+		<node x="-19141" y="-39185" />
+		<node x="-20141" y="-39185" />
+	</territory>
+	<npcmaker name="Pagan_Temple_494" territory="Pagan_Temple_494" spawn="ALL" maximumNpcs="1">
+		<npc id="22141" pos="-19641;-39685;-10758;17041" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_495" minZ="-11258" maxZ="-10458">
+		<node x="-20372" y="-38447" />
+		<node x="-19372" y="-38447" />
+		<node x="-19372" y="-37447" />
+		<node x="-20372" y="-37447" />
+	</territory>
+	<npcmaker name="Pagan_Temple_495" territory="Pagan_Temple_495" spawn="ALL" maximumNpcs="1">
+		<npc id="22141" pos="-19872;-37947;-10758;38713" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_496" minZ="-11284" maxZ="-10484">
+		<node x="-20490" y="-42170" />
+		<node x="-19490" y="-42170" />
+		<node x="-19490" y="-41170" />
+		<node x="-20490" y="-41170" />
+	</territory>
+	<npcmaker name="Pagan_Temple_496" territory="Pagan_Temple_496" spawn="ALL" maximumNpcs="1">
+		<npc id="22141" pos="-19990;-41670;-10784;1137" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_497" minZ="-11258" maxZ="-10458">
+		<node x="-20535" y="-42235" />
+		<node x="-19535" y="-42235" />
+		<node x="-19535" y="-41235" />
+		<node x="-20535" y="-41235" />
+	</territory>
+	<npcmaker name="Pagan_Temple_497" territory="Pagan_Temple_497" spawn="ALL" maximumNpcs="1">
+		<npc id="22141" pos="-20035;-41735;-10758;30787" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_498" minZ="-11258" maxZ="-10458">
+		<node x="-20558" y="-43978" />
+		<node x="-19558" y="-43978" />
+		<node x="-19558" y="-42978" />
+		<node x="-20558" y="-42978" />
+	</territory>
+	<npcmaker name="Pagan_Temple_498" territory="Pagan_Temple_498" spawn="ALL" maximumNpcs="1">
+		<npc id="22141" pos="-20058;-43478;-10758;29101" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_499" minZ="-11258" maxZ="-10458">
+		<node x="-20690" y="-44170" />
+		<node x="-19690" y="-44170" />
+		<node x="-19690" y="-43170" />
+		<node x="-20690" y="-43170" />
+	</territory>
+	<npcmaker name="Pagan_Temple_499" territory="Pagan_Temple_499" spawn="ALL" maximumNpcs="1">
+		<npc id="22140" pos="-20190;-43670;-10758;6665" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_5" minZ="-11417" maxZ="-10617">
+		<node x="-19627" y="-49358" />
+		<node x="-18627" y="-49358" />
+		<node x="-18627" y="-48358" />
+		<node x="-19627" y="-48358" />
+	</territory>
+	<npcmaker name="Pagan_Temple_5" territory="Pagan_Temple_5" spawn="ALL" maximumNpcs="1">
+		<npc id="22153" pos="-19127;-48858;-10917;61631" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_50" minZ="-11417" maxZ="-10617">
+		<node x="-19482" y="-49872" />
+		<node x="-18482" y="-49872" />
+		<node x="-18482" y="-48872" />
+		<node x="-19482" y="-48872" />
+	</territory>
+	<npcmaker name="Pagan_Temple_50" territory="Pagan_Temple_50" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-18982;-49372;-10917;64894" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_500" minZ="-11258" maxZ="-10458">
+		<node x="-20657" y="-38457" />
+		<node x="-19657" y="-38457" />
+		<node x="-19657" y="-37457" />
+		<node x="-20657" y="-37457" />
+	</territory>
+	<npcmaker name="Pagan_Temple_500" territory="Pagan_Temple_500" spawn="ALL" maximumNpcs="1">
+		<npc id="22140" pos="-20157;-37957;-10758;4486" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_501" minZ="-11225" maxZ="-10425">
+		<node x="-16433" y="-42382" />
+		<node x="-15433" y="-42382" />
+		<node x="-15433" y="-41382" />
+		<node x="-16433" y="-41382" />
+	</territory>
+	<npcmaker name="Pagan_Temple_501" territory="Pagan_Temple_501" spawn="ALL" maximumNpcs="1">
+		<npc id="22140" pos="-15933;-41882;-10725;10120" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_502" minZ="-11225" maxZ="-10425">
+		<node x="-16854" y="-39928" />
+		<node x="-15854" y="-39928" />
+		<node x="-15854" y="-38928" />
+		<node x="-16854" y="-38928" />
+	</territory>
+	<npcmaker name="Pagan_Temple_502" territory="Pagan_Temple_502" spawn="ALL" maximumNpcs="1">
+		<npc id="22140" pos="-16354;-39428;-10725;25717" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_503" minZ="-11225" maxZ="-10425">
+		<node x="-16901" y="-42662" />
+		<node x="-15901" y="-42662" />
+		<node x="-15901" y="-41662" />
+		<node x="-16901" y="-41662" />
+	</territory>
+	<npcmaker name="Pagan_Temple_503" territory="Pagan_Temple_503" spawn="ALL" maximumNpcs="1">
+		<npc id="22140" pos="-16401;-42162;-10725;50404" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_504" minZ="-11225" maxZ="-10425">
+		<node x="-17254" y="-42365" />
+		<node x="-16254" y="-42365" />
+		<node x="-16254" y="-41365" />
+		<node x="-17254" y="-41365" />
+	</territory>
+	<npcmaker name="Pagan_Temple_504" territory="Pagan_Temple_504" spawn="ALL" maximumNpcs="1">
+		<npc id="22140" pos="-16754;-41865;-10725;9642" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_505" minZ="-11225" maxZ="-10425">
+		<node x="-17286" y="-40326" />
+		<node x="-16286" y="-40326" />
+		<node x="-16286" y="-39326" />
+		<node x="-17286" y="-39326" />
+	</territory>
+	<npcmaker name="Pagan_Temple_505" territory="Pagan_Temple_505" spawn="ALL" maximumNpcs="1">
+		<npc id="22140" pos="-16786;-39826;-10725;41663" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_506" minZ="-11225" maxZ="-10425">
+		<node x="-17601" y="-42504" />
+		<node x="-16601" y="-42504" />
+		<node x="-16601" y="-41504" />
+		<node x="-17601" y="-41504" />
+	</territory>
+	<npcmaker name="Pagan_Temple_506" territory="Pagan_Temple_506" spawn="ALL" maximumNpcs="1">
+		<npc id="22140" pos="-17101;-42004;-10725;51274" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_507" minZ="-11225" maxZ="-10425">
+		<node x="-17733" y="-40750" />
+		<node x="-16733" y="-40750" />
+		<node x="-16733" y="-39750" />
+		<node x="-17733" y="-39750" />
+	</territory>
+	<npcmaker name="Pagan_Temple_507" territory="Pagan_Temple_507" spawn="ALL" maximumNpcs="1">
+		<npc id="22140" pos="-17233;-40250;-10725;7346" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_508" minZ="-11225" maxZ="-10425">
+		<node x="-17747" y="-41430" />
+		<node x="-16747" y="-41430" />
+		<node x="-16747" y="-40430" />
+		<node x="-17747" y="-40430" />
+	</territory>
+	<npcmaker name="Pagan_Temple_508" territory="Pagan_Temple_508" spawn="ALL" maximumNpcs="1">
+		<npc id="22140" pos="-17247;-40930;-10725;43895" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_509" minZ="-11225" maxZ="-10425">
+		<node x="-18319" y="-40278" />
+		<node x="-17319" y="-40278" />
+		<node x="-17319" y="-39278" />
+		<node x="-18319" y="-39278" />
+	</territory>
+	<npcmaker name="Pagan_Temple_509" territory="Pagan_Temple_509" spawn="ALL" maximumNpcs="1">
+		<npc id="22140" pos="-17819;-39778;-10725;49089" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_51" minZ="-11438" maxZ="-10638">
+		<node x="-20591" y="-53181" />
+		<node x="-19591" y="-53181" />
+		<node x="-19591" y="-52181" />
+		<node x="-20591" y="-52181" />
+	</territory>
+	<npcmaker name="Pagan_Temple_51" territory="Pagan_Temple_51" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-20091;-52681;-10938;57155" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_510" minZ="-11225" maxZ="-10425">
+		<node x="-19814" y="-42203" />
+		<node x="-18814" y="-42203" />
+		<node x="-18814" y="-41203" />
+		<node x="-19814" y="-41203" />
+	</territory>
+	<npcmaker name="Pagan_Temple_510" territory="Pagan_Temple_510" spawn="ALL" maximumNpcs="1">
+		<npc id="22140" pos="-19314;-41703;-10725;34376" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_511" minZ="-11225" maxZ="-10425">
+		<node x="-19925" y="-44118" />
+		<node x="-18925" y="-44118" />
+		<node x="-18925" y="-43118" />
+		<node x="-19925" y="-43118" />
+	</territory>
+	<npcmaker name="Pagan_Temple_511" territory="Pagan_Temple_511" spawn="ALL" maximumNpcs="1">
+		<npc id="22140" pos="-19425;-43618;-10725;34207" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_512" minZ="-11258" maxZ="-10458">
+		<node x="-20237" y="-40415" />
+		<node x="-19237" y="-40415" />
+		<node x="-19237" y="-39415" />
+		<node x="-20237" y="-39415" />
+	</territory>
+	<npcmaker name="Pagan_Temple_512" territory="Pagan_Temple_512" spawn="ALL" maximumNpcs="1">
+		<npc id="22140" pos="-19737;-39915;-10758;61162" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_513" minZ="-11258" maxZ="-10458">
+		<node x="-20477" y="-38470" />
+		<node x="-19477" y="-38470" />
+		<node x="-19477" y="-37470" />
+		<node x="-20477" y="-37470" />
+	</territory>
+	<npcmaker name="Pagan_Temple_513" territory="Pagan_Temple_513" spawn="ALL" maximumNpcs="1">
+		<npc id="22140" pos="-19977;-37970;-10758;36848" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_514" minZ="-11258" maxZ="-10458">
+		<node x="-20560" y="-43980" />
+		<node x="-19560" y="-43980" />
+		<node x="-19560" y="-42980" />
+		<node x="-20560" y="-42980" />
+	</territory>
+	<npcmaker name="Pagan_Temple_514" territory="Pagan_Temple_514" spawn="ALL" maximumNpcs="1">
+		<npc id="22140" pos="-20060;-43480;-10758;63557" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_515" minZ="-11225" maxZ="-10425">
+		<node x="-21061" y="-44177" />
+		<node x="-20061" y="-44177" />
+		<node x="-20061" y="-43177" />
+		<node x="-21061" y="-43177" />
+	</territory>
+	<npcmaker name="Pagan_Temple_515" territory="Pagan_Temple_515" spawn="ALL" maximumNpcs="1">
+		<npc id="22141" pos="-20561;-43677;-10725;6712" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_52" minZ="-11417" maxZ="-10617">
+		<node x="-21019" y="-49898" />
+		<node x="-20019" y="-49898" />
+		<node x="-20019" y="-48898" />
+		<node x="-21019" y="-48898" />
+	</territory>
+	<npcmaker name="Pagan_Temple_52" territory="Pagan_Temple_52" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-20519;-49398;-10917;64247" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_53" minZ="-11513" maxZ="-10713">
+		<node x="-21104" y="-51670" />
+		<node x="-20104" y="-51670" />
+		<node x="-20104" y="-50670" />
+		<node x="-21104" y="-50670" />
+	</territory>
+	<npcmaker name="Pagan_Temple_53" territory="Pagan_Temple_53" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-20604;-51170;-11013;56571" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_54" minZ="-11417" maxZ="-10617">
+		<node x="-21210" y="-49372" />
+		<node x="-20210" y="-49372" />
+		<node x="-20210" y="-48372" />
+		<node x="-21210" y="-48372" />
+	</territory>
+	<npcmaker name="Pagan_Temple_54" territory="Pagan_Temple_54" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-20710;-48872;-10917;61095" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_55" minZ="-11614" maxZ="-10814">
+		<node x="-13153" y="-54738" />
+		<node x="-12153" y="-54738" />
+		<node x="-12153" y="-53738" />
+		<node x="-13153" y="-53738" />
+	</territory>
+	<npcmaker name="Pagan_Temple_55" territory="Pagan_Temple_55" spawn="ALL" maximumNpcs="6">
+		<npc id="22155" pos="-12653;-54238;-11114;2877" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_56" minZ="-11438" maxZ="-10638">
+		<node x="-13187" y="-53166" />
+		<node x="-12187" y="-53166" />
+		<node x="-12187" y="-52166" />
+		<node x="-13187" y="-52166" />
+	</territory>
+	<npcmaker name="Pagan_Temple_56" territory="Pagan_Temple_56" spawn="ALL" maximumNpcs="6">
+		<npc id="22155" pos="-12687;-52666;-10938;60928" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_57" minZ="-11350" maxZ="-10550">
+		<node x="-15750" y="-57504" />
+		<node x="-14750" y="-57504" />
+		<node x="-14750" y="-56504" />
+		<node x="-15750" y="-56504" />
+	</territory>
+	<npcmaker name="Pagan_Temple_57" territory="Pagan_Temple_57" spawn="ALL" maximumNpcs="7">
+		<npc id="22155" pos="-15250;-57004;-10850;37837" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_58" minZ="-12065" maxZ="-11265">
+		<node x="-16158" y="-53786" />
+		<node x="-15158" y="-53786" />
+		<node x="-15158" y="-52786" />
+		<node x="-16158" y="-52786" />
+	</territory>
+	<npcmaker name="Pagan_Temple_58" territory="Pagan_Temple_58" spawn="ALL" maximumNpcs="7">
+		<npc id="22155" pos="-15658;-53286;-11565;44488" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_59" minZ="-12065" maxZ="-11265">
+		<node x="-16953" y="-53809" />
+		<node x="-15953" y="-53809" />
+		<node x="-15953" y="-52809" />
+		<node x="-16953" y="-52809" />
+	</territory>
+	<npcmaker name="Pagan_Temple_59" territory="Pagan_Temple_59" spawn="ALL" maximumNpcs="7">
+		<npc id="22155" pos="-16453;-53309;-11565;49538" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_6" minZ="-11417" maxZ="-10617">
+		<node x="-19937" y="-49844" />
+		<node x="-18937" y="-49844" />
+		<node x="-18937" y="-48844" />
+		<node x="-19937" y="-48844" />
+	</territory>
+	<npcmaker name="Pagan_Temple_6" territory="Pagan_Temple_6" spawn="ALL" maximumNpcs="1">
+		<npc id="22153" pos="-19437;-49344;-10917;8961" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_60" minZ="-11350" maxZ="-10550">
+		<node x="-18203" y="-57511" />
+		<node x="-17203" y="-57511" />
+		<node x="-17203" y="-56511" />
+		<node x="-18203" y="-56511" />
+	</territory>
+	<npcmaker name="Pagan_Temple_60" territory="Pagan_Temple_60" spawn="ALL" maximumNpcs="7">
+		<npc id="22155" pos="-17703;-57011;-10850;2320" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_61" minZ="-12065" maxZ="-11265">
+		<node x="-18381" y="-53997" />
+		<node x="-17381" y="-53997" />
+		<node x="-17381" y="-52997" />
+		<node x="-18381" y="-52997" />
+	</territory>
+	<npcmaker name="Pagan_Temple_61" territory="Pagan_Temple_61" spawn="ALL" maximumNpcs="6">
+		<npc id="22155" pos="-17881;-53497;-11565;0" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_62" minZ="-11438" maxZ="-10638">
+		<node x="-20251" y="-52993" />
+		<node x="-19251" y="-52993" />
+		<node x="-19251" y="-51993" />
+		<node x="-20251" y="-51993" />
+	</territory>
+	<npcmaker name="Pagan_Temple_62" territory="Pagan_Temple_62" spawn="ALL" maximumNpcs="7">
+		<npc id="22155" pos="-19751;-52493;-10938;34047" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_64" minZ="-11513" maxZ="-10713">
+		<node x="-21298" y="-52145" />
+		<node x="-20298" y="-52145" />
+		<node x="-20298" y="-51145" />
+		<node x="-21298" y="-51145" />
+	</territory>
+	<npcmaker name="Pagan_Temple_64" territory="Pagan_Temple_64" spawn="ALL" maximumNpcs="1">
+		<npc id="22151" pos="-20798;-51645;-11013;30778" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_65" minZ="-11415" maxZ="-10615">
+		<node x="-24213" y="-44050" />
+		<node x="-23213" y="-44050" />
+		<node x="-23213" y="-43050" />
+		<node x="-24213" y="-43050" />
+	</territory>
+	<npcmaker name="Pagan_Temple_65" territory="Pagan_Temple_65" spawn="ALL" maximumNpcs="1">
+		<npc id="22144" pos="-23713;-43550;-10915;65285" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_66" minZ="-11450" maxZ="-10650">
+		<node x="-10346" y="-40402" />
+		<node x="-9346" y="-40402" />
+		<node x="-9346" y="-39402" />
+		<node x="-10346" y="-39402" />
+	</territory>
+	<npcmaker name="Pagan_Temple_66" territory="Pagan_Temple_66" spawn="ALL" maximumNpcs="1">
+		<npc id="22145" pos="-9846;-39902;-10950;52810" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_67" minZ="-11321" maxZ="-10521">
+		<node x="-12791" y="-47875" />
+		<node x="-11791" y="-47875" />
+		<node x="-11791" y="-46875" />
+		<node x="-12791" y="-46875" />
+	</territory>
+	<npcmaker name="Pagan_Temple_67" territory="Pagan_Temple_67" spawn="ALL" maximumNpcs="1">
+		<npc id="22146" pos="-12291;-47375;-10821;15065" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_68" minZ="-11347" maxZ="-10547">
+		<node x="-13961" y="-47479" />
+		<node x="-12961" y="-47479" />
+		<node x="-12961" y="-46479" />
+		<node x="-13961" y="-46479" />
+	</territory>
+	<npcmaker name="Pagan_Temple_68" territory="Pagan_Temple_68" spawn="ALL" maximumNpcs="1">
+		<npc id="22146" pos="-13461;-46979;-10847;59967" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_69" minZ="-11225" maxZ="-10425">
+		<node x="-14176" y="-45420" />
+		<node x="-13176" y="-45420" />
+		<node x="-13176" y="-44420" />
+		<node x="-14176" y="-44420" />
+	</territory>
+	<npcmaker name="Pagan_Temple_69" territory="Pagan_Temple_69" spawn="ALL" maximumNpcs="1">
+		<npc id="22146" pos="-13676;-44920;-10725;52319" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_7" minZ="-11614" maxZ="-10814">
+		<node x="-20506" y="-54664" />
+		<node x="-19506" y="-54664" />
+		<node x="-19506" y="-53664" />
+		<node x="-20506" y="-53664" />
+	</territory>
+	<npcmaker name="Pagan_Temple_7" territory="Pagan_Temple_7" spawn="ALL" maximumNpcs="1">
+		<npc id="22153" pos="-20006;-54164;-11114;44952" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_70" minZ="-11225" maxZ="-10425">
+		<node x="-15588" y="-45349" />
+		<node x="-14588" y="-45349" />
+		<node x="-14588" y="-44349" />
+		<node x="-15588" y="-44349" />
+	</territory>
+	<npcmaker name="Pagan_Temple_70" territory="Pagan_Temple_70" spawn="ALL" maximumNpcs="1">
+		<npc id="22146" pos="-15088;-44849;-10725;44235" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_71" minZ="-11321" maxZ="-10521">
+		<node x="-15749" y="-47757" />
+		<node x="-14749" y="-47757" />
+		<node x="-14749" y="-46757" />
+		<node x="-15749" y="-46757" />
+	</territory>
+	<npcmaker name="Pagan_Temple_71" territory="Pagan_Temple_71" spawn="ALL" maximumNpcs="1">
+		<npc id="22146" pos="-15249;-47257;-10821;13363" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_72" minZ="-11321" maxZ="-10521">
+		<node x="-17895" y="-47934" />
+		<node x="-16895" y="-47934" />
+		<node x="-16895" y="-46934" />
+		<node x="-17895" y="-46934" />
+	</territory>
+	<npcmaker name="Pagan_Temple_72" territory="Pagan_Temple_72" spawn="ALL" maximumNpcs="1">
+		<npc id="22146" pos="-17395;-47434;-10821;20673" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_73" minZ="-11225" maxZ="-10425">
+		<node x="-18004" y="-46341" />
+		<node x="-17004" y="-46341" />
+		<node x="-17004" y="-45341" />
+		<node x="-18004" y="-45341" />
+	</territory>
+	<npcmaker name="Pagan_Temple_73" territory="Pagan_Temple_73" spawn="ALL" maximumNpcs="1">
+		<npc id="22146" pos="-17504;-45841;-10725;32140" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_74" minZ="-11321" maxZ="-10521">
+		<node x="-19435" y="-47382" />
+		<node x="-18435" y="-47382" />
+		<node x="-18435" y="-46382" />
+		<node x="-19435" y="-46382" />
+	</territory>
+	<npcmaker name="Pagan_Temple_74" territory="Pagan_Temple_74" spawn="ALL" maximumNpcs="1">
+		<npc id="22146" pos="-18935;-46882;-10821;43018" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_75" minZ="-11225" maxZ="-10425">
+		<node x="-19438" y="-45329" />
+		<node x="-18438" y="-45329" />
+		<node x="-18438" y="-44329" />
+		<node x="-19438" y="-44329" />
+	</territory>
+	<npcmaker name="Pagan_Temple_75" territory="Pagan_Temple_75" spawn="ALL" maximumNpcs="1">
+		<npc id="22146" pos="-18938;-44829;-10725;43183" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_76" minZ="-11321" maxZ="-10521">
+		<node x="-19977" y="-47789" />
+		<node x="-18977" y="-47789" />
+		<node x="-18977" y="-46789" />
+		<node x="-19977" y="-46789" />
+	</territory>
+	<npcmaker name="Pagan_Temple_76" territory="Pagan_Temple_76" spawn="ALL" maximumNpcs="1">
+		<npc id="22146" pos="-19477;-47289;-10821;8487" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_77" minZ="-11225" maxZ="-10425">
+		<node x="-20933" y="-46089" />
+		<node x="-19933" y="-46089" />
+		<node x="-19933" y="-45089" />
+		<node x="-20933" y="-45089" />
+	</territory>
+	<npcmaker name="Pagan_Temple_77" territory="Pagan_Temple_77" spawn="ALL" maximumNpcs="1">
+		<npc id="22146" pos="-20433;-45589;-10725;31970" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_78" minZ="-11321" maxZ="-10521">
+		<node x="-21005" y="-47813" />
+		<node x="-20005" y="-47813" />
+		<node x="-20005" y="-46813" />
+		<node x="-21005" y="-46813" />
+	</territory>
+	<npcmaker name="Pagan_Temple_78" territory="Pagan_Temple_78" spawn="ALL" maximumNpcs="1">
+		<npc id="22146" pos="-20505;-47313;-10821;2148" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_79" minZ="-11321" maxZ="-10521">
+		<node x="-12922" y="-47667" />
+		<node x="-11922" y="-47667" />
+		<node x="-11922" y="-46667" />
+		<node x="-12922" y="-46667" />
+	</territory>
+	<npcmaker name="Pagan_Temple_79" territory="Pagan_Temple_79" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-12422;-47167;-10821;44200" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_8" minZ="-11417" maxZ="-10617">
+		<node x="-20737" y="-49932" />
+		<node x="-19737" y="-49932" />
+		<node x="-19737" y="-48932" />
+		<node x="-20737" y="-48932" />
+	</territory>
+	<npcmaker name="Pagan_Temple_8" territory="Pagan_Temple_8" spawn="ALL" maximumNpcs="1">
+		<npc id="22153" pos="-20237;-49432;-10917;57132" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_80" minZ="-11450" maxZ="-10650">
+		<node x="-10171" y="-38565" />
+		<node x="-9171" y="-38565" />
+		<node x="-9171" y="-37565" />
+		<node x="-10171" y="-37565" />
+	</territory>
+	<npcmaker name="Pagan_Temple_80" territory="Pagan_Temple_80" spawn="ALL" maximumNpcs="1">
+		<npc id="22145" pos="-9671;-38065;-10950;57906" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_81" minZ="-11450" maxZ="-10650">
+		<node x="-10166" y="-44037" />
+		<node x="-9166" y="-44037" />
+		<node x="-9166" y="-43037" />
+		<node x="-10166" y="-43037" />
+	</territory>
+	<npcmaker name="Pagan_Temple_81" territory="Pagan_Temple_81" spawn="ALL" maximumNpcs="1">
+		<npc id="22145" pos="-9666;-43537;-10950;62212" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_82" minZ="-11415" maxZ="-10615">
+		<node x="-24291" y="-38482" />
+		<node x="-23291" y="-38482" />
+		<node x="-23291" y="-37482" />
+		<node x="-24291" y="-37482" />
+	</territory>
+	<npcmaker name="Pagan_Temple_82" territory="Pagan_Temple_82" spawn="ALL" maximumNpcs="1">
+		<npc id="22144" pos="-23791;-37982;-10915;61526" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_83" minZ="-11415" maxZ="-10615">
+		<node x="-9484" y="-44032" />
+		<node x="-8484" y="-44032" />
+		<node x="-8484" y="-43032" />
+		<node x="-9484" y="-43032" />
+	</territory>
+	<npcmaker name="Pagan_Temple_83" territory="Pagan_Temple_83" spawn="ALL" maximumNpcs="1">
+		<npc id="22144" pos="-8984;-43532;-10915;32556" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_84" minZ="-11476" maxZ="-10676">
+		<node x="-9944" y="-42306" />
+		<node x="-8944" y="-42306" />
+		<node x="-8944" y="-41306" />
+		<node x="-9944" y="-41306" />
+	</territory>
+	<npcmaker name="Pagan_Temple_84" territory="Pagan_Temple_84" spawn="ALL" maximumNpcs="1">
+		<npc id="22144" pos="-9444;-41806;-10976;62277" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_85" minZ="-11450" maxZ="-10650">
+		<node x="-10220" y="-38484" />
+		<node x="-9220" y="-38484" />
+		<node x="-9220" y="-37484" />
+		<node x="-10220" y="-37484" />
+	</territory>
+	<npcmaker name="Pagan_Temple_85" territory="Pagan_Temple_85" spawn="ALL" maximumNpcs="1">
+		<npc id="22144" pos="-9720;-37984;-10950;35843" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_86" minZ="-11450" maxZ="-10650">
+		<node x="-10354" y="-42108" />
+		<node x="-9354" y="-42108" />
+		<node x="-9354" y="-41108" />
+		<node x="-10354" y="-41108" />
+	</territory>
+	<npcmaker name="Pagan_Temple_86" territory="Pagan_Temple_86" spawn="ALL" maximumNpcs="1">
+		<npc id="22144" pos="-9854;-41608;-10950;64693" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_87" minZ="-11450" maxZ="-10650">
+		<node x="-10406" y="-40238" />
+		<node x="-9406" y="-40238" />
+		<node x="-9406" y="-39238" />
+		<node x="-10406" y="-39238" />
+	</territory>
+	<npcmaker name="Pagan_Temple_87" territory="Pagan_Temple_87" spawn="ALL" maximumNpcs="1">
+		<npc id="22144" pos="-9906;-39738;-10950;29951" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_88" minZ="-11450" maxZ="-10650">
+		<node x="-10503" y="-42292" />
+		<node x="-9503" y="-42292" />
+		<node x="-9503" y="-41292" />
+		<node x="-10503" y="-41292" />
+	</territory>
+	<npcmaker name="Pagan_Temple_88" territory="Pagan_Temple_88" spawn="ALL" maximumNpcs="1">
+		<npc id="22145" pos="-10003;-41792;-10950;6435" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_89" minZ="-11450" maxZ="-10650">
+		<node x="-23177" y="-38301" />
+		<node x="-22177" y="-38301" />
+		<node x="-22177" y="-37301" />
+		<node x="-23177" y="-37301" />
+	</territory>
+	<npcmaker name="Pagan_Temple_89" territory="Pagan_Temple_89" spawn="ALL" maximumNpcs="1">
+		<npc id="22145" pos="-22677;-37801;-10950;9708" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_9" minZ="-11513" maxZ="-10713">
+		<node x="-12755" y="-52107" />
+		<node x="-11755" y="-52107" />
+		<node x="-11755" y="-51107" />
+		<node x="-12755" y="-51107" />
+	</territory>
+	<npcmaker name="Pagan_Temple_9" territory="Pagan_Temple_9" spawn="ALL" maximumNpcs="1">
+		<npc id="22154" pos="-12255;-51607;-11013;11412" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_90" minZ="-11450" maxZ="-10650">
+		<node x="-23241" y="-40428" />
+		<node x="-22241" y="-40428" />
+		<node x="-22241" y="-39428" />
+		<node x="-23241" y="-39428" />
+	</territory>
+	<npcmaker name="Pagan_Temple_90" territory="Pagan_Temple_90" spawn="ALL" maximumNpcs="1">
+		<npc id="22145" pos="-22741;-39928;-10950;59503" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_91" minZ="-11450" maxZ="-10650">
+		<node x="-23569" y="-43855" />
+		<node x="-22569" y="-43855" />
+		<node x="-22569" y="-42855" />
+		<node x="-23569" y="-42855" />
+	</territory>
+	<npcmaker name="Pagan_Temple_91" territory="Pagan_Temple_91" spawn="ALL" maximumNpcs="1">
+		<npc id="22145" pos="-23069;-43355;-10950;22733" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_92" minZ="-11450" maxZ="-10650">
+		<node x="-23675" y="-38553" />
+		<node x="-22675" y="-38553" />
+		<node x="-22675" y="-37553" />
+		<node x="-23675" y="-37553" />
+	</territory>
+	<npcmaker name="Pagan_Temple_92" territory="Pagan_Temple_92" spawn="ALL" maximumNpcs="1">
+		<npc id="22145" pos="-23175;-38053;-10950;36909" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_93" minZ="-11415" maxZ="-10615">
+		<node x="-24379" y="-42151" />
+		<node x="-23379" y="-42151" />
+		<node x="-23379" y="-41151" />
+		<node x="-24379" y="-41151" />
+	</territory>
+	<npcmaker name="Pagan_Temple_93" territory="Pagan_Temple_93" spawn="ALL" maximumNpcs="1">
+		<npc id="22145" pos="-23879;-41651;-10915;29838" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_94" minZ="-11416" maxZ="-10616">
+		<node x="-9456" y="-42218" />
+		<node x="-8456" y="-42218" />
+		<node x="-8456" y="-41218" />
+		<node x="-9456" y="-41218" />
+	</territory>
+	<npcmaker name="Pagan_Temple_94" territory="Pagan_Temple_94" spawn="ALL" maximumNpcs="1">
+		<npc id="22145" pos="-8956;-41718;-10916;5610" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_95" minZ="-11450" maxZ="-10650">
+		<node x="-9982" y="-38412" />
+		<node x="-8982" y="-38412" />
+		<node x="-8982" y="-37412" />
+		<node x="-9982" y="-37412" />
+	</territory>
+	<npcmaker name="Pagan_Temple_95" territory="Pagan_Temple_95" spawn="ALL" maximumNpcs="1">
+		<npc id="22145" pos="-9482;-37912;-10950;177" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_96" minZ="-11513" maxZ="-10713">
+		<node x="-14209" y="-51427" />
+		<node x="-13209" y="-51427" />
+		<node x="-13209" y="-50427" />
+		<node x="-14209" y="-50427" />
+	</territory>
+	<npcmaker name="Pagan_Temple_96" territory="Pagan_Temple_96" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-13709;-50927;-11013;62664" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_97" minZ="-11225" maxZ="-10425">
+		<node x="-14274" y="-45893" />
+		<node x="-13274" y="-45893" />
+		<node x="-13274" y="-44893" />
+		<node x="-14274" y="-44893" />
+	</territory>
+	<npcmaker name="Pagan_Temple_97" territory="Pagan_Temple_97" spawn="ALL" maximumNpcs="1">
+		<npc id="22147" pos="-13774;-45393;-10725;47714" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_98" minZ="-11225" maxZ="-10425">
+		<node x="-15801" y="-41309" />
+		<node x="-14801" y="-41309" />
+		<node x="-14801" y="-40309" />
+		<node x="-15801" y="-40309" />
+	</territory>
+	<npcmaker name="Pagan_Temple_98" territory="Pagan_Temple_98" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-15301;-40809;-10725;9925" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Pagan_Temple_99" minZ="-11225" maxZ="-10425">
+		<node x="-15833" y="-46053" />
+		<node x="-14833" y="-46053" />
+		<node x="-14833" y="-45053" />
+		<node x="-15833" y="-45053" />
+	</territory>
+	<npcmaker name="Pagan_Temple_99" territory="Pagan_Temple_99" spawn="ALL" maximumNpcs="1">
+		<npc id="22149" pos="-15333;-45553;-10725;5532" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="rune14_mb1916_01" minZ="-10643" maxZ="-10243">
+		<node x="-18174" y="-54844" />
+		<node x="-14609" y="-54852" />
+		<node x="-14607" y="-52895" />
+		<node x="-15352" y="-52161" />
+		<node x="-15789" y="-52182" />
+		<node x="-16037" y="-51748" />
+		<node x="-16395" y="-51630" />
+		<node x="-16768" y="-51760" />
+		<node x="-17002" y="-52184" />
+		<node x="-17437" y="-52184" />
+		<node x="-18186" y="-52902" />
+	</territory>
+	<npcmaker name="rune14_andreas_m1" territory="rune14_mb1916_01" spawn="ALL" maximumNpcs="8">
+		<!--<npc id="29062" pos="-16385;-53268;-10439;16384" total="1" respawnDelay="36h" respawnRandom="24h" dbName="triolls_priest_andreas" dbSaving="DEATH_TIME;PARAMETERS;POS"/>-->
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="rune14_mb1916_02" minZ="-10494" maxZ="-10194">
+		<node x="-15395" y="-53475" />
+		<node x="-15868" y="-53024" />
+		<node x="-16393" y="-52760" />
+		<node x="-16923" y="-53013" />
+		<node x="-17383" y="-53457" />
+		<node x="-17385" y="-54721" />
+		<node x="-15407" y="-54727" />
+	</territory>
+	<npcmaker name="rune14_andreas_m2" territory="rune14_mb1916_02" spawn="ALL" maximumNpcs="3" onStart="false">
+		<npc id="32038" pos="-16384;-53197;-10439;15992" total="1" respawnDelay="0s"/>
+		<npc id="13015" pos="-16362;-53754;-10439;15992" total="1" respawnDelay="0s"/>
+	</npcmaker>
+	<npcmaker name="rune14_andreas_m4" territory="rune14_mb1916_02" spawn="ALL" maximumNpcs="1" onStart="false">
+		<npc id="32068" pos="-16395;-54055;-10439;15992" total="1" respawnDelay="0s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="rune14_mb1916_03" minZ="-10665" maxZ="-10265">
+		<node x="-18148" y="-54851" />
+		<node x="-14604" y="-54855" />
+		<node x="-14604" y="-54654" />
+		<node x="-18148" y="-54651" />
+	</territory>
+	<npcmaker name="rune14_andreas_m3" territory="rune14_mb1916_03" spawn="ALL" maximumNpcs="4" onStart="false">
+		<npc id="32051" pos="-17248;-54832;-10424;16384" total="1" respawnDelay="0s"/>
+		<npc id="32051" pos="-15547;-54835;-10424;16384" total="1" respawnDelay="0s"/>
+		<npc id="32051" pos="-18116;-54831;-10579;16384" total="1" respawnDelay="0s"/>
+		<npc id="32051" pos="-14645;-54836;-10577;16384" total="1" respawnDelay="0s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="rune14_mb1916_03_2" minZ="-10676" maxZ="-10376">
+		<node x="-18134" y="-54338" />
+		<node x="-17585" y="-54322" />
+		<node x="-17579" y="-53405" />
+		<node x="-18126" y="-52915" />
+	</territory>
+	<territory name="rune14_mb1916_04" minZ="-10664" maxZ="-10364">
+		<node x="-18125" y="-52938" />
+		<node x="-17590" y="-53416" />
+		<node x="-16650" y="-52710" />
+		<node x="-16761" y="-52241" />
+		<node x="-17417" y="-52245" />
+	</territory>
+	<territory name="rune14_mb1916_05" minZ="-10664" maxZ="-10364">
+		<node x="-16792" y="-52182" />
+		<node x="-16671" y="-52680" />
+		<node x="-16072" y="-52671" />
+		<node x="-16004" y="-52154" />
+		<node x="-16385" y="-51808" />
+	</territory>
+	<territory name="rune14_mb1916_06" minZ="-10664" maxZ="-10364">
+		<node x="-16039" y="-52214" />
+		<node x="-16098" y="-52740" />
+		<node x="-15311" y="-53430" />
+		<node x="-14664" y="-52905" />
+		<node x="-15364" y="-52211" />
+	</territory>
+	<territory name="rune14_mb1916_07" minZ="-10676" maxZ="-10376">
+		<node x="-15292" y="-54352" />
+		<node x="-14665" y="-54358" />
+		<node x="-14680" y="-52899" />
+		<node x="-15290" y="-53421" />
+	</territory>
+	<npcmaker name="altar_start_01" territory="rune14_mb1916_03_2;rune14_mb1916_04;rune14_mb1916_05;rune14_mb1916_06;rune14_mb1916_07" spawn="ALL" maximumNpcs="39" onStart="false">
+		<npc id="22175" pos="-18008;-53394;-10594;16384" total="1" respawnDelay="0s"/>
+		<npc id="22175" pos="-17653;-53399;-10594;16384" total="1" respawnDelay="0s"/>
+		<npc id="22175" pos="-17827;-53575;-10594;16384" total="1" respawnDelay="0s"/>
+		<npc id="22175" pos="-18008;-53749;-10594;16384" total="1" respawnDelay="0s"/>
+		<npc id="22175" pos="-17653;-53754;-10594;16384" total="1" respawnDelay="0s"/>
+		<npc id="22175" pos="-17827;-53930;-10594;16384" total="1" respawnDelay="0s"/>
+		<npc id="22175" pos="-18008;-54100;-10594;16384" total="1" respawnDelay="0s"/>
+		<npc id="22175" pos="-17653;-54105;-10594;16384" total="1" respawnDelay="0s"/>
+		<npc id="22175" pos="-17275;-52577;-10594;16384" total="1" respawnDelay="0s"/>
+		<npc id="22175" pos="-16917;-52577;-10594;16384" total="1" respawnDelay="0s"/>
+		<npc id="22175" pos="-16738;-52577;-10594;16384" total="1" respawnDelay="0s"/>
+		<npc id="22175" pos="-17003;-52404;-10594;16384" total="1" respawnDelay="0s"/>
+		<npc id="22175" pos="-17353;-52404;-10594;16384" total="1" respawnDelay="0s"/>
+		<npc id="22175" pos="-17362;-52752;-10594;16384" total="1" respawnDelay="0s"/>
+		<npc id="22175" pos="-17006;-52752;-10594;16384" total="1" respawnDelay="0s"/>
+		<npc id="22175" pos="-17721;-52752;-10594;16384" total="1" respawnDelay="0s"/>
+		<npc id="22175" pos="-17648;-52968;-10594;16384" total="1" respawnDelay="0s"/>
+		<npc id="22175" pos="-17292;-52968;-10594;16384" total="1" respawnDelay="0s"/>
+		<npc id="22175" pos="-16374;-52577;-10594;16384" total="1" respawnDelay="0s"/>
+		<npc id="22175" pos="-16648;-52404;-10594;16384" total="1" respawnDelay="0s"/>
+		<npc id="22175" pos="-16284;-52404;-10594;16384" total="1" respawnDelay="0s"/>
+		<npc id="22175" pos="-16013;-52577;-10594;16384" total="1" respawnDelay="0s"/>
+		<npc id="22175" pos="-15658;-52577;-10594;16384" total="1" respawnDelay="0s"/>
+		<npc id="22175" pos="-15306;-52577;-10594;16384" total="1" respawnDelay="0s"/>
+		<npc id="22175" pos="-15923;-52404;-10594;16384" total="1" respawnDelay="0s"/>
+		<npc id="22175" pos="-15568;-52404;-10594;16384" total="1" respawnDelay="0s"/>
+		<npc id="22175" pos="-15216;-52404;-10594;16384" total="1" respawnDelay="0s"/>
+		<npc id="22175" pos="-15745;-52752;-10594;16384" total="1" respawnDelay="0s"/>
+		<npc id="22175" pos="-15394;-52752;-10594;16384" total="1" respawnDelay="0s"/>
+		<npc id="22175" pos="-15475;-52969;-10594;16384" total="1" respawnDelay="0s"/>
+		<npc id="22175" pos="-15119;-52969;-10594;16384" total="1" respawnDelay="0s"/>
+		<npc id="22175" pos="-15149;-53411;-10594;16384" total="1" respawnDelay="0s"/>
+		<npc id="22175" pos="-14794;-53416;-10594;16384" total="1" respawnDelay="0s"/>
+		<npc id="22175" pos="-14968;-53592;-10594;16384" total="1" respawnDelay="0s"/>
+		<npc id="22175" pos="-15149;-53766;-10594;16384" total="1" respawnDelay="0s"/>
+		<npc id="22175" pos="-14794;-53771;-10594;16384" total="1" respawnDelay="0s"/>
+		<npc id="22175" pos="-14968;-53947;-10594;16384" total="1" respawnDelay="0s"/>
+		<npc id="22175" pos="-15149;-54117;-10594;16384" total="1" respawnDelay="0s"/>
+		<npc id="22175" pos="-14794;-54122;-10594;16384" total="1" respawnDelay="0s"/>
+	</npcmaker>
+	<npcmaker name="altar_start_02" territory="rune14_mb1916_03_2;rune14_mb1916_04;rune14_mb1916_05;rune14_mb1916_06;rune14_mb1916_07" spawn="ALL" maximumNpcs="4" onStart="false">
+		<npc id="22188" pos="-16392;-52124;-10592;0" total="1" respawnDelay="0s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="rune14_mb1916_09" minZ="-10968" maxZ="-10518">
+		<node x="-16662" y="-50061" />
+		<node x="-16109" y="-50060" />
+		<node x="-16102" y="-44447" />
+		<node x="-16644" y="-44441" />
+	</territory>
+	<npcmaker name="chapel_start_01" territory="rune14_mb1916_09" spawn="ALL" maximumNpcs="52" onStart="false">
+		<npc id="22176" pos="-16380;-45796;-10726;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16290;-45796;-10726;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16471;-45796;-10726;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16380;-45514;-10726;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16290;-45514;-10726;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16471;-45514;-10726;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16380;-45243;-10726;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16290;-45243;-10726;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16471;-45243;-10726;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16380;-44973;-10726;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16290;-44973;-10726;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16471;-44973;-10726;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16380;-44703;-10726;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16290;-44703;-10726;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16471;-44703;-10726;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16471;-44443;-10726;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16382;-47685;-10822;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16292;-47685;-10822;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16474;-47685;-10822;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16382;-47404;-10822;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16292;-47404;-10822;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16474;-47404;-10822;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16382;-47133;-10822;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16292;-47133;-10822;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16474;-47133;-10822;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16382;-46862;-10822;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16292;-46862;-10822;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16474;-46862;-10822;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16382;-46593;-10822;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16292;-46593;-10822;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16474;-46593;-10822;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16382;-46333;-10822;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16292;-46333;-10822;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16474;-46333;-10822;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16381;-49743;-10918;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16291;-49743;-10918;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16473;-49743;-10918;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16381;-49461;-10918;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16291;-49461;-10918;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16473;-49461;-10918;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16381;-49191;-10918;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16291;-49191;-10918;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16473;-49191;-10918;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16381;-48920;-10918;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16291;-48920;-10918;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16473;-48920;-10918;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16381;-48650;-10918;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16291;-48650;-10918;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16473;-48650;-10918;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16381;-48391;-10918;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16291;-48391;-10918;16384" total="1" respawnDelay="0s"/>
+		<npc id="22176" pos="-16473;-48391;-10918;16384" total="1" respawnDelay="0s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="rune14_mb1916_11" minZ="-10643" maxZ="-10243">
+		<node x="-18174" y="-54844" />
+		<node x="-14609" y="-54852" />
+		<node x="-14607" y="-52895" />
+		<node x="-15352" y="-52161" />
+		<node x="-15789" y="-52182" />
+		<node x="-16037" y="-51748" />
+		<node x="-16395" y="-51630" />
+		<node x="-16768" y="-51760" />
+		<node x="-17002" y="-52184" />
+		<node x="-17437" y="-52184" />
+		<node x="-18186" y="-52902" />
+	</territory>
+	<npcmaker name="altar_combat1_01" territory="rune14_mb1916_11" spawn="ALL" maximumNpcs="6" onStart="false">
+		<npc id="22191" pos="-16385;-53268;-10439;15992" total="1" respawnDelay="0s"/>
+		<npc id="22192" pos="-16385;-53268;-10439;15992" total="1" respawnDelay="0s"/>
+		<npc id="22193" pos="-16385;-53268;-10439;15992" total="1" respawnDelay="0s"/>
+	</npcmaker>
+	<npcmaker name="altar_combat2_01" territory="rune14_mb1916_11" spawn="ALL" maximumNpcs="6" onStart="false">
+		<npc id="22191" pos="-16385;-53268;-10439;15992" total="1" respawnDelay="0s"/>
+		<npc id="22192" pos="-16385;-53268;-10439;15992" total="1" respawnDelay="0s"/>
+		<npc id="22193" pos="-16385;-53268;-10439;15992" total="1" respawnDelay="0s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="rune14_mb1916_12" minZ="-10643" maxZ="-10243">
+		<node x="-18174" y="-54844" />
+		<node x="-14609" y="-54852" />
+		<node x="-14607" y="-52895" />
+		<node x="-15352" y="-52161" />
+		<node x="-15789" y="-52182" />
+		<node x="-16037" y="-51748" />
+		<node x="-16395" y="-51630" />
+		<node x="-16768" y="-51760" />
+		<node x="-17002" y="-52184" />
+		<node x="-17437" y="-52184" />
+		<node x="-18186" y="-52902" />
+	</territory>
+	<npcmaker name="altar_combat1_02" territory="rune14_mb1916_12" spawn="ALL" maximumNpcs="6" onStart="false">
+		<npc id="22191" pos="-17150;-54046;-10439;15992" total="1" respawnDelay="0s"/>
+		<npc id="22192" pos="-17150;-54046;-10439;15992" total="1" respawnDelay="0s"/>
+		<npc id="22193" total="1" respawnDelay="0s"/>
+	</npcmaker>
+	<npcmaker name="altar_combat2_02" territory="rune14_mb1916_12" spawn="ALL" maximumNpcs="6" onStart="false">
+		<npc id="22191" pos="-17150;-54046;-10439;15992" total="1" respawnDelay="0s"/>
+		<npc id="22192" pos="-17150;-54046;-10439;15992" total="1" respawnDelay="0s"/>
+		<npc id="22193" total="1" respawnDelay="0s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="rune14_mb1916_13" minZ="-10643" maxZ="-10243">
+		<node x="-18174" y="-54844" />
+		<node x="-14609" y="-54852" />
+		<node x="-14607" y="-52895" />
+		<node x="-15352" y="-52161" />
+		<node x="-15789" y="-52182" />
+		<node x="-16037" y="-51748" />
+		<node x="-16395" y="-51630" />
+		<node x="-16768" y="-51760" />
+		<node x="-17002" y="-52184" />
+		<node x="-17437" y="-52184" />
+		<node x="-18186" y="-52902" />
+	</territory>
+	<npcmaker name="altar_combat1_03" territory="rune14_mb1916_13" spawn="ALL" maximumNpcs="6" onStart="false">
+		<npc id="22191" pos="-15690;-54030;-10439;15992" total="1" respawnDelay="0s"/>
+		<npc id="22192" pos="-15690;-54030;-10439;15992" total="1" respawnDelay="0s"/>
+		<npc id="22193" pos="-15690;-54030;-10439;15992" total="1" respawnDelay="0s"/>
+	</npcmaker>
+	<npcmaker name="altar_combat2_03" territory="rune14_mb1916_13" spawn="ALL" maximumNpcs="6" onStart="false">
+		<npc id="22191" pos="-15690;-54030;-10439;15992" total="1" respawnDelay="0s"/>
+		<npc id="22192" pos="-15690;-54030;-10439;15992" total="1" respawnDelay="0s"/>
+		<npc id="22193" pos="-15690;-54030;-10439;15992" total="1" respawnDelay="0s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="rune14_mb1916_39" minZ="-11624" maxZ="-10600">
+		<node x="-20580" y="-52990" />
+		<node x="-19621" y="-52991" />
+		<node x="-19622" y="-52373" />
+		<node x="-20578" y="-52372" />
+	</territory>
+	<territory name="rune14_mb1916_40" minZ="-11624" maxZ="-10600">
+		<node x="-20601" y="-54679" />
+		<node x="-19642" y="-54680" />
+		<node x="-19643" y="-54062" />
+		<node x="-20599" y="-54061" />
+	</territory>
+	<territory name="rune14_mb1916_41" minZ="-11624" maxZ="-10600">
+		<node x="-13173" y="-52984" />
+		<node x="-12214" y="-52985" />
+		<node x="-12215" y="-52367" />
+		<node x="-13171" y="-52366" />
+	</territory>
+	<territory name="rune14_mb1916_42" minZ="-11624" maxZ="-10600">
+		<node x="-13123" y="-54687" />
+		<node x="-12164" y="-54688" />
+		<node x="-12165" y="-54070" />
+		<node x="-13121" y="-54069" />
+	</territory>
+	<territory name="rune14_mb1916_43" minZ="-11624" maxZ="-10600">
+		<node x="-18121" y="-53717" />
+		<node x="-17625" y="-53714" />
+		<node x="-17628" y="-52912" />
+		<node x="-18104" y="-52915" />
+	</territory>
+	<territory name="rune14_mb1916_44" minZ="-11624" maxZ="-10600">
+		<node x="-17350" y="-54663" />
+		<node x="-16894" y="-54671" />
+		<node x="-16895" y="-53235" />
+		<node x="-17343" y="-53236" />
+	</territory>
+	<territory name="rune14_mb1916_45" minZ="-11624" maxZ="-10600">
+		<node x="-16637" y="-54676" />
+		<node x="-16181" y="-54683" />
+		<node x="-16184" y="-53037" />
+		<node x="-16632" y="-53038" />
+	</territory>
+	<territory name="rune14_mb1916_46" minZ="-11624" maxZ="-10600">
+		<node x="-15928" y="-54745" />
+		<node x="-15471" y="-54753" />
+		<node x="-15484" y="-53412" />
+		<node x="-15932" y="-53413" />
+	</territory>
+	<territory name="rune14_mb1916_47" minZ="-11624" maxZ="-10600">
+		<node x="-15563" y="-53309" />
+		<node x="-14692" y="-53710" />
+		<node x="-14689" y="-53025" />
+		<node x="-15730" y="-53024" />
+	</territory>
+	<territory name="rune14_mb1916_48" minZ="-11624" maxZ="-10600">
+		<node x="-17691" y="-57093" />
+		<node x="-14924" y="-57088" />
+		<node x="-14748" y="-56439" />
+		<node x="-17895" y="-56432" />
+	</territory>
+	<npcmaker name="altaroom_start_01" territory="rune14_mb1916_39;rune14_mb1916_40;rune14_mb1916_41;rune14_mb1916_42;rune14_mb1916_43;rune14_mb1916_44;rune14_mb1916_45;rune14_mb1916_46;rune14_mb1916_47;rune14_mb1916_48" spawn="ALL" maximumNpcs="10" onStart="false">
+		<npc id="32058" pos="-20117;-52683;-10974;0" total="1" respawnDelay="0s"/>
+		<npc id="32059" pos="-20137;-54371;-11170;0" total="1" respawnDelay="0s"/>
+		<npc id="32060" pos="-12710;-52677;-10974;0" total="1" respawnDelay="0s"/>
+		<npc id="32061" pos="-12660;-54379;-11170;0" total="1" respawnDelay="0s"/>
+		<npc id="32062" pos="-17826;-53426;-11624;0" total="1" respawnDelay="0s"/>
+		<npc id="32063" pos="-17068;-53440;-11624;0" total="1" respawnDelay="0s"/>
+		<npc id="32064" pos="-16353;-53549;-11624;0" total="1" respawnDelay="0s"/>
+		<npc id="32065" pos="-15655;-53869;-11624;0" total="1" respawnDelay="0s"/>
+		<npc id="32066" pos="-15005;-53132;-11624;0" total="1" respawnDelay="0s"/>
+		<npc id="32067" pos="-16316;-56842;-10900;0" total="1" respawnDelay="0s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="rune14_npc1916_04" minZ="-10772" maxZ="-10272">
+		<node x="-15989" y="-43899" />
+		<node x="-15726" y="-43901" />
+		<node x="-15726" y="-43639" />
+		<node x="-15988" y="-43639" />
+	</territory>
+	<npcmaker name="rune14_npc1916_04m1" territory="rune14_npc1916_04" spawn="ALL" maximumNpcs="1">
+		<npc id="32036" pos="-15856;-43824;-10688;16384" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="rune14_npc1916_05" minZ="-10764" maxZ="-10564">
+		<node x="-16728" y="-44467" />
+		<node x="-16528" y="-44467" />
+		<node x="-16528" y="-44267" />
+		<node x="-16728" y="-44267" />
+	</territory>
+	<npcmaker name="rune14_npc1916_05m1" territory="rune14_npc1916_05" spawn="ALL" maximumNpcs="1">
+		<npc id="32037" pos="-16625;-44292;-10724;49152" total="1" respawnDelay="1m"/>
+	</npcmaker>
+</list>

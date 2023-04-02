@@ -1,0 +1,2107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Shuttgart Area
+ * Ice Merchant Cabin
+ * Frost Lake
+ * Frozen Labyrinth
+ * The Ice Queen's Castle
+-->
+<list>
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_0" minZ="-3093" maxZ="-2293">
+		<node x="122771" y="-116572" />
+		<node x="123771" y="-116572" />
+		<node x="123771" y="-115572" />
+		<node x="122771" y="-115572" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_0" territory="Ice_Merchant_Frozen_0" spawn="ALL" maximumNpcs="1">
+		<npc id="22090" pos="123271;-116072;-2593;26676" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_1" minZ="-2817" maxZ="-2017">
+		<node x="120842" y="-113918" />
+		<node x="121842" y="-113918" />
+		<node x="121842" y="-112918" />
+		<node x="120842" y="-112918" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_1" territory="Ice_Merchant_Frozen_1" spawn="ALL" maximumNpcs="6">
+		<npc id="22086" pos="121342;-113418;-2317;8110" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_10" minZ="-2814" maxZ="-2014">
+		<node x="120103" y="-114597" />
+		<node x="121103" y="-114597" />
+		<node x="121103" y="-113597" />
+		<node x="120103" y="-113597" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_10" territory="Ice_Merchant_Frozen_10" spawn="ALL" maximumNpcs="6">
+		<npc id="22086" pos="120603;-114097;-2314;8110" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_100" minZ="-1813" maxZ="-1013">
+		<node x="117312" y="-105241" />
+		<node x="118312" y="-105241" />
+		<node x="118312" y="-104241" />
+		<node x="117312" y="-104241" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_100" territory="Ice_Merchant_Frozen_100" spawn="ALL" maximumNpcs="6">
+		<npc id="22086" pos="117812;-104741;-1313;58513" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_101" minZ="-1786" maxZ="-986">
+		<node x="117830" y="-105041" />
+		<node x="118830" y="-105041" />
+		<node x="118830" y="-104041" />
+		<node x="117830" y="-104041" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_101" territory="Ice_Merchant_Frozen_101" spawn="ALL" maximumNpcs="6">
+		<npc id="22086" pos="118330;-104541;-1286;20294" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_103" minZ="-4182" maxZ="-3382">
+		<node x="104108" y="-104180" />
+		<node x="105108" y="-104180" />
+		<node x="105108" y="-103180" />
+		<node x="104108" y="-103180" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_103" territory="Ice_Merchant_Frozen_103" spawn="ALL" maximumNpcs="5">
+		<npc id="22082" pos="104608;-103680;-3682;20650" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_106" minZ="-4182" maxZ="-3382">
+		<node x="106224" y="-103805" />
+		<node x="107224" y="-103805" />
+		<node x="107224" y="-102805" />
+		<node x="106224" y="-102805" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_106" territory="Ice_Merchant_Frozen_106" spawn="ALL" maximumNpcs="5">
+		<npc id="22082" pos="106724;-103305;-3682;59899" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_108" minZ="-4182" maxZ="-3382">
+		<node x="105071" y="-104414" />
+		<node x="106071" y="-104414" />
+		<node x="106071" y="-103414" />
+		<node x="105071" y="-103414" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_108" territory="Ice_Merchant_Frozen_108" spawn="ALL" maximumNpcs="5">
+		<npc id="22082" pos="105571;-103914;-3682;23294" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_110" minZ="-1812" maxZ="-1012">
+		<node x="117291" y="-105941" />
+		<node x="118291" y="-105941" />
+		<node x="118291" y="-104941" />
+		<node x="117291" y="-104941" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_110" territory="Ice_Merchant_Frozen_110" spawn="ALL" maximumNpcs="6">
+		<npc id="22086" pos="117791;-105441;-1312;20294" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_114" minZ="-3083" maxZ="-2283">
+		<node x="125834" y="-116372" />
+		<node x="126834" y="-116372" />
+		<node x="126834" y="-115372" />
+		<node x="125834" y="-115372" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_114" territory="Ice_Merchant_Frozen_114" spawn="ALL" maximumNpcs="1">
+		<npc id="22089" pos="126334;-115872;-2583;20650" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_115" minZ="-3075" maxZ="-2275">
+		<node x="126308" y="-116848" />
+		<node x="127308" y="-116848" />
+		<node x="127308" y="-115848" />
+		<node x="126308" y="-115848" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_115" territory="Ice_Merchant_Frozen_115" spawn="ALL" maximumNpcs="1">
+		<npc id="22089" pos="126808;-116348;-2575;20650" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_12" minZ="-3085" maxZ="-2285">
+		<node x="123722" y="-117667" />
+		<node x="124722" y="-117667" />
+		<node x="124722" y="-116667" />
+		<node x="123722" y="-116667" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_12" territory="Ice_Merchant_Frozen_12" spawn="ALL" maximumNpcs="1">
+		<npc id="22090" pos="124222;-117167;-2585;53759" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_121" minZ="-3087" maxZ="-2287">
+		<node x="127476" y="-120297" />
+		<node x="128476" y="-120297" />
+		<node x="128476" y="-119297" />
+		<node x="127476" y="-119297" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_121" territory="Ice_Merchant_Frozen_121" spawn="ALL" maximumNpcs="6">
+		<npc id="22092" pos="127976;-119797;-2587;22405" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_122" minZ="-3390" maxZ="-2590">
+		<node x="117610" y="-121639" />
+		<node x="118610" y="-121639" />
+		<node x="118610" y="-120639" />
+		<node x="117610" y="-120639" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_122" territory="Ice_Merchant_Frozen_122" spawn="ALL" maximumNpcs="5">
+		<npc id="22084" pos="118110;-121139;-2890;36047" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_123" minZ="-3390" maxZ="-2590">
+		<node x="117205" y="-121017" />
+		<node x="118205" y="-121017" />
+		<node x="118205" y="-120017" />
+		<node x="117205" y="-120017" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_123" territory="Ice_Merchant_Frozen_123" spawn="ALL" maximumNpcs="5">
+		<npc id="22084" pos="117705;-120517;-2890;52466" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_124" minZ="-4146" maxZ="-3346">
+		<node x="112241" y="-101703" />
+		<node x="113241" y="-101703" />
+		<node x="113241" y="-100703" />
+		<node x="112241" y="-100703" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_124" territory="Ice_Merchant_Frozen_124" spawn="ALL" maximumNpcs="5">
+		<npc id="22084" pos="112741;-101203;-3646;62692" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_125" minZ="-4146" maxZ="-3346">
+		<node x="113741" y="-101728" />
+		<node x="114741" y="-101728" />
+		<node x="114741" y="-100728" />
+		<node x="113741" y="-100728" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_125" territory="Ice_Merchant_Frozen_125" spawn="ALL" maximumNpcs="5">
+		<npc id="22084" pos="114241;-101228;-3646;65269" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_126" minZ="-4146" maxZ="-3346">
+		<node x="112094" y="-100548" />
+		<node x="113094" y="-100548" />
+		<node x="113094" y="-99548" />
+		<node x="112094" y="-99548" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_126" territory="Ice_Merchant_Frozen_126" spawn="ALL" maximumNpcs="5">
+		<npc id="22084" pos="112594;-100048;-3646;25909" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_127" minZ="-4146" maxZ="-3346">
+		<node x="115189" y="-101400" />
+		<node x="116189" y="-101400" />
+		<node x="116189" y="-100400" />
+		<node x="115189" y="-100400" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_127" territory="Ice_Merchant_Frozen_127" spawn="ALL" maximumNpcs="5">
+		<npc id="22084" pos="115689;-100900;-3646;60384" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_129" minZ="-4146" maxZ="-3346">
+		<node x="113475" y="-100744" />
+		<node x="114475" y="-100744" />
+		<node x="114475" y="-99744" />
+		<node x="113475" y="-99744" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_129" territory="Ice_Merchant_Frozen_129" spawn="ALL" maximumNpcs="5">
+		<npc id="22082" pos="113975;-100244;-3646;28695" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_13" minZ="-3134" maxZ="-2334">
+		<node x="122778" y="-117351" />
+		<node x="123778" y="-117351" />
+		<node x="123778" y="-116351" />
+		<node x="122778" y="-116351" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_13" territory="Ice_Merchant_Frozen_13" spawn="ALL" maximumNpcs="7">
+		<npc id="22092" pos="123278;-116851;-2634;20918" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_130" minZ="-3274" maxZ="-2474">
+		<node x="128099" y="-107617" />
+		<node x="129099" y="-107617" />
+		<node x="129099" y="-106617" />
+		<node x="128099" y="-106617" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_130" territory="Ice_Merchant_Frozen_130" spawn="ALL" maximumNpcs="5">
+		<npc id="22084" pos="128599;-107117;-2774;14509" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_131" minZ="-3274" maxZ="-2474">
+		<node x="112025" y="-120518" />
+		<node x="113025" y="-120518" />
+		<node x="113025" y="-119518" />
+		<node x="112025" y="-119518" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_131" territory="Ice_Merchant_Frozen_131" spawn="ALL" maximumNpcs="5">
+		<npc id="22084" pos="112525;-120018;-2774;4093" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_132" minZ="-3274" maxZ="-2474">
+		<node x="112875" y="-120254" />
+		<node x="113875" y="-120254" />
+		<node x="113875" y="-119254" />
+		<node x="112875" y="-119254" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_132" territory="Ice_Merchant_Frozen_132" spawn="ALL" maximumNpcs="5">
+		<npc id="22084" pos="113375;-119754;-2774;384" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_133" minZ="-3084" maxZ="-2284">
+		<node x="125937" y="-119275" />
+		<node x="126937" y="-119275" />
+		<node x="126937" y="-118275" />
+		<node x="125937" y="-118275" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_133" territory="Ice_Merchant_Frozen_133" spawn="ALL" maximumNpcs="7">
+		<npc id="22092" pos="126437;-118775;-2584;53429" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_139" minZ="-2828" maxZ="-2028">
+		<node x="120497" y="-113481" />
+		<node x="121497" y="-113481" />
+		<node x="121497" y="-112481" />
+		<node x="120497" y="-112481" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_139" territory="Ice_Merchant_Frozen_139" spawn="ALL" maximumNpcs="7">
+		<npc id="22088" pos="120997;-112981;-2328;58111" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_14" minZ="-3130" maxZ="-2330">
+		<node x="122998" y="-116885" />
+		<node x="123998" y="-116885" />
+		<node x="123998" y="-115885" />
+		<node x="122998" y="-115885" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_14" territory="Ice_Merchant_Frozen_14" spawn="ALL" maximumNpcs="7">
+		<npc id="22092" pos="123498;-116385;-2630;29800" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_142" minZ="-3274" maxZ="-2474">
+		<node x="127358" y="-112131" />
+		<node x="128358" y="-112131" />
+		<node x="128358" y="-111131" />
+		<node x="127358" y="-111131" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_142" territory="Ice_Merchant_Frozen_142" spawn="ALL" maximumNpcs="7">
+		<npc id="22088" pos="127858;-111631;-2774;17113" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_148" minZ="-3092" maxZ="-2292">
+		<node x="123671" y="-110782" />
+		<node x="124671" y="-110782" />
+		<node x="124671" y="-109782" />
+		<node x="123671" y="-109782" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_148" territory="Ice_Merchant_Frozen_148" spawn="ALL" maximumNpcs="1">
+		<npc id="22090" pos="124171;-110282;-2592;42666" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_149" minZ="-3092" maxZ="-2292">
+		<node x="123325" y="-111238" />
+		<node x="124325" y="-111238" />
+		<node x="124325" y="-110238" />
+		<node x="123325" y="-110238" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_149" territory="Ice_Merchant_Frozen_149" spawn="ALL" maximumNpcs="1">
+		<npc id="22090" pos="123825;-110738;-2592;42666" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_15" minZ="-3080" maxZ="-2280">
+		<node x="126749" y="-115018" />
+		<node x="127749" y="-115018" />
+		<node x="127749" y="-114018" />
+		<node x="126749" y="-114018" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_15" territory="Ice_Merchant_Frozen_15" spawn="ALL" maximumNpcs="6">
+		<npc id="22092" pos="127249;-114518;-2580;64979" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_150" minZ="-2819" maxZ="-2019">
+		<node x="120098" y="-113415" />
+		<node x="121098" y="-113415" />
+		<node x="121098" y="-112415" />
+		<node x="120098" y="-112415" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_150" territory="Ice_Merchant_Frozen_150" spawn="ALL" maximumNpcs="7">
+		<npc id="22088" pos="120598;-112915;-2319;47203" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_154" minZ="-2814" maxZ="-2014">
+		<node x="120499" y="-114192" />
+		<node x="121499" y="-114192" />
+		<node x="121499" y="-113192" />
+		<node x="120499" y="-113192" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_154" territory="Ice_Merchant_Frozen_154" spawn="ALL" maximumNpcs="7">
+		<npc id="22088" pos="120999;-113692;-2314;15152" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_158" minZ="-4182" maxZ="-3382">
+		<node x="103941" y="-104688" />
+		<node x="104941" y="-104688" />
+		<node x="104941" y="-103688" />
+		<node x="103941" y="-103688" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_158" territory="Ice_Merchant_Frozen_158" spawn="ALL" maximumNpcs="6">
+		<npc id="22086" pos="104441;-104188;-3682;23985" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_159" minZ="-4182" maxZ="-3382">
+		<node x="104608" y="-104558" />
+		<node x="105608" y="-104558" />
+		<node x="105608" y="-103558" />
+		<node x="104608" y="-103558" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_159" territory="Ice_Merchant_Frozen_159" spawn="ALL" maximumNpcs="5">
+		<npc id="22084" pos="105108;-104058;-3682;59000" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_16" minZ="-3084" maxZ="-2284">
+		<node x="126732" y="-116002" />
+		<node x="127732" y="-116002" />
+		<node x="127732" y="-115002" />
+		<node x="126732" y="-115002" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_16" territory="Ice_Merchant_Frozen_16" spawn="ALL" maximumNpcs="7">
+		<npc id="22092" pos="127232;-115502;-2584;32313" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_160" minZ="-4182" maxZ="-3382">
+		<node x="105592" y="-103744" />
+		<node x="106592" y="-103744" />
+		<node x="106592" y="-102744" />
+		<node x="105592" y="-102744" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_160" territory="Ice_Merchant_Frozen_160" spawn="ALL" maximumNpcs="5">
+		<npc id="22084" pos="106092;-103244;-3682;9005" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_162" minZ="-4183" maxZ="-3383">
+		<node x="106332" y="-102753" />
+		<node x="107332" y="-102753" />
+		<node x="107332" y="-101753" />
+		<node x="106332" y="-101753" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_162" territory="Ice_Merchant_Frozen_162" spawn="ALL" maximumNpcs="6">
+		<npc id="22086" pos="106832;-102253;-3683;59290" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_163" minZ="-4191" maxZ="-3391">
+		<node x="105324" y="-103102" />
+		<node x="106324" y="-103102" />
+		<node x="106324" y="-102102" />
+		<node x="105324" y="-102102" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_163" territory="Ice_Merchant_Frozen_163" spawn="ALL" maximumNpcs="6">
+		<npc id="22086" pos="105824;-102602;-3691;36402" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_166" minZ="-4182" maxZ="-3382">
+		<node x="105217" y="-104819" />
+		<node x="106217" y="-104819" />
+		<node x="106217" y="-103819" />
+		<node x="105217" y="-103819" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_166" territory="Ice_Merchant_Frozen_166" spawn="ALL" maximumNpcs="6">
+		<npc id="22086" pos="105717;-104319;-3682;53357" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_168" minZ="-4182" maxZ="-3382">
+		<node x="105641" y="-105187" />
+		<node x="106641" y="-105187" />
+		<node x="106641" y="-104187" />
+		<node x="105641" y="-104187" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_168" territory="Ice_Merchant_Frozen_168" spawn="ALL" maximumNpcs="5">
+		<npc id="22084" pos="106141;-104687;-3682;23917" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_17" minZ="-3076" maxZ="-2276">
+		<node x="127278" y="-116063" />
+		<node x="128278" y="-116063" />
+		<node x="128278" y="-115063" />
+		<node x="127278" y="-115063" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_17" territory="Ice_Merchant_Frozen_17" spawn="ALL" maximumNpcs="1">
+		<npc id="22090" pos="127778;-115563;-2576;64576" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_172" minZ="-3186" maxZ="-2386">
+		<node x="123877" y="-103567" />
+		<node x="124877" y="-103567" />
+		<node x="124877" y="-102567" />
+		<node x="123877" y="-102567" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_172" territory="Ice_Merchant_Frozen_172" spawn="ALL" maximumNpcs="5">
+		<npc id="22084" pos="124377;-103067;-2686;49704" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_173" minZ="-3240" maxZ="-2440">
+		<node x="123019" y="-103863" />
+		<node x="124019" y="-103863" />
+		<node x="124019" y="-102863" />
+		<node x="123019" y="-102863" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_173" territory="Ice_Merchant_Frozen_173" spawn="ALL" maximumNpcs="5">
+		<npc id="22084" pos="123519;-103363;-2740;59899" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_178" minZ="-4182" maxZ="-3382">
+		<node x="103926" y="-105184" />
+		<node x="104926" y="-105184" />
+		<node x="104926" y="-104184" />
+		<node x="103926" y="-104184" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_178" territory="Ice_Merchant_Frozen_178" spawn="ALL" maximumNpcs="5">
+		<npc id="22084" pos="104426;-104684;-3682;36799" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_179" minZ="-3113" maxZ="-2313">
+		<node x="124015" y="-122067" />
+		<node x="125015" y="-122067" />
+		<node x="125015" y="-121067" />
+		<node x="124015" y="-121067" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_179" territory="Ice_Merchant_Frozen_179" spawn="ALL" maximumNpcs="6">
+		<npc id="22092" pos="124515;-121567;-2613;24454" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_18" minZ="-3079" maxZ="-2279">
+		<node x="126583" y="-116438" />
+		<node x="127583" y="-116438" />
+		<node x="127583" y="-115438" />
+		<node x="126583" y="-115438" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_18" territory="Ice_Merchant_Frozen_18" spawn="ALL" maximumNpcs="1">
+		<npc id="22090" pos="127083;-115938;-2579;37001" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_180" minZ="-3087" maxZ="-2287">
+		<node x="124842" y="-113927" />
+		<node x="125842" y="-113927" />
+		<node x="125842" y="-112927" />
+		<node x="124842" y="-112927" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_180" territory="Ice_Merchant_Frozen_180" spawn="ALL" maximumNpcs="7">
+		<npc id="22092" pos="125342;-113427;-2587;41149" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_188" minZ="-3072" maxZ="-2272">
+		<node x="127033" y="-125592" />
+		<node x="128033" y="-125592" />
+		<node x="128033" y="-124592" />
+		<node x="127033" y="-124592" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_188" territory="Ice_Merchant_Frozen_188" spawn="ALL" maximumNpcs="7">
+		<npc id="22094" pos="127533;-125092;-2572;63520" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_19" minZ="-3092" maxZ="-2292">
+		<node x="123188" y="-111002" />
+		<node x="124188" y="-111002" />
+		<node x="124188" y="-110002" />
+		<node x="123188" y="-110002" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_19" territory="Ice_Merchant_Frozen_19" spawn="ALL" maximumNpcs="7">
+		<npc id="22088" pos="123688;-110502;-2592;19662" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_191" minZ="-3071" maxZ="-2271">
+		<node x="128060" y="-123806" />
+		<node x="129060" y="-123806" />
+		<node x="129060" y="-122806" />
+		<node x="128060" y="-122806" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_191" territory="Ice_Merchant_Frozen_191" spawn="ALL" maximumNpcs="7">
+		<npc id="22094" pos="128560;-123306;-2571;40908" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_192" minZ="-3048" maxZ="-2248">
+		<node x="123195" y="-113955" />
+		<node x="124195" y="-113955" />
+		<node x="124195" y="-112955" />
+		<node x="123195" y="-112955" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_192" territory="Ice_Merchant_Frozen_192" spawn="ALL" maximumNpcs="7">
+		<npc id="22092" pos="123695;-113455;-2548;65362" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_193" minZ="-3084" maxZ="-2284">
+		<node x="123848" y="-114639" />
+		<node x="124848" y="-114639" />
+		<node x="124848" y="-113639" />
+		<node x="123848" y="-113639" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_193" territory="Ice_Merchant_Frozen_193" spawn="ALL" maximumNpcs="7">
+		<npc id="22092" pos="124348;-114139;-2584;62810" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_194" minZ="-3077" maxZ="-2277">
+		<node x="127539" y="-116254" />
+		<node x="128539" y="-116254" />
+		<node x="128539" y="-115254" />
+		<node x="127539" y="-115254" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_194" territory="Ice_Merchant_Frozen_194" spawn="ALL" maximumNpcs="1">
+		<npc id="22089" pos="128039;-115754;-2577;33168" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_195" minZ="-3084" maxZ="-2284">
+		<node x="126362" y="-115690" />
+		<node x="127362" y="-115690" />
+		<node x="127362" y="-114690" />
+		<node x="126362" y="-114690" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_195" territory="Ice_Merchant_Frozen_195" spawn="ALL" maximumNpcs="1">
+		<npc id="22089" pos="126862;-115190;-2584;27260" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_200" minZ="-3071" maxZ="-2271">
+		<node x="127949" y="-123508" />
+		<node x="128949" y="-123508" />
+		<node x="128949" y="-122508" />
+		<node x="127949" y="-122508" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_200" territory="Ice_Merchant_Frozen_200" spawn="ALL" maximumNpcs="6">
+		<npc id="22094" pos="128449;-123008;-2571;37662" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_207" minZ="-3098" maxZ="-2298">
+		<node x="126219" y="-120370" />
+		<node x="127219" y="-120370" />
+		<node x="127219" y="-119370" />
+		<node x="126219" y="-119370" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_207" territory="Ice_Merchant_Frozen_207" spawn="ALL" maximumNpcs="7">
+		<npc id="22094" pos="126719;-119870;-2598;11830" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_209" minZ="-3079" maxZ="-2279">
+		<node x="126315" y="-119478" />
+		<node x="127315" y="-119478" />
+		<node x="127315" y="-118478" />
+		<node x="126315" y="-118478" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_209" territory="Ice_Merchant_Frozen_209" spawn="ALL" maximumNpcs="7">
+		<npc id="22098" pos="126815;-118978;-2579;57647" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_210" minZ="-3097" maxZ="-2297">
+		<node x="126480" y="-120493" />
+		<node x="127480" y="-120493" />
+		<node x="127480" y="-119493" />
+		<node x="126480" y="-119493" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_210" territory="Ice_Merchant_Frozen_210" spawn="ALL" maximumNpcs="6">
+		<npc id="22098" pos="126980;-119993;-2597;18423" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_211" minZ="-3107" maxZ="-2307">
+		<node x="126712" y="-120464" />
+		<node x="127712" y="-120464" />
+		<node x="127712" y="-119464" />
+		<node x="126712" y="-119464" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_211" territory="Ice_Merchant_Frozen_211" spawn="ALL" maximumNpcs="6">
+		<npc id="22098" pos="127212;-119964;-2607;1288" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_212" minZ="-3084" maxZ="-2284">
+		<node x="127858" y="-119228" />
+		<node x="128858" y="-119228" />
+		<node x="128858" y="-118228" />
+		<node x="127858" y="-118228" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_212" territory="Ice_Merchant_Frozen_212" spawn="ALL" maximumNpcs="7">
+		<npc id="22094" pos="128358;-118728;-2584;42475" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_217" minZ="-3072" maxZ="-2272">
+		<node x="128232" y="-125710" />
+		<node x="129232" y="-125710" />
+		<node x="129232" y="-124710" />
+		<node x="128232" y="-124710" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_217" territory="Ice_Merchant_Frozen_217" spawn="ALL" maximumNpcs="7">
+		<npc id="22094" pos="128732;-125210;-2572;34150" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_223" minZ="-3079" maxZ="-2279">
+		<node x="127059" y="-120875" />
+		<node x="128059" y="-120875" />
+		<node x="128059" y="-119875" />
+		<node x="127059" y="-119875" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_223" territory="Ice_Merchant_Frozen_223" spawn="ALL" maximumNpcs="6">
+		<npc id="22098" pos="127559;-120375;-2579;52408" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_225" minZ="-4146" maxZ="-3346">
+		<node x="112040" y="-100396" />
+		<node x="113040" y="-100396" />
+		<node x="113040" y="-99396" />
+		<node x="112040" y="-99396" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_225" territory="Ice_Merchant_Frozen_225" spawn="ALL" maximumNpcs="5">
+		<npc id="22082" pos="112540;-99896;-3646;35021" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_226" minZ="-4146" maxZ="-3346">
+		<node x="113565" y="-101211" />
+		<node x="114565" y="-101211" />
+		<node x="114565" y="-100211" />
+		<node x="113565" y="-100211" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_226" territory="Ice_Merchant_Frozen_226" spawn="ALL" maximumNpcs="5">
+		<npc id="22082" pos="114065;-100711;-3646;36007" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_228" minZ="-4146" maxZ="-3346">
+		<node x="112231" y="-101115" />
+		<node x="113231" y="-101115" />
+		<node x="113231" y="-100115" />
+		<node x="112231" y="-100115" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_228" territory="Ice_Merchant_Frozen_228" spawn="ALL" maximumNpcs="5">
+		<npc id="22082" pos="112731;-100615;-3646;29750" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_230" minZ="-4146" maxZ="-3346">
+		<node x="112585" y="-101591" />
+		<node x="113585" y="-101591" />
+		<node x="113585" y="-100591" />
+		<node x="112585" y="-100591" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_230" territory="Ice_Merchant_Frozen_230" spawn="ALL" maximumNpcs="5">
+		<npc id="22082" pos="113085;-101091;-3646;60844" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_231" minZ="-3274" maxZ="-2474">
+		<node x="127454" y="-107403" />
+		<node x="128454" y="-107403" />
+		<node x="128454" y="-106403" />
+		<node x="127454" y="-106403" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_231" territory="Ice_Merchant_Frozen_231" spawn="ALL" maximumNpcs="5">
+		<npc id="22084" pos="127954;-106903;-2774;62980" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_232" minZ="-3274" maxZ="-2474">
+		<node x="126874" y="-108486" />
+		<node x="127874" y="-108486" />
+		<node x="127874" y="-107486" />
+		<node x="126874" y="-107486" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_232" territory="Ice_Merchant_Frozen_232" spawn="ALL" maximumNpcs="5">
+		<npc id="22084" pos="127374;-107986;-2774;62980" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_233" minZ="-3274" maxZ="-2474">
+		<node x="127541" y="-108258" />
+		<node x="128541" y="-108258" />
+		<node x="128541" y="-107258" />
+		<node x="127541" y="-107258" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_233" territory="Ice_Merchant_Frozen_233" spawn="ALL" maximumNpcs="5">
+		<npc id="22084" pos="128041;-107758;-2774;12210" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_236" minZ="-4146" maxZ="-3346">
+		<node x="114662" y="-101571" />
+		<node x="115662" y="-101571" />
+		<node x="115662" y="-100571" />
+		<node x="114662" y="-100571" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_236" territory="Ice_Merchant_Frozen_236" spawn="ALL" maximumNpcs="5">
+		<npc id="22082" pos="115162;-101071;-3646;7717" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_238" minZ="-4146" maxZ="-3346">
+		<node x="110872" y="-100870" />
+		<node x="111872" y="-100870" />
+		<node x="111872" y="-99870" />
+		<node x="110872" y="-99870" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_238" territory="Ice_Merchant_Frozen_238" spawn="ALL" maximumNpcs="5">
+		<npc id="22082" pos="111372;-100370;-3646;49170" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_240" minZ="-4146" maxZ="-3346">
+		<node x="111222" y="-101949" />
+		<node x="112222" y="-101949" />
+		<node x="112222" y="-100949" />
+		<node x="111222" y="-100949" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_240" territory="Ice_Merchant_Frozen_240" spawn="ALL" maximumNpcs="5">
+		<npc id="22082" pos="111722;-101449;-3646;55743" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_242" minZ="-4146" maxZ="-3346">
+		<node x="112170" y="-102438" />
+		<node x="113170" y="-102438" />
+		<node x="113170" y="-101438" />
+		<node x="112170" y="-101438" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_242" territory="Ice_Merchant_Frozen_242" spawn="ALL" maximumNpcs="5">
+		<npc id="22082" pos="112670;-101938;-3646;62837" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_244" minZ="-4146" maxZ="-3346">
+		<node x="113149" y="-102371" />
+		<node x="114149" y="-102371" />
+		<node x="114149" y="-101371" />
+		<node x="113149" y="-101371" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_244" territory="Ice_Merchant_Frozen_244" spawn="ALL" maximumNpcs="5">
+		<npc id="22082" pos="113649;-101871;-3646;2880" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_248" minZ="-3390" maxZ="-2590">
+		<node x="118139" y="-122241" />
+		<node x="119139" y="-122241" />
+		<node x="119139" y="-121241" />
+		<node x="118139" y="-121241" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_248" territory="Ice_Merchant_Frozen_248" spawn="ALL" maximumNpcs="6">
+		<npc id="22086" pos="118639;-121741;-2890;22813" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_25" minZ="-3233" maxZ="-2433">
+		<node x="122276" y="-105480" />
+		<node x="123276" y="-105480" />
+		<node x="123276" y="-104480" />
+		<node x="122276" y="-104480" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_25" territory="Ice_Merchant_Frozen_25" spawn="ALL" maximumNpcs="5">
+		<npc id="22084" pos="122776;-104980;-2733;2951" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_256" minZ="-3084" maxZ="-2284">
+		<node x="127805" y="-119271" />
+		<node x="128805" y="-119271" />
+		<node x="128805" y="-118271" />
+		<node x="127805" y="-118271" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_256" territory="Ice_Merchant_Frozen_256" spawn="ALL" maximumNpcs="6">
+		<npc id="22092" pos="128305;-118771;-2584;46786" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_267" minZ="-3390" maxZ="-2590">
+		<node x="116820" y="-122070" />
+		<node x="117820" y="-122070" />
+		<node x="117820" y="-121070" />
+		<node x="116820" y="-121070" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_267" territory="Ice_Merchant_Frozen_267" spawn="ALL" maximumNpcs="5">
+		<npc id="22084" pos="117320;-121570;-2890;8046" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_269" minZ="-3079" maxZ="-2279">
+		<node x="127456" y="-120693" />
+		<node x="128456" y="-120693" />
+		<node x="128456" y="-119693" />
+		<node x="127456" y="-119693" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_269" territory="Ice_Merchant_Frozen_269" spawn="ALL" maximumNpcs="6">
+		<npc id="22098" pos="127956;-120193;-2579;9942" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_27" minZ="-3092" maxZ="-2292">
+		<node x="123689" y="-111185" />
+		<node x="124689" y="-111185" />
+		<node x="124689" y="-110185" />
+		<node x="123689" y="-110185" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_27" territory="Ice_Merchant_Frozen_27" spawn="ALL" maximumNpcs="7">
+		<npc id="22088" pos="124189;-110685;-2592;57659" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_270" minZ="-3274" maxZ="-2474">
+		<node x="103674" y="-117137" />
+		<node x="104674" y="-117137" />
+		<node x="104674" y="-116137" />
+		<node x="103674" y="-116137" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_270" territory="Ice_Merchant_Frozen_270" spawn="ALL" maximumNpcs="5">
+		<npc id="22082" pos="104174;-116637;-2774;47633" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_272" minZ="-3274" maxZ="-2474">
+		<node x="112344" y="-120767" />
+		<node x="113344" y="-120767" />
+		<node x="113344" y="-119767" />
+		<node x="112344" y="-119767" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_272" territory="Ice_Merchant_Frozen_272" spawn="ALL" maximumNpcs="5">
+		<npc id="22082" pos="112844;-120267;-2774;46596" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_273" minZ="-3274" maxZ="-2474">
+		<node x="113346" y="-119350" />
+		<node x="114346" y="-119350" />
+		<node x="114346" y="-118350" />
+		<node x="113346" y="-118350" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_273" territory="Ice_Merchant_Frozen_273" spawn="ALL" maximumNpcs="5">
+		<npc id="22084" pos="113846;-118850;-2774;14524" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_275" minZ="-3289" maxZ="-2489">
+		<node x="114741" y="-118948" />
+		<node x="115741" y="-118948" />
+		<node x="115741" y="-117948" />
+		<node x="114741" y="-117948" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_275" territory="Ice_Merchant_Frozen_275" spawn="ALL" maximumNpcs="5">
+		<npc id="22082" pos="115241;-118448;-2789;7603" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_279" minZ="-3389" maxZ="-2589">
+		<node x="117642" y="-122311" />
+		<node x="118642" y="-122311" />
+		<node x="118642" y="-121311" />
+		<node x="117642" y="-121311" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_279" territory="Ice_Merchant_Frozen_279" spawn="ALL" maximumNpcs="5">
+		<npc id="22084" pos="118142;-121811;-2889;32514" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_281" minZ="-3274" maxZ="-2474">
+		<node x="112893" y="-119401" />
+		<node x="113893" y="-119401" />
+		<node x="113893" y="-118401" />
+		<node x="112893" y="-118401" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_281" territory="Ice_Merchant_Frozen_281" spawn="ALL" maximumNpcs="5">
+		<npc id="22082" pos="113393;-118901;-2774;8192" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_283" minZ="-3274" maxZ="-2474">
+		<node x="104447" y="-115601" />
+		<node x="105447" y="-115601" />
+		<node x="105447" y="-114601" />
+		<node x="104447" y="-114601" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_283" territory="Ice_Merchant_Frozen_283" spawn="ALL" maximumNpcs="5">
+		<npc id="22082" pos="104947;-115101;-2774;63325" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_285" minZ="-3274" maxZ="-2474">
+		<node x="105654" y="-115680" />
+		<node x="106654" y="-115680" />
+		<node x="106654" y="-114680" />
+		<node x="105654" y="-114680" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_285" territory="Ice_Merchant_Frozen_285" spawn="ALL" maximumNpcs="5">
+		<npc id="22082" pos="106154;-115180;-2774;1350" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_287" minZ="-3278" maxZ="-2478">
+		<node x="107495" y="-116538" />
+		<node x="108495" y="-116538" />
+		<node x="108495" y="-115538" />
+		<node x="107495" y="-115538" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_287" territory="Ice_Merchant_Frozen_287" spawn="ALL" maximumNpcs="5">
+		<npc id="22082" pos="107995;-116038;-2778;52877" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_290" minZ="-3274" maxZ="-2474">
+		<node x="111878" y="-119271" />
+		<node x="112878" y="-119271" />
+		<node x="112878" y="-118271" />
+		<node x="111878" y="-118271" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_290" territory="Ice_Merchant_Frozen_290" spawn="ALL" maximumNpcs="5">
+		<npc id="22084" pos="112378;-118771;-2774;54509" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_295" minZ="-3308" maxZ="-2508">
+		<node x="120268" y="-127262" />
+		<node x="121268" y="-127262" />
+		<node x="121268" y="-126262" />
+		<node x="120268" y="-126262" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_295" territory="Ice_Merchant_Frozen_295" spawn="ALL" maximumNpcs="7">
+		<npc id="22096" pos="120768;-126762;-2808;40644" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_296" minZ="-3281" maxZ="-2481">
+		<node x="120908" y="-127198" />
+		<node x="121908" y="-127198" />
+		<node x="121908" y="-126198" />
+		<node x="120908" y="-126198" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_296" territory="Ice_Merchant_Frozen_296" spawn="ALL" maximumNpcs="7">
+		<npc id="22092" pos="121408;-126698;-2781;57099" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_300" minZ="-3086" maxZ="-2286">
+		<node x="122606" y="-125872" />
+		<node x="123606" y="-125872" />
+		<node x="123606" y="-124872" />
+		<node x="122606" y="-124872" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_300" territory="Ice_Merchant_Frozen_300" spawn="ALL" maximumNpcs="7">
+		<npc id="22096" pos="123106;-125372;-2586;24944" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_301" minZ="-3084" maxZ="-2284">
+		<node x="122590" y="-125048" />
+		<node x="123590" y="-125048" />
+		<node x="123590" y="-124048" />
+		<node x="122590" y="-124048" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_301" territory="Ice_Merchant_Frozen_301" spawn="ALL" maximumNpcs="6">
+		<npc id="22096" pos="123090;-124548;-2584;16970" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_302" minZ="-3390" maxZ="-2590">
+		<node x="118691" y="-121850" />
+		<node x="119691" y="-121850" />
+		<node x="119691" y="-120850" />
+		<node x="118691" y="-120850" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_302" territory="Ice_Merchant_Frozen_302" spawn="ALL" maximumNpcs="5">
+		<npc id="22084" pos="119191;-121350;-2890;56016" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_310" minZ="-3043" maxZ="-2243">
+		<node x="121216" y="-119215" />
+		<node x="122216" y="-119215" />
+		<node x="122216" y="-118215" />
+		<node x="121216" y="-118215" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_310" territory="Ice_Merchant_Frozen_310" spawn="ALL" maximumNpcs="1">
+		<npc id="22089" pos="121716;-118715;-2543;59007" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_311" minZ="-3102" maxZ="-2302">
+		<node x="121508" y="-119496" />
+		<node x="122508" y="-119496" />
+		<node x="122508" y="-118496" />
+		<node x="121508" y="-118496" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_311" territory="Ice_Merchant_Frozen_311" spawn="ALL" maximumNpcs="1">
+		<npc id="22090" pos="122008;-118996;-2602;59802" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_313" minZ="-3113" maxZ="-2313">
+		<node x="124384" y="-122794" />
+		<node x="125384" y="-122794" />
+		<node x="125384" y="-121794" />
+		<node x="124384" y="-121794" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_313" territory="Ice_Merchant_Frozen_313" spawn="ALL" maximumNpcs="7">
+		<npc id="22094" pos="124884;-122294;-2613;3430" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_314" minZ="-3274" maxZ="-2474">
+		<node x="103573" y="-116899" />
+		<node x="104573" y="-116899" />
+		<node x="104573" y="-115899" />
+		<node x="103573" y="-115899" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_314" territory="Ice_Merchant_Frozen_314" spawn="ALL" maximumNpcs="5">
+		<npc id="22082" pos="104073;-116399;-2774;20526" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_315" minZ="-3078" maxZ="-2278">
+		<node x="127799" y="-120111" />
+		<node x="128799" y="-120111" />
+		<node x="128799" y="-119111" />
+		<node x="127799" y="-119111" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_315" territory="Ice_Merchant_Frozen_315" spawn="ALL" maximumNpcs="6">
+		<npc id="22098" pos="128299;-119611;-2578;20229" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_316" minZ="-3108" maxZ="-2308">
+		<node x="124234" y="-122492" />
+		<node x="125234" y="-122492" />
+		<node x="125234" y="-121492" />
+		<node x="124234" y="-121492" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_316" territory="Ice_Merchant_Frozen_316" spawn="ALL" maximumNpcs="6">
+		<npc id="22098" pos="124734;-121992;-2608;28083" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_317" minZ="-3108" maxZ="-2308">
+		<node x="124071" y="-122268" />
+		<node x="125071" y="-122268" />
+		<node x="125071" y="-121268" />
+		<node x="124071" y="-121268" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_317" territory="Ice_Merchant_Frozen_317" spawn="ALL" maximumNpcs="6">
+		<npc id="22098" pos="124571;-121768;-2608;26333" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_318" minZ="-3109" maxZ="-2309">
+		<node x="123917" y="-122616" />
+		<node x="124917" y="-122616" />
+		<node x="124917" y="-121616" />
+		<node x="123917" y="-121616" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_318" territory="Ice_Merchant_Frozen_318" spawn="ALL" maximumNpcs="6">
+		<npc id="22098" pos="124417;-122116;-2609;30191" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_319" minZ="-3106" maxZ="-2306">
+		<node x="123864" y="-121900" />
+		<node x="124864" y="-121900" />
+		<node x="124864" y="-120900" />
+		<node x="123864" y="-120900" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_319" territory="Ice_Merchant_Frozen_319" spawn="ALL" maximumNpcs="6">
+		<npc id="22098" pos="124364;-121400;-2606;17639" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_320" minZ="-3080" maxZ="-2280">
+		<node x="123388" y="-121266" />
+		<node x="124388" y="-121266" />
+		<node x="124388" y="-120266" />
+		<node x="123388" y="-120266" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_320" territory="Ice_Merchant_Frozen_320" spawn="ALL" maximumNpcs="7">
+		<npc id="22098" pos="123888;-120766;-2580;60835" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_321" minZ="-3079" maxZ="-2279">
+		<node x="123939" y="-123275" />
+		<node x="124939" y="-123275" />
+		<node x="124939" y="-122275" />
+		<node x="123939" y="-122275" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_321" territory="Ice_Merchant_Frozen_321" spawn="ALL" maximumNpcs="6">
+		<npc id="22098" pos="124439;-122775;-2579;8925" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_322" minZ="-3079" maxZ="-2279">
+		<node x="122105" y="-123867" />
+		<node x="123105" y="-123867" />
+		<node x="123105" y="-122867" />
+		<node x="122105" y="-122867" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_322" territory="Ice_Merchant_Frozen_322" spawn="ALL" maximumNpcs="6">
+		<npc id="22098" pos="122605;-123367;-2579;47373" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_323" minZ="-3071" maxZ="-2271">
+		<node x="122454" y="-123460" />
+		<node x="123454" y="-123460" />
+		<node x="123454" y="-122460" />
+		<node x="122454" y="-122460" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_323" territory="Ice_Merchant_Frozen_323" spawn="ALL" maximumNpcs="6">
+		<npc id="22098" pos="122954;-122960;-2571;1641" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_324" minZ="-3079" maxZ="-2279">
+		<node x="123663" y="-127861" />
+		<node x="124663" y="-127861" />
+		<node x="124663" y="-126861" />
+		<node x="123663" y="-126861" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_324" territory="Ice_Merchant_Frozen_324" spawn="ALL" maximumNpcs="7">
+		<npc id="22098" pos="124163;-127361;-2579;17922" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_325" minZ="-3108" maxZ="-2308">
+		<node x="124672" y="-122673" />
+		<node x="125672" y="-122673" />
+		<node x="125672" y="-121673" />
+		<node x="124672" y="-121673" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_325" territory="Ice_Merchant_Frozen_325" spawn="ALL" maximumNpcs="6">
+		<npc id="22098" pos="125172;-122173;-2608;31222" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_326" minZ="-3067" maxZ="-2267">
+		<node x="128047" y="-123328" />
+		<node x="129047" y="-123328" />
+		<node x="129047" y="-122328" />
+		<node x="128047" y="-122328" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_326" territory="Ice_Merchant_Frozen_326" spawn="ALL" maximumNpcs="6">
+		<npc id="22098" pos="128547;-122828;-2567;38243" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_327" minZ="-3074" maxZ="-2274">
+		<node x="128158" y="-119431" />
+		<node x="129158" y="-119431" />
+		<node x="129158" y="-118431" />
+		<node x="128158" y="-118431" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_327" territory="Ice_Merchant_Frozen_327" spawn="ALL" maximumNpcs="6">
+		<npc id="22098" pos="128658;-118931;-2574;20736" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_328" minZ="-3079" maxZ="-2279">
+		<node x="127913" y="-119121" />
+		<node x="128913" y="-119121" />
+		<node x="128913" y="-118121" />
+		<node x="127913" y="-118121" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_328" territory="Ice_Merchant_Frozen_328" spawn="ALL" maximumNpcs="6">
+		<npc id="22098" pos="128413;-118621;-2579;25252" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_329" minZ="-3079" maxZ="-2279">
+		<node x="127377" y="-119228" />
+		<node x="128377" y="-119228" />
+		<node x="128377" y="-118228" />
+		<node x="127377" y="-118228" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_329" territory="Ice_Merchant_Frozen_329" spawn="ALL" maximumNpcs="6">
+		<npc id="22098" pos="127877;-118728;-2579;35362" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_330" minZ="-3079" maxZ="-2279">
+		<node x="127284" y="-119686" />
+		<node x="128284" y="-119686" />
+		<node x="128284" y="-118686" />
+		<node x="127284" y="-118686" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_330" territory="Ice_Merchant_Frozen_330" spawn="ALL" maximumNpcs="6">
+		<npc id="22098" pos="127784;-119186;-2579;38848" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_331" minZ="-3066" maxZ="-2266">
+		<node x="128022" y="-123952" />
+		<node x="129022" y="-123952" />
+		<node x="129022" y="-122952" />
+		<node x="128022" y="-122952" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_331" territory="Ice_Merchant_Frozen_331" spawn="ALL" maximumNpcs="7">
+		<npc id="22098" pos="128522;-123452;-2566;31529" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_332" minZ="-3067" maxZ="-2267">
+		<node x="128405" y="-123906" />
+		<node x="129405" y="-123906" />
+		<node x="129405" y="-122906" />
+		<node x="128405" y="-122906" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_332" territory="Ice_Merchant_Frozen_332" spawn="ALL" maximumNpcs="6">
+		<npc id="22098" pos="128905;-123406;-2567;23968" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_333" minZ="-3066" maxZ="-2266">
+		<node x="128458" y="-123361" />
+		<node x="129458" y="-123361" />
+		<node x="129458" y="-122361" />
+		<node x="128458" y="-122361" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_333" territory="Ice_Merchant_Frozen_333" spawn="ALL" maximumNpcs="6">
+		<npc id="22098" pos="128958;-122861;-2566;23731" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_334" minZ="-3076" maxZ="-2276">
+		<node x="128406" y="-122893" />
+		<node x="129406" y="-122893" />
+		<node x="129406" y="-121893" />
+		<node x="128406" y="-121893" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_334" territory="Ice_Merchant_Frozen_334" spawn="ALL" maximumNpcs="6">
+		<npc id="22098" pos="128906;-122393;-2576;23761" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_335" minZ="-3079" maxZ="-2279">
+		<node x="127986" y="-122941" />
+		<node x="128986" y="-122941" />
+		<node x="128986" y="-121941" />
+		<node x="127986" y="-121941" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_335" territory="Ice_Merchant_Frozen_335" spawn="ALL" maximumNpcs="6">
+		<npc id="22098" pos="128486;-122441;-2579;40088" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_336" minZ="-3079" maxZ="-2279">
+		<node x="124341" y="-127747" />
+		<node x="125341" y="-127747" />
+		<node x="125341" y="-126747" />
+		<node x="124341" y="-126747" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_336" territory="Ice_Merchant_Frozen_336" spawn="ALL" maximumNpcs="7">
+		<npc id="22098" pos="124841;-127247;-2579;15316" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_337" minZ="-3078" maxZ="-2278">
+		<node x="124904" y="-126657" />
+		<node x="125904" y="-126657" />
+		<node x="125904" y="-125657" />
+		<node x="124904" y="-125657" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_337" territory="Ice_Merchant_Frozen_337" spawn="ALL" maximumNpcs="7">
+		<npc id="22098" pos="125404;-126157;-2578;20177" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_338" minZ="-3970" maxZ="-3170">
+		<node x="103081" y="-113387" />
+		<node x="104081" y="-113387" />
+		<node x="104081" y="-112387" />
+		<node x="103081" y="-112387" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_338" territory="Ice_Merchant_Frozen_338" spawn="ALL" maximumNpcs="5">
+		<npc id="22082" pos="103581;-112887;-3470;4992" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_343" minZ="-3274" maxZ="-2474">
+		<node x="107063" y="-116934" />
+		<node x="108063" y="-116934" />
+		<node x="108063" y="-115934" />
+		<node x="107063" y="-115934" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_343" territory="Ice_Merchant_Frozen_343" spawn="ALL" maximumNpcs="5">
+		<npc id="22082" pos="107563;-116434;-2774;28739" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_345" minZ="-3274" maxZ="-2474">
+		<node x="106785" y="-117447" />
+		<node x="107785" y="-117447" />
+		<node x="107785" y="-116447" />
+		<node x="106785" y="-116447" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_345" territory="Ice_Merchant_Frozen_345" spawn="ALL" maximumNpcs="5">
+		<npc id="22082" pos="107285;-116947;-2774;32930" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_347" minZ="-3824" maxZ="-3024">
+		<node x="103621" y="-113073" />
+		<node x="104621" y="-113073" />
+		<node x="104621" y="-112073" />
+		<node x="103621" y="-112073" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_347" territory="Ice_Merchant_Frozen_347" spawn="ALL" maximumNpcs="5">
+		<npc id="22082" pos="104121;-112573;-3324;5336" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_348" minZ="-3179" maxZ="-2379">
+		<node x="106408" y="-112095" />
+		<node x="107408" y="-112095" />
+		<node x="107408" y="-111095" />
+		<node x="106408" y="-111095" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_348" territory="Ice_Merchant_Frozen_348" spawn="ALL" maximumNpcs="5">
+		<npc id="22082" pos="106908;-111595;-2679;27790" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_349" minZ="-3106" maxZ="-2306">
+		<node x="124468" y="-126683" />
+		<node x="125468" y="-126683" />
+		<node x="125468" y="-125683" />
+		<node x="124468" y="-125683" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_349" territory="Ice_Merchant_Frozen_349" spawn="ALL" maximumNpcs="7">
+		<npc id="22098" pos="124968;-126183;-2606;37810" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_354" minZ="-2236" maxZ="-1436">
+		<node x="110458" y="-113542" />
+		<node x="111458" y="-113542" />
+		<node x="111458" y="-112542" />
+		<node x="110458" y="-112542" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_354" territory="Ice_Merchant_Frozen_354" spawn="ALL" maximumNpcs="5">
+		<npc id="22082" pos="110958;-113042;-1736;46287" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_355" minZ="-2515" maxZ="-1715">
+		<node x="109587" y="-113785" />
+		<node x="110587" y="-113785" />
+		<node x="110587" y="-112785" />
+		<node x="109587" y="-112785" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_355" territory="Ice_Merchant_Frozen_355" spawn="ALL" maximumNpcs="5">
+		<npc id="22082" pos="110087;-113285;-2015;35100" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_357" minZ="-2776" maxZ="-1976">
+		<node x="107874" y="-112858" />
+		<node x="108874" y="-112858" />
+		<node x="108874" y="-111858" />
+		<node x="107874" y="-111858" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_357" territory="Ice_Merchant_Frozen_357" spawn="ALL" maximumNpcs="5">
+		<npc id="22082" pos="108374;-112358;-2276;25924" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_36" minZ="-3186" maxZ="-2386">
+		<node x="124423" y="-104271" />
+		<node x="125423" y="-104271" />
+		<node x="125423" y="-103271" />
+		<node x="124423" y="-103271" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_36" territory="Ice_Merchant_Frozen_36" spawn="ALL" maximumNpcs="6">
+		<npc id="22086" pos="124923;-103771;-2686;16590" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_37" minZ="-3234" maxZ="-2434">
+		<node x="122095" y="-104947" />
+		<node x="123095" y="-104947" />
+		<node x="123095" y="-103947" />
+		<node x="122095" y="-103947" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_37" territory="Ice_Merchant_Frozen_37" spawn="ALL" maximumNpcs="5">
+		<npc id="22084" pos="122595;-104447;-2734;64161" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_38" minZ="-2660" maxZ="-1860">
+		<node x="121116" y="-107020" />
+		<node x="122116" y="-107020" />
+		<node x="122116" y="-106020" />
+		<node x="121116" y="-106020" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_38" territory="Ice_Merchant_Frozen_38" spawn="ALL" maximumNpcs="5">
+		<npc id="22082" pos="121616;-106520;-2160;1622" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_39" minZ="-2642" maxZ="-1842">
+		<node x="120619" y="-107268" />
+		<node x="121619" y="-107268" />
+		<node x="121619" y="-106268" />
+		<node x="120619" y="-106268" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_39" territory="Ice_Merchant_Frozen_39" spawn="ALL" maximumNpcs="5">
+		<npc id="22082" pos="121119;-106768;-2142;36871" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_40" minZ="-2643" maxZ="-1843">
+		<node x="120929" y="-107268" />
+		<node x="121929" y="-107268" />
+		<node x="121929" y="-106268" />
+		<node x="120929" y="-106268" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_40" territory="Ice_Merchant_Frozen_40" spawn="ALL" maximumNpcs="5">
+		<npc id="22082" pos="121429;-106768;-2143;15919" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_44" minZ="-3084" maxZ="-2284">
+		<node x="122064" y="-124574" />
+		<node x="123064" y="-124574" />
+		<node x="123064" y="-123574" />
+		<node x="122064" y="-123574" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_44" territory="Ice_Merchant_Frozen_44" spawn="ALL" maximumNpcs="7">
+		<npc id="22096" pos="122564;-124074;-2584;65159" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_45" minZ="-3274" maxZ="-2474">
+		<node x="127122" y="-112378" />
+		<node x="128122" y="-112378" />
+		<node x="128122" y="-111378" />
+		<node x="127122" y="-111378" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_45" territory="Ice_Merchant_Frozen_45" spawn="ALL" maximumNpcs="1">
+		<npc id="22089" pos="127622;-111878;-2774;51085" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_47" minZ="-2692" maxZ="-1892">
+		<node x="121300" y="-106840" />
+		<node x="122300" y="-106840" />
+		<node x="122300" y="-105840" />
+		<node x="121300" y="-105840" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_47" territory="Ice_Merchant_Frozen_47" spawn="ALL" maximumNpcs="5">
+		<npc id="22082" pos="121800;-106340;-2192;62654" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_49" minZ="-3274" maxZ="-2474">
+		<node x="127730" y="-107344" />
+		<node x="128730" y="-107344" />
+		<node x="128730" y="-106344" />
+		<node x="127730" y="-106344" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_49" territory="Ice_Merchant_Frozen_49" spawn="ALL" maximumNpcs="7">
+		<npc id="22088" pos="128230;-106844;-2774;43250" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_50" minZ="-3274" maxZ="-2474">
+		<node x="127569" y="-107294" />
+		<node x="128569" y="-107294" />
+		<node x="128569" y="-106294" />
+		<node x="127569" y="-106294" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_50" territory="Ice_Merchant_Frozen_50" spawn="ALL" maximumNpcs="7">
+		<npc id="22088" pos="128069;-106794;-2774;20718" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_51" minZ="-3274" maxZ="-2474">
+		<node x="127242" y="-108022" />
+		<node x="128242" y="-108022" />
+		<node x="128242" y="-107022" />
+		<node x="127242" y="-107022" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_51" territory="Ice_Merchant_Frozen_51" spawn="ALL" maximumNpcs="7">
+		<npc id="22088" pos="127742;-107522;-2774;46567" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_52" minZ="-3274" maxZ="-2474">
+		<node x="127411" y="-108055" />
+		<node x="128411" y="-108055" />
+		<node x="128411" y="-107055" />
+		<node x="127411" y="-107055" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_52" territory="Ice_Merchant_Frozen_52" spawn="ALL" maximumNpcs="7">
+		<npc id="22088" pos="127911;-107555;-2774;63524" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_53" minZ="-3147" maxZ="-2347">
+		<node x="123217" y="-109782" />
+		<node x="124217" y="-109782" />
+		<node x="124217" y="-108782" />
+		<node x="123217" y="-108782" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_53" territory="Ice_Merchant_Frozen_53" spawn="ALL" maximumNpcs="1">
+		<npc id="22090" pos="123717;-109282;-2647;39429" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_54" minZ="-3091" maxZ="-2291">
+		<node x="123589" y="-114258" />
+		<node x="124589" y="-114258" />
+		<node x="124589" y="-113258" />
+		<node x="123589" y="-113258" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_54" territory="Ice_Merchant_Frozen_54" spawn="ALL" maximumNpcs="1">
+		<npc id="22089" pos="124089;-113758;-2591;32615" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_57" minZ="-3274" maxZ="-2474">
+		<node x="127572" y="-112092" />
+		<node x="128572" y="-112092" />
+		<node x="128572" y="-111092" />
+		<node x="127572" y="-111092" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_57" territory="Ice_Merchant_Frozen_57" spawn="ALL" maximumNpcs="1">
+		<npc id="22090" pos="128072;-111592;-2774;1601" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_58" minZ="-3274" maxZ="-2474">
+		<node x="127495" y="-111651" />
+		<node x="128495" y="-111651" />
+		<node x="128495" y="-110651" />
+		<node x="127495" y="-110651" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_58" territory="Ice_Merchant_Frozen_58" spawn="ALL" maximumNpcs="1">
+		<npc id="22089" pos="127995;-111151;-2774;26885" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_59" minZ="-3275" maxZ="-2475">
+		<node x="127862" y="-111334" />
+		<node x="128862" y="-111334" />
+		<node x="128862" y="-110334" />
+		<node x="127862" y="-110334" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_59" territory="Ice_Merchant_Frozen_59" spawn="ALL" maximumNpcs="1">
+		<npc id="22090" pos="128362;-110834;-2775;9046" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_60" minZ="-3274" maxZ="-2474">
+		<node x="127078" y="-110973" />
+		<node x="128078" y="-110973" />
+		<node x="128078" y="-109973" />
+		<node x="127078" y="-109973" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_60" territory="Ice_Merchant_Frozen_60" spawn="ALL" maximumNpcs="8">
+		<npc id="22088" pos="127578;-110473;-2774;17039" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_61" minZ="-3274" maxZ="-2474">
+		<node x="126493" y="-111080" />
+		<node x="127493" y="-111080" />
+		<node x="127493" y="-110080" />
+		<node x="126493" y="-110080" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_61" territory="Ice_Merchant_Frozen_61" spawn="ALL" maximumNpcs="1">
+		<npc id="22089" pos="126993;-110580;-2774;38473" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_62" minZ="-3092" maxZ="-2292">
+		<node x="124319" y="-111459" />
+		<node x="125319" y="-111459" />
+		<node x="125319" y="-110459" />
+		<node x="124319" y="-110459" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_62" territory="Ice_Merchant_Frozen_62" spawn="ALL" maximumNpcs="1">
+		<npc id="22089" pos="124819;-110959;-2592;27701" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_63" minZ="-3092" maxZ="-2292">
+		<node x="122715" y="-111649" />
+		<node x="123715" y="-111649" />
+		<node x="123715" y="-110649" />
+		<node x="122715" y="-110649" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_63" territory="Ice_Merchant_Frozen_63" spawn="ALL" maximumNpcs="1">
+		<npc id="22090" pos="123215;-111149;-2592;53120" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_64" minZ="-3092" maxZ="-2292">
+		<node x="122479" y="-111335" />
+		<node x="123479" y="-111335" />
+		<node x="123479" y="-110335" />
+		<node x="122479" y="-110335" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_64" territory="Ice_Merchant_Frozen_64" spawn="ALL" maximumNpcs="1">
+		<npc id="22090" pos="122979;-110835;-2592;23781" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_66" minZ="-3124" maxZ="-2324">
+		<node x="124480" y="-114396" />
+		<node x="125480" y="-114396" />
+		<node x="125480" y="-113396" />
+		<node x="124480" y="-113396" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_66" territory="Ice_Merchant_Frozen_66" spawn="ALL" maximumNpcs="1">
+		<npc id="22090" pos="124980;-113896;-2624;60389" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_67" minZ="-3091" maxZ="-2291">
+		<node x="124001" y="-114537" />
+		<node x="125001" y="-114537" />
+		<node x="125001" y="-113537" />
+		<node x="124001" y="-113537" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_67" territory="Ice_Merchant_Frozen_67" spawn="ALL" maximumNpcs="1">
+		<npc id="22089" pos="124501;-114037;-2591;35981" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_69" minZ="-2814" maxZ="-2014">
+		<node x="119834" y="-113228" />
+		<node x="120834" y="-113228" />
+		<node x="120834" y="-112228" />
+		<node x="119834" y="-112228" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_69" territory="Ice_Merchant_Frozen_69" spawn="ALL" maximumNpcs="6">
+		<npc id="22086" pos="120334;-112728;-2314;33237" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_70" minZ="-3186" maxZ="-2386">
+		<node x="124338" y="-105283" />
+		<node x="125338" y="-105283" />
+		<node x="125338" y="-104283" />
+		<node x="124338" y="-104283" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_70" territory="Ice_Merchant_Frozen_70" spawn="ALL" maximumNpcs="6">
+		<npc id="22086" pos="124838;-104783;-2686;17916" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_71" minZ="-3186" maxZ="-2386">
+		<node x="124034" y="-104256" />
+		<node x="125034" y="-104256" />
+		<node x="125034" y="-103256" />
+		<node x="124034" y="-103256" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_71" territory="Ice_Merchant_Frozen_71" spawn="ALL" maximumNpcs="6">
+		<npc id="22086" pos="124534;-103756;-2686;19028" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_72" minZ="-3084" maxZ="-2284">
+		<node x="123345" y="-127478" />
+		<node x="124887" y="-127357" />
+		<node x="125619" y="-126463" />
+		<node x="124189" y="-126332" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_72" territory="Ice_Merchant_Frozen_72" spawn="ALL" maximumNpcs="18">
+		<npc id="22080" total="3" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_73" minZ="-3083" maxZ="-2283">
+		<node x="124481" y="-126977" />
+		<node x="125481" y="-126977" />
+		<node x="125481" y="-125977" />
+		<node x="124481" y="-125977" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_73" territory="Ice_Merchant_Frozen_73" spawn="ALL" maximumNpcs="7">
+		<npc id="22096" pos="124981;-126477;-2583;9248" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_74" minZ="-3084" maxZ="-2284">
+		<node x="123950" y="-127103" />
+		<node x="124950" y="-127103" />
+		<node x="124950" y="-126103" />
+		<node x="123950" y="-126103" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_74" territory="Ice_Merchant_Frozen_74" spawn="ALL" maximumNpcs="6">
+		<npc id="22096" pos="124450;-126603;-2584;47609" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_75" minZ="-3081" maxZ="-2281">
+		<node x="123842" y="-127759" />
+		<node x="124842" y="-127759" />
+		<node x="124842" y="-126759" />
+		<node x="123842" y="-126759" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_75" territory="Ice_Merchant_Frozen_75" spawn="ALL" maximumNpcs="6">
+		<npc id="22096" pos="124342;-127259;-2581;62365" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_76" minZ="-3084" maxZ="-2284">
+		<node x="123222" y="-125981" />
+		<node x="124222" y="-125981" />
+		<node x="124222" y="-124981" />
+		<node x="123222" y="-124981" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_76" territory="Ice_Merchant_Frozen_76" spawn="ALL" maximumNpcs="7">
+		<npc id="22096" pos="123722;-125481;-2584;42114" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_77" minZ="-3091" maxZ="-2291">
+		<node x="126552" y="-120630" />
+		<node x="127552" y="-120630" />
+		<node x="127552" y="-119630" />
+		<node x="126552" y="-119630" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_77" territory="Ice_Merchant_Frozen_77" spawn="ALL" maximumNpcs="7">
+		<npc id="22092" pos="127052;-120130;-2591;36636" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_78" minZ="-3106" maxZ="-2306">
+		<node x="127030" y="-119987" />
+		<node x="128030" y="-119987" />
+		<node x="128030" y="-118987" />
+		<node x="127030" y="-118987" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_78" territory="Ice_Merchant_Frozen_78" spawn="ALL" maximumNpcs="7">
+		<npc id="22094" pos="127530;-119487;-2606;41604" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_79" minZ="-3093" maxZ="-2293">
+		<node x="124357" y="-114722" />
+		<node x="125357" y="-114722" />
+		<node x="125357" y="-113722" />
+		<node x="124357" y="-113722" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_79" territory="Ice_Merchant_Frozen_79" spawn="ALL" maximumNpcs="1">
+		<npc id="22090" pos="124857;-114222;-2593;59566" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_80" minZ="-2992" maxZ="-2192">
+		<node x="126165" y="-114673" />
+		<node x="127165" y="-114673" />
+		<node x="127165" y="-113673" />
+		<node x="126165" y="-113673" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_80" territory="Ice_Merchant_Frozen_80" spawn="ALL" maximumNpcs="7">
+		<npc id="22092" pos="126665;-114173;-2492;20714" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_81" minZ="-3084" maxZ="-2284">
+		<node x="126359" y="-115274" />
+		<node x="127359" y="-115274" />
+		<node x="127359" y="-114274" />
+		<node x="126359" y="-114274" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_81" territory="Ice_Merchant_Frozen_81" spawn="ALL" maximumNpcs="1">
+		<npc id="22090" pos="126859;-114774;-2584;51747" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_82" minZ="-3082" maxZ="-2282">
+		<node x="125539" y="-117220" />
+		<node x="126539" y="-117220" />
+		<node x="126539" y="-116220" />
+		<node x="125539" y="-116220" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_82" territory="Ice_Merchant_Frozen_82" spawn="ALL" maximumNpcs="7">
+		<npc id="22092" pos="126039;-116720;-2582;40159" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_83" minZ="-3084" maxZ="-2284">
+		<node x="125051" y="-116717" />
+		<node x="126051" y="-116717" />
+		<node x="126051" y="-115717" />
+		<node x="125051" y="-115717" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_83" territory="Ice_Merchant_Frozen_83" spawn="ALL" maximumNpcs="1">
+		<npc id="22090" pos="125551;-116217;-2584;26704" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_84" minZ="-3098" maxZ="-2298">
+		<node x="122677" y="-117118" />
+		<node x="123677" y="-117118" />
+		<node x="123677" y="-116118" />
+		<node x="122677" y="-116118" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_84" territory="Ice_Merchant_Frozen_84" spawn="ALL" maximumNpcs="1">
+		<npc id="22090" pos="123177;-116618;-2598;22701" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_85" minZ="-3103" maxZ="-2303">
+		<node x="123385" y="-116640" />
+		<node x="124385" y="-116640" />
+		<node x="124385" y="-115640" />
+		<node x="123385" y="-115640" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_85" territory="Ice_Merchant_Frozen_85" spawn="ALL" maximumNpcs="1">
+		<npc id="22090" pos="123885;-116140;-2603;3234" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_86" minZ="-3072" maxZ="-2272">
+		<node x="127225" y="-125525" />
+		<node x="128225" y="-125525" />
+		<node x="128225" y="-124525" />
+		<node x="127225" y="-124525" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_86" territory="Ice_Merchant_Frozen_86" spawn="ALL" maximumNpcs="7">
+		<npc id="22096" pos="127725;-125025;-2572;34137" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_87" minZ="-3071" maxZ="-2271">
+		<node x="128362" y="-123633" />
+		<node x="129362" y="-123633" />
+		<node x="129362" y="-122633" />
+		<node x="128362" y="-122633" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_87" territory="Ice_Merchant_Frozen_87" spawn="ALL" maximumNpcs="6">
+		<npc id="22096" pos="128862;-123133;-2571;61737" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_88" minZ="-3081" maxZ="-2281">
+		<node x="123673" y="-125429" />
+		<node x="124673" y="-125429" />
+		<node x="124673" y="-124429" />
+		<node x="123673" y="-124429" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_88" territory="Ice_Merchant_Frozen_88" spawn="ALL" maximumNpcs="7">
+		<npc id="22096" pos="124173;-124929;-2581;10462" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_90" minZ="-4166" maxZ="-3366">
+		<node x="104916" y="-105768" />
+		<node x="105916" y="-105768" />
+		<node x="105916" y="-104768" />
+		<node x="104916" y="-104768" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_90" territory="Ice_Merchant_Frozen_90" spawn="ALL" maximumNpcs="6">
+		<npc id="22086" pos="105416;-105268;-3666;323" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_92" minZ="-2646" maxZ="-1846">
+		<node x="120720" y="-106761" />
+		<node x="121720" y="-106761" />
+		<node x="121720" y="-105761" />
+		<node x="120720" y="-105761" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_92" territory="Ice_Merchant_Frozen_92" spawn="ALL" maximumNpcs="6">
+		<npc id="22086" pos="121220;-106261;-2146;19918" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_94" minZ="-2642" maxZ="-1842">
+		<node x="120711" y="-107135" />
+		<node x="121711" y="-107135" />
+		<node x="121711" y="-106135" />
+		<node x="120711" y="-106135" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_94" territory="Ice_Merchant_Frozen_94" spawn="ALL" maximumNpcs="6">
+		<npc id="22086" pos="121211;-106635;-2142;946" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Ice_Merchant_Frozen_95" minZ="-3084" maxZ="-2284">
+		<node x="128007" y="-122996" />
+		<node x="129007" y="-122996" />
+		<node x="129007" y="-121996" />
+		<node x="128007" y="-121996" />
+	</territory>
+	<npcmaker name="Ice_Merchant_Frozen_95" territory="Ice_Merchant_Frozen_95" spawn="ALL" maximumNpcs="6">
+		<npc id="22096" pos="128507;-122496;-2584;37253" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ice_queen_2314_freya_s_guard1" minZ="-3200" maxZ="-2800">
+		<node x="112210" y="-126320" />
+		<node x="111730" y="-125900" />
+		<node x="111230" y="-126770" />
+		<node x="112330" y="-127370" />
+		<node x="112670" y="-127035" />
+	</territory>
+	<npcmaker name="ice_queen_2314_freya_s_guard1" territory="ice_queen_2314_freya_s_guard1" spawn="ALL" maximumNpcs="10">
+		<npc id="22100" pos="112250;-126820;-3072;0" total="1" respawnDelay="10m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ice_queen_2314_freya_s_guard2" minZ="-3300" maxZ="-3000">
+		<node x="109690" y="-127990" />
+		<node x="109160" y="-127890" />
+		<node x="108360" y="-128320" />
+		<node x="108348" y="-129050" />
+		<node x="109620" y="-128470" />
+		<node x="109700" y="-128000" />
+	</territory>
+	<npcmaker name="ice_queen_2314_freya_s_guard2" territory="ice_queen_2314_freya_s_guard2" spawn="ALL" maximumNpcs="10">
+		<npc id="22102" pos="109360;-128120;-3224;0" total="1" respawnDelay="10m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ice_queen_2314_freya_s_guard3" minZ="-3200" maxZ="-3000">
+		<node x="110030" y="-126230" />
+		<node x="110010" y="-125552" />
+		<node x="109300" y="-125440" />
+		<node x="108590" y="-125940" />
+		<node x="108780" y="-126380" />
+	</territory>
+	<npcmaker name="ice_queen_2314_freya_s_guard3" territory="ice_queen_2314_freya_s_guard3" spawn="ALL" maximumNpcs="10">
+		<npc id="22104" pos="108900;-126030;-3144;32768" total="1" respawnDelay="10m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ice_queen_2314_freya_s_steward" minZ="-4432" maxZ="-2432">
+		<node x="115425" y="-125795" />
+		<node x="115425" y="-125395" />
+		<node x="115825" y="-125395" />
+		<node x="115825" y="-125795" />
+	</territory>
+	<npcmaker name="ice_queen_2314_freya_s_steward" territory="ice_queen_2314_freya_s_steward" spawn="ALL" maximumNpcs="1">
+		<npc id="32029" pos="115625;-125595;-3432;0" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="raidboss_2314_freya_royalguard" minZ="-3020" maxZ="-2400">
+		<node x="105800" y="-128200" />
+		<node x="106200" y="-128200" />
+		<node x="106200" y="-127800" />
+		<node x="105800" y="-127800" />
+	</territory>
+	<npcmaker name="raidboss_2314_freya_royalguard" territory="raidboss_2314_freya_royalguard" spawn="ALL" maximumNpcs="1">
+		<npc id="29060" total="1" respawnDelay="15h" respawnRandom="1h" dbName="freya_royalguard" dbSaving="DEATH_TIME;PARAMETERS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="raidboss_2314_ice_fairy_sirr" minZ="-2868" maxZ="-2248">
+		<node x="102300" y="-126500" />
+		<node x="103300" y="-126500" />
+		<node x="103300" y="-125500" />
+		<node x="102300" y="-125500" />
+	</territory>
+	<npcmaker name="raidboss_2314_ice_fairy_sirr" territory="raidboss_2314_ice_fairy_sirr" spawn="ALL" maximumNpcs="7">
+		<npc id="29056" total="1" respawnDelay="15h" respawnRandom="1h" dbName="ice_fairy_sirr" dbSaving="DEATH_TIME;PARAMETERS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart12_npc2314_01" minZ="-3796" maxZ="-3496">
+		<node x="107788" y="-120564" />
+		<node x="107988" y="-120564" />
+		<node x="107988" y="-120364" />
+		<node x="107788" y="-120364" />
+	</territory>
+	<npcmaker name="schuttgart12_npc2314_01m1" territory="schuttgart12_npc2314_01" spawn="ALL" maximumNpcs="1" event="spawn_night">
+		<npc id="32018" pos="107888;-120464;-3739;24576" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart12_npc2314_2" minZ="-3728" maxZ="-3428">
+		<node x="104412" y="-107748" />
+		<node x="104612" y="-107748" />
+		<node x="104612" y="-107548" />
+		<node x="104412" y="-107548" />
+	</territory>
+	<npcmaker name="schuttgart12_npc2314_2m1" territory="schuttgart12_npc2314_2" spawn="ALL" maximumNpcs="6">
+		<npc id="32022" pos="104512;-107648;-3691;28672" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart12_npc2314_3" minZ="-888" maxZ="-588">
+		<node x="113632" y="-109496" />
+		<node x="113984" y="-109484" />
+		<node x="113892" y="-109164" />
+		<node x="113572" y="-109092" />
+	</territory>
+	<npcmaker name="schuttgart12_npc2314_3m1" territory="schuttgart12_npc2314_3" spawn="ALL" maximumNpcs="2">
+		<npc id="32020" pos="113808;-109344;-846;8192" total="1" respawnDelay="1m"/>
+		<npc id="32023" pos="113760;-109264;-840;0" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart12_npc2314_4" minZ="-2732" maxZ="-2432">
+		<node x="117248" y="-126920" />
+		<node x="118069" y="-126944" />
+		<node x="118298" y="-126139" />
+		<node x="117423" y="-126467" />
+	</territory>
+	<npcmaker name="schuttgart12_npc2314_4m1" territory="schuttgart12_npc2314_4" spawn="ALL" maximumNpcs="24">
+		<npc id="32021" pos="117920;-126592;-2584;8192" total="1" respawnDelay="1m"/>
+		<npc id="32077" pos="117808;-126768;-2584;24576" total="1" respawnDelay="1m"/>
+		<npc id="32078" pos="117760;-126656;-2584;32768" total="1" respawnDelay="1m"/>
+		<npc id="32079" pos="117840;-126528;-2584;0" total="1" respawnDelay="1m"/>
+	</npcmaker>
+</list>

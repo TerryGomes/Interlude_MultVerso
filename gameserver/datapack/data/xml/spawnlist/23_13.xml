@@ -1,0 +1,1587 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Shuttgart Area
+ * Plunderous Plains
+ * Brigand Stronghold
+ * Sky Wagon Relic
+-->
+<list>
+	<territory name="Plunderous_Plains_0" minZ="-3833" maxZ="-3033">
+		<node x="103903" y="-141178" />
+		<node x="104903" y="-141178" />
+		<node x="104903" y="-140178" />
+		<node x="103903" y="-140178" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_0" territory="Plunderous_Plains_0" spawn="ALL" maximumNpcs="1">
+		<npc id="22024" pos="104403;-140678;-3333;64654" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_1" minZ="-3679" maxZ="-2879">
+		<node x="100901" y="-149635" />
+		<node x="101901" y="-149635" />
+		<node x="101901" y="-148635" />
+		<node x="100901" y="-148635" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_1" territory="Plunderous_Plains_1" spawn="ALL" maximumNpcs="1">
+		<npc id="22024" pos="101401;-149135;-3179;15521" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_2" minZ="-3608" maxZ="-2808">
+		<node x="100185" y="-149510" />
+		<node x="101185" y="-149510" />
+		<node x="101185" y="-148510" />
+		<node x="100185" y="-148510" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_2" territory="Plunderous_Plains_2" spawn="ALL" maximumNpcs="1">
+		<npc id="22026" pos="100685;-149010;-3108;30966" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_3" minZ="-2666" maxZ="-1866">
+		<node x="108150" y="-154826" />
+		<node x="109150" y="-154826" />
+		<node x="109150" y="-153826" />
+		<node x="108150" y="-153826" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_3" territory="Plunderous_Plains_3" spawn="ALL" maximumNpcs="1">
+		<npc id="22024" pos="108650;-154326;-2166;55863" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_4" minZ="-2547" maxZ="-1747">
+		<node x="108758" y="-155254" />
+		<node x="109758" y="-155254" />
+		<node x="109758" y="-154254" />
+		<node x="108758" y="-154254" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_4" territory="Plunderous_Plains_4" spawn="ALL" maximumNpcs="1">
+		<npc id="22019" pos="109258;-154754;-2047;59138" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_5" minZ="-2646" maxZ="-1846">
+		<node x="108266" y="-155427" />
+		<node x="109266" y="-155427" />
+		<node x="109266" y="-154427" />
+		<node x="108266" y="-154427" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_5" territory="Plunderous_Plains_5" spawn="ALL" maximumNpcs="1">
+		<npc id="22019" pos="108766;-154927;-2146;36294" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_6" minZ="-2701" maxZ="-1901">
+		<node x="107738" y="-155995" />
+		<node x="108738" y="-155995" />
+		<node x="108738" y="-154995" />
+		<node x="107738" y="-154995" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_6" territory="Plunderous_Plains_6" spawn="ALL" maximumNpcs="1">
+		<npc id="22020" pos="108238;-155495;-2201;41786" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_7" minZ="-2693" maxZ="-1893">
+		<node x="108069" y="-156403" />
+		<node x="109069" y="-156403" />
+		<node x="109069" y="-155403" />
+		<node x="108069" y="-155403" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_7" territory="Plunderous_Plains_7" spawn="ALL" maximumNpcs="1">
+		<npc id="22020" pos="108569;-155903;-2193;56261" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_8" minZ="-2681" maxZ="-1881">
+		<node x="108301" y="-157073" />
+		<node x="109301" y="-157073" />
+		<node x="109301" y="-156073" />
+		<node x="108301" y="-156073" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_8" territory="Plunderous_Plains_8" spawn="ALL" maximumNpcs="1">
+		<npc id="22019" pos="108801;-156573;-2181;52628" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_9" minZ="-2562" maxZ="-1762">
+		<node x="109565" y="-157916" />
+		<node x="110565" y="-157916" />
+		<node x="110565" y="-156916" />
+		<node x="109565" y="-156916" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_9" territory="Plunderous_Plains_9" spawn="ALL" maximumNpcs="1">
+		<npc id="22024" pos="110065;-157416;-2062;40040" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Plunderous_Plains_10" minZ="-2530" maxZ="-1730">
+		<node x="110251" y="-157663" />
+		<node x="111251" y="-157663" />
+		<node x="111251" y="-156663" />
+		<node x="110251" y="-156663" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_10" territory="Plunderous_Plains_10" spawn="ALL" maximumNpcs="1">
+		<npc id="22024" pos="110751;-157163;-2030;3686" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Plunderous_Plains_11" minZ="-2463" maxZ="-1663">
+		<node x="110699" y="-158266" />
+		<node x="111699" y="-158266" />
+		<node x="111699" y="-157266" />
+		<node x="110699" y="-157266" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_11" territory="Plunderous_Plains_11" spawn="ALL" maximumNpcs="1">
+		<npc id="22018" pos="111199;-157766;-1963;45101" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Plunderous_Plains_12" minZ="-2411" maxZ="-1611">
+		<node x="110897" y="-157824" />
+		<node x="111897" y="-157824" />
+		<node x="111897" y="-156824" />
+		<node x="110897" y="-156824" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_12" territory="Plunderous_Plains_12" spawn="ALL" maximumNpcs="1">
+		<npc id="22018" pos="111397;-157324;-1911;11535" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Plunderous_Plains_13" minZ="-2320" maxZ="-1520">
+		<node x="111401" y="-158051" />
+		<node x="112401" y="-158051" />
+		<node x="112401" y="-157051" />
+		<node x="111401" y="-157051" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_13" territory="Plunderous_Plains_13" spawn="ALL" maximumNpcs="1">
+		<npc id="22019" pos="111901;-157551;-1820;60452" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Plunderous_Plains_14" minZ="-2310" maxZ="-1510">
+		<node x="111452" y="-158730" />
+		<node x="112452" y="-158730" />
+		<node x="112452" y="-157730" />
+		<node x="111452" y="-157730" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_14" territory="Plunderous_Plains_14" spawn="ALL" maximumNpcs="1">
+		<npc id="22017" pos="111952;-158230;-1810;49933" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Plunderous_Plains_15" minZ="-2201" maxZ="-1401">
+		<node x="112031" y="-158103" />
+		<node x="113031" y="-158103" />
+		<node x="113031" y="-157103" />
+		<node x="112031" y="-157103" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_15" territory="Plunderous_Plains_15" spawn="ALL" maximumNpcs="1">
+		<npc id="22017" pos="112531;-157603;-1701;7881" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Plunderous_Plains_16" minZ="-2195" maxZ="-1395">
+		<node x="112406" y="-159035" />
+		<node x="113406" y="-159035" />
+		<node x="113406" y="-158035" />
+		<node x="112406" y="-158035" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_16" territory="Plunderous_Plains_16" spawn="ALL" maximumNpcs="1">
+		<npc id="22018" pos="112906;-158535;-1695;53052" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Plunderous_Plains_17" minZ="-3564" maxZ="-2764">
+		<node x="100916" y="-150715" />
+		<node x="101916" y="-150715" />
+		<node x="101916" y="-149715" />
+		<node x="100916" y="-149715" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_17" territory="Plunderous_Plains_17" spawn="ALL" maximumNpcs="1">
+		<npc id="22024" pos="101416;-150215;-3064;39461" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Plunderous_Plains_18" minZ="-3567" maxZ="-2767">
+		<node x="101367" y="-150378" />
+		<node x="102367" y="-150378" />
+		<node x="102367" y="-149378" />
+		<node x="101367" y="-149378" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_18" territory="Plunderous_Plains_18" spawn="ALL" maximumNpcs="1">
+		<npc id="22026" pos="101867;-149878;-3067;40680" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Plunderous_Plains_19" minZ="-3598" maxZ="-2798">
+		<node x="101712" y="-150051" />
+		<node x="102712" y="-150051" />
+		<node x="102712" y="-149051" />
+		<node x="101712" y="-149051" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_19" territory="Plunderous_Plains_19" spawn="ALL" maximumNpcs="1">
+		<npc id="22026" pos="102212;-149551;-3098;45679" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Plunderous_Plains_20" minZ="-3769" maxZ="-2969">
+		<node x="102925" y="-140576" />
+		<node x="103925" y="-140576" />
+		<node x="103925" y="-139576" />
+		<node x="102925" y="-139576" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_20" territory="Plunderous_Plains_20" spawn="ALL" maximumNpcs="1">
+		<npc id="22026" pos="103425;-140076;-3269;27891" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Plunderous_Plains_21" minZ="-3710" maxZ="-2910">
+		<node x="102141" y="-140125" />
+		<node x="103141" y="-140125" />
+		<node x="103141" y="-139125" />
+		<node x="102141" y="-139125" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_21" territory="Plunderous_Plains_21" spawn="ALL" maximumNpcs="1">
+		<npc id="22024" pos="102641;-139625;-3210;27324" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Plunderous_Plains_22" minZ="-3858" maxZ="-3058">
+		<node x="102430" y="-141162" />
+		<node x="103430" y="-141162" />
+		<node x="103430" y="-140162" />
+		<node x="102430" y="-140162" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_22" territory="Plunderous_Plains_22" spawn="ALL" maximumNpcs="1">
+		<npc id="22026" pos="102930;-140662;-3358;52005" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Plunderous_Plains_23" minZ="-3844" maxZ="-3044">
+		<node x="102075" y="-141801" />
+		<node x="103075" y="-141801" />
+		<node x="103075" y="-140801" />
+		<node x="102075" y="-140801" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_23" territory="Plunderous_Plains_23" spawn="ALL" maximumNpcs="1">
+		<npc id="22025" pos="102575;-141301;-3344;43862" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Plunderous_Plains_24" minZ="-3759" maxZ="-2959">
+		<node x="101892" y="-142294" />
+		<node x="102892" y="-142294" />
+		<node x="102892" y="-141294" />
+		<node x="101892" y="-141294" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_24" territory="Plunderous_Plains_24" spawn="ALL" maximumNpcs="1">
+		<npc id="22024" pos="102392;-141794;-3259;44286" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Plunderous_Plains_25" minZ="-3703" maxZ="-2903">
+		<node x="101179" y="-141254" />
+		<node x="102179" y="-141254" />
+		<node x="102179" y="-140254" />
+		<node x="101179" y="-140254" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_25" territory="Plunderous_Plains_25" spawn="ALL" maximumNpcs="1">
+		<npc id="22024" pos="101679;-140754;-3203;22167" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Plunderous_Plains_26" minZ="-3649" maxZ="-2849">
+		<node x="100746" y="-142464" />
+		<node x="101746" y="-142464" />
+		<node x="101746" y="-141464" />
+		<node x="100746" y="-141464" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_26" territory="Plunderous_Plains_26" spawn="ALL" maximumNpcs="1">
+		<npc id="22024" pos="101246;-141964;-3149;42889" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Plunderous_Plains_27" minZ="-3649" maxZ="-2849">
+		<node x="100655" y="-143172" />
+		<node x="101655" y="-143172" />
+		<node x="101655" y="-142172" />
+		<node x="100655" y="-142172" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_27" territory="Plunderous_Plains_27" spawn="ALL" maximumNpcs="1">
+		<npc id="22026" pos="101155;-142672;-3149;45482" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Plunderous_Plains_28" minZ="-3619" maxZ="-2819">
+		<node x="99977" y="-142968" />
+		<node x="100977" y="-142968" />
+		<node x="100977" y="-141968" />
+		<node x="99977" y="-141968" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_28" territory="Plunderous_Plains_28" spawn="ALL" maximumNpcs="1">
+		<npc id="22025" pos="100477;-142468;-3119;54963" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Plunderous_Plains_29" minZ="-3627" maxZ="-2827">
+		<node x="100227" y="-143767" />
+		<node x="101227" y="-143767" />
+		<node x="101227" y="-142767" />
+		<node x="100227" y="-142767" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_29" territory="Plunderous_Plains_29" spawn="ALL" maximumNpcs="1">
+		<npc id="22026" pos="100727;-143267;-3127;51884" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Plunderous_Plains_30" minZ="-3275" maxZ="-2475">
+		<node x="99842" y="-147159" />
+		<node x="100842" y="-147159" />
+		<node x="100842" y="-146159" />
+		<node x="99842" y="-146159" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_30" territory="Plunderous_Plains_30" spawn="ALL" maximumNpcs="1">
+		<npc id="22025" pos="100342;-146659;-2775;20438" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Plunderous_Plains_31" minZ="-3457" maxZ="-2657">
+		<node x="100218" y="-148221" />
+		<node x="101218" y="-148221" />
+		<node x="101218" y="-147221" />
+		<node x="100218" y="-147221" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_31" territory="Plunderous_Plains_31" spawn="ALL" maximumNpcs="1">
+		<npc id="22025" pos="100718;-147721;-2957;60238" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Plunderous_Plains_32" minZ="-3383" maxZ="-2583">
+		<node x="100631" y="-147837" />
+		<node x="101631" y="-147837" />
+		<node x="101631" y="-146837" />
+		<node x="100631" y="-146837" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_32" territory="Plunderous_Plains_32" spawn="ALL" maximumNpcs="1">
+		<npc id="22024" pos="101131;-147337;-2883;2408" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Plunderous_Plains_33" minZ="-3335" maxZ="-2535">
+		<node x="101575" y="-147110" />
+		<node x="102575" y="-147110" />
+		<node x="102575" y="-146110" />
+		<node x="101575" y="-146110" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_33" territory="Plunderous_Plains_33" spawn="ALL" maximumNpcs="1">
+		<npc id="22026" pos="102075;-146610;-2835;252" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Plunderous_Plains_34" minZ="-3568" maxZ="-2768">
+		<node x="100880" y="-148688" />
+		<node x="101880" y="-148688" />
+		<node x="101880" y="-147688" />
+		<node x="100880" y="-147688" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_34" territory="Plunderous_Plains_34" spawn="ALL" maximumNpcs="1">
+		<npc id="22026" pos="101380;-148188;-3068;49465" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Plunderous_Plains_35" minZ="-3648" maxZ="-2848">
+		<node x="102003" y="-148734" />
+		<node x="103003" y="-148734" />
+		<node x="103003" y="-147734" />
+		<node x="102003" y="-147734" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_35" territory="Plunderous_Plains_35" spawn="ALL" maximumNpcs="1">
+		<npc id="22024" pos="102503;-148234;-3148;65082" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Plunderous_Plains_36" minZ="-2262" maxZ="-1462">
+		<node x="111862" y="-158872" />
+		<node x="112862" y="-158872" />
+		<node x="112862" y="-157872" />
+		<node x="111862" y="-157872" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_36" territory="Plunderous_Plains_36" spawn="ALL" maximumNpcs="1">
+		<npc id="22018" pos="112362;-158372;-1762;21148" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Plunderous_Plains_37" minZ="-2062" maxZ="-1262">
+		<node x="112644" y="-160523" />
+		<node x="113644" y="-160523" />
+		<node x="113644" y="-159523" />
+		<node x="112644" y="-159523" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_37" territory="Plunderous_Plains_37" spawn="ALL" maximumNpcs="1">
+		<npc id="22018" pos="113144;-160023;-1562;43646" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Plunderous_Plains_38" minZ="-2099" maxZ="-1299">
+		<node x="113073" y="-160235" />
+		<node x="114073" y="-160235" />
+		<node x="114073" y="-159235" />
+		<node x="113073" y="-159235" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_38" territory="Plunderous_Plains_38" spawn="ALL" maximumNpcs="1">
+		<npc id="22017" pos="113573;-159735;-1599;7474" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Plunderous_Plains_39" minZ="-1781" maxZ="-981">
+		<node x="124485" y="-159871" />
+		<node x="125485" y="-159871" />
+		<node x="125485" y="-158871" />
+		<node x="124485" y="-158871" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_39" territory="Plunderous_Plains_39" spawn="ALL" maximumNpcs="1">
+		<npc id="22023" pos="124985;-159371;-1281;40546" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Plunderous_Plains_40" minZ="-1775" maxZ="-975">
+		<node x="124678" y="-159769" />
+		<node x="125678" y="-159769" />
+		<node x="125678" y="-158769" />
+		<node x="124678" y="-158769" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_40" territory="Plunderous_Plains_40" spawn="ALL" maximumNpcs="1">
+		<npc id="22026" pos="125178;-159269;-1275;5072" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Plunderous_Plains_41" minZ="-1750" maxZ="-950">
+		<node x="125046" y="-159984" />
+		<node x="126046" y="-159984" />
+		<node x="126046" y="-158984" />
+		<node x="125046" y="-158984" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_41" territory="Plunderous_Plains_41" spawn="ALL" maximumNpcs="1">
+		<npc id="22023" pos="125546;-159484;-1250;59821" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Plunderous_Plains_42" minZ="-1742" maxZ="-942">
+		<node x="125117" y="-159670" />
+		<node x="126117" y="-159670" />
+		<node x="126117" y="-158670" />
+		<node x="125117" y="-158670" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_42" territory="Plunderous_Plains_42" spawn="ALL" maximumNpcs="1">
+		<npc id="22023" pos="125617;-159170;-1242;14065" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Plunderous_Plains_43" minZ="-2315" maxZ="-1515">
+		<node x="121656" y="-156906" />
+		<node x="122656" y="-156906" />
+		<node x="122656" y="-155906" />
+		<node x="121656" y="-155906" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_43" territory="Plunderous_Plains_43" spawn="ALL" maximumNpcs="1">
+		<npc id="22021" pos="122156;-156406;-1815;7840" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Plunderous_Plains_44" minZ="-2216" maxZ="-1416">
+		<node x="121043" y="-157291" />
+		<node x="122043" y="-157291" />
+		<node x="122043" y="-156291" />
+		<node x="121043" y="-156291" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_44" territory="Plunderous_Plains_44" spawn="ALL" maximumNpcs="1">
+		<npc id="22020" pos="121543;-156791;-1716;37426" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Plunderous_Plains_45" minZ="-2156" maxZ="-1356">
+		<node x="120487" y="-157586" />
+		<node x="121487" y="-157586" />
+		<node x="121487" y="-156586" />
+		<node x="120487" y="-156586" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_45" territory="Plunderous_Plains_45" spawn="ALL" maximumNpcs="1">
+		<npc id="22022" pos="120987;-157086;-1656;37856" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Plunderous_Plains_46" minZ="-2168" maxZ="-1368">
+		<node x="120225" y="-157131" />
+		<node x="121225" y="-157131" />
+		<node x="121225" y="-156131" />
+		<node x="120225" y="-156131" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_46" territory="Plunderous_Plains_46" spawn="ALL" maximumNpcs="1">
+		<npc id="22021" pos="120725;-156631;-1668;21834" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_47" minZ="-2206" maxZ="-1406">
+		<node x="118989" y="-156875" />
+		<node x="119989" y="-156875" />
+		<node x="119989" y="-155875" />
+		<node x="118989" y="-155875" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_47" territory="Plunderous_Plains_47" spawn="ALL" maximumNpcs="1">
+		<npc id="22020" pos="119489;-156375;-1706;9953" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_48" minZ="-2305" maxZ="-1505">
+		<node x="118534" y="-156237" />
+		<node x="119534" y="-156237" />
+		<node x="119534" y="-155237" />
+		<node x="118534" y="-155237" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_48" territory="Plunderous_Plains_47" spawn="ALL" maximumNpcs="1">
+		<npc id="22020" pos="119034;-155737;-1805;18677" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_49" minZ="-2305" maxZ="-1505">
+		<node x="116637" y="-156839" />
+		<node x="117637" y="-156839" />
+		<node x="117637" y="-155839" />
+		<node x="116637" y="-155839" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_49" territory="Plunderous_Plains_49" spawn="ALL" maximumNpcs="1">
+		<npc id="22022" pos="117137;-156339;-1956;37045" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_50" minZ="-2408" maxZ="-1608">
+		<node x="115732" y="-156855" />
+		<node x="116732" y="-156855" />
+		<node x="116732" y="-155855" />
+		<node x="115732" y="-155855" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_50" territory="Plunderous_Plains_50" spawn="ALL" maximumNpcs="1">
+		<npc id="22021" pos="116232;-156355;-1908;34821" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_51" minZ="-2028" maxZ="-1228">
+		<node x="113291" y="-156042" />
+		<node x="114291" y="-156042" />
+		<node x="114291" y="-155042" />
+		<node x="113291" y="-155042" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_51" territory="Plunderous_Plains_51" spawn="ALL" maximumNpcs="1">
+		<npc id="32055" pos="113791;-155542;-1528;23964" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_52" minZ="-2124" maxZ="-1324">
+		<node x="114964" y="-158018" />
+		<node x="115964" y="-158018" />
+		<node x="115964" y="-157018" />
+		<node x="114964" y="-157018" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_52" territory="Plunderous_Plains_52" spawn="ALL" maximumNpcs="1">
+		<npc id="22020" pos="115464;-157518;-1624;27893" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_53" minZ="-2221" maxZ="-1421">
+		<node x="115944" y="-157539" />
+		<node x="116944" y="-157539" />
+		<node x="116944" y="-156539" />
+		<node x="115944" y="-156539" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_53" territory="Plunderous_Plains_53" spawn="ALL" maximumNpcs="1">
+		<npc id="22020" pos="116444;-157039;-1721;5014" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_54" minZ="-2208" maxZ="-1408">
+		<node x="115832" y="-158347" />
+		<node x="116832" y="-158347" />
+		<node x="116832" y="-157347" />
+		<node x="115832" y="-157347" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_54" territory="Plunderous_Plains_54" spawn="ALL" maximumNpcs="1">
+		<npc id="22021" pos="116332;-157847;-1708;46950" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_55" minZ="-1815" maxZ="-1015">
+		<node x="124553" y="-159343" />
+		<node x="125553" y="-159343" />
+		<node x="125553" y="-158343" />
+		<node x="124553" y="-158343" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_55" territory="Plunderous_Plains_55" spawn="ALL" maximumNpcs="1">
+		<npc id="22024" pos="125053;-158843;-1315;2177" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_56" minZ="-1796" maxZ="-996">
+		<node x="124121" y="-159765" />
+		<node x="125121" y="-159765" />
+		<node x="125121" y="-158765" />
+		<node x="124121" y="-158765" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_56" territory="Plunderous_Plains_56" spawn="ALL" maximumNpcs="1">
+		<npc id="22024" pos="124621;-159265;-1296;53229" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_57" minZ="-1773" maxZ="-973">
+		<node x="123776" y="-160123" />
+		<node x="124776" y="-160123" />
+		<node x="124776" y="-159123" />
+		<node x="123776" y="-159123" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_57" territory="Plunderous_Plains_57" spawn="ALL" maximumNpcs="1">
+		<npc id="22026" pos="124276;-159623;-1273;16120" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_58" minZ="-2021" maxZ="-1221">
+		<node x="113227" y="-160616" />
+		<node x="114227" y="-160616" />
+		<node x="114227" y="-159616" />
+		<node x="113227" y="-159616" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_58" territory="Plunderous_Plains_58" spawn="ALL" maximumNpcs="1">
+		<npc id="22017" pos="113727;-160116;-1521;46596" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_59" minZ="-2008" maxZ="-1208">
+		<node x="112838" y="-160864" />
+		<node x="113838" y="-160864" />
+		<node x="113838" y="-159864" />
+		<node x="112838" y="-159864" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_59" territory="Plunderous_Plains_59" spawn="ALL" maximumNpcs="1">
+		<npc id="22017" pos="113338;-160364;-1508;38813" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_60" minZ="-1997" maxZ="-1197">
+		<node x="113223" y="-161155" />
+		<node x="114223" y="-161155" />
+		<node x="114223" y="-160155" />
+		<node x="113223" y="-160155" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_60" territory="Plunderous_Plains_60" spawn="ALL" maximumNpcs="1">
+		<npc id="22017" pos="113723;-160655;-1497;60246" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_61" minZ="-1922" maxZ="-1122">
+		<node x="114149" y="-161319" />
+		<node x="115149" y="-161319" />
+		<node x="115149" y="-160319" />
+		<node x="114149" y="-160319" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_61" territory="Plunderous_Plains_61" spawn="ALL" maximumNpcs="1">
+		<npc id="22017" pos="114649;-160819;-1422;16249" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_62" minZ="-1771" maxZ="-971">
+		<node x="114018" y="-162656" />
+		<node x="115018" y="-162656" />
+		<node x="115018" y="-161656" />
+		<node x="114018" y="-161656" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_62" territory="Plunderous_Plains_62" spawn="ALL" maximumNpcs="1">
+		<npc id="22018" pos="114518;-162156;-1271;48133" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_63" minZ="-1507" maxZ="-707">
+		<node x="116004" y="-160605" />
+		<node x="117004" y="-160605" />
+		<node x="117004" y="-159605" />
+		<node x="116004" y="-159605" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_63" territory="Plunderous_Plains_63" spawn="ALL" maximumNpcs="1">
+		<npc id="22017" pos="116504;-160105;-1007;19341" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_64" minZ="-1498" maxZ="-698">
+		<node x="116718" y="-160559" />
+		<node x="117718" y="-160559" />
+		<node x="117718" y="-159559" />
+		<node x="116718" y="-159559" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_64" territory="Plunderous_Plains_64" spawn="ALL" maximumNpcs="1">
+		<npc id="22018" pos="117218;-160059;-998;2131" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_65" minZ="-1492" maxZ="-692">
+		<node x="117785" y="-160726" />
+		<node x="118785" y="-160726" />
+		<node x="118785" y="-159726" />
+		<node x="117785" y="-159726" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_65" territory="Plunderous_Plains_65" spawn="ALL" maximumNpcs="1">
+		<npc id="22017" pos="118285;-160226;-992;63916" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_66" minZ="-1532" maxZ="-732">
+		<node x="118238" y="-161214" />
+		<node x="119238" y="-161214" />
+		<node x="119238" y="-160214" />
+		<node x="118238" y="-160214" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_66" territory="Plunderous_Plains_66" spawn="ALL" maximumNpcs="1">
+		<npc id="22017" pos="118738;-160714;-1032;56917" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_67" minZ="-1577" maxZ="-777">
+		<node x="117412" y="-161433" />
+		<node x="118412" y="-161433" />
+		<node x="118412" y="-160433" />
+		<node x="117412" y="-160433" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_67" territory="Plunderous_Plains_67" spawn="ALL" maximumNpcs="1">
+		<npc id="22018" pos="117912;-160933;-1077;34925" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_68" minZ="-1719" maxZ="-919">
+		<node x="118044" y="-162929" />
+		<node x="119044" y="-162929" />
+		<node x="119044" y="-161929" />
+		<node x="118044" y="-161929" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_68" territory="Plunderous_Plains_68" spawn="ALL" maximumNpcs="1">
+		<npc id="22018" pos="118544;-162429;-1219;52293" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_69" minZ="-1740" maxZ="-940">
+		<node x="118426" y="-162818" />
+		<node x="119426" y="-162818" />
+		<node x="119426" y="-161818" />
+		<node x="118426" y="-161818" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_69" territory="Plunderous_Plains_69" spawn="ALL" maximumNpcs="1">
+		<npc id="22017" pos="118926;-162318;-1240;5447" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_70" minZ="-1730" maxZ="-930">
+		<node x="119475" y="-161700" />
+		<node x="120475" y="-161700" />
+		<node x="120475" y="-160700" />
+		<node x="119475" y="-160700" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_70" territory="Plunderous_Plains_70" spawn="ALL" maximumNpcs="1">
+		<npc id="22018" pos="119975;-161200;-1230;8525" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_71" minZ="-1852" maxZ="-1052">
+		<node x="119916" y="-162238" />
+		<node x="120916" y="-162238" />
+		<node x="120916" y="-161238" />
+		<node x="119916" y="-161238" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_71" territory="Plunderous_Plains_71" spawn="ALL" maximumNpcs="1">
+		<npc id="22017" pos="120416;-161738;-1352;58246" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_72" minZ="-1652" maxZ="-852">
+		<node x="122951" y="-160708" />
+		<node x="123951" y="-160708" />
+		<node x="123951" y="-159708" />
+		<node x="122951" y="-159708" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_72" territory="Plunderous_Plains_72" spawn="ALL" maximumNpcs="1">
+		<npc id="22017" pos="123451;-160208;-1152;22334" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_73" minZ="-1713" maxZ="-913">
+		<node x="123675" y="-160867" />
+		<node x="124675" y="-160867" />
+		<node x="124675" y="-159867" />
+		<node x="123675" y="-159867" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_73" territory="Plunderous_Plains_73" spawn="ALL" maximumNpcs="1">
+		<npc id="22026" pos="124175;-160367;-1213;64045" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_74" minZ="-1983" maxZ="-1183">
+		<node x="117626" y="-158186" />
+		<node x="118626" y="-158186" />
+		<node x="118626" y="-157186" />
+		<node x="117626" y="-157186" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_74" territory="Plunderous_Plains_74" spawn="ALL" maximumNpcs="1">
+		<npc id="22020" pos="118126;-157686;-1483;63334" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_75" minZ="-3695" maxZ="-2895">
+		<node x="103615" y="-140412" />
+		<node x="104615" y="-140412" />
+		<node x="104615" y="-139412" />
+		<node x="103615" y="-139412" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_75" territory="Plunderous_Plains_75" spawn="ALL" maximumNpcs="1">
+		<npc id="22024" pos="104115;-139912;-3195;61158" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_76" minZ="-3695" maxZ="-2895">
+		<node x="113009" y="-155766" />
+		<node x="114009" y="-155766" />
+		<node x="114009" y="-154766" />
+		<node x="113009" y="-154766" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_76" territory="Plunderous_Plains_76" spawn="ALL" maximumNpcs="1">
+		<npc id="32053" pos="113509;-155266;-1528;3356" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_76" minZ="-3695" maxZ="-2895">
+		<node x="113009" y="-155766" />
+		<node x="114009" y="-155766" />
+		<node x="114009" y="-154766" />
+		<node x="113009" y="-154766" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_76" territory="Plunderous_Plains_76" spawn="ALL" maximumNpcs="1">
+		<npc id="32053" pos="113509;-155266;-1528;3356" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_77" minZ="-3665" maxZ="-2865">
+		<node x="125371" y="-143147" />
+		<node x="126371" y="-143147" />
+		<node x="126371" y="-142147" />
+		<node x="125371" y="-142147" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_77" territory="Plunderous_Plains_77" spawn="ALL" maximumNpcs="1">
+		<npc id="22025" pos="125871;-142647;-3165;27843" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_78" minZ="-3658" maxZ="-2858">
+		<node x="124868" y="-142761" />
+		<node x="125868" y="-142761" />
+		<node x="125868" y="-141761" />
+		<node x="124868" y="-141761" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_78" territory="Plunderous_Plains_78" spawn="ALL" maximumNpcs="1">
+		<npc id="22025" pos="125368;-142261;-3158;25941" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_79" minZ="-3707" maxZ="-2907">
+		<node x="124422" y="-143066" />
+		<node x="125422" y="-143066" />
+		<node x="125422" y="-142066" />
+		<node x="124422" y="-142066" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_79" territory="Plunderous_Plains_79" spawn="ALL" maximumNpcs="6">
+		<npc id="22028" pos="124922;-142566;-3207;39675" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_80" minZ="-3696" maxZ="-2896">
+		<node x="125270" y="-143463" />
+		<node x="126270" y="-143463" />
+		<node x="126270" y="-142463" />
+		<node x="125270" y="-142463" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_80" territory="Plunderous_Plains_80" spawn="ALL" maximumNpcs="6">
+		<npc id="22028" pos="125770;-142963;-3196;61232" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_81" minZ="-3582" maxZ="-2782">
+		<node x="119352" y="-144713" />
+		<node x="120352" y="-144713" />
+		<node x="120352" y="-143713" />
+		<node x="119352" y="-143713" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_81" territory="Plunderous_Plains_81" spawn="ALL" maximumNpcs="1">
+		<npc id="22025" pos="119852;-144213;-3082;24772" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_82" minZ="-3540" maxZ="-2740">
+		<node x="120077" y="-144241" />
+		<node x="121077" y="-144241" />
+		<node x="121077" y="-143241" />
+		<node x="120077" y="-143241" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_82" territory="Plunderous_Plains_82" spawn="ALL" maximumNpcs="1">
+		<npc id="22025" pos="120577;-143741;-3040;6176" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_83" minZ="-3302" maxZ="-2502">
+		<node x="118873" y="-143638" />
+		<node x="119873" y="-143638" />
+		<node x="119873" y="-142638" />
+		<node x="118873" y="-142638" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_83" territory="Plunderous_Plains_83" spawn="ALL" maximumNpcs="1">
+		<npc id="22025" pos="119373;-143138;-2802;23462" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_84" minZ="-3244" maxZ="-2444">
+		<node x="118546" y="-143240" />
+		<node x="119546" y="-143240" />
+		<node x="119546" y="-142240" />
+		<node x="118546" y="-142240" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_84" territory="Plunderous_Plains_84" spawn="ALL" maximumNpcs="6">
+		<npc id="22028" pos="119046;-142740;-2744;748" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_85" minZ="-3400" maxZ="-2600">
+		<node x="117414" y="-143517" />
+		<node x="118414" y="-143517" />
+		<node x="118414" y="-142517" />
+		<node x="117414" y="-142517" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_85" territory="Plunderous_Plains_85" spawn="ALL" maximumNpcs="6">
+		<npc id="22028" pos="117914;-143017;-2900;36435" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_86" minZ="-3479" maxZ="-2679">
+		<node x="117347" y="-144264" />
+		<node x="118347" y="-144264" />
+		<node x="118347" y="-143264" />
+		<node x="117347" y="-143264" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_86" territory="Plunderous_Plains_86" spawn="ALL" maximumNpcs="6">
+		<npc id="22028" pos="117847;-143764;-2979;46766" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_87" minZ="-3479" maxZ="-2679">
+		<node x="116682" y="-143704" />
+		<node x="117682" y="-143704" />
+		<node x="117682" y="-142704" />
+		<node x="116682" y="-142704" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_87" territory="Plunderous_Plains_87" spawn="ALL" maximumNpcs="6">
+		<npc id="22028" pos="117182;-143204;-2998;20366" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_88" minZ="-3588" maxZ="-2788">
+		<node x="115991" y="-142351" />
+		<node x="116991" y="-142351" />
+		<node x="116991" y="-141351" />
+		<node x="115991" y="-141351" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_88" territory="Plunderous_Plains_88" spawn="ALL" maximumNpcs="6">
+		<npc id="22028" pos="116491;-141851;-3088;21245" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_89" minZ="-3596" maxZ="-2796">
+		<node x="115558" y="-142822" />
+		<node x="116558" y="-142822" />
+		<node x="116558" y="-141822" />
+		<node x="115558" y="-141822" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_89" territory="Plunderous_Plains_89" spawn="ALL" maximumNpcs="1">
+		<npc id="22025" pos="116058;-142322;-3096;38763" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_90" minZ="-3583" maxZ="-2783">
+		<node x="115701" y="-143684" />
+		<node x="116701" y="-143684" />
+		<node x="116701" y="-142684" />
+		<node x="115701" y="-142684" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_90" territory="Plunderous_Plains_90" spawn="ALL" maximumNpcs="1">
+		<npc id="22025" pos="116201;-143184;-3083;2368" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_91" minZ="-3650" maxZ="-2850">
+		<node x="115149" y="-144710" />
+		<node x="116149" y="-144710" />
+		<node x="116149" y="-143710" />
+		<node x="115149" y="-143710" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_91" territory="Plunderous_Plains_91" spawn="ALL" maximumNpcs="1">
+		<npc id="22025" pos="115649;-144210;-3150;39642" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_92" minZ="-3648" maxZ="-2848">
+		<node x="116257" y="-144894" />
+		<node x="117257" y="-144894" />
+		<node x="117257" y="-143894" />
+		<node x="116257" y="-143894" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_92" territory="Plunderous_Plains_92" spawn="ALL" maximumNpcs="6">
+		<npc id="22028" pos="116757;-144394;-3148;34920" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_93" minZ="-3733" maxZ="-2933">
+		<node x="126597" y="-143774" />
+		<node x="127597" y="-143774" />
+		<node x="127597" y="-142774" />
+		<node x="126597" y="-142774" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_93" territory="Plunderous_Plains_93" spawn="ALL" maximumNpcs="1">
+		<npc id="22025" pos="127097;-143274;-3233;22048" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_94" minZ="-2839" maxZ="-2039">
+		<node x="123685" y="-154037" />
+		<node x="124685" y="-154037" />
+		<node x="124685" y="-153037" />
+		<node x="123685" y="-153037" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_94" territory="Plunderous_Plains_94" spawn="ALL" maximumNpcs="1">
+		<npc id="22024" pos="124185;-153537;-2339;56089" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_95" minZ="-3152" maxZ="-2352">
+		<node x="121581" y="-152587" />
+		<node x="122581" y="-152587" />
+		<node x="122581" y="-151587" />
+		<node x="121581" y="-151587" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_95" territory="Plunderous_Plains_95" spawn="ALL" maximumNpcs="1">
+		<npc id="22022" pos="122081;-152087;-2652;11673" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_96" minZ="-2028" maxZ="-1228">
+		<node x="112724" y="-155491" />
+		<node x="113724" y="-155491" />
+		<node x="113724" y="-154491" />
+		<node x="112724" y="-154491" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_96" territory="Plunderous_Plains_96" spawn="ALL" maximumNpcs="1">
+		<npc id="32076" pos="113224;-154991;-1528;57687" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_97" minZ="-2028" maxZ="-1228">
+		<node x="113018" y="-154255" />
+		<node x="114018" y="-154255" />
+		<node x="114018" y="-153255" />
+		<node x="113018" y="-153255" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_97" territory="Plunderous_Plains_97" spawn="ALL" maximumNpcs="1">
+		<npc id="32052" pos="113518;-153755;-1528;16963" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_98" minZ="-3925" maxZ="-3125">
+		<node x="122754" y="-148626" />
+		<node x="123754" y="-148626" />
+		<node x="123754" y="-147626" />
+		<node x="122754" y="-147626" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_98" territory="Plunderous_Plains_98" spawn="ALL" maximumNpcs="1">
+		<npc id="32014" pos="123254;-148126;-3425;18665" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_99" minZ="-4038" maxZ="-3238">
+		<node x="121989" y="-147382" />
+		<node x="122989" y="-147382" />
+		<node x="122989" y="-146382" />
+		<node x="121989" y="-146382" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_99" territory="Plunderous_Plains_99" spawn="ALL" maximumNpcs="1">
+		<npc id="22022" pos="122489;-146882;-3538;49152" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_100" minZ="-3818" maxZ="-3018">
+		<node x="121282" y="-148248" />
+		<node x="122282" y="-148248" />
+		<node x="122282" y="-147248" />
+		<node x="121282" y="-147248" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_100" territory="Plunderous_Plains_100" spawn="ALL" maximumNpcs="1">
+		<npc id="22023" pos="121782;-147748;-3318;36448" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_101" minZ="-3733" maxZ="-2933">
+		<node x="122166" y="-149061" />
+		<node x="123166" y="-149061" />
+		<node x="123166" y="-148061" />
+		<node x="122166" y="-148061" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_101" territory="Plunderous_Plains_101" spawn="ALL" maximumNpcs="1">
+		<npc id="22023" pos="122666;-148561;-3233;39821" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_102" minZ="-3609" maxZ="-2809">
+		<node x="122517" y="-149829" />
+		<node x="123517" y="-149829" />
+		<node x="123517" y="-148829" />
+		<node x="122517" y="-148829" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_102" territory="Plunderous_Plains_102" spawn="ALL" maximumNpcs="1">
+		<npc id="22022" pos="123017;-149329;-3109;52733" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_103" minZ="-3748" maxZ="-2948">
+		<node x="124033" y="-149780" />
+		<node x="125033" y="-149780" />
+		<node x="125033" y="-148780" />
+		<node x="124033" y="-148780" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_103" territory="Plunderous_Plains_103" spawn="ALL" maximumNpcs="1">
+		<npc id="22024" pos="124533;-149280;-3248;17252" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_104" minZ="-3411" maxZ="-2611">
+		<node x="122966" y="-150609" />
+		<node x="123966" y="-150609" />
+		<node x="123966" y="-149609" />
+		<node x="122966" y="-149609" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_104" territory="Plunderous_Plains_104" spawn="ALL" maximumNpcs="1">
+		<npc id="22023" pos="123466;-150109;-2911;40021" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_105" minZ="-3540" maxZ="-2740">
+		<node x="124233" y="-150583" />
+		<node x="125233" y="-150583" />
+		<node x="125233" y="-149583" />
+		<node x="124233" y="-149583" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_105" territory="Plunderous_Plains_105" spawn="ALL" maximumNpcs="1">
+		<npc id="22023" pos="124733;-150083;-3040;612" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_106" minZ="-3311" maxZ="-2511">
+		<node x="123038" y="-151242" />
+		<node x="124038" y="-151242" />
+		<node x="124038" y="-150242" />
+		<node x="123038" y="-150242" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_106" territory="Plunderous_Plains_106" spawn="ALL" maximumNpcs="1">
+		<npc id="22024" pos="123538;-150742;-2811;33864" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_107" minZ="-3311" maxZ="-2511">
+		<node x="123612" y="-151489" />
+		<node x="124612" y="-151489" />
+		<node x="124612" y="-150489" />
+		<node x="123612" y="-150489" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_107" territory="Plunderous_Plains_107" spawn="ALL" maximumNpcs="1">
+		<npc id="22025" pos="124112;-150989;-2803;63288" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_108" minZ="-2982" maxZ="-2182">
+		<node x="123534" y="-153173" />
+		<node x="124534" y="-153173" />
+		<node x="124534" y="-152173" />
+		<node x="123534" y="-152173" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_108" territory="Plunderous_Plains_108" spawn="ALL" maximumNpcs="1">
+		<npc id="22023" pos="124034;-152673;-2482;48902" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_109" minZ="-2875" maxZ="-2075">
+		<node x="122823" y="-154171" />
+		<node x="123823" y="-154171" />
+		<node x="123823" y="-153171" />
+		<node x="122823" y="-153171" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_109" territory="Plunderous_Plains_109" spawn="ALL" maximumNpcs="1">
+		<npc id="22023" pos="123323;-153671;-2375;44567" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_110" minZ="-2976" maxZ="-2176">
+		<node x="121806" y="-153409" />
+		<node x="122806" y="-153409" />
+		<node x="122806" y="-152409" />
+		<node x="121806" y="-152409" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_110" territory="Plunderous_Plains_110" spawn="ALL" maximumNpcs="1">
+		<npc id="22024" pos="122306;-152909;-2476;24863" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_111" minZ="-2970" maxZ="-2170">
+		<node x="121011" y="-153762" />
+		<node x="122011" y="-153762" />
+		<node x="122011" y="-152762" />
+		<node x="121011" y="-152762" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_111" territory="Plunderous_Plains_111" spawn="ALL" maximumNpcs="1">
+		<npc id="22022" pos="121511;-153262;-2470;38092" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_112" minZ="-3656" maxZ="-2856">
+		<node x="110289" y="-147813" />
+		<node x="111289" y="-147813" />
+		<node x="111289" y="-146813" />
+		<node x="110289" y="-146813" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_112" territory="Plunderous_Plains_112" spawn="ALL" maximumNpcs="1">
+		<npc id="22024" pos="110789;-147313;-3156;40277" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_113" minZ="-3658" maxZ="-2858">
+		<node x="109226" y="-147397" />
+		<node x="110226" y="-147397" />
+		<node x="110226" y="-146397" />
+		<node x="109226" y="-146397" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_113" territory="Plunderous_Plains_113" spawn="ALL" maximumNpcs="1">
+		<npc id="22020" pos="109726;-146897;-3158;28031" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_114" minZ="-3551" maxZ="-2751">
+		<node x="108857" y="-148246" />
+		<node x="109857" y="-148246" />
+		<node x="109857" y="-147246" />
+		<node x="108857" y="-147246" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_114" territory="Plunderous_Plains_114" spawn="ALL" maximumNpcs="1">
+		<npc id="22024" pos="109357;-147746;-3051;41009" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_115" minZ="-3993" maxZ="-3193">
+		<node x="109048" y="-146427" />
+		<node x="110048" y="-146427" />
+		<node x="110048" y="-145427" />
+		<node x="109048" y="-145427" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_115" territory="Plunderous_Plains_115" spawn="ALL" maximumNpcs="1">
+		<npc id="22022" pos="109548;-145927;-3493;57869" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_116" minZ="-4017" maxZ="-3217">
+		<node x="109442" y="-146136" />
+		<node x="110442" y="-146136" />
+		<node x="110442" y="-145136" />
+		<node x="109442" y="-145136" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_116" territory="Plunderous_Plains_116" spawn="ALL" maximumNpcs="1">
+		<npc id="22024" pos="109942;-145636;-3517;7317" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_117" minZ="-4165" maxZ="-3365">
+		<node x="108693" y="-144565" />
+		<node x="109693" y="-144565" />
+		<node x="109693" y="-143565" />
+		<node x="108693" y="-143565" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_117" territory="Plunderous_Plains_117" spawn="ALL" maximumNpcs="1">
+		<npc id="22023" pos="109193;-144065;-3665;22747" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_118" minZ="-4155" maxZ="-3355">
+		<node x="107660" y="-143784" />
+		<node x="108660" y="-143784" />
+		<node x="108660" y="-142784" />
+		<node x="107660" y="-142784" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_118" territory="Plunderous_Plains_118" spawn="ALL" maximumNpcs="1">
+		<npc id="22023" pos="108160;-143284;-3655;35530" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_119" minZ="-4061" maxZ="-3261">
+		<node x="107823" y="-143038" />
+		<node x="108823" y="-143038" />
+		<node x="108823" y="-142038" />
+		<node x="107823" y="-142038" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_119" territory="Plunderous_Plains_119" spawn="ALL" maximumNpcs="1">
+		<npc id="22024" pos="108323;-142538;-3561;13609" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_120" minZ="-3880" maxZ="-3080">
+		<node x="109926" y="-142692" />
+		<node x="110926" y="-142692" />
+		<node x="110926" y="-141692" />
+		<node x="109926" y="-141692" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_120" territory="Plunderous_Plains_120" spawn="ALL" maximumNpcs="1">
+		<npc id="22024" pos="110426;-142192;-3380;3221" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_121" minZ="-3822" maxZ="-3022">
+		<node x="109958" y="-142052" />
+		<node x="110958" y="-142052" />
+		<node x="110958" y="-141052" />
+		<node x="109958" y="-141052" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_121" territory="Plunderous_Plains_121" spawn="ALL" maximumNpcs="1">
+		<npc id="22024" pos="110458;-141552;-3322;15885" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_122" minZ="-3881" maxZ="-3081">
+		<node x="111026" y="-142641" />
+		<node x="112026" y="-142641" />
+		<node x="112026" y="-141641" />
+		<node x="111026" y="-141641" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_122" territory="Plunderous_Plains_122" spawn="ALL" maximumNpcs="1">
+		<npc id="22025" pos="111526;-142141;-3381;60381" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_123" minZ="-3835" maxZ="-3035">
+		<node x="110839" y="-142047" />
+		<node x="111839" y="-142047" />
+		<node x="111839" y="-141047" />
+		<node x="110839" y="-141047" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_123" territory="Plunderous_Plains_123" spawn="ALL" maximumNpcs="1">
+		<npc id="22023" pos="111339;-141547;-3335;20022" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_124" minZ="-3835" maxZ="-3035">
+		<node x="110668" y="-141483" />
+		<node x="111668" y="-141483" />
+		<node x="111668" y="-140483" />
+		<node x="110668" y="-140483" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_124" territory="Plunderous_Plains_124" spawn="ALL" maximumNpcs="1">
+		<npc id="22023" pos="111168;-140983;-3172;20230" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_125" minZ="-2022" maxZ="-1222">
+		<node x="121769" y="-141189" />
+		<node x="122769" y="-141189" />
+		<node x="122769" y="-140189" />
+		<node x="121769" y="-140189" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_125" territory="Plunderous_Plains_125" spawn="ALL" maximumNpcs="1">
+		<npc id="32054" pos="122269;-140689;-1522;47229" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_126" minZ="-3935" maxZ="-3135">
+		<node x="106036" y="-142389" />
+		<node x="107036" y="-142389" />
+		<node x="107036" y="-141389" />
+		<node x="106036" y="-141389" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_126" territory="Plunderous_Plains_126" spawn="ALL" maximumNpcs="1">
+		<npc id="22024" pos="106536;-141889;-3435;32038" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_127" minZ="-3817" maxZ="-3017">
+		<node x="105896" y="-141512" />
+		<node x="106896" y="-141512" />
+		<node x="106896" y="-140512" />
+		<node x="105896" y="-140512" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_127" territory="Plunderous_Plains_127" spawn="ALL" maximumNpcs="1">
+		<npc id="22024" pos="106396;-141012;-3317;18336" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_128" minZ="-4127" maxZ="-3327">
+		<node x="104896" y="-142677" />
+		<node x="105896" y="-142677" />
+		<node x="105896" y="-141677" />
+		<node x="104896" y="-141677" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_128" territory="Plunderous_Plains_128" spawn="ALL" maximumNpcs="1">
+		<npc id="22025" pos="105396;-142177;-3627;42544" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_129" minZ="-4049" maxZ="-3249">
+		<node x="104779" y="-142302" />
+		<node x="105779" y="-142302" />
+		<node x="105779" y="-141302" />
+		<node x="104779" y="-141302" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_129" territory="Plunderous_Plains_129" spawn="ALL" maximumNpcs="1">
+		<npc id="22025" pos="105279;-141802;-3549;16578" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_130" minZ="-3979" maxZ="-3179">
+		<node x="105182" y="-141992" />
+		<node x="106182" y="-141992" />
+		<node x="106182" y="-140992" />
+		<node x="105182" y="-140992" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_130" territory="Plunderous_Plains_130" spawn="ALL" maximumNpcs="1">
+		<npc id="22024" pos="105682;-141492;-3479;2293" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_131" minZ="-4131" maxZ="-3331">
+		<node x="108626" y="-145947" />
+		<node x="109626" y="-145947" />
+		<node x="109626" y="-144947" />
+		<node x="108626" y="-144947" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_131" territory="Plunderous_Plains_131" spawn="ALL" maximumNpcs="1">
+		<npc id="22023" pos="109126;-145447;-3631;35932" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_132" minZ="-4110" maxZ="-3310">
+		<node x="109116" y="-145784" />
+		<node x="110116" y="-145784" />
+		<node x="110116" y="-144784" />
+		<node x="109116" y="-144784" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_132" territory="Plunderous_Plains_132" spawn="ALL" maximumNpcs="1">
+		<npc id="22024" pos="109616;-145284;-3610;63611" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_133" minZ="-4147" maxZ="-3347">
+		<node x="108676" y="-145617" />
+		<node x="109676" y="-145617" />
+		<node x="109676" y="-144617" />
+		<node x="108676" y="-144617" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_133" territory="Plunderous_Plains_133" spawn="ALL" maximumNpcs="1">
+		<npc id="22024" pos="109176;-145117;-3647;49098" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_134" minZ="-3203" maxZ="-2403">
+		<node x="108461" y="-149377" />
+		<node x="109461" y="-149377" />
+		<node x="109461" y="-148377" />
+		<node x="108461" y="-148377" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_134" territory="Plunderous_Plains_134" spawn="ALL" maximumNpcs="1">
+		<npc id="22020" pos="108961;-148877;-2703;38069" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_135" minZ="-3081" maxZ="-2281">
+		<node x="108892" y="-149722" />
+		<node x="109892" y="-149722" />
+		<node x="109892" y="-148722" />
+		<node x="108892" y="-148722" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_135" territory="Plunderous_Plains_135" spawn="ALL" maximumNpcs="1">
+		<npc id="22020" pos="109392;-149222;-2581;59107" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_136" minZ="-2987" maxZ="-2187">
+		<node x="109398" y="-149990" />
+		<node x="110398" y="-149990" />
+		<node x="110398" y="-148990" />
+		<node x="109398" y="-148990" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_136" territory="Plunderous_Plains_136" spawn="ALL" maximumNpcs="1">
+		<npc id="22022" pos="109898;-149490;-2487;51264" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_137" minZ="-2967" maxZ="-2167">
+		<node x="108171" y="-150262" />
+		<node x="109171" y="-150262" />
+		<node x="109171" y="-149262" />
+		<node x="108171" y="-149262" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_137" territory="Plunderous_Plains_137" spawn="ALL" maximumNpcs="1">
+		<npc id="22020" pos="108671;-149762;-2467;26988" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_138" minZ="-2873" maxZ="-2073">
+		<node x="108875" y="-150593" />
+		<node x="109875" y="-150593" />
+		<node x="109875" y="-149593" />
+		<node x="108875" y="-149593" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_138" territory="Plunderous_Plains_138" spawn="ALL" maximumNpcs="1">
+		<npc id="22020" pos="109375;-150093;-2373;62030" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_139" minZ="-2786" maxZ="-1986">
+		<node x="108879" y="-151130" />
+		<node x="109879" y="-151130" />
+		<node x="109879" y="-150130" />
+		<node x="108879" y="-150130" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_139" territory="Plunderous_Plains_139" spawn="ALL" maximumNpcs="1">
+		<npc id="22020" pos="109379;-150630;-2286;49229" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_140" minZ="-2719" maxZ="-1919">
+		<node x="109720" y="-151617" />
+		<node x="110720" y="-151617" />
+		<node x="110720" y="-150617" />
+		<node x="109720" y="-150617" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_140" territory="Plunderous_Plains_140" spawn="ALL" maximumNpcs="1">
+		<npc id="22022" pos="110220;-151117;-2219;30452" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_141" minZ="-2721" maxZ="-1921">
+		<node x="108482" y="-151757" />
+		<node x="109482" y="-151757" />
+		<node x="109482" y="-150757" />
+		<node x="108482" y="-150757" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_141" territory="Plunderous_Plains_141" spawn="ALL" maximumNpcs="1">
+		<npc id="22024" pos="108982;-151257;-2221;64268" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_142" minZ="-2725" maxZ="-1925">
+		<node x="107415" y="-151902" />
+		<node x="108415" y="-151902" />
+		<node x="108415" y="-150902" />
+		<node x="107415" y="-150902" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_142" territory="Plunderous_Plains_142" spawn="ALL" maximumNpcs="1">
+		<npc id="22022" pos="107915;-151402;-2225;34176" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_143" minZ="-2966" maxZ="-2166">
+		<node x="106970" y="-150227" />
+		<node x="107970" y="-150227" />
+		<node x="107970" y="-149227" />
+		<node x="106970" y="-149227" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_143" territory="Plunderous_Plains_143" spawn="ALL" maximumNpcs="1">
+		<npc id="22022" pos="107470;-149727;-2466;18962" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_144" minZ="-4121" maxZ="-3321">
+		<node x="106342" y="-146076" />
+		<node x="107342" y="-146076" />
+		<node x="107342" y="-145076" />
+		<node x="106342" y="-145076" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_144" territory="Plunderous_Plains_144" spawn="ALL" maximumNpcs="1">
+		<npc id="22024" pos="106842;-145576;-3621;20450" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_145" minZ="-4125" maxZ="-3325">
+		<node x="106164" y="-145752" />
+		<node x="107164" y="-145752" />
+		<node x="107164" y="-144752" />
+		<node x="106164" y="-144752" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_145" territory="Plunderous_Plains_145" spawn="ALL" maximumNpcs="1">
+		<npc id="22024" pos="106664;-145252;-3625;21624" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_146" minZ="-4155" maxZ="-3355">
+		<node x="107037" y="-145366" />
+		<node x="108037" y="-145366" />
+		<node x="108037" y="-144366" />
+		<node x="107037" y="-144366" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_146" territory="Plunderous_Plains_146" spawn="ALL" maximumNpcs="1">
+		<npc id="22023" pos="107537;-144866;-3655;3458" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_147" minZ="-4155" maxZ="-3355">
+		<node x="107445" y="-145353" />
+		<node x="108445" y="-145353" />
+		<node x="108445" y="-144353" />
+		<node x="107445" y="-144353" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_147" territory="Plunderous_Plains_147" spawn="ALL" maximumNpcs="1">
+		<npc id="22023" pos="107945;-144853;-3655;540" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_148" minZ="-4155" maxZ="-3355">
+		<node x="107699" y="-145104" />
+		<node x="108699" y="-145104" />
+		<node x="108699" y="-144104" />
+		<node x="107699" y="-144104" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_148" territory="Plunderous_Plains_148" spawn="ALL" maximumNpcs="1">
+		<npc id="22022" pos="108199;-144604;-3655;28800" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_149" minZ="-4155" maxZ="-3355">
+		<node x="108679" y="-145028" />
+		<node x="109679" y="-145028" />
+		<node x="109679" y="-144028" />
+		<node x="108679" y="-144028" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_149" territory="Plunderous_Plains_149" spawn="ALL" maximumNpcs="1">
+		<npc id="22022" pos="109179;-144528;-3655;3080" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<territory name="Plunderous_Plains_150" minZ="-3630" maxZ="-2830">
+		<node x="104305" y="-140124" />
+		<node x="105305" y="-140124" />
+		<node x="105305" y="-139124" />
+		<node x="104305" y="-139124" />
+	</territory>
+	<npcmaker name="Plunderous_Plains_150" territory="Plunderous_Plains_150" spawn="ALL" maximumNpcs="1">
+		<npc id="22025" pos="104805;-139624;-3130;16883" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="raidboss_rayito_the_looter" minZ="-1252" maxZ="-632">
+		<node x="127600" y="-160900" />
+		<node x="128200" y="-160900" />
+		<node x="128200" y="-160300" />
+		<node x="127600" y="-160300" />
+	</territory>
+	<npcmaker name="raidboss_rayito_the_looter" territory="raidboss_rayito_the_looter" spawn="ALL" maximumNpcs="7">
+		<npc id="25506" total="1" respawnDelay="15h" respawnRandom="1h" dbName="rayito_the_looter" dbSaving="DEATH_TIME;PARAMETERS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="raidboss_spirits_of_nellis" minZ="-1516" maxZ="-896">
+		<node x="122700" y="-141300" />
+		<node x="123300" y="-141300" />
+		<node x="123300" y="-140700" />
+		<node x="122700" y="-140700" />
+	</territory>
+	<npcmaker name="raidboss_spirits_of_nellis" territory="raidboss_spirits_of_nellis" spawn="ALL" maximumNpcs="5">
+		<npc id="25504" total="1" respawnDelay="15h" respawnRandom="1h" dbName="spirits_of_nellis" dbSaving="DEATH_TIME;PARAMETERS"/>
+	</npcmaker>
+</list>

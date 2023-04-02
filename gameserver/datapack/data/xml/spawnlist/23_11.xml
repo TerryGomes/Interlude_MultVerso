@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Dwarven Area
+ * Western Mining Zone (west)
+-->
+<list>
+	<!--  -->
+	<territory name="schttgart08_2311_01" minZ="-3792" maxZ="-2992">
+		<node x="115656" y="-199648" />
+		<node x="116700" y="-200500" />
+		<node x="118992" y="-200572" />
+		<node x="119620" y="-199872" />
+		<node x="119120" y="-198364" />
+		<node x="115324" y="-198416" />
+	</territory>
+	<npcmaker name="schttgart08_2311_01" territory="schttgart08_2311_01" spawn="ALL" maximumNpcs="7">
+		<npc id="20322" total="3" respawnDelay="20s"/>
+		<npc id="20447" total="2" respawnDelay="20s"/>
+		<npc id="20307" total="2" respawnDelay="20s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schttgart08_2311_02" minZ="-3708" maxZ="-3008">
+		<node x="115700" y="-198396" />
+		<node x="119204" y="-198332" />
+		<node x="119372" y="-196852" />
+		<node x="115556" y="-196800" />
+	</territory>
+	<npcmaker name="schttgart08_2311_02" territory="schttgart08_2311_02" spawn="ALL" maximumNpcs="8">
+		<npc id="20322" total="2" respawnDelay="20s"/>
+		<npc id="20447" total="3" respawnDelay="20s"/>
+		<npc id="20307" total="3" respawnDelay="20s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schttgart08_2311_03" minZ="-3776" maxZ="-3376">
+		<node x="120964" y="-200180" />
+		<node x="122544" y="-199856" />
+		<node x="123820" y="-198848" />
+		<node x="123908" y="-197996" />
+		<node x="123224" y="-196812" />
+		<node x="120376" y="-196832" />
+		<node x="119736" y="-197784" />
+		<node x="120096" y="-199880" />
+	</territory>
+	<npcmaker name="schttgart08_2311_03" territory="schttgart08_2311_03" spawn="ALL" maximumNpcs="9">
+		<npc id="20322" total="3" respawnDelay="20s"/>
+		<npc id="20447" total="3" respawnDelay="20s"/>
+		<npc id="20307" total="3" respawnDelay="20s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schttgart08_2311_04" minZ="-3752" maxZ="-3352">
+		<node x="119468" y="-200908" />
+		<node x="120636" y="-201548" />
+		<node x="120916" y="-200196" />
+		<node x="120172" y="-199956" />
+	</territory>
+	<npcmaker name="schttgart08_2311_04" territory="schttgart08_2311_04" spawn="ALL" maximumNpcs="2">
+		<npc id="20307" total="2" respawnDelay="20s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schttgart08_2311_05" minZ="-3776" maxZ="-3176">
+		<node x="119780" y="-203268" />
+		<node x="120960" y="-202700" />
+		<node x="120852" y="-201696" />
+		<node x="119376" y="-200892" />
+		<node x="118420" y="-202120" />
+	</territory>
+	<npcmaker name="schttgart08_2311_05" territory="schttgart08_2311_05" spawn="ALL" maximumNpcs="7">
+		<npc id="20322" total="2" respawnDelay="20s"/>
+		<npc id="20447" total="2" respawnDelay="20s"/>
+		<npc id="20307" total="3" respawnDelay="20s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schttgart08_2311_06" minZ="-3840" maxZ="-3540">
+		<node x="117172" y="-201928" />
+		<node x="118444" y="-202000" />
+		<node x="119316" y="-200932" />
+		<node x="117100" y="-201108" />
+	</territory>
+	<npcmaker name="schttgart08_2311_06" territory="schttgart08_2311_06" spawn="ALL" maximumNpcs="2">
+		<npc id="20307" total="2" respawnDelay="20s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schttgart08_2311_07" minZ="-3792" maxZ="-3492">
+		<node x="119064" y="-206596" />
+		<node x="120784" y="-206056" />
+		<node x="117960" y="-203528" />
+		<node x="117096" y="-203336" />
+		<node x="117280" y="-204820" />
+	</territory>
+	<npcmaker name="schttgart08_2311_07" territory="schttgart08_2311_07" spawn="ALL" maximumNpcs="7">
+		<npc id="20480" total="2" respawnDelay="20s"/>
+		<npc id="20324" total="3" respawnDelay="20s"/>
+		<npc id="20153" total="2" respawnDelay="20s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schttgart08_2311_08" minZ="-3784" maxZ="-3484">
+		<node x="119980" y="-210396" />
+		<node x="121056" y="-209920" />
+		<node x="120752" y="-206264" />
+		<node x="119412" y="-206756" />
+	</territory>
+	<npcmaker name="schttgart08_2311_08" territory="schttgart08_2311_08" spawn="ALL" maximumNpcs="3">
+		<npc id="20324" total="1" respawnDelay="20s"/>
+		<npc id="20153" total="2" respawnDelay="20s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schttgart08_2311_09" minZ="-3788" maxZ="-3538">
+		<node x="121568" y="-211880" />
+		<node x="123220" y="-212536" />
+		<node x="123960" y="-212236" />
+		<node x="124196" y="-211920" />
+		<node x="121012" y="-210040" />
+		<node x="119908" y="-210456" />
+	</territory>
+	<npcmaker name="schttgart08_2311_09" territory="schttgart08_2311_09" spawn="ALL" maximumNpcs="8">
+		<npc id="20480" total="2" respawnDelay="20s"/>
+		<npc id="20324" total="3" respawnDelay="20s"/>
+		<npc id="20153" total="3" respawnDelay="20s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schttgart08_2311_10" minZ="-3804" maxZ="-3404">
+		<node x="116232" y="-209660" />
+		<node x="118052" y="-209796" />
+		<node x="118520" y="-208676" />
+		<node x="118400" y="-206920" />
+		<node x="116724" y="-205496" />
+		<node x="115712" y="-205840" />
+	</territory>
+	<npcmaker name="schttgart08_2311_10" territory="schttgart08_2311_10" spawn="ALL" maximumNpcs="7">
+		<npc id="20480" total="2" respawnDelay="20s"/>
+		<npc id="20324" total="2" respawnDelay="20s"/>
+		<npc id="20153" total="3" respawnDelay="20s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schttgart08_2311_11" minZ="-3608" maxZ="-3008">
+		<node x="116928" y="-212620" />
+		<node x="120460" y="-212244" />
+		<node x="118396" y="-210224" />
+		<node x="115584" y="-209756" />
+		<node x="115564" y="-211424" />
+	</territory>
+	<npcmaker name="schttgart08_2311_11" territory="schttgart08_2311_11" spawn="ALL" maximumNpcs="8">
+		<npc id="20480" total="2" respawnDelay="20s"/>
+		<npc id="20324" total="3" respawnDelay="20s"/>
+		<npc id="20153" total="3" respawnDelay="20s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schttgart08_2311_12" minZ="-3788" maxZ="-3188">
+		<node x="116584" y="-217008" />
+		<node x="120192" y="-217740" />
+		<node x="121436" y="-215180" />
+		<node x="119976" y="-212576" />
+		<node x="116920" y="-213480" />
+	</territory>
+	<npcmaker name="schttgart08_2311_12" territory="schttgart08_2311_12" spawn="ALL" maximumNpcs="10">
+		<npc id="20480" total="3" respawnDelay="20s"/>
+		<npc id="20324" total="3" respawnDelay="20s"/>
+		<npc id="20153" total="4" respawnDelay="20s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schttgart08_2311_13" minZ="-3788" maxZ="-3388">
+		<node x="121268" y="-214576" />
+		<node x="122952" y="-214580" />
+		<node x="123216" y="-213084" />
+		<node x="120776" y="-212292" />
+		<node x="120196" y="-212852" />
+	</territory>
+	<npcmaker name="schttgart08_2311_13" territory="schttgart08_2311_13" spawn="ALL" maximumNpcs="3">
+		<npc id="20324" total="2" respawnDelay="20s"/>
+		<npc id="20153" total="1" respawnDelay="20s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schttgart08_2311_14" minZ="-3784" maxZ="-3384">
+		<node x="123884" y="-216020" />
+		<node x="126328" y="-216140" />
+		<node x="126844" y="-214844" />
+		<node x="126380" y="-213884" />
+		<node x="124056" y="-212712" />
+		<node x="123332" y="-213036" />
+		<node x="122960" y="-215244" />
+	</territory>
+	<npcmaker name="schttgart08_2311_14" territory="schttgart08_2311_14" spawn="ALL" maximumNpcs="8">
+		<npc id="20480" total="2" respawnDelay="20s"/>
+		<npc id="20324" total="3" respawnDelay="20s"/>
+		<npc id="20153" total="3" respawnDelay="20s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schttgart08_2311_15" minZ="-3808" maxZ="-2808">
+		<node x="123484" y="-208632" />
+		<node x="125984" y="-210224" />
+		<node x="127916" y="-209260" />
+		<node x="129044" y="-206980" />
+		<node x="128756" y="-204184" />
+		<node x="126228" y="-203480" />
+		<node x="123676" y="-206980" />
+	</territory>
+	<npcmaker name="schttgart08_2311_15" territory="schttgart08_2311_15" spawn="ALL" maximumNpcs="12">
+		<npc id="20510" total="4" respawnDelay="20s"/>
+		<npc id="20370" total="4" respawnDelay="20s"/>
+		<npc id="20528" total="4" respawnDelay="20s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schttgart08_2311_16" minZ="-3752" maxZ="-3352">
+		<node x="125012" y="-201904" />
+		<node x="127460" y="-203176" />
+		<node x="128956" y="-202672" />
+		<node x="129532" y="-201404" />
+		<node x="129168" y="-200504" />
+		<node x="126440" y="-199616" />
+		<node x="124764" y="-199364" />
+		<node x="124180" y="-200764" />
+	</territory>
+	<npcmaker name="schttgart08_2311_16" territory="schttgart08_2311_16" spawn="ALL" maximumNpcs="8">
+		<npc id="20510" total="3" respawnDelay="20s"/>
+		<npc id="20370" total="2" respawnDelay="20s"/>
+		<npc id="20528" total="3" respawnDelay="20s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schttgart08_2311_17" minZ="-3772" maxZ="-2972">
+		<node x="129148" y="-206880" />
+		<node x="130780" y="-206992" />
+		<node x="130788" y="-202644" />
+		<node x="128960" y="-203816" />
+	</territory>
+	<npcmaker name="schttgart08_2311_17" territory="schttgart08_2311_17" spawn="ALL" maximumNpcs="3">
+		<npc id="20370" total="1" respawnDelay="20s"/>
+		<npc id="20528" total="2" respawnDelay="20s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schttgart08_2311_18" minZ="-3716" maxZ="-3266">
+		<node x="127908" y="-198784" />
+		<node x="130840" y="-199616" />
+		<node x="130836" y="-196868" />
+		<node x="127176" y="-196864" />
+	</territory>
+	<npcmaker name="schttgart08_2311_18" territory="schttgart08_2311_18" spawn="ALL" maximumNpcs="7">
+		<npc id="20521" total="2" respawnDelay="20s"/>
+		<npc id="20323" total="2" respawnDelay="20s"/>
+		<npc id="20526" total="3" respawnDelay="20s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schttgart08_2311_19" minZ="-3692" maxZ="-3392">
+		<node x="129872" y="-210576" />
+		<node x="130804" y="-210292" />
+		<node x="130832" y="-208076" />
+		<node x="129800" y="-208252" />
+		<node x="129164" y="-209692" />
+	</territory>
+	<npcmaker name="schttgart08_2311_19" territory="schttgart08_2311_19" spawn="ALL" maximumNpcs="2">
+		<npc id="20528" total="2" respawnDelay="20s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schttgart08_2311_20" minZ="-3688" maxZ="-3288">
+		<node x="127480" y="-212408" />
+		<node x="128440" y="-212440" />
+		<node x="129272" y="-211820" />
+		<node x="129800" y="-210628" />
+		<node x="129120" y="-209840" />
+		<node x="126796" y="-211288" />
+	</territory>
+	<npcmaker name="schttgart08_2311_20" territory="schttgart08_2311_20" spawn="ALL" maximumNpcs="2">
+		<npc id="20528" total="2" respawnDelay="20s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npc2311_001" minZ="-3908" maxZ="-2408">
+		<node x="117924" y="-200868" />
+		<node x="122776" y="-198932" />
+		<node x="122752" y="-196996" />
+		<node x="115904" y="-197036" />
+		<node x="116332" y="-198816" />
+	</territory>
+	<npcmaker name="schuttgart_npc2311_00101" territory="schuttgart01_npc2311_001" spawn="ALL" maximumNpcs="2">
+		<npc id="31035" pos="118128;-199008;-3632;0" total="1" respawnDelay="1m"/>
+		<npc id="31035" pos="121392;-198064;-3584;0" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npc2311_002" minZ="-3856" maxZ="-2356">
+		<node x="123964" y="-208236" />
+		<node x="126520" y="-209576" />
+		<node x="128704" y="-204224" />
+		<node x="125944" y="-204208" />
+	</territory>
+	<npcmaker name="schuttgart_npc2311_00201" territory="schuttgart01_npc2311_002" spawn="ALL" maximumNpcs="1">
+		<npc id="31035" pos="126672;-206624;-3424;0" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npc2311_003" minZ="-3944" maxZ="-2444">
+		<node x="117192" y="-216888" />
+		<node x="121028" y="-216016" />
+		<node x="120252" y="-213176" />
+		<node x="116924" y="-213516" />
+	</territory>
+	<npcmaker name="schuttgart_npc2311_00301" territory="schuttgart01_npc2311_003" spawn="ALL" maximumNpcs="1">
+		<npc id="31035" pos="118624;-215744;-3616;0" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart01_npc2311_004" minZ="-3972" maxZ="-2472">
+		<node x="117348" y="-209616" />
+		<node x="119000" y="-206888" />
+		<node x="117224" y="-204436" />
+		<node x="115992" y="-205832" />
+	</territory>
+	<npcmaker name="schuttgart_npc2311_00401" territory="schuttgart01_npc2311_004" spawn="ALL" maximumNpcs="1">
+		<npc id="31035" pos="117408;-207552;-3723;0" total="1" respawnDelay="1m"/>
+	</npcmaker>
+</list>

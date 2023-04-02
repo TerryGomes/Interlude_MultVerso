@@ -1,0 +1,3149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Goddard Area
+ * Monastery of Silence
+-->
+<list>
+	<!--  -->
+	<territory name="Monastery_Silence_0" minZ="-1612" maxZ="-812">
+		<node x="107604" y="-77764" />
+		<node x="108604" y="-77764" />
+		<node x="108604" y="-76764" />
+		<node x="107604" y="-76764" />
+	</territory>
+	<npcmaker name="Monastery_Silence_0" territory="Monastery_Silence_0" spawn="ALL" maximumNpcs="1">
+		<npc id="22132" pos="108104;-77264;-1112;42841" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_1" minZ="-1643" maxZ="-843">
+		<node x="107688" y="-76298" />
+		<node x="108688" y="-76298" />
+		<node x="108688" y="-75298" />
+		<node x="107688" y="-75298" />
+	</territory>
+	<npcmaker name="Monastery_Silence_1" territory="Monastery_Silence_1" spawn="ALL" maximumNpcs="1">
+		<npc id="22132" pos="108188;-75798;-1143;62512" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_10" minZ="-2112" maxZ="-1312">
+		<node x="111318" y="-80572" />
+		<node x="112318" y="-80572" />
+		<node x="112318" y="-79572" />
+		<node x="111318" y="-79572" />
+	</territory>
+	<npcmaker name="Monastery_Silence_10" territory="Monastery_Silence_10" spawn="ALL" maximumNpcs="1">
+		<npc id="22132" pos="111818;-80072;-1612;33101" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_100" minZ="-1081" maxZ="-281">
+		<node x="114287" y="-73853" />
+		<node x="115287" y="-73853" />
+		<node x="115287" y="-72853" />
+		<node x="114287" y="-72853" />
+	</territory>
+	<npcmaker name="Monastery_Silence_100" territory="Monastery_Silence_100" spawn="ALL" maximumNpcs="5">
+		<npc id="22135" pos="114787;-73353;-581;55676" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_101" minZ="-1102" maxZ="-302">
+		<node x="114051" y="-72570" />
+		<node x="115051" y="-72570" />
+		<node x="115051" y="-71570" />
+		<node x="114051" y="-71570" />
+	</territory>
+	<npcmaker name="Monastery_Silence_101" territory="Monastery_Silence_101" spawn="ALL" maximumNpcs="4">
+		<npc id="22135" pos="114551;-72070;-602;33227" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_102" minZ="-1123" maxZ="-323">
+		<node x="113239" y="-72692" />
+		<node x="114239" y="-72692" />
+		<node x="114239" y="-71692" />
+		<node x="113239" y="-71692" />
+	</territory>
+	<npcmaker name="Monastery_Silence_102" territory="Monastery_Silence_102" spawn="ALL" maximumNpcs="4">
+		<npc id="22135" pos="113739;-72192;-623;899" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_103" minZ="-2139" maxZ="-1339">
+		<node x="113143" y="-81281" />
+		<node x="114143" y="-81281" />
+		<node x="114143" y="-80281" />
+		<node x="113143" y="-80281" />
+	</territory>
+	<npcmaker name="Monastery_Silence_103" territory="Monastery_Silence_103" spawn="ALL" maximumNpcs="5">
+		<npc id="22135" pos="113643;-80781;-1639;5651" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_104" minZ="-550" maxZ="250">
+		<node x="114164" y="-80636" />
+		<node x="115164" y="-80636" />
+		<node x="115164" y="-79636" />
+		<node x="114164" y="-79636" />
+	</territory>
+	<npcmaker name="Monastery_Silence_104" territory="Monastery_Silence_104" spawn="ALL" maximumNpcs="1">
+		<npc id="22134" pos="114664;-80136;-50;53468" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_105" minZ="-550" maxZ="250">
+		<node x="114413" y="-80107" />
+		<node x="115413" y="-80107" />
+		<node x="115413" y="-79107" />
+		<node x="114413" y="-79107" />
+	</territory>
+	<npcmaker name="Monastery_Silence_105" territory="Monastery_Silence_105" spawn="ALL" maximumNpcs="1">
+		<npc id="22134" pos="114913;-79607;-50;30085" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_106" minZ="-1070" maxZ="-270">
+		<node x="110146" y="-74072" />
+		<node x="111146" y="-74072" />
+		<node x="111146" y="-73072" />
+		<node x="110146" y="-73072" />
+	</territory>
+	<npcmaker name="Monastery_Silence_106" territory="Monastery_Silence_106" spawn="ALL" maximumNpcs="1">
+		<npc id="22134" pos="110646;-73572;-570;56777" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_107" minZ="-1091" maxZ="-291">
+		<node x="110236" y="-72941" />
+		<node x="111236" y="-72941" />
+		<node x="111236" y="-71941" />
+		<node x="110236" y="-71941" />
+	</territory>
+	<npcmaker name="Monastery_Silence_107" territory="Monastery_Silence_107" spawn="ALL" maximumNpcs="1">
+		<npc id="22134" pos="110736;-72441;-591;41614" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_108" minZ="-1070" maxZ="-270">
+		<node x="109770" y="-72379" />
+		<node x="110770" y="-72379" />
+		<node x="110770" y="-71379" />
+		<node x="109770" y="-71379" />
+	</territory>
+	<npcmaker name="Monastery_Silence_108" territory="Monastery_Silence_108" spawn="ALL" maximumNpcs="1">
+		<npc id="22134" pos="110270;-71879;-570;33065" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_109" minZ="-1591" maxZ="-791">
+		<node x="108284" y="-78868" />
+		<node x="109284" y="-78868" />
+		<node x="109284" y="-77868" />
+		<node x="108284" y="-77868" />
+	</territory>
+	<npcmaker name="Monastery_Silence_109" territory="Monastery_Silence_109" spawn="ALL" maximumNpcs="1">
+		<npc id="22134" pos="108784;-78368;-1091;32929" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_11" minZ="-2142" maxZ="-1342">
+		<node x="112313" y="-80309" />
+		<node x="113313" y="-80309" />
+		<node x="113313" y="-79309" />
+		<node x="112313" y="-79309" />
+	</territory>
+	<npcmaker name="Monastery_Silence_11" territory="Monastery_Silence_11" spawn="ALL" maximumNpcs="1">
+		<npc id="22132" pos="112813;-79809;-1642;64938" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_110" minZ="-1590" maxZ="-790">
+		<node x="109278" y="-79253" />
+		<node x="110278" y="-79253" />
+		<node x="110278" y="-78253" />
+		<node x="109278" y="-78253" />
+	</territory>
+	<npcmaker name="Monastery_Silence_110" territory="Monastery_Silence_110" spawn="ALL" maximumNpcs="1">
+		<npc id="22134" pos="109778;-78753;-1090;9438" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_111" minZ="-1590" maxZ="-790">
+		<node x="108008" y="-79241" />
+		<node x="109008" y="-79241" />
+		<node x="109008" y="-78241" />
+		<node x="108008" y="-78241" />
+	</territory>
+	<npcmaker name="Monastery_Silence_111" territory="Monastery_Silence_111" spawn="ALL" maximumNpcs="1">
+		<npc id="22134" pos="108508;-78741;-1090;56855" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_112" minZ="-2110" maxZ="-1310">
+		<node x="114561" y="-81170" />
+		<node x="115561" y="-81170" />
+		<node x="115561" y="-80170" />
+		<node x="114561" y="-80170" />
+	</territory>
+	<npcmaker name="Monastery_Silence_112" territory="Monastery_Silence_112" spawn="ALL" maximumNpcs="1">
+		<npc id="22134" pos="115061;-80670;-1610;57020" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_113" minZ="-2110" maxZ="-1310">
+		<node x="114292" y="-80056" />
+		<node x="115292" y="-80056" />
+		<node x="115292" y="-79056" />
+		<node x="114292" y="-79056" />
+	</territory>
+	<npcmaker name="Monastery_Silence_113" territory="Monastery_Silence_113" spawn="ALL" maximumNpcs="1">
+		<npc id="22134" pos="114792;-79556;-1610;36597" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_114" minZ="-2110" maxZ="-1310">
+		<node x="114519" y="-80912" />
+		<node x="115519" y="-80912" />
+		<node x="115519" y="-79912" />
+		<node x="114519" y="-79912" />
+	</territory>
+	<npcmaker name="Monastery_Silence_114" territory="Monastery_Silence_114" spawn="ALL" maximumNpcs="1">
+		<npc id="22134" pos="115019;-80412;-1610;7441" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_115" minZ="-550" maxZ="250">
+		<node x="114365" y="-81203" />
+		<node x="115365" y="-81203" />
+		<node x="115365" y="-80203" />
+		<node x="114365" y="-80203" />
+	</territory>
+	<npcmaker name="Monastery_Silence_115" territory="Monastery_Silence_115" spawn="ALL" maximumNpcs="1">
+		<npc id="22133" pos="114865;-80703;-50;53312" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_116" minZ="-550" maxZ="250">
+		<node x="114251" y="-79845" />
+		<node x="115251" y="-79845" />
+		<node x="115251" y="-78845" />
+		<node x="114251" y="-78845" />
+	</territory>
+	<npcmaker name="Monastery_Silence_116" territory="Monastery_Silence_116" spawn="ALL" maximumNpcs="1">
+		<npc id="22133" pos="114751;-79345;-50;50316" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_117" minZ="-582" maxZ="218">
+		<node x="115436" y="-77742" />
+		<node x="116436" y="-77742" />
+		<node x="116436" y="-76742" />
+		<node x="115436" y="-76742" />
+	</territory>
+	<npcmaker name="Monastery_Silence_117" territory="Monastery_Silence_117" spawn="ALL" maximumNpcs="1">
+		<npc id="22133" pos="115936;-77242;-82;64496" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_118" minZ="-603" maxZ="197">
+		<node x="115468" y="-76814" />
+		<node x="116468" y="-76814" />
+		<node x="116468" y="-75814" />
+		<node x="115468" y="-75814" />
+	</territory>
+	<npcmaker name="Monastery_Silence_118" territory="Monastery_Silence_118" spawn="ALL" maximumNpcs="1">
+		<npc id="22133" pos="115968;-76314;-103;54281" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_119" minZ="-552" maxZ="248">
+		<node x="116356" y="-78039" />
+		<node x="117356" y="-78039" />
+		<node x="117356" y="-77039" />
+		<node x="116356" y="-77039" />
+	</territory>
+	<npcmaker name="Monastery_Silence_119" territory="Monastery_Silence_119" spawn="ALL" maximumNpcs="1">
+		<npc id="22133" pos="116856;-77539;-52;47652" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_12" minZ="-2131" maxZ="-1331">
+		<node x="112249" y="-79939" />
+		<node x="113249" y="-79939" />
+		<node x="113249" y="-78939" />
+		<node x="112249" y="-78939" />
+	</territory>
+	<npcmaker name="Monastery_Silence_12" territory="Monastery_Silence_12" spawn="ALL" maximumNpcs="1">
+		<npc id="22132" pos="112749;-79439;-1631;62297" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_120" minZ="-603" maxZ="197">
+		<node x="116537" y="-77152" />
+		<node x="117537" y="-77152" />
+		<node x="117537" y="-76152" />
+		<node x="116537" y="-76152" />
+	</territory>
+	<npcmaker name="Monastery_Silence_120" territory="Monastery_Silence_120" spawn="ALL" maximumNpcs="1">
+		<npc id="22133" pos="117037;-76652;-103;41502" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_121" minZ="-1072" maxZ="-272">
+		<node x="113737" y="-72155" />
+		<node x="114737" y="-72155" />
+		<node x="114737" y="-71155" />
+		<node x="113737" y="-71155" />
+	</territory>
+	<npcmaker name="Monastery_Silence_121" territory="Monastery_Silence_121" spawn="ALL" maximumNpcs="1">
+		<npc id="22134" pos="114237;-71655;-572;28454" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_122" minZ="-1088" maxZ="-288">
+		<node x="112753" y="-72298" />
+		<node x="113753" y="-72298" />
+		<node x="113753" y="-71298" />
+		<node x="112753" y="-71298" />
+	</territory>
+	<npcmaker name="Monastery_Silence_122" territory="Monastery_Silence_122" spawn="ALL" maximumNpcs="1">
+		<npc id="22134" pos="113253;-71798;-588;30213" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_123" minZ="-550" maxZ="250">
+		<node x="116171" y="-81482" />
+		<node x="117171" y="-81482" />
+		<node x="117171" y="-80482" />
+		<node x="116171" y="-80482" />
+	</territory>
+	<npcmaker name="Monastery_Silence_123" territory="Monastery_Silence_123" spawn="ALL" maximumNpcs="1">
+		<npc id="22134" pos="116671;-80982;-50;8630" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_124" minZ="-550" maxZ="250">
+		<node x="116868" y="-81743" />
+		<node x="117868" y="-81743" />
+		<node x="117868" y="-80743" />
+		<node x="116868" y="-80743" />
+	</territory>
+	<npcmaker name="Monastery_Silence_124" territory="Monastery_Silence_124" spawn="ALL" maximumNpcs="1">
+		<npc id="22134" pos="117368;-81243;-50;2352" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_125" minZ="-571" maxZ="229">
+		<node x="115811" y="-81146" />
+		<node x="116811" y="-81146" />
+		<node x="116811" y="-80146" />
+		<node x="115811" y="-80146" />
+	</territory>
+	<npcmaker name="Monastery_Silence_125" territory="Monastery_Silence_125" spawn="ALL" maximumNpcs="1">
+		<npc id="22134" pos="116311;-80646;-71;4976" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_126" minZ="-582" maxZ="218">
+		<node x="115567" y="-76843" />
+		<node x="116567" y="-76843" />
+		<node x="116567" y="-75843" />
+		<node x="115567" y="-75843" />
+	</territory>
+	<npcmaker name="Monastery_Silence_126" territory="Monastery_Silence_126" spawn="ALL" maximumNpcs="1">
+		<npc id="22134" pos="116067;-76343;-82;10273" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_127" minZ="-578" maxZ="222">
+		<node x="115135" y="-77619" />
+		<node x="116135" y="-77619" />
+		<node x="116135" y="-76619" />
+		<node x="115135" y="-76619" />
+	</territory>
+	<npcmaker name="Monastery_Silence_127" territory="Monastery_Silence_127" spawn="ALL" maximumNpcs="1">
+		<npc id="22134" pos="115635;-77119;-78;19373" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_128" minZ="-582" maxZ="218">
+		<node x="115451" y="-78563" />
+		<node x="116451" y="-78563" />
+		<node x="116451" y="-77563" />
+		<node x="115451" y="-77563" />
+	</territory>
+	<npcmaker name="Monastery_Silence_128" territory="Monastery_Silence_128" spawn="ALL" maximumNpcs="1">
+		<npc id="22134" pos="115951;-78063;-82;50347" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_129" minZ="-603" maxZ="197">
+		<node x="116775" y="-76550" />
+		<node x="117775" y="-76550" />
+		<node x="117775" y="-75550" />
+		<node x="116775" y="-75550" />
+	</territory>
+	<npcmaker name="Monastery_Silence_129" territory="Monastery_Silence_129" spawn="ALL" maximumNpcs="1">
+		<npc id="22134" pos="117275;-76050;-103;18578" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_13" minZ="-2142" maxZ="-1342">
+		<node x="112376" y="-81536" />
+		<node x="113376" y="-81536" />
+		<node x="113376" y="-80536" />
+		<node x="112376" y="-80536" />
+	</territory>
+	<npcmaker name="Monastery_Silence_13" territory="Monastery_Silence_13" spawn="ALL" maximumNpcs="1">
+		<npc id="22132" pos="112876;-81036;-1642;58842" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_130" minZ="-582" maxZ="218">
+		<node x="116877" y="-77529" />
+		<node x="117877" y="-77529" />
+		<node x="117877" y="-76529" />
+		<node x="116877" y="-76529" />
+	</territory>
+	<npcmaker name="Monastery_Silence_130" territory="Monastery_Silence_130" spawn="ALL" maximumNpcs="1">
+		<npc id="22134" pos="117377;-77029;-82;6144" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_131" minZ="-559" maxZ="241">
+		<node x="116439" y="-77986" />
+		<node x="117439" y="-77986" />
+		<node x="117439" y="-76986" />
+		<node x="116439" y="-76986" />
+	</territory>
+	<npcmaker name="Monastery_Silence_131" territory="Monastery_Silence_131" spawn="ALL" maximumNpcs="1">
+		<npc id="22134" pos="116939;-77486;-59;55090" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_132" minZ="-550" maxZ="250">
+		<node x="116006" y="-75122" />
+		<node x="117006" y="-75122" />
+		<node x="117006" y="-74122" />
+		<node x="116006" y="-74122" />
+	</territory>
+	<npcmaker name="Monastery_Silence_132" territory="Monastery_Silence_132" spawn="ALL" maximumNpcs="1">
+		<npc id="22134" pos="116506;-74622;-50;1344" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_133" minZ="-571" maxZ="229">
+		<node x="116376" y="-74834" />
+		<node x="117376" y="-74834" />
+		<node x="117376" y="-73834" />
+		<node x="116376" y="-73834" />
+	</territory>
+	<npcmaker name="Monastery_Silence_133" territory="Monastery_Silence_133" spawn="ALL" maximumNpcs="1">
+		<npc id="22134" pos="116876;-74334;-71;25228" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_134" minZ="-571" maxZ="229">
+		<node x="116918" y="-75026" />
+		<node x="117918" y="-75026" />
+		<node x="117918" y="-74026" />
+		<node x="116918" y="-74026" />
+	</territory>
+	<npcmaker name="Monastery_Silence_134" territory="Monastery_Silence_134" spawn="ALL" maximumNpcs="1">
+		<npc id="22134" pos="117418;-74526;-71;44972" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_135" minZ="-1102" maxZ="-302">
+		<node x="113965" y="-73861" />
+		<node x="114965" y="-73861" />
+		<node x="114965" y="-72861" />
+		<node x="113965" y="-72861" />
+	</territory>
+	<npcmaker name="Monastery_Silence_135" territory="Monastery_Silence_135" spawn="ALL" maximumNpcs="1">
+		<npc id="22134" pos="114465;-73361;-602;18940" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_136" minZ="-1102" maxZ="-302">
+		<node x="111415" y="-73811" />
+		<node x="112415" y="-73811" />
+		<node x="112415" y="-72811" />
+		<node x="111415" y="-72811" />
+	</territory>
+	<npcmaker name="Monastery_Silence_136" territory="Monastery_Silence_136" spawn="ALL" maximumNpcs="1">
+		<npc id="22134" pos="111915;-73311;-602;33121" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_137" minZ="-1102" maxZ="-302">
+		<node x="111530" y="-72667" />
+		<node x="112530" y="-72667" />
+		<node x="112530" y="-71667" />
+		<node x="111530" y="-71667" />
+	</territory>
+	<npcmaker name="Monastery_Silence_137" territory="Monastery_Silence_137" spawn="ALL" maximumNpcs="1">
+		<npc id="22134" pos="112030;-72167;-602;38782" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_138" minZ="-1102" maxZ="-302">
+		<node x="111951" y="-73934" />
+		<node x="112951" y="-73934" />
+		<node x="112951" y="-72934" />
+		<node x="111951" y="-72934" />
+	</territory>
+	<npcmaker name="Monastery_Silence_138" territory="Monastery_Silence_138" spawn="ALL" maximumNpcs="1">
+		<npc id="22133" pos="112451;-73434;-602;22064" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_139" minZ="-4030" maxZ="-3230">
+		<node x="109276" y="-80874" />
+		<node x="110276" y="-80874" />
+		<node x="110276" y="-79874" />
+		<node x="109276" y="-79874" />
+	</territory>
+	<npcmaker name="Monastery_Silence_139" territory="Monastery_Silence_139" spawn="ALL" maximumNpcs="1">
+		<npc id="22125" pos="109776;-80374;-3530;34230" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_14" minZ="-2117" maxZ="-1317">
+		<node x="111343" y="-81115" />
+		<node x="112343" y="-81115" />
+		<node x="112343" y="-80115" />
+		<node x="111343" y="-80115" />
+	</territory>
+	<npcmaker name="Monastery_Silence_14" territory="Monastery_Silence_14" spawn="ALL" maximumNpcs="1">
+		<npc id="22132" pos="111843;-80615;-1617;1830" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_140" minZ="-3598" maxZ="-2798">
+		<node x="118585" y="-83482" />
+		<node x="119585" y="-83482" />
+		<node x="119585" y="-82482" />
+		<node x="118585" y="-82482" />
+	</territory>
+	<npcmaker name="Monastery_Silence_140" territory="Monastery_Silence_140" spawn="ALL" maximumNpcs="1">
+		<npc id="22124" pos="119085;-82982;-3098;22922" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_141" minZ="-3598" maxZ="-2798">
+		<node x="118512" y="-84233" />
+		<node x="119512" y="-84233" />
+		<node x="119512" y="-83233" />
+		<node x="118512" y="-83233" />
+	</territory>
+	<npcmaker name="Monastery_Silence_141" territory="Monastery_Silence_141" spawn="ALL" maximumNpcs="1">
+		<npc id="22124" pos="119012;-83733;-3098;37308" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_142" minZ="-3902" maxZ="-3102">
+		<node x="110763" y="-85445" />
+		<node x="111763" y="-85445" />
+		<node x="111763" y="-84445" />
+		<node x="110763" y="-84445" />
+	</territory>
+	<npcmaker name="Monastery_Silence_142" territory="Monastery_Silence_142" spawn="ALL" maximumNpcs="1">
+		<npc id="22124" pos="111263;-84945;-3402;41881" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_143" minZ="-3902" maxZ="-3102">
+		<node x="110044" y="-85483" />
+		<node x="111044" y="-85483" />
+		<node x="111044" y="-84483" />
+		<node x="110044" y="-84483" />
+	</territory>
+	<npcmaker name="Monastery_Silence_143" territory="Monastery_Silence_143" spawn="ALL" maximumNpcs="1">
+		<npc id="22124" pos="110544;-84983;-3402;1436" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_144" minZ="-3902" maxZ="-3102">
+		<node x="109536" y="-85664" />
+		<node x="110536" y="-85664" />
+		<node x="110536" y="-84664" />
+		<node x="109536" y="-84664" />
+	</territory>
+	<npcmaker name="Monastery_Silence_144" territory="Monastery_Silence_144" spawn="ALL" maximumNpcs="1">
+		<npc id="22124" pos="110036;-85164;-3402;9790" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_145" minZ="-3902" maxZ="-3102">
+		<node x="109769" y="-85982" />
+		<node x="110769" y="-85982" />
+		<node x="110769" y="-84982" />
+		<node x="109769" y="-84982" />
+	</territory>
+	<npcmaker name="Monastery_Silence_145" territory="Monastery_Silence_145" spawn="ALL" maximumNpcs="1">
+		<npc id="22124" pos="110269;-85482;-3402;25022" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_146" minZ="-3902" maxZ="-3102">
+		<node x="109532" y="-84542" />
+		<node x="110532" y="-84542" />
+		<node x="110532" y="-83542" />
+		<node x="109532" y="-83542" />
+	</territory>
+	<npcmaker name="Monastery_Silence_146" territory="Monastery_Silence_146" spawn="ALL" maximumNpcs="1">
+		<npc id="22124" pos="110032;-84042;-3402;42627" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_147" minZ="-3902" maxZ="-3102">
+		<node x="109335" y="-84685" />
+		<node x="110335" y="-84685" />
+		<node x="110335" y="-83685" />
+		<node x="109335" y="-83685" />
+	</territory>
+	<npcmaker name="Monastery_Silence_147" territory="Monastery_Silence_147" spawn="ALL" maximumNpcs="1">
+		<npc id="22124" pos="109835;-84185;-3402;22825" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_148" minZ="-3902" maxZ="-3102">
+		<node x="109635" y="-84847" />
+		<node x="110635" y="-84847" />
+		<node x="110635" y="-83847" />
+		<node x="109635" y="-83847" />
+	</territory>
+	<npcmaker name="Monastery_Silence_148" territory="Monastery_Silence_148" spawn="ALL" maximumNpcs="1">
+		<npc id="22124" pos="110135;-84347;-3402;35188" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_149" minZ="-3902" maxZ="-3102">
+		<node x="109257" y="-83582" />
+		<node x="110257" y="-83582" />
+		<node x="110257" y="-82582" />
+		<node x="109257" y="-82582" />
+	</territory>
+	<npcmaker name="Monastery_Silence_149" territory="Monastery_Silence_149" spawn="ALL" maximumNpcs="1">
+		<npc id="22124" pos="109757;-83082;-3402;14070" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_15" minZ="-2121" maxZ="-1321">
+		<node x="110315" y="-81448" />
+		<node x="111315" y="-81448" />
+		<node x="111315" y="-80448" />
+		<node x="110315" y="-80448" />
+	</territory>
+	<npcmaker name="Monastery_Silence_15" territory="Monastery_Silence_15" spawn="ALL" maximumNpcs="1">
+		<npc id="22132" pos="110815;-80948;-1621;51085" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_150" minZ="-3902" maxZ="-3102">
+		<node x="109203" y="-83206" />
+		<node x="110203" y="-83206" />
+		<node x="110203" y="-82206" />
+		<node x="109203" y="-82206" />
+	</territory>
+	<npcmaker name="Monastery_Silence_150" territory="Monastery_Silence_150" spawn="ALL" maximumNpcs="1">
+		<npc id="22124" pos="109703;-82706;-3402;47953" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_151" minZ="-3902" maxZ="-3102">
+		<node x="109266" y="-82660" />
+		<node x="110266" y="-82660" />
+		<node x="110266" y="-81660" />
+		<node x="109266" y="-81660" />
+	</territory>
+	<npcmaker name="Monastery_Silence_151" territory="Monastery_Silence_151" spawn="ALL" maximumNpcs="1">
+		<npc id="22124" pos="109766;-82160;-3402;49615" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_152" minZ="-4030" maxZ="-3230">
+		<node x="109156" y="-80428" />
+		<node x="110156" y="-80428" />
+		<node x="110156" y="-79428" />
+		<node x="109156" y="-79428" />
+	</territory>
+	<npcmaker name="Monastery_Silence_152" territory="Monastery_Silence_152" spawn="ALL" maximumNpcs="1">
+		<npc id="22124" pos="109656;-79928;-3530;62123" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_153" minZ="-4030" maxZ="-3230">
+		<node x="108891" y="-80682" />
+		<node x="109891" y="-80682" />
+		<node x="109891" y="-79682" />
+		<node x="108891" y="-79682" />
+	</territory>
+	<npcmaker name="Monastery_Silence_153" territory="Monastery_Silence_153" spawn="ALL" maximumNpcs="1">
+		<npc id="22124" pos="109391;-80182;-3530;19077" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_154" minZ="-4030" maxZ="-3230">
+		<node x="109676" y="-81012" />
+		<node x="110676" y="-81012" />
+		<node x="110676" y="-80012" />
+		<node x="109676" y="-80012" />
+	</territory>
+	<npcmaker name="Monastery_Silence_154" territory="Monastery_Silence_154" spawn="ALL" maximumNpcs="1">
+		<npc id="22124" pos="110176;-80512;-3530;48340" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_155" minZ="-3902" maxZ="-3102">
+		<node x="115136" y="-81314" />
+		<node x="116136" y="-81314" />
+		<node x="116136" y="-80314" />
+		<node x="115136" y="-80314" />
+	</territory>
+	<npcmaker name="Monastery_Silence_155" territory="Monastery_Silence_155" spawn="ALL" maximumNpcs="1">
+		<npc id="22125" pos="115636;-80814;-3402;29442" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_156" minZ="-3902" maxZ="-3102">
+		<node x="115408" y="-82069" />
+		<node x="116408" y="-82069" />
+		<node x="116408" y="-81069" />
+		<node x="115408" y="-81069" />
+	</territory>
+	<npcmaker name="Monastery_Silence_156" territory="Monastery_Silence_156" spawn="ALL" maximumNpcs="1">
+		<npc id="22125" pos="115908;-81569;-3402;53974" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_157" minZ="-3902" maxZ="-3102">
+		<node x="112211" y="-82263" />
+		<node x="113211" y="-82263" />
+		<node x="113211" y="-81263" />
+		<node x="112211" y="-81263" />
+	</territory>
+	<npcmaker name="Monastery_Silence_157" territory="Monastery_Silence_157" spawn="ALL" maximumNpcs="1">
+		<npc id="22125" pos="112711;-81763;-3402;33581" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_158" minZ="-3902" maxZ="-3102">
+		<node x="112582" y="-82234" />
+		<node x="113582" y="-82234" />
+		<node x="113582" y="-81234" />
+		<node x="112582" y="-81234" />
+	</territory>
+	<npcmaker name="Monastery_Silence_158" territory="Monastery_Silence_158" spawn="ALL" maximumNpcs="1">
+		<npc id="22125" pos="113082;-81734;-3402;40960" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_159" minZ="-3902" maxZ="-3102">
+		<node x="111397" y="-84533" />
+		<node x="112397" y="-84533" />
+		<node x="112397" y="-83533" />
+		<node x="111397" y="-83533" />
+	</territory>
+	<npcmaker name="Monastery_Silence_159" territory="Monastery_Silence_159" spawn="ALL" maximumNpcs="1">
+		<npc id="22125" pos="111897;-84033;-3402;11245" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_16" minZ="-1070" maxZ="-270">
+		<node x="109884" y="-73312" />
+		<node x="110884" y="-73312" />
+		<node x="110884" y="-72312" />
+		<node x="109884" y="-72312" />
+	</territory>
+	<npcmaker name="Monastery_Silence_16" territory="Monastery_Silence_16" spawn="ALL" maximumNpcs="1">
+		<npc id="22132" pos="110384;-72812;-570;40459" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_160" minZ="-3902" maxZ="-3102">
+		<node x="111482" y="-84948" />
+		<node x="112482" y="-84948" />
+		<node x="112482" y="-83948" />
+		<node x="111482" y="-83948" />
+	</territory>
+	<npcmaker name="Monastery_Silence_160" territory="Monastery_Silence_160" spawn="ALL" maximumNpcs="1">
+		<npc id="22125" pos="111982;-84448;-3402;801" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_161" minZ="-3902" maxZ="-3102">
+		<node x="112076" y="-85107" />
+		<node x="113076" y="-85107" />
+		<node x="113076" y="-84107" />
+		<node x="112076" y="-84107" />
+	</territory>
+	<npcmaker name="Monastery_Silence_161" territory="Monastery_Silence_161" spawn="ALL" maximumNpcs="1">
+		<npc id="22125" pos="112576;-84607;-3402;24540" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_162" minZ="-3998" maxZ="-3198">
+		<node x="114235" y="-88836" />
+		<node x="115235" y="-88836" />
+		<node x="115235" y="-87836" />
+		<node x="114235" y="-87836" />
+	</territory>
+	<npcmaker name="Monastery_Silence_162" territory="Monastery_Silence_162" spawn="ALL" maximumNpcs="1">
+		<npc id="22125" pos="114735;-88336;-3498;54383" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_163" minZ="-3998" maxZ="-3198">
+		<node x="114755" y="-88846" />
+		<node x="115755" y="-88846" />
+		<node x="115755" y="-87846" />
+		<node x="114755" y="-87846" />
+	</territory>
+	<npcmaker name="Monastery_Silence_163" territory="Monastery_Silence_163" spawn="ALL" maximumNpcs="1">
+		<npc id="22125" pos="115255;-88346;-3498;42781" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_164" minZ="-3998" maxZ="-3198">
+		<node x="115499" y="-88869" />
+		<node x="116499" y="-88869" />
+		<node x="116499" y="-87869" />
+		<node x="115499" y="-87869" />
+	</territory>
+	<npcmaker name="Monastery_Silence_164" territory="Monastery_Silence_164" spawn="ALL" maximumNpcs="1">
+		<npc id="22125" pos="115999;-88369;-3498;61015" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_165" minZ="-3998" maxZ="-3198">
+		<node x="115958" y="-88834" />
+		<node x="116958" y="-88834" />
+		<node x="116958" y="-87834" />
+		<node x="115958" y="-87834" />
+	</territory>
+	<npcmaker name="Monastery_Silence_165" territory="Monastery_Silence_165" spawn="ALL" maximumNpcs="1">
+		<npc id="22125" pos="116458;-88334;-3498;43551" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_166" minZ="-4030" maxZ="-3230">
+		<node x="116606" y="-88058" />
+		<node x="117606" y="-88058" />
+		<node x="117606" y="-87058" />
+		<node x="116606" y="-87058" />
+	</territory>
+	<npcmaker name="Monastery_Silence_166" territory="Monastery_Silence_166" spawn="ALL" maximumNpcs="1">
+		<npc id="22125" pos="117106;-87558;-3530;29675" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_167" minZ="-4051" maxZ="-3251">
+		<node x="116950" y="-88279" />
+		<node x="117950" y="-88279" />
+		<node x="117950" y="-87279" />
+		<node x="116950" y="-87279" />
+	</territory>
+	<npcmaker name="Monastery_Silence_167" territory="Monastery_Silence_167" spawn="ALL" maximumNpcs="1">
+		<npc id="22125" pos="117450;-87779;-3551;54290" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_168" minZ="-3902" maxZ="-3102">
+		<node x="115144" y="-85686" />
+		<node x="116144" y="-85686" />
+		<node x="116144" y="-84686" />
+		<node x="115144" y="-84686" />
+	</territory>
+	<npcmaker name="Monastery_Silence_168" territory="Monastery_Silence_168" spawn="ALL" maximumNpcs="1">
+		<npc id="22125" pos="115644;-85186;-3402;31450" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_169" minZ="-3902" maxZ="-3102">
+		<node x="115952" y="-85781" />
+		<node x="116952" y="-85781" />
+		<node x="116952" y="-84781" />
+		<node x="115952" y="-84781" />
+	</territory>
+	<npcmaker name="Monastery_Silence_169" territory="Monastery_Silence_169" spawn="ALL" maximumNpcs="1">
+		<npc id="22125" pos="116452;-85281;-3402;55645" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_17" minZ="-1070" maxZ="-270">
+		<node x="110376" y="-73726" />
+		<node x="111376" y="-73726" />
+		<node x="111376" y="-72726" />
+		<node x="110376" y="-72726" />
+	</territory>
+	<npcmaker name="Monastery_Silence_17" territory="Monastery_Silence_17" spawn="ALL" maximumNpcs="1">
+		<npc id="22132" pos="110876;-73226;-570;10265" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_170" minZ="-3902" maxZ="-3102">
+		<node x="115520" y="-84926" />
+		<node x="116520" y="-84926" />
+		<node x="116520" y="-83926" />
+		<node x="115520" y="-83926" />
+	</territory>
+	<npcmaker name="Monastery_Silence_170" territory="Monastery_Silence_170" spawn="ALL" maximumNpcs="1">
+		<npc id="22125" pos="116020;-84426;-3402;54617" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_171" minZ="-3902" maxZ="-3102">
+		<node x="115577" y="-82834" />
+		<node x="116577" y="-82834" />
+		<node x="116577" y="-81834" />
+		<node x="115577" y="-81834" />
+	</territory>
+	<npcmaker name="Monastery_Silence_171" territory="Monastery_Silence_171" spawn="ALL" maximumNpcs="1">
+		<npc id="22125" pos="116077;-82334;-3402;18940" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_172" minZ="-3902" maxZ="-3102">
+		<node x="109789" y="-82226" />
+		<node x="110789" y="-82226" />
+		<node x="110789" y="-81226" />
+		<node x="109789" y="-81226" />
+	</territory>
+	<npcmaker name="Monastery_Silence_172" territory="Monastery_Silence_172" spawn="ALL" maximumNpcs="1">
+		<npc id="22124" pos="110289;-81726;-3402;60778" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_173" minZ="-3902" maxZ="-3102">
+		<node x="112083" y="-83303" />
+		<node x="113083" y="-83303" />
+		<node x="113083" y="-82303" />
+		<node x="112083" y="-82303" />
+	</territory>
+	<npcmaker name="Monastery_Silence_173" territory="Monastery_Silence_173" spawn="ALL" maximumNpcs="1">
+		<npc id="22124" pos="112583;-82803;-3402;65014" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_174" minZ="-3902" maxZ="-3102">
+		<node x="111631" y="-83587" />
+		<node x="112631" y="-83587" />
+		<node x="112631" y="-82587" />
+		<node x="111631" y="-82587" />
+	</territory>
+	<npcmaker name="Monastery_Silence_174" territory="Monastery_Silence_174" spawn="ALL" maximumNpcs="1">
+		<npc id="22124" pos="112131;-83087;-3402;3869" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_175" minZ="-3902" maxZ="-3102">
+		<node x="118382" y="-77297" />
+		<node x="119382" y="-77297" />
+		<node x="119382" y="-76297" />
+		<node x="118382" y="-76297" />
+	</territory>
+	<npcmaker name="Monastery_Silence_175" territory="Monastery_Silence_175" spawn="ALL" maximumNpcs="1">
+		<npc id="22124" pos="118882;-76797;-3402;52140" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_176" minZ="-3902" maxZ="-3102">
+		<node x="118734" y="-77316" />
+		<node x="119734" y="-77316" />
+		<node x="119734" y="-76316" />
+		<node x="118734" y="-76316" />
+	</territory>
+	<npcmaker name="Monastery_Silence_176" territory="Monastery_Silence_176" spawn="ALL" maximumNpcs="1">
+		<npc id="22124" pos="119234;-76816;-3402;27368" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_177" minZ="-2750" maxZ="-1950">
+		<node x="116222" y="-80440" />
+		<node x="117222" y="-80440" />
+		<node x="117222" y="-79440" />
+		<node x="116222" y="-79440" />
+	</territory>
+	<npcmaker name="Monastery_Silence_177" territory="Monastery_Silence_177" spawn="ALL" maximumNpcs="5">
+		<npc id="22123" pos="116722;-79940;-2250;53636" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_178" minZ="-2750" maxZ="-1950">
+		<node x="116097" y="-79962" />
+		<node x="117097" y="-79962" />
+		<node x="117097" y="-78962" />
+		<node x="116097" y="-78962" />
+	</territory>
+	<npcmaker name="Monastery_Silence_178" territory="Monastery_Silence_178" spawn="ALL" maximumNpcs="5">
+		<npc id="22123" pos="116597;-79462;-2250;43544" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_179" minZ="-3598" maxZ="-2798">
+		<node x="118090" y="-83795" />
+		<node x="119090" y="-83795" />
+		<node x="119090" y="-82795" />
+		<node x="118090" y="-82795" />
+	</territory>
+	<npcmaker name="Monastery_Silence_179" territory="Monastery_Silence_179" spawn="ALL" maximumNpcs="5">
+		<npc id="22123" pos="118590;-83295;-3098;52729" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_18" minZ="-1102" maxZ="-302">
+		<node x="112186" y="-72464" />
+		<node x="113186" y="-72464" />
+		<node x="113186" y="-71464" />
+		<node x="112186" y="-71464" />
+	</territory>
+	<npcmaker name="Monastery_Silence_18" territory="Monastery_Silence_18" spawn="ALL" maximumNpcs="1">
+		<npc id="22133" pos="112686;-71964;-602;6417" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_180" minZ="-3902" maxZ="-3102">
+		<node x="110522" y="-85967" />
+		<node x="111522" y="-85967" />
+		<node x="111522" y="-84967" />
+		<node x="110522" y="-84967" />
+	</territory>
+	<npcmaker name="Monastery_Silence_180" territory="Monastery_Silence_180" spawn="ALL" maximumNpcs="6">
+		<npc id="22123" pos="111022;-85467;-3402;45101" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_181" minZ="-4030" maxZ="-3230">
+		<node x="110886" y="-81025" />
+		<node x="111886" y="-81025" />
+		<node x="111886" y="-80025" />
+		<node x="110886" y="-80025" />
+	</territory>
+	<npcmaker name="Monastery_Silence_181" territory="Monastery_Silence_181" spawn="ALL" maximumNpcs="5">
+		<npc id="22123" pos="111386;-80525;-3530;37033" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_182" minZ="-4030" maxZ="-3230">
+		<node x="109341" y="-80650" />
+		<node x="110341" y="-80650" />
+		<node x="110341" y="-79650" />
+		<node x="109341" y="-79650" />
+	</territory>
+	<npcmaker name="Monastery_Silence_182" territory="Monastery_Silence_182" spawn="ALL" maximumNpcs="5">
+		<npc id="22123" pos="109841;-80150;-3530;42413" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_183" minZ="-3902" maxZ="-3102">
+		<node x="112341" y="-85393" />
+		<node x="113341" y="-85393" />
+		<node x="113341" y="-84393" />
+		<node x="112341" y="-84393" />
+	</territory>
+	<npcmaker name="Monastery_Silence_183" territory="Monastery_Silence_183" spawn="ALL" maximumNpcs="5">
+		<npc id="22123" pos="112841;-84893;-3402;13404" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_184" minZ="-3902" maxZ="-3102">
+		<node x="115411" y="-84479" />
+		<node x="116411" y="-84479" />
+		<node x="116411" y="-83479" />
+		<node x="115411" y="-83479" />
+	</territory>
+	<npcmaker name="Monastery_Silence_184" territory="Monastery_Silence_184" spawn="ALL" maximumNpcs="5">
+		<npc id="22123" pos="115911;-83979;-3402;12369" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_185" minZ="-3902" maxZ="-3102">
+		<node x="115093" y="-85450" />
+		<node x="116093" y="-85450" />
+		<node x="116093" y="-84450" />
+		<node x="115093" y="-84450" />
+	</territory>
+	<npcmaker name="Monastery_Silence_185" territory="Monastery_Silence_185" spawn="ALL" maximumNpcs="5">
+		<npc id="22123" pos="115593;-84950;-3402;12330" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_186" minZ="-3902" maxZ="-3102">
+		<node x="115554" y="-81179" />
+		<node x="116554" y="-81179" />
+		<node x="116554" y="-80179" />
+		<node x="115554" y="-80179" />
+	</territory>
+	<npcmaker name="Monastery_Silence_186" territory="Monastery_Silence_186" spawn="ALL" maximumNpcs="5">
+		<npc id="22123" pos="116054;-80679;-3402;21356" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_187" minZ="-3902" maxZ="-3102">
+		<node x="114790" y="-81900" />
+		<node x="115790" y="-81900" />
+		<node x="115790" y="-80900" />
+		<node x="114790" y="-80900" />
+	</territory>
+	<npcmaker name="Monastery_Silence_187" territory="Monastery_Silence_187" spawn="ALL" maximumNpcs="5">
+		<npc id="22123" pos="115290;-81400;-3402;18986" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_188" minZ="-3902" maxZ="-3102">
+		<node x="116593" y="-78321" />
+		<node x="117593" y="-78321" />
+		<node x="117593" y="-77321" />
+		<node x="116593" y="-77321" />
+	</territory>
+	<npcmaker name="Monastery_Silence_188" territory="Monastery_Silence_188" spawn="ALL" maximumNpcs="5">
+		<npc id="22123" pos="117093;-77821;-3402;53328" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_189" minZ="-3902" maxZ="-3102">
+		<node x="116167" y="-77835" />
+		<node x="117167" y="-77835" />
+		<node x="117167" y="-76835" />
+		<node x="116167" y="-76835" />
+	</territory>
+	<npcmaker name="Monastery_Silence_189" territory="Monastery_Silence_189" spawn="ALL" maximumNpcs="5">
+		<npc id="22123" pos="116667;-77335;-3402;28467" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_19" minZ="-1622" maxZ="-822">
+		<node x="109164" y="-76909" />
+		<node x="110164" y="-76909" />
+		<node x="110164" y="-75909" />
+		<node x="109164" y="-75909" />
+	</territory>
+	<npcmaker name="Monastery_Silence_19" territory="Monastery_Silence_19" spawn="ALL" maximumNpcs="1">
+		<npc id="22133" pos="109664;-76409;-1122;53231" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_190" minZ="-3902" maxZ="-3102">
+		<node x="118661" y="-76595" />
+		<node x="119661" y="-76595" />
+		<node x="119661" y="-75595" />
+		<node x="118661" y="-75595" />
+	</territory>
+	<npcmaker name="Monastery_Silence_190" territory="Monastery_Silence_190" spawn="ALL" maximumNpcs="1">
+		<npc id="22124" pos="119161;-76095;-3402;9480" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_191" minZ="-4030" maxZ="-3230">
+		<node x="118744" y="-79126" />
+		<node x="119744" y="-79126" />
+		<node x="119744" y="-78126" />
+		<node x="118744" y="-78126" />
+	</territory>
+	<npcmaker name="Monastery_Silence_191" territory="Monastery_Silence_191" spawn="ALL" maximumNpcs="1">
+		<npc id="22124" pos="119244;-78626;-3530;54606" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_192" minZ="-3902" maxZ="-3102">
+		<node x="112284" y="-85775" />
+		<node x="113284" y="-85775" />
+		<node x="113284" y="-84775" />
+		<node x="112284" y="-84775" />
+	</territory>
+	<npcmaker name="Monastery_Silence_192" territory="Monastery_Silence_192" spawn="ALL" maximumNpcs="1">
+		<npc id="22124" pos="112784;-85275;-3402;24864" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_193" minZ="-3902" maxZ="-3102">
+		<node x="112883" y="-87540" />
+		<node x="113883" y="-87540" />
+		<node x="113883" y="-86540" />
+		<node x="112883" y="-86540" />
+	</territory>
+	<npcmaker name="Monastery_Silence_193" territory="Monastery_Silence_193" spawn="ALL" maximumNpcs="1">
+		<npc id="22124" pos="113383;-87040;-3402;50306" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_194" minZ="-3902" maxZ="-3102">
+		<node x="112923" y="-88019" />
+		<node x="113923" y="-88019" />
+		<node x="113923" y="-87019" />
+		<node x="112923" y="-87019" />
+	</territory>
+	<npcmaker name="Monastery_Silence_194" territory="Monastery_Silence_194" spawn="ALL" maximumNpcs="1">
+		<npc id="22124" pos="113423;-87519;-3402;49524" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_195" minZ="-3902" maxZ="-3102">
+		<node x="115093" y="-85450" />
+		<node x="116093" y="-85450" />
+		<node x="116093" y="-84450" />
+		<node x="115093" y="-84450" />
+	</territory>
+	<npcmaker name="Monastery_Silence_195" territory="Monastery_Silence_195" spawn="ALL" maximumNpcs="1">
+		<npc id="22124" pos="115593;-84950;-3402;12330" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_196" minZ="-3923" maxZ="-3123">
+		<node x="115529" y="-86044" />
+		<node x="116529" y="-86044" />
+		<node x="116529" y="-85044" />
+		<node x="115529" y="-85044" />
+	</territory>
+	<npcmaker name="Monastery_Silence_196" territory="Monastery_Silence_196" spawn="ALL" maximumNpcs="1">
+		<npc id="22124" pos="116029;-85544;-3423;43229" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_197" minZ="-3902" maxZ="-3102">
+		<node x="115765" y="-84712" />
+		<node x="116765" y="-84712" />
+		<node x="116765" y="-83712" />
+		<node x="115765" y="-83712" />
+	</territory>
+	<npcmaker name="Monastery_Silence_197" territory="Monastery_Silence_197" spawn="ALL" maximumNpcs="1">
+		<npc id="22124" pos="116265;-84212;-3402;56884" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_198" minZ="-3902" maxZ="-3102">
+		<node x="115102" y="-82306" />
+		<node x="116102" y="-82306" />
+		<node x="116102" y="-81306" />
+		<node x="115102" y="-81306" />
+	</territory>
+	<npcmaker name="Monastery_Silence_198" territory="Monastery_Silence_198" spawn="ALL" maximumNpcs="1">
+		<npc id="22124" pos="115602;-81806;-3402;15201" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_199" minZ="-3923" maxZ="-3123">
+		<node x="115826" y="-82481" />
+		<node x="116826" y="-82481" />
+		<node x="116826" y="-81481" />
+		<node x="115826" y="-81481" />
+	</territory>
+	<npcmaker name="Monastery_Silence_199" territory="Monastery_Silence_199" spawn="ALL" maximumNpcs="1">
+		<npc id="22124" pos="116326;-81981;-3423;43029" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_2" minZ="-1606" maxZ="-806">
+		<node x="107969" y="-75054" />
+		<node x="108969" y="-75054" />
+		<node x="108969" y="-74054" />
+		<node x="107969" y="-74054" />
+	</territory>
+	<npcmaker name="Monastery_Silence_2" territory="Monastery_Silence_2" spawn="ALL" maximumNpcs="1">
+		<npc id="22132" pos="108469;-74554;-1106;5013" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_20" minZ="-1622" maxZ="-822">
+		<node x="109089" y="-75460" />
+		<node x="110089" y="-75460" />
+		<node x="110089" y="-74460" />
+		<node x="109089" y="-74460" />
+	</territory>
+	<npcmaker name="Monastery_Silence_20" territory="Monastery_Silence_20" spawn="ALL" maximumNpcs="1">
+		<npc id="22133" pos="109589;-74960;-1122;54460" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_200" minZ="-3902" maxZ="-3102">
+		<node x="115864" y="-81284" />
+		<node x="116864" y="-81284" />
+		<node x="116864" y="-80284" />
+		<node x="115864" y="-80284" />
+	</territory>
+	<npcmaker name="Monastery_Silence_200" territory="Monastery_Silence_200" spawn="ALL" maximumNpcs="1">
+		<npc id="22124" pos="116364;-80784;-3402;62670" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_201" minZ="-3902" maxZ="-3102">
+		<node x="114900" y="-79337" />
+		<node x="115900" y="-79337" />
+		<node x="115900" y="-78337" />
+		<node x="114900" y="-78337" />
+	</territory>
+	<npcmaker name="Monastery_Silence_201" territory="Monastery_Silence_201" spawn="ALL" maximumNpcs="1">
+		<npc id="22124" pos="115400;-78837;-3402;1334" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_202" minZ="-3902" maxZ="-3102">
+		<node x="114941" y="-78946" />
+		<node x="115941" y="-78946" />
+		<node x="115941" y="-77946" />
+		<node x="114941" y="-77946" />
+	</territory>
+	<npcmaker name="Monastery_Silence_202" territory="Monastery_Silence_202" spawn="ALL" maximumNpcs="1">
+		<npc id="22124" pos="115441;-78446;-3402;53129" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_203" minZ="-3902" maxZ="-3102">
+		<node x="115862" y="-77687" />
+		<node x="116862" y="-77687" />
+		<node x="116862" y="-76687" />
+		<node x="115862" y="-76687" />
+	</territory>
+	<npcmaker name="Monastery_Silence_203" territory="Monastery_Silence_203" spawn="ALL" maximumNpcs="1">
+		<npc id="22124" pos="116362;-77187;-3402;26719" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_204" minZ="-3902" maxZ="-3102">
+		<node x="115678" y="-78313" />
+		<node x="116678" y="-78313" />
+		<node x="116678" y="-77313" />
+		<node x="115678" y="-77313" />
+	</territory>
+	<npcmaker name="Monastery_Silence_204" territory="Monastery_Silence_204" spawn="ALL" maximumNpcs="1">
+		<npc id="22124" pos="116178;-77813;-3402;5271" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_205" minZ="-3902" maxZ="-3102">
+		<node x="116403" y="-78628" />
+		<node x="117403" y="-78628" />
+		<node x="117403" y="-77628" />
+		<node x="116403" y="-77628" />
+	</territory>
+	<npcmaker name="Monastery_Silence_205" territory="Monastery_Silence_205" spawn="ALL" maximumNpcs="1">
+		<npc id="22124" pos="116903;-78128;-3402;9490" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_206" minZ="-4030" maxZ="-3230">
+		<node x="118153" y="-79093" />
+		<node x="119153" y="-79093" />
+		<node x="119153" y="-78093" />
+		<node x="118153" y="-78093" />
+	</territory>
+	<npcmaker name="Monastery_Silence_206" territory="Monastery_Silence_206" spawn="ALL" maximumNpcs="1">
+		<npc id="22124" pos="118653;-78593;-3530;4004" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_207" minZ="-3902" maxZ="-3102">
+		<node x="118321" y="-76471" />
+		<node x="119321" y="-76471" />
+		<node x="119321" y="-75471" />
+		<node x="118321" y="-75471" />
+	</territory>
+	<npcmaker name="Monastery_Silence_207" territory="Monastery_Silence_207" spawn="ALL" maximumNpcs="6">
+		<npc id="22123" pos="118821;-75971;-3402;58941" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_208" minZ="-4030" maxZ="-3230">
+		<node x="108771" y="-80357" />
+		<node x="109771" y="-80357" />
+		<node x="109771" y="-79357" />
+		<node x="108771" y="-79357" />
+	</territory>
+	<npcmaker name="Monastery_Silence_208" territory="Monastery_Silence_208" spawn="ALL" maximumNpcs="1">
+		<npc id="22125" pos="109271;-79857;-3530;56597" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_209" minZ="-1632" maxZ="-832">
+		<node x="107636" y="-75151" />
+		<node x="108636" y="-75151" />
+		<node x="108636" y="-74151" />
+		<node x="107636" y="-74151" />
+	</territory>
+	<npcmaker name="Monastery_Silence_209" territory="Monastery_Silence_209" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="108136;-74651;-1132;17885" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_21" minZ="-1622" maxZ="-822">
+		<node x="107846" y="-75504" />
+		<node x="108846" y="-75504" />
+		<node x="108846" y="-74504" />
+		<node x="107846" y="-74504" />
+	</territory>
+	<npcmaker name="Monastery_Silence_21" territory="Monastery_Silence_21" spawn="ALL" maximumNpcs="1">
+		<npc id="22133" pos="108346;-75004;-1122;12116" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_210" minZ="-3598" maxZ="-2798">
+		<node x="118297" y="-83175" />
+		<node x="119297" y="-83175" />
+		<node x="119297" y="-82175" />
+		<node x="118297" y="-82175" />
+	</territory>
+	<npcmaker name="Monastery_Silence_210" territory="Monastery_Silence_210" spawn="ALL" maximumNpcs="1">
+		<npc id="22128" pos="118797;-82675;-3098;20247" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_211" minZ="-3902" maxZ="-3102">
+		<node x="111995" y="-83767" />
+		<node x="112995" y="-83767" />
+		<node x="112995" y="-82767" />
+		<node x="111995" y="-82767" />
+	</territory>
+	<npcmaker name="Monastery_Silence_211" territory="Monastery_Silence_211" spawn="ALL" maximumNpcs="1">
+		<npc id="22128" pos="112495;-83267;-3402;29559" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_212" minZ="-3902" maxZ="-3102">
+		<node x="112132" y="-85527" />
+		<node x="113132" y="-85527" />
+		<node x="113132" y="-84527" />
+		<node x="112132" y="-84527" />
+	</territory>
+	<npcmaker name="Monastery_Silence_212" territory="Monastery_Silence_212" spawn="ALL" maximumNpcs="1">
+		<npc id="22128" pos="112632;-85027;-3402;12389" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_213" minZ="-3902" maxZ="-3102">
+		<node x="115368" y="-86787" />
+		<node x="116368" y="-86787" />
+		<node x="116368" y="-85787" />
+		<node x="115368" y="-85787" />
+	</territory>
+	<npcmaker name="Monastery_Silence_213" territory="Monastery_Silence_213" spawn="ALL" maximumNpcs="1">
+		<npc id="22128" pos="115868;-86287;-3402;51798" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_214" minZ="-3902" maxZ="-3102">
+		<node x="114609" y="-85475" />
+		<node x="115609" y="-85475" />
+		<node x="115609" y="-84475" />
+		<node x="114609" y="-84475" />
+	</territory>
+	<npcmaker name="Monastery_Silence_214" territory="Monastery_Silence_214" spawn="ALL" maximumNpcs="1">
+		<npc id="22128" pos="115109;-84975;-3402;5325" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_215" minZ="-3923" maxZ="-3123">
+		<node x="115566" y="-81758" />
+		<node x="116566" y="-81758" />
+		<node x="116566" y="-80758" />
+		<node x="115566" y="-80758" />
+	</territory>
+	<npcmaker name="Monastery_Silence_215" territory="Monastery_Silence_215" spawn="ALL" maximumNpcs="1">
+		<npc id="22128" pos="116066;-81258;-3423;20109" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_216" minZ="-3902" maxZ="-3102">
+		<node x="115663" y="-82394" />
+		<node x="116663" y="-82394" />
+		<node x="116663" y="-81394" />
+		<node x="115663" y="-81394" />
+	</territory>
+	<npcmaker name="Monastery_Silence_216" territory="Monastery_Silence_216" spawn="ALL" maximumNpcs="1">
+		<npc id="22128" pos="116163;-81894;-3402;10635" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_217" minZ="-3902" maxZ="-3102">
+		<node x="116655" y="-77829" />
+		<node x="117655" y="-77829" />
+		<node x="117655" y="-76829" />
+		<node x="116655" y="-76829" />
+	</territory>
+	<npcmaker name="Monastery_Silence_217" territory="Monastery_Silence_217" spawn="ALL" maximumNpcs="1">
+		<npc id="22128" pos="117155;-77329;-3402;29587" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_218" minZ="-3902" maxZ="-3102">
+		<node x="118170" y="-77274" />
+		<node x="119170" y="-77274" />
+		<node x="119170" y="-76274" />
+		<node x="118170" y="-76274" />
+	</territory>
+	<npcmaker name="Monastery_Silence_218" territory="Monastery_Silence_218" spawn="ALL" maximumNpcs="1">
+		<npc id="22128" pos="118670;-76774;-3402;11759" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_219" minZ="-3902" maxZ="-3102">
+		<node x="112445" y="-83582" />
+		<node x="113445" y="-83582" />
+		<node x="113445" y="-82582" />
+		<node x="112445" y="-82582" />
+	</territory>
+	<npcmaker name="Monastery_Silence_219" territory="Monastery_Silence_219" spawn="ALL" maximumNpcs="1">
+		<npc id="22127" pos="112945;-83082;-3402;15954" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_22" minZ="-1622" maxZ="-822">
+		<node x="107839" y="-77513" />
+		<node x="108839" y="-77513" />
+		<node x="108839" y="-76513" />
+		<node x="107839" y="-76513" />
+	</territory>
+	<npcmaker name="Monastery_Silence_22" territory="Monastery_Silence_22" spawn="ALL" maximumNpcs="1">
+		<npc id="22133" pos="108339;-77013;-1122;49341" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_220" minZ="-2750" maxZ="-1950">
+		<node x="116381" y="-80963" />
+		<node x="117381" y="-80963" />
+		<node x="117381" y="-79963" />
+		<node x="116381" y="-79963" />
+	</territory>
+	<npcmaker name="Monastery_Silence_220" territory="Monastery_Silence_220" spawn="ALL" maximumNpcs="1">
+		<npc id="22126" pos="116881;-80463;-2250;57723" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_221" minZ="-3598" maxZ="-2798">
+		<node x="118269" y="-84880" />
+		<node x="119269" y="-84880" />
+		<node x="119269" y="-83880" />
+		<node x="118269" y="-83880" />
+	</territory>
+	<npcmaker name="Monastery_Silence_221" territory="Monastery_Silence_221" spawn="ALL" maximumNpcs="1">
+		<npc id="22126" pos="118769;-84380;-3098;48448" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_222" minZ="-3923" maxZ="-3123">
+		<node x="110074" y="-86262" />
+		<node x="111074" y="-86262" />
+		<node x="111074" y="-85262" />
+		<node x="110074" y="-85262" />
+	</territory>
+	<npcmaker name="Monastery_Silence_222" territory="Monastery_Silence_222" spawn="ALL" maximumNpcs="1">
+		<npc id="22126" pos="110574;-85762;-3423;44581" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_223" minZ="-3902" maxZ="-3102">
+		<node x="110376" y="-85686" />
+		<node x="111376" y="-85686" />
+		<node x="111376" y="-84686" />
+		<node x="110376" y="-84686" />
+	</territory>
+	<npcmaker name="Monastery_Silence_223" territory="Monastery_Silence_223" spawn="ALL" maximumNpcs="1">
+		<npc id="22126" pos="110876;-85186;-3402;62026" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_224" minZ="-3902" maxZ="-3102">
+		<node x="109636" y="-85449" />
+		<node x="110636" y="-85449" />
+		<node x="110636" y="-84449" />
+		<node x="109636" y="-84449" />
+	</territory>
+	<npcmaker name="Monastery_Silence_224" territory="Monastery_Silence_224" spawn="ALL" maximumNpcs="1">
+		<npc id="22126" pos="110136;-84949;-3402;49913" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_225" minZ="-2750" maxZ="-1950">
+		<node x="116004" y="-80211" />
+		<node x="117004" y="-80211" />
+		<node x="117004" y="-79211" />
+		<node x="116004" y="-79211" />
+	</territory>
+	<npcmaker name="Monastery_Silence_225" territory="Monastery_Silence_225" spawn="ALL" maximumNpcs="1">
+		<npc id="22128" pos="116504;-79711;-2250;14993" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_226" minZ="-2110" maxZ="-1310">
+		<node x="114742" y="-81631" />
+		<node x="115742" y="-81631" />
+		<node x="115742" y="-80631" />
+		<node x="114742" y="-80631" />
+	</territory>
+	<npcmaker name="Monastery_Silence_226" territory="Monastery_Silence_226" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="115242;-81131;-1610;62721" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_227" minZ="-1622" maxZ="-822">
+		<node x="107983" y="-76047" />
+		<node x="108983" y="-76047" />
+		<node x="108983" y="-75047" />
+		<node x="107983" y="-75047" />
+	</territory>
+	<npcmaker name="Monastery_Silence_227" territory="Monastery_Silence_227" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="108483;-75547;-1122;15094" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_228" minZ="-1622" maxZ="-822">
+		<node x="107812" y="-77083" />
+		<node x="108812" y="-77083" />
+		<node x="108812" y="-76083" />
+		<node x="107812" y="-76083" />
+	</territory>
+	<npcmaker name="Monastery_Silence_228" territory="Monastery_Silence_228" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="108312;-76583;-1122;43175" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_229" minZ="-1643" maxZ="-843">
+		<node x="108050" y="-77604" />
+		<node x="109050" y="-77604" />
+		<node x="109050" y="-76604" />
+		<node x="108050" y="-76604" />
+	</territory>
+	<npcmaker name="Monastery_Silence_229" territory="Monastery_Silence_229" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="108550;-77104;-1143;45989" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_23" minZ="-2142" maxZ="-1342">
+		<node x="111047" y="-80169" />
+		<node x="112047" y="-80169" />
+		<node x="112047" y="-79169" />
+		<node x="111047" y="-79169" />
+	</territory>
+	<npcmaker name="Monastery_Silence_23" territory="Monastery_Silence_23" spawn="ALL" maximumNpcs="1">
+		<npc id="22133" pos="111547;-79669;-1642;31574" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_230" minZ="-1590" maxZ="-790">
+		<node x="109178" y="-78913" />
+		<node x="110178" y="-78913" />
+		<node x="110178" y="-77913" />
+		<node x="109178" y="-77913" />
+	</territory>
+	<npcmaker name="Monastery_Silence_230" territory="Monastery_Silence_230" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="109678;-78413;-1090;19532" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_231" minZ="-1590" maxZ="-790">
+		<node x="108364" y="-79394" />
+		<node x="109364" y="-79394" />
+		<node x="109364" y="-78394" />
+		<node x="108364" y="-78394" />
+	</territory>
+	<npcmaker name="Monastery_Silence_231" territory="Monastery_Silence_231" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="108864;-78894;-1090;18571" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_232" minZ="-1590" maxZ="-790">
+		<node x="107645" y="-79361" />
+		<node x="108645" y="-79361" />
+		<node x="108645" y="-78361" />
+		<node x="107645" y="-78361" />
+	</territory>
+	<npcmaker name="Monastery_Silence_232" territory="Monastery_Silence_232" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="108145;-78861;-1090;49276" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_233" minZ="-2163" maxZ="-1363">
+		<node x="110555" y="-80336" />
+		<node x="111555" y="-80336" />
+		<node x="111555" y="-79336" />
+		<node x="110555" y="-79336" />
+	</territory>
+	<npcmaker name="Monastery_Silence_233" territory="Monastery_Silence_233" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="111055;-79836;-1663;30694" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_234" minZ="-2120" maxZ="-1320">
+		<node x="113154" y="-80488" />
+		<node x="114154" y="-80488" />
+		<node x="114154" y="-79488" />
+		<node x="113154" y="-79488" />
+	</territory>
+	<npcmaker name="Monastery_Silence_234" territory="Monastery_Silence_234" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="113654;-79988;-1620;273" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_235" minZ="-2116" maxZ="-1316">
+		<node x="112952" y="-79838" />
+		<node x="113952" y="-79838" />
+		<node x="113952" y="-78838" />
+		<node x="112952" y="-78838" />
+	</territory>
+	<npcmaker name="Monastery_Silence_235" territory="Monastery_Silence_235" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="113452;-79338;-1616;1585" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_236" minZ="-2112" maxZ="-1312">
+		<node x="111531" y="-79830" />
+		<node x="112531" y="-79830" />
+		<node x="112531" y="-78830" />
+		<node x="111531" y="-78830" />
+	</territory>
+	<npcmaker name="Monastery_Silence_236" territory="Monastery_Silence_236" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="112031;-79330;-1612;512" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_237" minZ="-2118" maxZ="-1318">
+		<node x="110413" y="-81774" />
+		<node x="111413" y="-81774" />
+		<node x="111413" y="-80774" />
+		<node x="110413" y="-80774" />
+	</territory>
+	<npcmaker name="Monastery_Silence_237" territory="Monastery_Silence_237" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="110913;-81274;-1618;36502" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_238" minZ="-2142" maxZ="-1342">
+		<node x="111350" y="-81417" />
+		<node x="112350" y="-81417" />
+		<node x="112350" y="-80417" />
+		<node x="111350" y="-80417" />
+	</territory>
+	<npcmaker name="Monastery_Silence_238" territory="Monastery_Silence_238" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="111850;-80917;-1642;36405" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_239" minZ="-2138" maxZ="-1338">
+		<node x="112336" y="-81187" />
+		<node x="113336" y="-81187" />
+		<node x="113336" y="-80187" />
+		<node x="112336" y="-80187" />
+	</territory>
+	<npcmaker name="Monastery_Silence_239" territory="Monastery_Silence_239" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="112836;-80687;-1638;27333" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_24" minZ="-2142" maxZ="-1342">
+		<node x="112947" y="-80192" />
+		<node x="113947" y="-80192" />
+		<node x="113947" y="-79192" />
+		<node x="112947" y="-79192" />
+	</territory>
+	<npcmaker name="Monastery_Silence_24" territory="Monastery_Silence_24" spawn="ALL" maximumNpcs="1">
+		<npc id="22133" pos="113447;-79692;-1642;302" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_240" minZ="-2142" maxZ="-1342">
+		<node x="113032" y="-81516" />
+		<node x="114032" y="-81516" />
+		<node x="114032" y="-80516" />
+		<node x="113032" y="-80516" />
+	</territory>
+	<npcmaker name="Monastery_Silence_240" territory="Monastery_Silence_240" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="113532;-81016;-1642;63852" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_241" minZ="-2110" maxZ="-1310">
+		<node x="114690" y="-80388" />
+		<node x="115690" y="-80388" />
+		<node x="115690" y="-79388" />
+		<node x="114690" y="-79388" />
+	</territory>
+	<npcmaker name="Monastery_Silence_241" territory="Monastery_Silence_241" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="115190;-79888;-1610;41636" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_242" minZ="-3902" maxZ="-3102">
+		<node x="109543" y="-84985" />
+		<node x="110543" y="-84985" />
+		<node x="110543" y="-83985" />
+		<node x="109543" y="-83985" />
+	</territory>
+	<npcmaker name="Monastery_Silence_242" territory="Monastery_Silence_242" spawn="ALL" maximumNpcs="1">
+		<npc id="22126" pos="110043;-84485;-3402;54201" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_243" minZ="-3902" maxZ="-3102">
+		<node x="109287" y="-84467" />
+		<node x="110287" y="-84467" />
+		<node x="110287" y="-83467" />
+		<node x="109287" y="-83467" />
+	</territory>
+	<npcmaker name="Monastery_Silence_243" territory="Monastery_Silence_243" spawn="ALL" maximumNpcs="1">
+		<npc id="22126" pos="109787;-83967;-3402;11153" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_244" minZ="-3902" maxZ="-3102">
+		<node x="109280" y="-83938" />
+		<node x="110280" y="-83938" />
+		<node x="110280" y="-82938" />
+		<node x="109280" y="-82938" />
+	</territory>
+	<npcmaker name="Monastery_Silence_244" territory="Monastery_Silence_244" spawn="ALL" maximumNpcs="1">
+		<npc id="22126" pos="109780;-83438;-3402;51294" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_245" minZ="-3902" maxZ="-3102">
+		<node x="115333" y="-82720" />
+		<node x="116333" y="-82720" />
+		<node x="116333" y="-81720" />
+		<node x="115333" y="-81720" />
+	</territory>
+	<npcmaker name="Monastery_Silence_245" territory="Monastery_Silence_245" spawn="ALL" maximumNpcs="1">
+		<npc id="22126" pos="115833;-82220;-3402;43515" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_246" minZ="-3902" maxZ="-3102">
+		<node x="116114" y="-81826" />
+		<node x="117114" y="-81826" />
+		<node x="117114" y="-80826" />
+		<node x="116114" y="-80826" />
+	</territory>
+	<npcmaker name="Monastery_Silence_246" territory="Monastery_Silence_246" spawn="ALL" maximumNpcs="1">
+		<npc id="22126" pos="116614;-81326;-3402;53042" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_247" minZ="-3902" maxZ="-3102">
+		<node x="115380" y="-80615" />
+		<node x="116380" y="-80615" />
+		<node x="116380" y="-79615" />
+		<node x="115380" y="-79615" />
+	</territory>
+	<npcmaker name="Monastery_Silence_247" territory="Monastery_Silence_247" spawn="ALL" maximumNpcs="1">
+		<npc id="22126" pos="115880;-80115;-3402;16529" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_248" minZ="-3902" maxZ="-3102">
+		<node x="115033" y="-79194" />
+		<node x="116033" y="-79194" />
+		<node x="116033" y="-78194" />
+		<node x="115033" y="-78194" />
+	</territory>
+	<npcmaker name="Monastery_Silence_248" territory="Monastery_Silence_248" spawn="ALL" maximumNpcs="1">
+		<npc id="22126" pos="115533;-78694;-3402;51405" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_249" minZ="-3900" maxZ="-3100">
+		<node x="116809" y="-78307" />
+		<node x="117809" y="-78307" />
+		<node x="117809" y="-77307" />
+		<node x="116809" y="-77307" />
+	</territory>
+	<npcmaker name="Monastery_Silence_249" territory="Monastery_Silence_249" spawn="ALL" maximumNpcs="1">
+		<npc id="22126" pos="117309;-77807;-3400;1391" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_25" minZ="-2127" maxZ="-1327">
+		<node x="111551" y="-81454" />
+		<node x="112551" y="-81454" />
+		<node x="112551" y="-80454" />
+		<node x="111551" y="-80454" />
+	</territory>
+	<npcmaker name="Monastery_Silence_25" territory="Monastery_Silence_25" spawn="ALL" maximumNpcs="1">
+		<npc id="22133" pos="112051;-80954;-1627;39391" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_250" minZ="-4030" maxZ="-3230">
+		<node x="118404" y="-79429" />
+		<node x="119404" y="-79429" />
+		<node x="119404" y="-78429" />
+		<node x="118404" y="-78429" />
+	</territory>
+	<npcmaker name="Monastery_Silence_250" territory="Monastery_Silence_250" spawn="ALL" maximumNpcs="1">
+		<npc id="22126" pos="118904;-78929;-3530;17682" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_251" minZ="-4030" maxZ="-3230">
+		<node x="118432" y="-78745" />
+		<node x="119432" y="-78745" />
+		<node x="119432" y="-77745" />
+		<node x="118432" y="-77745" />
+	</territory>
+	<npcmaker name="Monastery_Silence_251" territory="Monastery_Silence_251" spawn="ALL" maximumNpcs="1">
+		<npc id="22126" pos="118932;-78245;-3530;15816" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_252" minZ="-3902" maxZ="-3102">
+		<node x="118819" y="-76869" />
+		<node x="119819" y="-76869" />
+		<node x="119819" y="-75869" />
+		<node x="118819" y="-75869" />
+	</territory>
+	<npcmaker name="Monastery_Silence_252" territory="Monastery_Silence_252" spawn="ALL" maximumNpcs="1">
+		<npc id="22126" pos="119319;-76369;-3402;2830" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_253" minZ="-3902" maxZ="-3102">
+		<node x="118124" y="-76827" />
+		<node x="119124" y="-76827" />
+		<node x="119124" y="-75827" />
+		<node x="118124" y="-75827" />
+	</territory>
+	<npcmaker name="Monastery_Silence_253" territory="Monastery_Silence_253" spawn="ALL" maximumNpcs="1">
+		<npc id="22126" pos="118624;-76327;-3402;41840" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_254" minZ="-3902" maxZ="-3102">
+		<node x="118522" y="-76354" />
+		<node x="119522" y="-76354" />
+		<node x="119522" y="-75354" />
+		<node x="118522" y="-75354" />
+	</territory>
+	<npcmaker name="Monastery_Silence_254" territory="Monastery_Silence_254" spawn="ALL" maximumNpcs="1">
+		<npc id="22126" pos="119022;-75854;-3402;53038" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_255" minZ="-2750" maxZ="-1950">
+		<node x="116078" y="-79552" />
+		<node x="117078" y="-79552" />
+		<node x="117078" y="-78552" />
+		<node x="116078" y="-78552" />
+	</territory>
+	<npcmaker name="Monastery_Silence_255" territory="Monastery_Silence_255" spawn="ALL" maximumNpcs="1">
+		<npc id="22125" pos="116578;-79052;-2250;17011" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_256" minZ="-2771" maxZ="-1971">
+		<node x="116076" y="-80578" />
+		<node x="117076" y="-80578" />
+		<node x="117076" y="-79578" />
+		<node x="116076" y="-79578" />
+	</territory>
+	<npcmaker name="Monastery_Silence_256" territory="Monastery_Silence_256" spawn="ALL" maximumNpcs="1">
+		<npc id="22125" pos="116576;-80078;-2271;18562" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_257" minZ="-4030" maxZ="-3230">
+		<node x="110567" y="-80726" />
+		<node x="111567" y="-80726" />
+		<node x="111567" y="-79726" />
+		<node x="110567" y="-79726" />
+	</territory>
+	<npcmaker name="Monastery_Silence_257" territory="Monastery_Silence_257" spawn="ALL" maximumNpcs="1">
+		<npc id="22125" pos="111067;-80226;-3530;2976" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_258" minZ="-4030" maxZ="-3230">
+		<node x="110810" y="-80534" />
+		<node x="111810" y="-80534" />
+		<node x="111810" y="-79534" />
+		<node x="110810" y="-79534" />
+	</territory>
+	<npcmaker name="Monastery_Silence_258" territory="Monastery_Silence_258" spawn="ALL" maximumNpcs="1">
+		<npc id="22125" pos="111310;-80034;-3530;58555" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_259" minZ="-4030" maxZ="-3230">
+		<node x="111062" y="-80806" />
+		<node x="112062" y="-80806" />
+		<node x="112062" y="-79806" />
+		<node x="111062" y="-79806" />
+	</territory>
+	<npcmaker name="Monastery_Silence_259" territory="Monastery_Silence_259" spawn="ALL" maximumNpcs="1">
+		<npc id="22125" pos="111562;-80306;-3530;42569" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_26" minZ="-2129" maxZ="-1329">
+		<node x="112704" y="-81723" />
+		<node x="113704" y="-81723" />
+		<node x="113704" y="-80723" />
+		<node x="112704" y="-80723" />
+	</territory>
+	<npcmaker name="Monastery_Silence_26" territory="Monastery_Silence_26" spawn="ALL" maximumNpcs="1">
+		<npc id="22133" pos="113204;-81223;-1629;60543" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_260" minZ="-3902" maxZ="-3102">
+		<node x="115431" y="-84079" />
+		<node x="116431" y="-84079" />
+		<node x="116431" y="-83079" />
+		<node x="115431" y="-83079" />
+	</territory>
+	<npcmaker name="Monastery_Silence_260" territory="Monastery_Silence_260" spawn="ALL" maximumNpcs="1">
+		<npc id="22126" pos="115931;-83579;-3402;15265" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_261" minZ="-3900" maxZ="-3100">
+		<node x="115926" y="-85371" />
+		<node x="116926" y="-85371" />
+		<node x="116926" y="-84371" />
+		<node x="115926" y="-84371" />
+	</territory>
+	<npcmaker name="Monastery_Silence_261" territory="Monastery_Silence_261" spawn="ALL" maximumNpcs="1">
+		<npc id="22126" pos="116426;-84871;-3400;51737" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_262" minZ="-4030" maxZ="-3230">
+		<node x="110603" y="-81013" />
+		<node x="111603" y="-81013" />
+		<node x="111603" y="-80013" />
+		<node x="110603" y="-80013" />
+	</territory>
+	<npcmaker name="Monastery_Silence_262" territory="Monastery_Silence_262" spawn="ALL" maximumNpcs="1">
+		<npc id="22126" pos="111103;-80513;-3530;50453" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_263" minZ="-4030" maxZ="-3230">
+		<node x="111115" y="-80505" />
+		<node x="112115" y="-80505" />
+		<node x="112115" y="-79505" />
+		<node x="111115" y="-79505" />
+	</territory>
+	<npcmaker name="Monastery_Silence_263" territory="Monastery_Silence_263" spawn="ALL" maximumNpcs="1">
+		<npc id="22126" pos="111615;-80005;-3530;40024" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_264" minZ="-4030" maxZ="-3230">
+		<node x="110885" y="-81256" />
+		<node x="111885" y="-81256" />
+		<node x="111885" y="-80256" />
+		<node x="110885" y="-80256" />
+	</territory>
+	<npcmaker name="Monastery_Silence_264" territory="Monastery_Silence_264" spawn="ALL" maximumNpcs="1">
+		<npc id="22126" pos="111385;-80756;-3530;49152" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_265" minZ="-3902" maxZ="-3102">
+		<node x="110921" y="-82225" />
+		<node x="111921" y="-82225" />
+		<node x="111921" y="-81225" />
+		<node x="110921" y="-81225" />
+	</territory>
+	<npcmaker name="Monastery_Silence_265" territory="Monastery_Silence_265" spawn="ALL" maximumNpcs="1">
+		<npc id="22126" pos="111421;-81725;-3402;38643" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_266" minZ="-3902" maxZ="-3102">
+		<node x="112538" y="-82550" />
+		<node x="113538" y="-82550" />
+		<node x="113538" y="-81550" />
+		<node x="112538" y="-81550" />
+	</territory>
+	<npcmaker name="Monastery_Silence_266" territory="Monastery_Silence_266" spawn="ALL" maximumNpcs="1">
+		<npc id="22126" pos="113038;-82050;-3402;51860" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_267" minZ="-3923" maxZ="-3123">
+		<node x="112519" y="-83264" />
+		<node x="113519" y="-83264" />
+		<node x="113519" y="-82264" />
+		<node x="112519" y="-82264" />
+	</territory>
+	<npcmaker name="Monastery_Silence_267" territory="Monastery_Silence_267" spawn="ALL" maximumNpcs="1">
+		<npc id="22126" pos="113019;-82764;-3423;12692" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_268" minZ="-3902" maxZ="-3102">
+		<node x="111453" y="-84028" />
+		<node x="112453" y="-84028" />
+		<node x="112453" y="-83028" />
+		<node x="111453" y="-83028" />
+	</territory>
+	<npcmaker name="Monastery_Silence_268" territory="Monastery_Silence_268" spawn="ALL" maximumNpcs="1">
+		<npc id="22126" pos="111953;-83528;-3402;45114" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_269" minZ="-3902" maxZ="-3102">
+		<node x="111215" y="-84872" />
+		<node x="112215" y="-84872" />
+		<node x="112215" y="-83872" />
+		<node x="111215" y="-83872" />
+	</territory>
+	<npcmaker name="Monastery_Silence_269" territory="Monastery_Silence_269" spawn="ALL" maximumNpcs="1">
+		<npc id="22126" pos="111715;-84372;-3402;9522" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_27" minZ="-550" maxZ="250">
+		<node x="116584" y="-81277" />
+		<node x="117584" y="-81277" />
+		<node x="117584" y="-80277" />
+		<node x="116584" y="-80277" />
+	</territory>
+	<npcmaker name="Monastery_Silence_27" territory="Monastery_Silence_27" spawn="ALL" maximumNpcs="1">
+		<npc id="22132" pos="117084;-80777;-50;1982" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_270" minZ="-3902" maxZ="-3102">
+		<node x="112701" y="-86040" />
+		<node x="113701" y="-86040" />
+		<node x="113701" y="-85040" />
+		<node x="112701" y="-85040" />
+	</territory>
+	<npcmaker name="Monastery_Silence_270" territory="Monastery_Silence_270" spawn="ALL" maximumNpcs="1">
+		<npc id="22126" pos="113201;-85540;-3402;63581" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_271" minZ="-3902" maxZ="-3102">
+		<node x="113099" y="-87708" />
+		<node x="114099" y="-87708" />
+		<node x="114099" y="-86708" />
+		<node x="113099" y="-86708" />
+	</territory>
+	<npcmaker name="Monastery_Silence_271" territory="Monastery_Silence_271" spawn="ALL" maximumNpcs="1">
+		<npc id="22126" pos="113599;-87208;-3402;22186" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_272" minZ="-3996" maxZ="-3196">
+		<node x="115755" y="-89848" />
+		<node x="116755" y="-89848" />
+		<node x="116755" y="-88848" />
+		<node x="115755" y="-88848" />
+	</territory>
+	<npcmaker name="Monastery_Silence_272" territory="Monastery_Silence_272" spawn="ALL" maximumNpcs="1">
+		<npc id="22126" pos="116255;-89348;-3496;7225" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_273" minZ="-3998" maxZ="-3198">
+		<node x="114861" y="-89850" />
+		<node x="115861" y="-89850" />
+		<node x="115861" y="-88850" />
+		<node x="114861" y="-88850" />
+	</territory>
+	<npcmaker name="Monastery_Silence_273" territory="Monastery_Silence_273" spawn="ALL" maximumNpcs="1">
+		<npc id="22126" pos="115361;-89350;-3498;27132" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_274" minZ="-3998" maxZ="-3198">
+		<node x="113895" y="-89798" />
+		<node x="114895" y="-89798" />
+		<node x="114895" y="-88798" />
+		<node x="113895" y="-88798" />
+	</territory>
+	<npcmaker name="Monastery_Silence_274" territory="Monastery_Silence_274" spawn="ALL" maximumNpcs="1">
+		<npc id="22126" pos="114395;-89298;-3498;18107" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_275" minZ="-4028" maxZ="-3228">
+		<node x="116797" y="-87994" />
+		<node x="117797" y="-87994" />
+		<node x="117797" y="-86994" />
+		<node x="116797" y="-86994" />
+	</territory>
+	<npcmaker name="Monastery_Silence_275" territory="Monastery_Silence_275" spawn="ALL" maximumNpcs="1">
+		<npc id="22126" pos="117297;-87494;-3528;387" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_276" minZ="-3902" maxZ="-3102">
+		<node x="115037" y="-85924" />
+		<node x="116037" y="-85924" />
+		<node x="116037" y="-84924" />
+		<node x="115037" y="-84924" />
+	</territory>
+	<npcmaker name="Monastery_Silence_276" territory="Monastery_Silence_276" spawn="ALL" maximumNpcs="1">
+		<npc id="22126" pos="115537;-85424;-3402;61153" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_277" minZ="-4030" maxZ="-3230">
+		<node x="109482" y="-80463" />
+		<node x="110482" y="-80463" />
+		<node x="110482" y="-79463" />
+		<node x="109482" y="-79463" />
+	</territory>
+	<npcmaker name="Monastery_Silence_277" territory="Monastery_Silence_277" spawn="ALL" maximumNpcs="1">
+		<npc id="22125" pos="109982;-79963;-3530;56333" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_278" minZ="-567" maxZ="-247">
+		<node x="114572" y="-70948" />
+		<node x="114772" y="-70948" />
+		<node x="114772" y="-70748" />
+		<node x="114572" y="-70748" />
+	</territory>
+	<npcmaker name="Monastery_Silence_278" territory="Monastery_Silence_278" spawn="ALL" maximumNpcs="1">
+		<npc id="32008" pos="114672;-70848;-547;49152" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_279" minZ="-914" maxZ="1086">
+		<node x="112600" y="-76712" />
+		<node x="112600" y="-76312" />
+		<node x="113000" y="-76312" />
+		<node x="113000" y="-76712" />
+	</territory>
+	<npcmaker name="Monastery_Silence_279" territory="Monastery_Silence_279" spawn="ALL" maximumNpcs="1">
+		<npc id="32028" pos="112800;-76512;86;49152" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_28" minZ="-550" maxZ="250">
+		<node x="116380" y="-81698" />
+		<node x="117380" y="-81698" />
+		<node x="117380" y="-80698" />
+		<node x="116380" y="-80698" />
+	</territory>
+	<npcmaker name="Monastery_Silence_28" territory="Monastery_Silence_28" spawn="ALL" maximumNpcs="1">
+		<npc id="22132" pos="116880;-81198;-50;63777" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_29" minZ="-550" maxZ="250">
+		<node x="115352" y="-81446" />
+		<node x="116352" y="-81446" />
+		<node x="116352" y="-80446" />
+		<node x="115352" y="-80446" />
+	</territory>
+	<npcmaker name="Monastery_Silence_29" territory="Monastery_Silence_29" spawn="ALL" maximumNpcs="1">
+		<npc id="22132" pos="115852;-80946;-50;21324" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_3" minZ="-1602" maxZ="-802">
+		<node x="108834" y="-77607" />
+		<node x="109834" y="-77607" />
+		<node x="109834" y="-76607" />
+		<node x="108834" y="-76607" />
+	</territory>
+	<npcmaker name="Monastery_Silence_3" territory="Monastery_Silence_3" spawn="ALL" maximumNpcs="1">
+		<npc id="22132" pos="109334;-77107;-1102;48284" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_30" minZ="-550" maxZ="250">
+		<node x="115446" y="-75148" />
+		<node x="116446" y="-75148" />
+		<node x="116446" y="-74148" />
+		<node x="115446" y="-74148" />
+	</territory>
+	<npcmaker name="Monastery_Silence_30" territory="Monastery_Silence_30" spawn="ALL" maximumNpcs="1">
+		<npc id="22132" pos="115946;-74648;-50;59524" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_31" minZ="-571" maxZ="229">
+		<node x="115937" y="-74532" />
+		<node x="116937" y="-74532" />
+		<node x="116937" y="-73532" />
+		<node x="115937" y="-73532" />
+	</territory>
+	<npcmaker name="Monastery_Silence_31" territory="Monastery_Silence_31" spawn="ALL" maximumNpcs="1">
+		<npc id="22132" pos="116437;-74032;-71;29689" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_32" minZ="-550" maxZ="250">
+		<node x="116946" y="-74515" />
+		<node x="117946" y="-74515" />
+		<node x="117946" y="-73515" />
+		<node x="116946" y="-73515" />
+	</territory>
+	<npcmaker name="Monastery_Silence_32" territory="Monastery_Silence_32" spawn="ALL" maximumNpcs="1">
+		<npc id="22132" pos="117446;-74015;-50;1723" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_33" minZ="-1102" maxZ="-302">
+		<node x="112644" y="-72697" />
+		<node x="113644" y="-72697" />
+		<node x="113644" y="-71697" />
+		<node x="112644" y="-71697" />
+	</territory>
+	<npcmaker name="Monastery_Silence_33" territory="Monastery_Silence_33" spawn="ALL" maximumNpcs="1">
+		<npc id="22133" pos="113144;-72197;-602;61500" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_34" minZ="-2110" maxZ="-1310">
+		<node x="114204" y="-80846" />
+		<node x="115204" y="-80846" />
+		<node x="115204" y="-79846" />
+		<node x="114204" y="-79846" />
+	</territory>
+	<npcmaker name="Monastery_Silence_34" territory="Monastery_Silence_34" spawn="ALL" maximumNpcs="1">
+		<npc id="22132" pos="114704;-80346;-1610;44542" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_35" minZ="-2110" maxZ="-1310">
+		<node x="114758" y="-80016" />
+		<node x="115758" y="-80016" />
+		<node x="115758" y="-79016" />
+		<node x="114758" y="-79016" />
+	</territory>
+	<npcmaker name="Monastery_Silence_35" territory="Monastery_Silence_35" spawn="ALL" maximumNpcs="1">
+		<npc id="22132" pos="115258;-79516;-1610;36935" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_36" minZ="-550" maxZ="250">
+		<node x="116680" y="-75114" />
+		<node x="117680" y="-75114" />
+		<node x="117680" y="-74114" />
+		<node x="116680" y="-74114" />
+	</territory>
+	<npcmaker name="Monastery_Silence_36" territory="Monastery_Silence_36" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="117180;-74614;-50;36462" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_37" minZ="-1078" maxZ="-278">
+		<node x="114054" y="-73525" />
+		<node x="115054" y="-73525" />
+		<node x="115054" y="-72525" />
+		<node x="114054" y="-72525" />
+	</territory>
+	<npcmaker name="Monastery_Silence_37" territory="Monastery_Silence_37" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="114554;-73025;-578;20353" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_38" minZ="-1085" maxZ="-285">
+		<node x="113752" y="-74124" />
+		<node x="114752" y="-74124" />
+		<node x="114752" y="-73124" />
+		<node x="113752" y="-73124" />
+	</territory>
+	<npcmaker name="Monastery_Silence_38" territory="Monastery_Silence_38" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="114252;-73624;-585;31901" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_39" minZ="-1096" maxZ="-296">
+		<node x="111835" y="-74069" />
+		<node x="112835" y="-74069" />
+		<node x="112835" y="-73069" />
+		<node x="111835" y="-73069" />
+	</territory>
+	<npcmaker name="Monastery_Silence_39" territory="Monastery_Silence_39" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="112335;-73569;-596;39869" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_4" minZ="-1622" maxZ="-822">
+		<node x="109074" y="-77083" />
+		<node x="110074" y="-77083" />
+		<node x="110074" y="-76083" />
+		<node x="109074" y="-76083" />
+	</territory>
+	<npcmaker name="Monastery_Silence_4" territory="Monastery_Silence_4" spawn="ALL" maximumNpcs="1">
+		<npc id="22132" pos="109574;-76583;-1122;43774" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_40" minZ="-1102" maxZ="-302">
+		<node x="111805" y="-73666" />
+		<node x="112805" y="-73666" />
+		<node x="112805" y="-72666" />
+		<node x="111805" y="-72666" />
+	</territory>
+	<npcmaker name="Monastery_Silence_40" territory="Monastery_Silence_40" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="112305;-73166;-602;34452" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_41" minZ="-1076" maxZ="-276">
+		<node x="112093" y="-72237" />
+		<node x="113093" y="-72237" />
+		<node x="113093" y="-71237" />
+		<node x="112093" y="-71237" />
+	</territory>
+	<npcmaker name="Monastery_Silence_41" territory="Monastery_Silence_41" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="112593;-71737;-576;27030" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_42" minZ="-1083" maxZ="-283">
+		<node x="112954" y="-72859" />
+		<node x="113954" y="-72859" />
+		<node x="113954" y="-71859" />
+		<node x="112954" y="-71859" />
+	</territory>
+	<npcmaker name="Monastery_Silence_42" territory="Monastery_Silence_42" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="113454;-72359;-583;36469" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_43" minZ="-1102" maxZ="-302">
+		<node x="113571" y="-72609" />
+		<node x="114571" y="-72609" />
+		<node x="114571" y="-71609" />
+		<node x="113571" y="-71609" />
+	</territory>
+	<npcmaker name="Monastery_Silence_43" territory="Monastery_Silence_43" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="114071;-72109;-602;45954" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_44" minZ="-1075" maxZ="-275">
+		<node x="114279" y="-72315" />
+		<node x="115279" y="-72315" />
+		<node x="115279" y="-71315" />
+		<node x="114279" y="-71315" />
+	</territory>
+	<npcmaker name="Monastery_Silence_44" territory="Monastery_Silence_44" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="114779;-71815;-575;28406" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_45" minZ="-1091" maxZ="-291">
+		<node x="110426" y="-73241" />
+		<node x="111426" y="-73241" />
+		<node x="111426" y="-72241" />
+		<node x="110426" y="-72241" />
+	</territory>
+	<npcmaker name="Monastery_Silence_45" territory="Monastery_Silence_45" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="110926;-72741;-591;12588" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_46" minZ="-1070" maxZ="-270">
+		<node x="109778" y="-73882" />
+		<node x="110778" y="-73882" />
+		<node x="110778" y="-72882" />
+		<node x="109778" y="-72882" />
+	</territory>
+	<npcmaker name="Monastery_Silence_46" territory="Monastery_Silence_46" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="110278;-73382;-570;47871" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_47" minZ="-1070" maxZ="-270">
+		<node x="110404" y="-72592" />
+		<node x="111404" y="-72592" />
+		<node x="111404" y="-71592" />
+		<node x="110404" y="-71592" />
+	</territory>
+	<npcmaker name="Monastery_Silence_47" territory="Monastery_Silence_47" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="110904;-72092;-570;61049" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_48" minZ="-1592" maxZ="-792">
+		<node x="109525" y="-75585" />
+		<node x="110525" y="-75585" />
+		<node x="110525" y="-74585" />
+		<node x="109525" y="-74585" />
+	</territory>
+	<npcmaker name="Monastery_Silence_48" territory="Monastery_Silence_48" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="110025;-75085;-1092;52025" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_49" minZ="-1622" maxZ="-822">
+		<node x="108976" y="-75695" />
+		<node x="109976" y="-75695" />
+		<node x="109976" y="-74695" />
+		<node x="108976" y="-74695" />
+	</territory>
+	<npcmaker name="Monastery_Silence_49" territory="Monastery_Silence_49" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="109476;-75195;-1122;21128" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_5" minZ="-1622" maxZ="-822">
+		<node x="109200" y="-75150" />
+		<node x="110200" y="-75150" />
+		<node x="110200" y="-74150" />
+		<node x="109200" y="-74150" />
+	</territory>
+	<npcmaker name="Monastery_Silence_5" territory="Monastery_Silence_5" spawn="ALL" maximumNpcs="1">
+		<npc id="22132" pos="109700;-74650;-1122;19318" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_50" minZ="-1622" maxZ="-822">
+		<node x="109302" y="-76468" />
+		<node x="110302" y="-76468" />
+		<node x="110302" y="-75468" />
+		<node x="109302" y="-75468" />
+	</territory>
+	<npcmaker name="Monastery_Silence_50" territory="Monastery_Silence_50" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="109802;-75968;-1122;13841" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_51" minZ="-550" maxZ="250">
+		<node x="115558" y="-74564" />
+		<node x="116558" y="-74564" />
+		<node x="116558" y="-73564" />
+		<node x="115558" y="-73564" />
+	</territory>
+	<npcmaker name="Monastery_Silence_51" territory="Monastery_Silence_51" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="116058;-74064;-50;33646" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_52" minZ="-550" maxZ="250">
+		<node x="115317" y="-74852" />
+		<node x="116317" y="-74852" />
+		<node x="116317" y="-73852" />
+		<node x="115317" y="-73852" />
+	</territory>
+	<npcmaker name="Monastery_Silence_52" territory="Monastery_Silence_52" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="115817;-74352;-50;41889" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_53" minZ="-2110" maxZ="-1310">
+		<node x="114293" y="-81455" />
+		<node x="115293" y="-81455" />
+		<node x="115293" y="-80455" />
+		<node x="114293" y="-80455" />
+	</territory>
+	<npcmaker name="Monastery_Silence_53" territory="Monastery_Silence_53" spawn="ALL" maximumNpcs="1">
+		<npc id="22132" pos="114793;-80955;-1610;28158" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_54" minZ="-550" maxZ="250">
+		<node x="113868" y="-80324" />
+		<node x="114868" y="-80324" />
+		<node x="114868" y="-79324" />
+		<node x="113868" y="-79324" />
+	</territory>
+	<npcmaker name="Monastery_Silence_54" territory="Monastery_Silence_54" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="114368;-79824;-50;38356" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_55" minZ="-550" maxZ="250">
+		<node x="114520" y="-80601" />
+		<node x="115520" y="-80601" />
+		<node x="115520" y="-79601" />
+		<node x="114520" y="-79601" />
+	</territory>
+	<npcmaker name="Monastery_Silence_55" territory="Monastery_Silence_55" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="115020;-80101;-50;64133" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_56" minZ="-550" maxZ="250">
+		<node x="116969" y="-81265" />
+		<node x="117969" y="-81265" />
+		<node x="117969" y="-80265" />
+		<node x="116969" y="-80265" />
+	</territory>
+	<npcmaker name="Monastery_Silence_56" territory="Monastery_Silence_56" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="117469;-80765;-50;14212" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_57" minZ="-2110" maxZ="-1310">
+		<node x="114467" y="-80464" />
+		<node x="115467" y="-80464" />
+		<node x="115467" y="-79464" />
+		<node x="114467" y="-79464" />
+	</territory>
+	<npcmaker name="Monastery_Silence_57" territory="Monastery_Silence_57" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="114967;-79964;-1610;51432" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_58" minZ="-550" maxZ="250">
+		<node x="115971" y="-81385" />
+		<node x="116971" y="-81385" />
+		<node x="116971" y="-80385" />
+		<node x="115971" y="-80385" />
+	</territory>
+	<npcmaker name="Monastery_Silence_58" territory="Monastery_Silence_58" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="116471;-80885;-50;55305" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_59" minZ="-550" maxZ="250">
+		<node x="115388" y="-81708" />
+		<node x="116388" y="-81708" />
+		<node x="116388" y="-80708" />
+		<node x="115388" y="-80708" />
+	</territory>
+	<npcmaker name="Monastery_Silence_59" territory="Monastery_Silence_59" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="115888;-81208;-50;7247" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_6" minZ="-1091" maxZ="-291">
+		<node x="110188" y="-72326" />
+		<node x="111188" y="-72326" />
+		<node x="111188" y="-71326" />
+		<node x="110188" y="-71326" />
+	</territory>
+	<npcmaker name="Monastery_Silence_6" territory="Monastery_Silence_6" spawn="ALL" maximumNpcs="1">
+		<npc id="22132" pos="110688;-71826;-591;56005" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_60" minZ="-576" maxZ="224">
+		<node x="115243" y="-75956" />
+		<node x="116243" y="-75956" />
+		<node x="116243" y="-74956" />
+		<node x="115243" y="-74956" />
+	</territory>
+	<npcmaker name="Monastery_Silence_60" territory="Monastery_Silence_60" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="115743;-75456;-76;57419" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_61" minZ="-582" maxZ="218">
+		<node x="115667" y="-76228" />
+		<node x="116667" y="-76228" />
+		<node x="116667" y="-75228" />
+		<node x="115667" y="-75228" />
+	</territory>
+	<npcmaker name="Monastery_Silence_61" territory="Monastery_Silence_61" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="116167;-75728;-82;16703" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_62" minZ="-555" maxZ="245">
+		<node x="115160" y="-78946" />
+		<node x="116160" y="-78946" />
+		<node x="116160" y="-77946" />
+		<node x="115160" y="-77946" />
+	</territory>
+	<npcmaker name="Monastery_Silence_62" territory="Monastery_Silence_62" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="115660;-78446;-55;43707" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_63" minZ="-570" maxZ="230">
+		<node x="115656" y="-78931" />
+		<node x="116656" y="-78931" />
+		<node x="116656" y="-77931" />
+		<node x="115656" y="-77931" />
+	</territory>
+	<npcmaker name="Monastery_Silence_63" territory="Monastery_Silence_63" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="116156;-78431;-70;49579" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_64" minZ="-572" maxZ="228">
+		<node x="116449" y="-76169" />
+		<node x="117449" y="-76169" />
+		<node x="117449" y="-75169" />
+		<node x="116449" y="-75169" />
+	</territory>
+	<npcmaker name="Monastery_Silence_64" territory="Monastery_Silence_64" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="116949;-75669;-72;23767" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_65" minZ="-553" maxZ="247">
+		<node x="117140" y="-77042" />
+		<node x="118140" y="-77042" />
+		<node x="118140" y="-76042" />
+		<node x="117140" y="-76042" />
+	</territory>
+	<npcmaker name="Monastery_Silence_65" territory="Monastery_Silence_65" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="117640;-76542;-53;12074" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_66" minZ="-577" maxZ="223">
+		<node x="116996" y="-78920" />
+		<node x="117996" y="-78920" />
+		<node x="117996" y="-77920" />
+		<node x="116996" y="-77920" />
+	</territory>
+	<npcmaker name="Monastery_Silence_66" territory="Monastery_Silence_66" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="117496;-78420;-77;50323" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_67" minZ="-582" maxZ="218">
+		<node x="116796" y="-78394" />
+		<node x="117796" y="-78394" />
+		<node x="117796" y="-77394" />
+		<node x="116796" y="-77394" />
+	</territory>
+	<npcmaker name="Monastery_Silence_67" territory="Monastery_Silence_67" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="117296;-77894;-82;35022" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_68" minZ="-1622" maxZ="-822">
+		<node x="109236" y="-77700" />
+		<node x="110236" y="-77700" />
+		<node x="110236" y="-76700" />
+		<node x="109236" y="-76700" />
+	</territory>
+	<npcmaker name="Monastery_Silence_68" territory="Monastery_Silence_68" spawn="ALL" maximumNpcs="1">
+		<npc id="22129" pos="109736;-77200;-1122;50583" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_69" minZ="-1102" maxZ="-302">
+		<node x="112984" y="-73852" />
+		<node x="113984" y="-73852" />
+		<node x="113984" y="-72852" />
+		<node x="112984" y="-72852" />
+	</territory>
+	<npcmaker name="Monastery_Silence_69" territory="Monastery_Silence_69" spawn="ALL" maximumNpcs="1">
+		<npc id="22133" pos="113484;-73352;-602;44160" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_7" minZ="-1590" maxZ="-790">
+		<node x="108798" y="-78979" />
+		<node x="109798" y="-78979" />
+		<node x="109798" y="-77979" />
+		<node x="108798" y="-77979" />
+	</territory>
+	<npcmaker name="Monastery_Silence_7" territory="Monastery_Silence_7" spawn="ALL" maximumNpcs="1">
+		<npc id="22132" pos="109298;-78479;-1090;34561" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_70" minZ="-550" maxZ="250">
+		<node x="113982" y="-81287" />
+		<node x="114982" y="-81287" />
+		<node x="114982" y="-80287" />
+		<node x="113982" y="-80287" />
+	</territory>
+	<npcmaker name="Monastery_Silence_70" territory="Monastery_Silence_70" spawn="ALL" maximumNpcs="3">
+		<npc id="22135" pos="114482;-80787;-50;33991" total="1" respawnDelay="0s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_71" minZ="-1622" maxZ="-822">
+		<node x="108948" y="-77850" />
+		<node x="109948" y="-77850" />
+		<node x="109948" y="-76850" />
+		<node x="108948" y="-76850" />
+	</territory>
+	<npcmaker name="Monastery_Silence_71" territory="Monastery_Silence_71" spawn="ALL" maximumNpcs="3">
+		<npc id="22135" pos="109448;-77350;-1122;41197" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_72" minZ="-1622" maxZ="-822">
+		<node x="109332" y="-77342" />
+		<node x="110332" y="-77342" />
+		<node x="110332" y="-76342" />
+		<node x="109332" y="-76342" />
+	</territory>
+	<npcmaker name="Monastery_Silence_72" territory="Monastery_Silence_72" spawn="ALL" maximumNpcs="5">
+		<npc id="22135" pos="109832;-76842;-1122;52958" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_73" minZ="-1610" maxZ="-810">
+		<node x="108876" y="-76432" />
+		<node x="109876" y="-76432" />
+		<node x="109876" y="-75432" />
+		<node x="108876" y="-75432" />
+	</territory>
+	<npcmaker name="Monastery_Silence_73" territory="Monastery_Silence_73" spawn="ALL" maximumNpcs="5">
+		<npc id="22135" pos="109376;-75932;-1110;37751" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_74" minZ="-1622" maxZ="-822">
+		<node x="109355" y="-75942" />
+		<node x="110355" y="-75942" />
+		<node x="110355" y="-74942" />
+		<node x="109355" y="-74942" />
+	</territory>
+	<npcmaker name="Monastery_Silence_74" territory="Monastery_Silence_74" spawn="ALL" maximumNpcs="5">
+		<npc id="22135" pos="109855;-75442;-1122;54411" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_75" minZ="-1592" maxZ="-792">
+		<node x="108265" y="-76867" />
+		<node x="109265" y="-76867" />
+		<node x="109265" y="-75867" />
+		<node x="108265" y="-75867" />
+	</territory>
+	<npcmaker name="Monastery_Silence_75" territory="Monastery_Silence_75" spawn="ALL" maximumNpcs="5">
+		<npc id="22135" pos="108765;-76367;-1092;19777" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_76" minZ="-1597" maxZ="-797">
+		<node x="108171" y="-75941" />
+		<node x="109171" y="-75941" />
+		<node x="109171" y="-74941" />
+		<node x="108171" y="-74941" />
+	</territory>
+	<npcmaker name="Monastery_Silence_76" territory="Monastery_Silence_76" spawn="ALL" maximumNpcs="5">
+		<npc id="22135" pos="108671;-75441;-1097;37340" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_77" minZ="-1593" maxZ="-793">
+		<node x="107511" y="-76050" />
+		<node x="108511" y="-76050" />
+		<node x="108511" y="-75050" />
+		<node x="107511" y="-75050" />
+	</territory>
+	<npcmaker name="Monastery_Silence_77" territory="Monastery_Silence_77" spawn="ALL" maximumNpcs="5">
+		<npc id="22135" pos="108011;-75550;-1093;11548" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_78" minZ="-1602" maxZ="-802">
+		<node x="107555" y="-76928" />
+		<node x="108555" y="-76928" />
+		<node x="108555" y="-75928" />
+		<node x="107555" y="-75928" />
+	</territory>
+	<npcmaker name="Monastery_Silence_78" territory="Monastery_Silence_78" spawn="ALL" maximumNpcs="5">
+		<npc id="22135" pos="108055;-76428;-1102;51993" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_79" minZ="-2114" maxZ="-1314">
+		<node x="111266" y="-79843" />
+		<node x="112266" y="-79843" />
+		<node x="112266" y="-78843" />
+		<node x="111266" y="-78843" />
+	</territory>
+	<npcmaker name="Monastery_Silence_79" territory="Monastery_Silence_79" spawn="ALL" maximumNpcs="5">
+		<npc id="22135" pos="111766;-79343;-1614;481" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_8" minZ="-1590" maxZ="-790">
+		<node x="108889" y="-79493" />
+		<node x="109889" y="-79493" />
+		<node x="109889" y="-78493" />
+		<node x="108889" y="-78493" />
+	</territory>
+	<npcmaker name="Monastery_Silence_8" territory="Monastery_Silence_8" spawn="ALL" maximumNpcs="1">
+		<npc id="22132" pos="109389;-78993;-1090;17924" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_80" minZ="-2130" maxZ="-1330">
+		<node x="110369" y="-80168" />
+		<node x="111369" y="-80168" />
+		<node x="111369" y="-79168" />
+		<node x="110369" y="-79168" />
+	</territory>
+	<npcmaker name="Monastery_Silence_80" territory="Monastery_Silence_80" spawn="ALL" maximumNpcs="5">
+		<npc id="22135" pos="110869;-79668;-1630;32575" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_81" minZ="-2142" maxZ="-1342">
+		<node x="111675" y="-80345" />
+		<node x="112675" y="-80345" />
+		<node x="112675" y="-79345" />
+		<node x="111675" y="-79345" />
+	</territory>
+	<npcmaker name="Monastery_Silence_81" territory="Monastery_Silence_81" spawn="ALL" maximumNpcs="5">
+		<npc id="22135" pos="112175;-79845;-1642;29356" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_82" minZ="-2142" maxZ="-1342">
+		<node x="112440" y="-80428" />
+		<node x="113440" y="-80428" />
+		<node x="113440" y="-79428" />
+		<node x="112440" y="-79428" />
+	</territory>
+	<npcmaker name="Monastery_Silence_82" territory="Monastery_Silence_82" spawn="ALL" maximumNpcs="5">
+		<npc id="22135" pos="112940;-79928;-1642;41970" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_83" minZ="-2118" maxZ="-1318">
+		<node x="110518" y="-81143" />
+		<node x="111518" y="-81143" />
+		<node x="111518" y="-80143" />
+		<node x="110518" y="-80143" />
+	</territory>
+	<npcmaker name="Monastery_Silence_83" territory="Monastery_Silence_83" spawn="ALL" maximumNpcs="4">
+		<npc id="22135" pos="111018;-80643;-1618;54377" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_84" minZ="-2163" maxZ="-1363">
+		<node x="110970" y="-81635" />
+		<node x="111970" y="-81635" />
+		<node x="111970" y="-80635" />
+		<node x="110970" y="-80635" />
+	</territory>
+	<npcmaker name="Monastery_Silence_84" territory="Monastery_Silence_84" spawn="ALL" maximumNpcs="4">
+		<npc id="22135" pos="111470;-81135;-1632;35051" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_85" minZ="-2115" maxZ="-1315">
+		<node x="112579" y="-81127" />
+		<node x="113579" y="-81127" />
+		<node x="113579" y="-80127" />
+		<node x="112579" y="-80127" />
+	</territory>
+	<npcmaker name="Monastery_Silence_85" territory="Monastery_Silence_85" spawn="ALL" maximumNpcs="5">
+		<npc id="22135" pos="113079;-80627;-1615;35554" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_86" minZ="-1077" maxZ="-277">
+		<node x="111253" y="-72575" />
+		<node x="112253" y="-72575" />
+		<node x="112253" y="-71575" />
+		<node x="111253" y="-71575" />
+	</territory>
+	<npcmaker name="Monastery_Silence_86" territory="Monastery_Silence_86" spawn="ALL" maximumNpcs="4">
+		<npc id="22135" pos="111753;-72075;-577;33813" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_87" minZ="-1102" maxZ="-302">
+		<node x="111798" y="-72681" />
+		<node x="112798" y="-72681" />
+		<node x="112798" y="-71681" />
+		<node x="111798" y="-71681" />
+	</territory>
+	<npcmaker name="Monastery_Silence_87" territory="Monastery_Silence_87" spawn="ALL" maximumNpcs="5">
+		<npc id="22135" pos="112298;-72181;-602;61327" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_88" minZ="-550" maxZ="250">
+		<node x="113860" y="-80045" />
+		<node x="114860" y="-80045" />
+		<node x="114860" y="-79045" />
+		<node x="113860" y="-79045" />
+	</territory>
+	<npcmaker name="Monastery_Silence_88" territory="Monastery_Silence_88" spawn="ALL" maximumNpcs="4">
+		<npc id="22135" pos="114360;-79545;-50;43967" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_89" minZ="-582" maxZ="218">
+		<node x="115764" y="-78664" />
+		<node x="116764" y="-78664" />
+		<node x="116764" y="-77664" />
+		<node x="115764" y="-77664" />
+	</territory>
+	<npcmaker name="Monastery_Silence_89" territory="Monastery_Silence_89" spawn="ALL" maximumNpcs="4">
+		<npc id="22135" pos="116264;-78164;-82;57460" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_9" minZ="-1590" maxZ="-790">
+		<node x="107766" y="-78963" />
+		<node x="108766" y="-78963" />
+		<node x="108766" y="-77963" />
+		<node x="107766" y="-77963" />
+	</territory>
+	<npcmaker name="Monastery_Silence_9" territory="Monastery_Silence_9" spawn="ALL" maximumNpcs="1">
+		<npc id="22132" pos="108266;-78463;-1090;14440" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_90" minZ="-557" maxZ="243">
+		<node x="115142" y="-78161" />
+		<node x="116142" y="-78161" />
+		<node x="116142" y="-77161" />
+		<node x="115142" y="-77161" />
+	</territory>
+	<npcmaker name="Monastery_Silence_90" territory="Monastery_Silence_90" spawn="ALL" maximumNpcs="5">
+		<npc id="22135" pos="115642;-77661;-57;44784" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_91" minZ="-593" maxZ="207">
+		<node x="115718" y="-77465" />
+		<node x="116718" y="-77465" />
+		<node x="116718" y="-76465" />
+		<node x="115718" y="-76465" />
+	</territory>
+	<npcmaker name="Monastery_Silence_91" territory="Monastery_Silence_91" spawn="ALL" maximumNpcs="4">
+		<npc id="22135" pos="116218;-76965;-40;50534" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_92" minZ="-597" maxZ="203">
+		<node x="115235" y="-76379" />
+		<node x="116235" y="-76379" />
+		<node x="116235" y="-75379" />
+		<node x="115235" y="-75379" />
+	</territory>
+	<npcmaker name="Monastery_Silence_92" territory="Monastery_Silence_92" spawn="ALL" maximumNpcs="4">
+		<npc id="22135" pos="115735;-75879;-97;48954" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_93" minZ="-561" maxZ="239">
+		<node x="117051" y="-78338" />
+		<node x="118051" y="-78338" />
+		<node x="118051" y="-77338" />
+		<node x="117051" y="-77338" />
+	</territory>
+	<npcmaker name="Monastery_Silence_93" territory="Monastery_Silence_93" spawn="ALL" maximumNpcs="5">
+		<npc id="22135" pos="117551;-77838;-61;14152" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_94" minZ="-582" maxZ="218">
+		<node x="116709" y="-78758" />
+		<node x="117709" y="-78758" />
+		<node x="117709" y="-77758" />
+		<node x="116709" y="-77758" />
+	</territory>
+	<npcmaker name="Monastery_Silence_94" territory="Monastery_Silence_94" spawn="ALL" maximumNpcs="5">
+		<npc id="22135" pos="117209;-78258;-82;53216" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_95" minZ="-563" maxZ="237">
+		<node x="117042" y="-76642" />
+		<node x="118042" y="-76642" />
+		<node x="118042" y="-75642" />
+		<node x="117042" y="-75642" />
+	</territory>
+	<npcmaker name="Monastery_Silence_95" territory="Monastery_Silence_95" spawn="ALL" maximumNpcs="4">
+		<npc id="22135" pos="117542;-76142;-63;16384" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_96" minZ="-582" maxZ="218">
+		<node x="116771" y="-76138" />
+		<node x="117771" y="-76138" />
+		<node x="117771" y="-75138" />
+		<node x="116771" y="-75138" />
+	</territory>
+	<npcmaker name="Monastery_Silence_96" territory="Monastery_Silence_96" spawn="ALL" maximumNpcs="5">
+		<npc id="22135" pos="117271;-75638;-82;16145" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_97" minZ="-1090" maxZ="-290">
+		<node x="111525" y="-73586" />
+		<node x="112525" y="-73586" />
+		<node x="112525" y="-72586" />
+		<node x="111525" y="-72586" />
+	</territory>
+	<npcmaker name="Monastery_Silence_97" territory="Monastery_Silence_97" spawn="ALL" maximumNpcs="4">
+		<npc id="22135" pos="112025;-73086;-590;27900" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_98" minZ="-1102" maxZ="-302">
+		<node x="112533" y="-73852" />
+		<node x="113533" y="-73852" />
+		<node x="113533" y="-72852" />
+		<node x="112533" y="-72852" />
+	</territory>
+	<npcmaker name="Monastery_Silence_98" territory="Monastery_Silence_98" spawn="ALL" maximumNpcs="4">
+		<npc id="22135" pos="113033;-73352;-602;32436" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Monastery_Silence_99" minZ="-1074" maxZ="-274">
+		<node x="113493" y="-73503" />
+		<node x="114493" y="-73503" />
+		<node x="114493" y="-72503" />
+		<node x="113493" y="-72503" />
+	</territory>
+	<npcmaker name="Monastery_Silence_99" territory="Monastery_Silence_99" spawn="ALL" maximumNpcs="5">
+		<npc id="22135" pos="113993;-73003;-574;29744" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="godard01_npc2315_01" minZ="-3100" maxZ="-2900">
+		<node x="121972" y="-68272" />
+		<node x="122196" y="-68324" />
+		<node x="122236" y="-67460" />
+		<node x="122032" y="-67480" />
+	</territory>
+	<npcmaker name="godard01_npc2315_0101" territory="godard01_npc2315_01" spawn="ALL" maximumNpcs="5">
+		<npc id="31710" total="3" respawnDelay="1m"/>
+		<npc id="31711" total="1" respawnDelay="1m"/>
+		<npc id="31712" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="godard01_npc2315_02" minZ="-3180" maxZ="-2980">
+		<node x="127432" y="-70528" />
+		<node x="127632" y="-70620" />
+		<node x="127736" y="-69716" />
+		<node x="127480" y="-69708" />
+	</territory>
+	<npcmaker name="godard01_npc2315_0201" territory="godard01_npc2315_02" spawn="ALL" maximumNpcs="5">
+		<npc id="31707" total="3" respawnDelay="1m"/>
+		<npc id="31708" total="1" respawnDelay="1m"/>
+		<npc id="31709" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="rune01_npc2315_01" minZ="-3100" maxZ="-2900">
+		<node x="123612" y="-72296" />
+		<node x="123812" y="-72296" />
+		<node x="123812" y="-72096" />
+		<node x="123612" y="-72096" />
+	</territory>
+	<npcmaker name="rune01_npc2315_0101" territory="rune01_npc2315_01" spawn="ALL" maximumNpcs="1">
+		<npc id="31369" pos="123712;-72224;-3008;16000" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="rune01_npc2315_02" minZ="-3132" maxZ="-2812">
+		<node x="122426" y="-70055" />
+		<node x="122626" y="-70055" />
+		<node x="122626" y="-69855" />
+		<node x="122426" y="-69855" />
+	</territory>
+	<npcmaker name="rune01_npc2315_0201" territory="rune01_npc2315_02" spawn="ALL" maximumNpcs="1">
+		<npc id="31654" pos="122526;-69955;-3112;0" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="rune13_mb2315_01" minZ="-128" maxZ="772">
+		<node x="114221" y="-75923" />
+		<node x="113401" y="-75085" />
+		<node x="112196" y="-75073" />
+		<node x="111353" y="-75914" />
+		<node x="111360" y="-77082" />
+		<node x="112211" y="-77938" />
+		<node x="113387" y="-77948" />
+		<node x="114243" y="-77118" />
+	</territory>
+	<npcmaker name="rune13_mb2315_01m1" territory="rune13_mb2315_01" spawn="ALL" maximumNpcs="8">
+		<npc id="29096" pos="112800;-76160;10;49152" total="1" respawnDelay="15h" respawnRandom="1h" dbName="lord_of_splendor_anays" dbSaving="DEATH_TIME;PARAMETERS"/>
+	</npcmaker>
+</list>

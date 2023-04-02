@@ -1,0 +1,4929 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Shuttgart Area
+ * Pavel Ruins
+ * Archaic Laboratory
+ * Den of Evil
+ * Caron's Dungeon
+-->
+<list>
+	<!--  -->
+	<territory name="Den_of_Evil_0" minZ="-1453" maxZ="-653">
+		<node x="70662" y="-104248" />
+		<node x="71662" y="-104248" />
+		<node x="71662" y="-103248" />
+		<node x="70662" y="-103248" />
+	</territory>
+	<npcmaker name="Den_of_Evil_0" territory="Den_of_Evil_0" spawn="ALL" maximumNpcs="1">
+		<npc id="22046" pos="71162;-103748;-953;33903" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_1" minZ="-1468" maxZ="-668">
+		<node x="71362" y="-104746" />
+		<node x="72362" y="-104746" />
+		<node x="72362" y="-103746" />
+		<node x="71362" y="-103746" />
+	</territory>
+	<npcmaker name="Den_of_Evil_1" territory="Den_of_Evil_1" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="71862;-104246;-968;48756" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_10" minZ="-1564" maxZ="-764">
+		<node x="68891" y="-106453" />
+		<node x="69891" y="-106453" />
+		<node x="69891" y="-105453" />
+		<node x="68891" y="-105453" />
+	</territory>
+	<npcmaker name="Den_of_Evil_10" territory="Den_of_Evil_10" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="69391;-105953;-1064;46239" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_100" minZ="-3038" maxZ="-2238">
+		<node x="72541" y="-118924" />
+		<node x="73541" y="-118924" />
+		<node x="73541" y="-117924" />
+		<node x="72541" y="-117924" />
+	</territory>
+	<npcmaker name="Den_of_Evil_100" territory="Den_of_Evil_100" spawn="ALL" maximumNpcs="1">
+		<npc id="22046" pos="73041;-118424;-2538;12807" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_101" minZ="-3094" maxZ="-2294">
+		<node x="74655" y="-118620" />
+		<node x="75655" y="-118620" />
+		<node x="75655" y="-117620" />
+		<node x="74655" y="-117620" />
+	</territory>
+	<npcmaker name="Den_of_Evil_101" territory="Den_of_Evil_101" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="75155;-118120;-2594;5415" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_102" minZ="-3107" maxZ="-2307">
+		<node x="73316" y="-119446" />
+		<node x="74316" y="-119446" />
+		<node x="74316" y="-118446" />
+		<node x="73316" y="-118446" />
+	</territory>
+	<npcmaker name="Den_of_Evil_102" territory="Den_of_Evil_102" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="73816;-118946;-2607;37160" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_103" minZ="-3073" maxZ="-2273">
+		<node x="72921" y="-119187" />
+		<node x="73921" y="-119187" />
+		<node x="73921" y="-118187" />
+		<node x="72921" y="-118187" />
+	</territory>
+	<npcmaker name="Den_of_Evil_103" territory="Den_of_Evil_103" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="73421;-118687;-2573;32586" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_104" minZ="-3136" maxZ="-2336">
+		<node x="74131" y="-119184" />
+		<node x="75131" y="-119184" />
+		<node x="75131" y="-118184" />
+		<node x="74131" y="-118184" />
+	</territory>
+	<npcmaker name="Den_of_Evil_104" territory="Den_of_Evil_104" spawn="ALL" maximumNpcs="1">
+		<npc id="22048" pos="74631;-118684;-2636;1367" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_105" minZ="-3682" maxZ="-2882">
+		<node x="76101" y="-121904" />
+		<node x="77101" y="-121904" />
+		<node x="77101" y="-120904" />
+		<node x="76101" y="-120904" />
+	</territory>
+	<npcmaker name="Den_of_Evil_105" territory="Den_of_Evil_105" spawn="ALL" maximumNpcs="1">
+		<npc id="22046" pos="76601;-121404;-3182;50977" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_106" minZ="-3557" maxZ="-2757">
+		<node x="75993" y="-121242" />
+		<node x="76993" y="-121242" />
+		<node x="76993" y="-120242" />
+		<node x="75993" y="-120242" />
+	</territory>
+	<npcmaker name="Den_of_Evil_106" territory="Den_of_Evil_106" spawn="ALL" maximumNpcs="1">
+		<npc id="22046" pos="76493;-120742;-3057;14285" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_107" minZ="-3510" maxZ="-2710">
+		<node x="75299" y="-121573" />
+		<node x="76299" y="-121573" />
+		<node x="76299" y="-120573" />
+		<node x="75299" y="-120573" />
+	</territory>
+	<npcmaker name="Den_of_Evil_107" territory="Den_of_Evil_107" spawn="ALL" maximumNpcs="1">
+		<npc id="22046" pos="75799;-121073;-3010;52472" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_108" minZ="-3529" maxZ="-2729">
+		<node x="74868" y="-122502" />
+		<node x="75868" y="-122502" />
+		<node x="75868" y="-121502" />
+		<node x="74868" y="-121502" />
+	</territory>
+	<npcmaker name="Den_of_Evil_108" territory="Den_of_Evil_108" spawn="ALL" maximumNpcs="1">
+		<npc id="22046" pos="75368;-122002;-3029;47083" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_109" minZ="-3529" maxZ="-2729">
+		<node x="74604" y="-122622" />
+		<node x="75604" y="-122622" />
+		<node x="75604" y="-121622" />
+		<node x="74604" y="-121622" />
+	</territory>
+	<npcmaker name="Den_of_Evil_109" territory="Den_of_Evil_109" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="75104;-122122;-3029;21221" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_11" minZ="-1639" maxZ="-839">
+		<node x="68834" y="-107252" />
+		<node x="69834" y="-107252" />
+		<node x="69834" y="-106252" />
+		<node x="68834" y="-106252" />
+	</territory>
+	<npcmaker name="Den_of_Evil_11" territory="Den_of_Evil_11" spawn="ALL" maximumNpcs="1">
+		<npc id="22046" pos="69334;-106752;-1139;46360" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_110" minZ="-3529" maxZ="-2729">
+		<node x="74017" y="-121058" />
+		<node x="75017" y="-121058" />
+		<node x="75017" y="-120058" />
+		<node x="74017" y="-120058" />
+	</territory>
+	<npcmaker name="Den_of_Evil_110" territory="Den_of_Evil_110" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="74517;-120558;-3029;22076" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_111" minZ="-3529" maxZ="-2729">
+		<node x="73284" y="-120998" />
+		<node x="74284" y="-120998" />
+		<node x="74284" y="-119998" />
+		<node x="73284" y="-119998" />
+	</territory>
+	<npcmaker name="Den_of_Evil_111" territory="Den_of_Evil_111" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="73784;-120498;-3029;28426" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_112" minZ="-3529" maxZ="-2729">
+		<node x="72833" y="-121494" />
+		<node x="73833" y="-121494" />
+		<node x="73833" y="-120494" />
+		<node x="72833" y="-120494" />
+	</territory>
+	<npcmaker name="Den_of_Evil_112" territory="Den_of_Evil_112" spawn="ALL" maximumNpcs="1">
+		<npc id="22031" pos="73333;-120994;-3029;50596" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_113" minZ="-3529" maxZ="-2729">
+		<node x="73677" y="-121960" />
+		<node x="74677" y="-121960" />
+		<node x="74677" y="-120960" />
+		<node x="73677" y="-120960" />
+	</territory>
+	<npcmaker name="Den_of_Evil_113" territory="Den_of_Evil_113" spawn="ALL" maximumNpcs="1">
+		<npc id="22031" pos="74177;-121460;-3029;60013" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_114" minZ="-3529" maxZ="-2729">
+		<node x="73683" y="-122669" />
+		<node x="74683" y="-122669" />
+		<node x="74683" y="-121669" />
+		<node x="73683" y="-121669" />
+	</territory>
+	<npcmaker name="Den_of_Evil_114" territory="Den_of_Evil_114" spawn="ALL" maximumNpcs="1">
+		<npc id="22033" pos="74183;-122169;-3029;11756" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_115" minZ="-3529" maxZ="-2729">
+		<node x="73248" y="-122240" />
+		<node x="74248" y="-122240" />
+		<node x="74248" y="-121240" />
+		<node x="73248" y="-121240" />
+	</territory>
+	<npcmaker name="Den_of_Evil_115" territory="Den_of_Evil_115" spawn="ALL" maximumNpcs="1">
+		<npc id="22032" pos="73748;-121740;-3029;11255" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_116" minZ="-3529" maxZ="-2729">
+		<node x="74438" y="-122408" />
+		<node x="75438" y="-122408" />
+		<node x="75438" y="-121408" />
+		<node x="74438" y="-121408" />
+	</territory>
+	<npcmaker name="Den_of_Evil_116" territory="Den_of_Evil_116" spawn="ALL" maximumNpcs="1">
+		<npc id="22034" pos="74938;-121908;-3029;9185" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_117" minZ="-3529" maxZ="-2729">
+		<node x="74251" y="-122026" />
+		<node x="75251" y="-122026" />
+		<node x="75251" y="-121026" />
+		<node x="74251" y="-121026" />
+	</territory>
+	<npcmaker name="Den_of_Evil_117" territory="Den_of_Evil_117" spawn="ALL" maximumNpcs="1">
+		<npc id="22030" pos="74751;-121526;-3029;46414" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_118" minZ="-3529" maxZ="-2729">
+		<node x="74221" y="-122878" />
+		<node x="75221" y="-122878" />
+		<node x="75221" y="-121878" />
+		<node x="74221" y="-121878" />
+	</territory>
+	<npcmaker name="Den_of_Evil_118" territory="Den_of_Evil_118" spawn="ALL" maximumNpcs="1">
+		<npc id="22031" pos="74721;-122378;-3029;58198" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_119" minZ="-3529" maxZ="-2729">
+		<node x="73674" y="-121341" />
+		<node x="74674" y="-121341" />
+		<node x="74674" y="-120341" />
+		<node x="73674" y="-120341" />
+	</territory>
+	<npcmaker name="Den_of_Evil_119" territory="Den_of_Evil_119" spawn="ALL" maximumNpcs="1">
+		<npc id="22029" pos="74174;-120841;-3029;28959" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_12" minZ="-1639" maxZ="-839">
+		<node x="67926" y="-105803" />
+		<node x="68926" y="-105803" />
+		<node x="68926" y="-104803" />
+		<node x="67926" y="-104803" />
+	</territory>
+	<npcmaker name="Den_of_Evil_12" territory="Den_of_Evil_12" spawn="ALL" maximumNpcs="1">
+		<npc id="22049" pos="68426;-105303;-1139;38727" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_120" minZ="-3529" maxZ="-2729">
+		<node x="73084" y="-121421" />
+		<node x="74084" y="-121421" />
+		<node x="74084" y="-120421" />
+		<node x="73084" y="-120421" />
+	</territory>
+	<npcmaker name="Den_of_Evil_120" territory="Den_of_Evil_120" spawn="ALL" maximumNpcs="1">
+		<npc id="22032" pos="73584;-120921;-3029;58824" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_121" minZ="-3531" maxZ="-2731">
+		<node x="74812" y="-121566" />
+		<node x="75812" y="-121566" />
+		<node x="75812" y="-120566" />
+		<node x="74812" y="-120566" />
+	</territory>
+	<npcmaker name="Den_of_Evil_121" territory="Den_of_Evil_121" spawn="ALL" maximumNpcs="1">
+		<npc id="22029" pos="75312;-121066;-3031;57968" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_122" minZ="-3232" maxZ="-2432">
+		<node x="74281" y="-119865" />
+		<node x="75281" y="-119865" />
+		<node x="75281" y="-118865" />
+		<node x="74281" y="-118865" />
+	</territory>
+	<npcmaker name="Den_of_Evil_122" territory="Den_of_Evil_122" spawn="ALL" maximumNpcs="1">
+		<npc id="22048" pos="74781;-119365;-2732;14169" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_123" minZ="-3529" maxZ="-2729">
+		<node x="73442" y="-120682" />
+		<node x="74442" y="-120682" />
+		<node x="74442" y="-119682" />
+		<node x="73442" y="-119682" />
+	</territory>
+	<npcmaker name="Den_of_Evil_123" territory="Den_of_Evil_123" spawn="ALL" maximumNpcs="1">
+		<npc id="22048" pos="73942;-120182;-3029;37819" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_124" minZ="-3685" maxZ="-2885">
+		<node x="69611" y="-122270" />
+		<node x="70611" y="-122270" />
+		<node x="70611" y="-121270" />
+		<node x="69611" y="-121270" />
+	</territory>
+	<npcmaker name="Den_of_Evil_124" territory="Den_of_Evil_124" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="70111;-121770;-3185;46678" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_125" minZ="-3571" maxZ="-2771">
+		<node x="70308" y="-121719" />
+		<node x="71308" y="-121719" />
+		<node x="71308" y="-120719" />
+		<node x="70308" y="-120719" />
+	</territory>
+	<npcmaker name="Den_of_Evil_125" territory="Den_of_Evil_125" spawn="ALL" maximumNpcs="1">
+		<npc id="22048" pos="70808;-121219;-3071;12973" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_126" minZ="-3161" maxZ="-2361">
+		<node x="69900" y="-120496" />
+		<node x="70900" y="-120496" />
+		<node x="70900" y="-119496" />
+		<node x="69900" y="-119496" />
+	</territory>
+	<npcmaker name="Den_of_Evil_126" territory="Den_of_Evil_126" spawn="ALL" maximumNpcs="1">
+		<npc id="22045" pos="70400;-119996;-2661;8458" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_127" minZ="-3163" maxZ="-2363">
+		<node x="69205" y="-120734" />
+		<node x="70205" y="-120734" />
+		<node x="70205" y="-119734" />
+		<node x="69205" y="-119734" />
+	</territory>
+	<npcmaker name="Den_of_Evil_127" territory="Den_of_Evil_127" spawn="ALL" maximumNpcs="1">
+		<npc id="22045" pos="69705;-120234;-2663;32019" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_128" minZ="-3659" maxZ="-2859">
+		<node x="70486" y="-124670" />
+		<node x="71486" y="-124670" />
+		<node x="71486" y="-123670" />
+		<node x="70486" y="-123670" />
+	</territory>
+	<npcmaker name="Den_of_Evil_128" territory="Den_of_Evil_128" spawn="ALL" maximumNpcs="1">
+		<npc id="22045" pos="70986;-124170;-3159;6422" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_129" minZ="-3517" maxZ="-2717">
+		<node x="70774" y="-125565" />
+		<node x="71774" y="-125565" />
+		<node x="71774" y="-124565" />
+		<node x="70774" y="-124565" />
+	</territory>
+	<npcmaker name="Den_of_Evil_129" territory="Den_of_Evil_129" spawn="ALL" maximumNpcs="1">
+		<npc id="22032" pos="71274;-125065;-3017;54923" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_13" minZ="-1652" maxZ="-852">
+		<node x="68113" y="-105952" />
+		<node x="69113" y="-105952" />
+		<node x="69113" y="-104952" />
+		<node x="68113" y="-104952" />
+	</territory>
+	<npcmaker name="Den_of_Evil_13" territory="Den_of_Evil_13" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="68613;-105452;-1152;63274" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_130" minZ="-3517" maxZ="-2717">
+		<node x="69560" y="-126319" />
+		<node x="70560" y="-126319" />
+		<node x="70560" y="-125319" />
+		<node x="69560" y="-125319" />
+	</territory>
+	<npcmaker name="Den_of_Evil_130" territory="Den_of_Evil_130" spawn="ALL" maximumNpcs="1">
+		<npc id="22031" pos="70060;-125819;-3017;39095" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_131" minZ="-3517" maxZ="-2717">
+		<node x="69710" y="-126027" />
+		<node x="70710" y="-126027" />
+		<node x="70710" y="-125027" />
+		<node x="69710" y="-125027" />
+	</territory>
+	<npcmaker name="Den_of_Evil_131" territory="Den_of_Evil_131" spawn="ALL" maximumNpcs="1">
+		<npc id="22030" pos="70210;-125527;-3017;30356" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_132" minZ="-3517" maxZ="-2717">
+		<node x="69635" y="-126014" />
+		<node x="70635" y="-126014" />
+		<node x="70635" y="-125014" />
+		<node x="69635" y="-125014" />
+	</territory>
+	<npcmaker name="Den_of_Evil_132" territory="Den_of_Evil_132" spawn="ALL" maximumNpcs="1">
+		<npc id="22029" pos="70135;-125514;-3017;52252" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_133" minZ="-3517" maxZ="-2717">
+		<node x="70881" y="-126151" />
+		<node x="71881" y="-126151" />
+		<node x="71881" y="-125151" />
+		<node x="70881" y="-125151" />
+	</territory>
+	<npcmaker name="Den_of_Evil_133" territory="Den_of_Evil_133" spawn="ALL" maximumNpcs="1">
+		<npc id="22031" pos="71381;-125651;-3017;39095" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_134" minZ="-3517" maxZ="-2717">
+		<node x="70259" y="-125928" />
+		<node x="71259" y="-125928" />
+		<node x="71259" y="-124928" />
+		<node x="70259" y="-124928" />
+	</territory>
+	<npcmaker name="Den_of_Evil_134" territory="Den_of_Evil_134" spawn="ALL" maximumNpcs="1">
+		<npc id="22032" pos="70759;-125428;-3017;56034" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_135" minZ="-3517" maxZ="-2717">
+		<node x="70264" y="-126756" />
+		<node x="71264" y="-126756" />
+		<node x="71264" y="-125756" />
+		<node x="70264" y="-125756" />
+	</territory>
+	<npcmaker name="Den_of_Evil_135" territory="Den_of_Evil_135" spawn="ALL" maximumNpcs="1">
+		<npc id="22033" pos="70764;-126256;-3017;36274" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_136" minZ="-3517" maxZ="-2717">
+		<node x="70396" y="-126230" />
+		<node x="71396" y="-126230" />
+		<node x="71396" y="-125230" />
+		<node x="70396" y="-125230" />
+	</territory>
+	<npcmaker name="Den_of_Evil_136" territory="Den_of_Evil_136" spawn="ALL" maximumNpcs="1">
+		<npc id="22030" pos="70896;-125730;-3017;5200" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_137" minZ="-3517" maxZ="-2717">
+		<node x="70235" y="-125404" />
+		<node x="71235" y="-125404" />
+		<node x="71235" y="-124404" />
+		<node x="70235" y="-124404" />
+	</territory>
+	<npcmaker name="Den_of_Evil_137" territory="Den_of_Evil_137" spawn="ALL" maximumNpcs="1">
+		<npc id="22033" pos="70735;-124904;-3017;17876" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_138" minZ="-3641" maxZ="-2841">
+		<node x="71164" y="-125018" />
+		<node x="72164" y="-125018" />
+		<node x="72164" y="-124018" />
+		<node x="71164" y="-124018" />
+	</territory>
+	<npcmaker name="Den_of_Evil_138" territory="Den_of_Evil_138" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="71664;-124518;-3141;65362" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_139" minZ="-3676" maxZ="-2876">
+		<node x="71802" y="-125808" />
+		<node x="72802" y="-125808" />
+		<node x="72802" y="-124808" />
+		<node x="71802" y="-124808" />
+	</territory>
+	<npcmaker name="Den_of_Evil_139" territory="Den_of_Evil_139" spawn="ALL" maximumNpcs="1">
+		<npc id="22045" pos="72302;-125308;-3176;43161" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_14" minZ="-1558" maxZ="-758">
+		<node x="70678" y="-106288" />
+		<node x="71678" y="-106288" />
+		<node x="71678" y="-105288" />
+		<node x="70678" y="-105288" />
+	</territory>
+	<npcmaker name="Den_of_Evil_14" territory="Den_of_Evil_14" spawn="ALL" maximumNpcs="1">
+		<npc id="22046" pos="71178;-105788;-1058;1723" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_140" minZ="-3782" maxZ="-2982">
+		<node x="72131" y="-126468" />
+		<node x="73131" y="-126468" />
+		<node x="73131" y="-125468" />
+		<node x="72131" y="-125468" />
+	</territory>
+	<npcmaker name="Den_of_Evil_140" territory="Den_of_Evil_140" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="72631;-125968;-3282;56649" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_141" minZ="-3835" maxZ="-3035">
+		<node x="71412" y="-127115" />
+		<node x="72412" y="-127115" />
+		<node x="72412" y="-126115" />
+		<node x="71412" y="-126115" />
+	</territory>
+	<npcmaker name="Den_of_Evil_141" territory="Den_of_Evil_141" spawn="ALL" maximumNpcs="1">
+		<npc id="22045" pos="71912;-126615;-3335;43122" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_142" minZ="-3902" maxZ="-3102">
+		<node x="71002" y="-127501" />
+		<node x="72002" y="-127501" />
+		<node x="72002" y="-126501" />
+		<node x="71002" y="-126501" />
+	</territory>
+	<npcmaker name="Den_of_Evil_142" territory="Den_of_Evil_142" spawn="ALL" maximumNpcs="1">
+		<npc id="22048" pos="71502;-127001;-3402;40463" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_143" minZ="-3517" maxZ="-2717">
+		<node x="70747" y="-126574" />
+		<node x="71747" y="-126574" />
+		<node x="71747" y="-125574" />
+		<node x="70747" y="-125574" />
+	</territory>
+	<npcmaker name="Den_of_Evil_143" territory="Den_of_Evil_143" spawn="ALL" maximumNpcs="1">
+		<npc id="22032" pos="71247;-126074;-3017;25487" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_144" minZ="-4048" maxZ="-3248">
+		<node x="72173" y="-127906" />
+		<node x="73173" y="-127906" />
+		<node x="73173" y="-126906" />
+		<node x="72173" y="-126906" />
+	</territory>
+	<npcmaker name="Den_of_Evil_144" territory="Den_of_Evil_144" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="72673;-127406;-3548;62228" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_145" minZ="-4070" maxZ="-3270">
+		<node x="72446" y="-128153" />
+		<node x="73446" y="-128153" />
+		<node x="73446" y="-127153" />
+		<node x="72446" y="-127153" />
+	</territory>
+	<npcmaker name="Den_of_Evil_145" territory="Den_of_Evil_145" spawn="ALL" maximumNpcs="1">
+		<npc id="22045" pos="72946;-127653;-3570;10251" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_146" minZ="-3873" maxZ="-3073">
+		<node x="71409" y="-128888" />
+		<node x="72409" y="-128888" />
+		<node x="72409" y="-127888" />
+		<node x="71409" y="-127888" />
+	</territory>
+	<npcmaker name="Den_of_Evil_146" territory="Den_of_Evil_146" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="71909;-128388;-3373;31660" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_147" minZ="-3867" maxZ="-3067">
+		<node x="71151" y="-129131" />
+		<node x="72151" y="-129131" />
+		<node x="72151" y="-128131" />
+		<node x="71151" y="-128131" />
+	</territory>
+	<npcmaker name="Den_of_Evil_147" territory="Den_of_Evil_147" spawn="ALL" maximumNpcs="1">
+		<npc id="22032" pos="71651;-128631;-3367;40347" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_148" minZ="-3867" maxZ="-3067">
+		<node x="71194" y="-129709" />
+		<node x="72194" y="-129709" />
+		<node x="72194" y="-128709" />
+		<node x="71194" y="-128709" />
+	</territory>
+	<npcmaker name="Den_of_Evil_148" territory="Den_of_Evil_148" spawn="ALL" maximumNpcs="1">
+		<npc id="22033" pos="71694;-129209;-3367;49923" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_149" minZ="-3867" maxZ="-3067">
+		<node x="70913" y="-129019" />
+		<node x="71913" y="-129019" />
+		<node x="71913" y="-128019" />
+		<node x="70913" y="-128019" />
+	</territory>
+	<npcmaker name="Den_of_Evil_149" territory="Den_of_Evil_149" spawn="ALL" maximumNpcs="1">
+		<npc id="22033" pos="71413;-128519;-3367;18011" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_15" minZ="-1549" maxZ="-749">
+		<node x="70689" y="-107182" />
+		<node x="71689" y="-107182" />
+		<node x="71689" y="-106182" />
+		<node x="70689" y="-106182" />
+	</territory>
+	<npcmaker name="Den_of_Evil_15" territory="Den_of_Evil_15" spawn="ALL" maximumNpcs="1">
+		<npc id="22049" pos="71189;-106682;-1049;47639" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_150" minZ="-3869" maxZ="-3069">
+		<node x="71244" y="-128855" />
+		<node x="72244" y="-128855" />
+		<node x="72244" y="-127855" />
+		<node x="71244" y="-127855" />
+	</territory>
+	<npcmaker name="Den_of_Evil_150" territory="Den_of_Evil_150" spawn="ALL" maximumNpcs="1">
+		<npc id="22033" pos="71744;-128355;-3369;59270" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_151" minZ="-3868" maxZ="-3068">
+		<node x="71424" y="-129472" />
+		<node x="72424" y="-129472" />
+		<node x="72424" y="-128472" />
+		<node x="71424" y="-128472" />
+	</territory>
+	<npcmaker name="Den_of_Evil_151" territory="Den_of_Evil_151" spawn="ALL" maximumNpcs="1">
+		<npc id="22031" pos="71924;-128972;-3368;46347" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_152" minZ="-3867" maxZ="-3067">
+		<node x="70614" y="-129448" />
+		<node x="71614" y="-129448" />
+		<node x="71614" y="-128448" />
+		<node x="70614" y="-128448" />
+	</territory>
+	<npcmaker name="Den_of_Evil_152" territory="Den_of_Evil_152" spawn="ALL" maximumNpcs="1">
+		<npc id="22031" pos="71114;-128948;-3367;28999" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_153" minZ="-3867" maxZ="-3067">
+		<node x="70794" y="-129583" />
+		<node x="71794" y="-129583" />
+		<node x="71794" y="-128583" />
+		<node x="70794" y="-128583" />
+	</territory>
+	<npcmaker name="Den_of_Evil_153" territory="Den_of_Evil_153" spawn="ALL" maximumNpcs="1">
+		<npc id="22033" pos="71294;-129083;-3367;24123" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_154" minZ="-3851" maxZ="-3051">
+		<node x="71543" y="-130782" />
+		<node x="72543" y="-130782" />
+		<node x="72543" y="-129782" />
+		<node x="71543" y="-129782" />
+	</territory>
+	<npcmaker name="Den_of_Evil_154" territory="Den_of_Evil_154" spawn="ALL" maximumNpcs="1">
+		<npc id="22045" pos="72043;-130282;-3351;40670" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_155" minZ="-3860" maxZ="-3060">
+		<node x="72248" y="-131031" />
+		<node x="73248" y="-131031" />
+		<node x="73248" y="-130031" />
+		<node x="72248" y="-130031" />
+	</territory>
+	<npcmaker name="Den_of_Evil_155" territory="Den_of_Evil_155" spawn="ALL" maximumNpcs="1">
+		<npc id="22045" pos="72748;-130531;-3360;60540" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_156" minZ="-4038" maxZ="-3238">
+		<node x="72478" y="-130472" />
+		<node x="73478" y="-130472" />
+		<node x="73478" y="-129472" />
+		<node x="72478" y="-129472" />
+	</territory>
+	<npcmaker name="Den_of_Evil_156" territory="Den_of_Evil_156" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="72978;-129972;-3538;16037" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_157" minZ="-4001" maxZ="-3201">
+		<node x="72399" y="-130583" />
+		<node x="73399" y="-130583" />
+		<node x="73399" y="-129583" />
+		<node x="72399" y="-129583" />
+	</territory>
+	<npcmaker name="Den_of_Evil_157" territory="Den_of_Evil_157" spawn="ALL" maximumNpcs="1">
+		<npc id="22048" pos="72899;-130083;-3501;39920" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_158" minZ="-3947" maxZ="-3147">
+		<node x="70439" y="-130137" />
+		<node x="71439" y="-130137" />
+		<node x="71439" y="-129137" />
+		<node x="70439" y="-129137" />
+	</territory>
+	<npcmaker name="Den_of_Evil_158" territory="Den_of_Evil_158" spawn="ALL" maximumNpcs="1">
+		<npc id="22045" pos="70939;-129637;-3447;27862" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_159" minZ="-3867" maxZ="-3067">
+		<node x="70712" y="-129449" />
+		<node x="71712" y="-129449" />
+		<node x="71712" y="-128449" />
+		<node x="70712" y="-128449" />
+	</territory>
+	<npcmaker name="Den_of_Evil_159" territory="Den_of_Evil_159" spawn="ALL" maximumNpcs="1">
+		<npc id="22029" pos="71212;-128949;-3367;23034" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_16" minZ="-1566" maxZ="-766">
+		<node x="70595" y="-107413" />
+		<node x="71595" y="-107413" />
+		<node x="71595" y="-106413" />
+		<node x="70595" y="-106413" />
+	</territory>
+	<npcmaker name="Den_of_Evil_16" territory="Den_of_Evil_16" spawn="ALL" maximumNpcs="1">
+		<npc id="22049" pos="71095;-106913;-1066;49691" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_160" minZ="-3910" maxZ="-3110">
+		<node x="69760" y="-129041" />
+		<node x="70760" y="-129041" />
+		<node x="70760" y="-128041" />
+		<node x="69760" y="-128041" />
+	</territory>
+	<npcmaker name="Den_of_Evil_160" territory="Den_of_Evil_160" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="70260;-128541;-3410;25714" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_161" minZ="-3912" maxZ="-3112">
+		<node x="69803" y="-128935" />
+		<node x="70803" y="-128935" />
+		<node x="70803" y="-127935" />
+		<node x="69803" y="-127935" />
+	</territory>
+	<npcmaker name="Den_of_Evil_161" territory="Den_of_Evil_161" spawn="ALL" maximumNpcs="1">
+		<npc id="22048" pos="70303;-128435;-3412;12365" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_162" minZ="-3823" maxZ="-3023">
+		<node x="72198" y="-126638" />
+		<node x="73198" y="-126638" />
+		<node x="73198" y="-125638" />
+		<node x="72198" y="-125638" />
+	</territory>
+	<npcmaker name="Den_of_Evil_162" territory="Den_of_Evil_162" spawn="ALL" maximumNpcs="1">
+		<npc id="22045" pos="72698;-126138;-3323;9337" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_163" minZ="-3805" maxZ="-3005">
+		<node x="72198" y="-126549" />
+		<node x="73198" y="-126549" />
+		<node x="73198" y="-125549" />
+		<node x="72198" y="-125549" />
+	</territory>
+	<npcmaker name="Den_of_Evil_163" territory="Den_of_Evil_163" spawn="ALL" maximumNpcs="1">
+		<npc id="22048" pos="72698;-126049;-3305;16384" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_164" minZ="-3652" maxZ="-2852">
+		<node x="74839" y="-127661" />
+		<node x="75839" y="-127661" />
+		<node x="75839" y="-126661" />
+		<node x="74839" y="-126661" />
+	</territory>
+	<npcmaker name="Den_of_Evil_164" territory="Den_of_Evil_164" spawn="ALL" maximumNpcs="1">
+		<npc id="22032" pos="75339;-127161;-3152;42350" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_165" minZ="-3652" maxZ="-2852">
+		<node x="75156" y="-128220" />
+		<node x="76156" y="-128220" />
+		<node x="76156" y="-127220" />
+		<node x="75156" y="-127220" />
+	</territory>
+	<npcmaker name="Den_of_Evil_165" territory="Den_of_Evil_165" spawn="ALL" maximumNpcs="1">
+		<npc id="22031" pos="75656;-127720;-3152;54752" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_166" minZ="-3652" maxZ="-2852">
+		<node x="75657" y="-127609" />
+		<node x="76657" y="-127609" />
+		<node x="76657" y="-126609" />
+		<node x="75657" y="-126609" />
+	</territory>
+	<npcmaker name="Den_of_Evil_166" territory="Den_of_Evil_166" spawn="ALL" maximumNpcs="1">
+		<npc id="22029" pos="76157;-127109;-3152;3226" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_167" minZ="-3652" maxZ="-2852">
+		<node x="75852" y="-127551" />
+		<node x="76852" y="-127551" />
+		<node x="76852" y="-126551" />
+		<node x="75852" y="-126551" />
+	</territory>
+	<npcmaker name="Den_of_Evil_167" territory="Den_of_Evil_167" spawn="ALL" maximumNpcs="1">
+		<npc id="22030" pos="76352;-127051;-3152;3016" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_168" minZ="-3653" maxZ="-2853">
+		<node x="76098" y="-127331" />
+		<node x="77098" y="-127331" />
+		<node x="77098" y="-126331" />
+		<node x="76098" y="-126331" />
+	</territory>
+	<npcmaker name="Den_of_Evil_168" territory="Den_of_Evil_168" spawn="ALL" maximumNpcs="1">
+		<npc id="22032" pos="76598;-126831;-3153;4467" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_169" minZ="-3652" maxZ="-2852">
+		<node x="76337" y="-127755" />
+		<node x="77337" y="-127755" />
+		<node x="77337" y="-126755" />
+		<node x="76337" y="-126755" />
+	</territory>
+	<npcmaker name="Den_of_Evil_169" territory="Den_of_Evil_169" spawn="ALL" maximumNpcs="1">
+		<npc id="22031" pos="76837;-127255;-3152;21980" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_17" minZ="-1569" maxZ="-769">
+		<node x="70299" y="-106969" />
+		<node x="71299" y="-106969" />
+		<node x="71299" y="-105969" />
+		<node x="70299" y="-105969" />
+	</territory>
+	<npcmaker name="Den_of_Evil_17" territory="Den_of_Evil_17" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="70799;-106469;-1069;39495" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_170" minZ="-3652" maxZ="-2852">
+		<node x="76024" y="-128204" />
+		<node x="77024" y="-128204" />
+		<node x="77024" y="-127204" />
+		<node x="76024" y="-127204" />
+	</territory>
+	<npcmaker name="Den_of_Evil_170" territory="Den_of_Evil_170" spawn="ALL" maximumNpcs="1">
+		<npc id="22048" pos="76524;-127704;-3152;39116" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_171" minZ="-3652" maxZ="-2852">
+		<node x="75364" y="-127938" />
+		<node x="76364" y="-127938" />
+		<node x="76364" y="-126938" />
+		<node x="75364" y="-126938" />
+	</territory>
+	<npcmaker name="Den_of_Evil_171" territory="Den_of_Evil_171" spawn="ALL" maximumNpcs="1">
+		<npc id="22048" pos="75864;-127438;-3152;28992" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_172" minZ="-3652" maxZ="-2852">
+		<node x="75025" y="-127410" />
+		<node x="76025" y="-127410" />
+		<node x="76025" y="-126410" />
+		<node x="75025" y="-126410" />
+	</territory>
+	<npcmaker name="Den_of_Evil_172" territory="Den_of_Evil_172" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="75525;-126910;-3152;20931" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_173" minZ="-3652" maxZ="-2852">
+		<node x="74969" y="-128151" />
+		<node x="75969" y="-128151" />
+		<node x="75969" y="-127151" />
+		<node x="74969" y="-127151" />
+	</territory>
+	<npcmaker name="Den_of_Evil_173" territory="Den_of_Evil_173" spawn="ALL" maximumNpcs="1">
+		<npc id="22045" pos="75469;-127651;-3152;43219" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_174" minZ="-3652" maxZ="-2852">
+		<node x="75086" y="-128480" />
+		<node x="76086" y="-128480" />
+		<node x="76086" y="-127480" />
+		<node x="75086" y="-127480" />
+	</territory>
+	<npcmaker name="Den_of_Evil_174" territory="Den_of_Evil_174" spawn="ALL" maximumNpcs="1">
+		<npc id="22033" pos="75586;-127980;-3152;58465" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_175" minZ="-3652" maxZ="-2852">
+		<node x="76238" y="-127662" />
+		<node x="77238" y="-127662" />
+		<node x="77238" y="-126662" />
+		<node x="76238" y="-126662" />
+	</territory>
+	<npcmaker name="Den_of_Evil_175" territory="Den_of_Evil_175" spawn="ALL" maximumNpcs="1">
+		<npc id="22033" pos="76738;-127162;-3152;2997" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_176" minZ="-3856" maxZ="-3056">
+		<node x="75180" y="-126290" />
+		<node x="76180" y="-126290" />
+		<node x="76180" y="-125290" />
+		<node x="75180" y="-125290" />
+	</territory>
+	<npcmaker name="Den_of_Evil_176" territory="Den_of_Evil_176" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="75680;-125790;-3356;21925" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_177" minZ="-3860" maxZ="-3060">
+		<node x="75032" y="-126279" />
+		<node x="76032" y="-126279" />
+		<node x="76032" y="-125279" />
+		<node x="75032" y="-125279" />
+	</territory>
+	<npcmaker name="Den_of_Evil_177" territory="Den_of_Evil_177" spawn="ALL" maximumNpcs="1">
+		<npc id="22048" pos="75532;-125779;-3360;32615" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_178" minZ="-3870" maxZ="-3070">
+		<node x="75976" y="-125952" />
+		<node x="76976" y="-125952" />
+		<node x="76976" y="-124952" />
+		<node x="75976" y="-124952" />
+	</territory>
+	<npcmaker name="Den_of_Evil_178" territory="Den_of_Evil_178" spawn="ALL" maximumNpcs="1">
+		<npc id="22045" pos="76476;-125452;-3370;5570" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_179" minZ="-3852" maxZ="-3052">
+		<node x="76192" y="-126426" />
+		<node x="77192" y="-126426" />
+		<node x="77192" y="-125426" />
+		<node x="76192" y="-125426" />
+	</territory>
+	<npcmaker name="Den_of_Evil_179" territory="Den_of_Evil_179" spawn="ALL" maximumNpcs="1">
+		<npc id="22048" pos="76692;-125926;-3352;8037" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_18" minZ="-1654" maxZ="-854">
+		<node x="67795" y="-106817" />
+		<node x="68795" y="-106817" />
+		<node x="68795" y="-105817" />
+		<node x="67795" y="-105817" />
+	</territory>
+	<npcmaker name="Den_of_Evil_18" territory="Den_of_Evil_18" spawn="ALL" maximumNpcs="1">
+		<npc id="22046" pos="68295;-106317;-1154;26552" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_180" minZ="-3857" maxZ="-3057">
+		<node x="76402" y="-126292" />
+		<node x="77402" y="-126292" />
+		<node x="77402" y="-125292" />
+		<node x="76402" y="-125292" />
+	</territory>
+	<npcmaker name="Den_of_Evil_180" territory="Den_of_Evil_180" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="76902;-125792;-3357;64656" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_181" minZ="-3722" maxZ="-2922">
+		<node x="76215" y="-126818" />
+		<node x="77215" y="-126818" />
+		<node x="77215" y="-125818" />
+		<node x="76215" y="-125818" />
+	</territory>
+	<npcmaker name="Den_of_Evil_181" territory="Den_of_Evil_181" spawn="ALL" maximumNpcs="1">
+		<npc id="22045" pos="76715;-126318;-3222;58441" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_182" minZ="-3685" maxZ="-2885">
+		<node x="75932" y="-126839" />
+		<node x="76932" y="-126839" />
+		<node x="76932" y="-125839" />
+		<node x="75932" y="-125839" />
+	</territory>
+	<npcmaker name="Den_of_Evil_182" territory="Den_of_Evil_182" spawn="ALL" maximumNpcs="1">
+		<npc id="22045" pos="76432;-126339;-3185;35232" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_183" minZ="-3700" maxZ="-2900">
+		<node x="75793" y="-126738" />
+		<node x="76793" y="-126738" />
+		<node x="76793" y="-125738" />
+		<node x="75793" y="-125738" />
+	</territory>
+	<npcmaker name="Den_of_Evil_183" territory="Den_of_Evil_183" spawn="ALL" maximumNpcs="1">
+		<npc id="22048" pos="76293;-126238;-3200;46168" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_184" minZ="-3652" maxZ="-2852">
+		<node x="75630" y="-127280" />
+		<node x="76630" y="-127280" />
+		<node x="76630" y="-126280" />
+		<node x="75630" y="-126280" />
+	</territory>
+	<npcmaker name="Den_of_Evil_184" territory="Den_of_Evil_184" spawn="ALL" maximumNpcs="1">
+		<npc id="22048" pos="76130;-126780;-3152;40728" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_185" minZ="-3893" maxZ="-3093">
+		<node x="75508" y="-129366" />
+		<node x="76508" y="-129366" />
+		<node x="76508" y="-128366" />
+		<node x="75508" y="-128366" />
+	</territory>
+	<npcmaker name="Den_of_Evil_185" territory="Den_of_Evil_185" spawn="ALL" maximumNpcs="1">
+		<npc id="22045" pos="76008;-128866;-3393;62528" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_186" minZ="-3866" maxZ="-3066">
+		<node x="75950" y="-129353" />
+		<node x="76950" y="-129353" />
+		<node x="76950" y="-128353" />
+		<node x="75950" y="-128353" />
+	</territory>
+	<npcmaker name="Den_of_Evil_186" territory="Den_of_Evil_186" spawn="ALL" maximumNpcs="1">
+		<npc id="22048" pos="76450;-128853;-3366;762" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_187" minZ="-3916" maxZ="-3116">
+		<node x="75245" y="-129425" />
+		<node x="76245" y="-129425" />
+		<node x="76245" y="-128425" />
+		<node x="75245" y="-128425" />
+	</territory>
+	<npcmaker name="Den_of_Evil_187" territory="Den_of_Evil_187" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="75745;-128925;-3416;39479" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_188" minZ="-4021" maxZ="-3221">
+		<node x="74160" y="-129650" />
+		<node x="75160" y="-129650" />
+		<node x="75160" y="-128650" />
+		<node x="74160" y="-128650" />
+	</territory>
+	<npcmaker name="Den_of_Evil_188" territory="Den_of_Evil_188" spawn="ALL" maximumNpcs="1">
+		<npc id="22048" pos="74660;-129150;-3521;50924" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_189" minZ="-4029" maxZ="-3229">
+		<node x="74274" y="-129929" />
+		<node x="75274" y="-129929" />
+		<node x="75274" y="-128929" />
+		<node x="74274" y="-128929" />
+	</territory>
+	<npcmaker name="Den_of_Evil_189" territory="Den_of_Evil_189" spawn="ALL" maximumNpcs="1">
+		<npc id="22048" pos="74774;-129429;-3529;52423" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_19" minZ="-1639" maxZ="-839">
+		<node x="68470" y="-108480" />
+		<node x="69470" y="-108480" />
+		<node x="69470" y="-107480" />
+		<node x="68470" y="-107480" />
+	</territory>
+	<npcmaker name="Den_of_Evil_19" territory="Den_of_Evil_19" spawn="ALL" maximumNpcs="1">
+		<npc id="22046" pos="68970;-107980;-1139;48028" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_190" minZ="-4019" maxZ="-3219">
+		<node x="73945" y="-129692" />
+		<node x="74945" y="-129692" />
+		<node x="74945" y="-128692" />
+		<node x="73945" y="-128692" />
+	</territory>
+	<npcmaker name="Den_of_Evil_190" territory="Den_of_Evil_190" spawn="ALL" maximumNpcs="1">
+		<npc id="22048" pos="74445;-129192;-3519;26375" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_191" minZ="-4104" maxZ="-3304">
+		<node x="72740" y="-129488" />
+		<node x="73740" y="-129488" />
+		<node x="73740" y="-128488" />
+		<node x="72740" y="-128488" />
+	</territory>
+	<npcmaker name="Den_of_Evil_191" territory="Den_of_Evil_191" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="73240;-128988;-3604;62467" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_192" minZ="-4091" maxZ="-3291">
+		<node x="72996" y="-129777" />
+		<node x="73996" y="-129777" />
+		<node x="73996" y="-128777" />
+		<node x="72996" y="-128777" />
+	</territory>
+	<npcmaker name="Den_of_Evil_192" territory="Den_of_Evil_192" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="73496;-129277;-3591;57514" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_193" minZ="-3989" maxZ="-3189">
+		<node x="71654" y="-127558" />
+		<node x="72654" y="-127558" />
+		<node x="72654" y="-126558" />
+		<node x="71654" y="-126558" />
+	</territory>
+	<npcmaker name="Den_of_Evil_193" territory="Den_of_Evil_193" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="72154;-127058;-3489;20941" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_194" minZ="-3937" maxZ="-3137">
+		<node x="69881" y="-127958" />
+		<node x="70881" y="-127958" />
+		<node x="70881" y="-126958" />
+		<node x="69881" y="-126958" />
+	</territory>
+	<npcmaker name="Den_of_Evil_194" territory="Den_of_Evil_194" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="70381;-127458;-3437;20548" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_195" minZ="-3943" maxZ="-3143">
+		<node x="69963" y="-127783" />
+		<node x="70963" y="-127783" />
+		<node x="70963" y="-126783" />
+		<node x="69963" y="-126783" />
+	</territory>
+	<npcmaker name="Den_of_Evil_195" territory="Den_of_Evil_195" spawn="ALL" maximumNpcs="1">
+		<npc id="22048" pos="70463;-127283;-3443;11814" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_196" minZ="-3902" maxZ="-3102">
+		<node x="69745" y="-128230" />
+		<node x="70745" y="-128230" />
+		<node x="70745" y="-127230" />
+		<node x="69745" y="-127230" />
+	</territory>
+	<npcmaker name="Den_of_Evil_196" territory="Den_of_Evil_196" spawn="ALL" maximumNpcs="1">
+		<npc id="22048" pos="70245;-127730;-3402;59734" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_197" minZ="-3810" maxZ="-3010">
+		<node x="68454" y="-126400" />
+		<node x="69454" y="-126400" />
+		<node x="69454" y="-125400" />
+		<node x="68454" y="-125400" />
+	</territory>
+	<npcmaker name="Den_of_Evil_197" territory="Den_of_Evil_197" spawn="ALL" maximumNpcs="1">
+		<npc id="22048" pos="68954;-125900;-3310;25994" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_198" minZ="-3745" maxZ="-2945">
+		<node x="67731" y="-125061" />
+		<node x="68731" y="-125061" />
+		<node x="68731" y="-124061" />
+		<node x="67731" y="-124061" />
+	</territory>
+	<npcmaker name="Den_of_Evil_198" territory="Den_of_Evil_198" spawn="ALL" maximumNpcs="1">
+		<npc id="22045" pos="68231;-124561;-3245;22553" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_199" minZ="-3724" maxZ="-2924">
+		<node x="67686" y="-124804" />
+		<node x="68686" y="-124804" />
+		<node x="68686" y="-123804" />
+		<node x="67686" y="-123804" />
+	</territory>
+	<npcmaker name="Den_of_Evil_199" territory="Den_of_Evil_199" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="68186;-124304;-3224;18193" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_2" minZ="-1485" maxZ="-685">
+		<node x="71121" y="-105349" />
+		<node x="72121" y="-105349" />
+		<node x="72121" y="-104349" />
+		<node x="71121" y="-104349" />
+	</territory>
+	<npcmaker name="Den_of_Evil_2" territory="Den_of_Evil_2" spawn="ALL" maximumNpcs="1">
+		<npc id="22049" pos="71621;-104849;-985;52699" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_20" minZ="-1636" maxZ="-836">
+		<node x="68565" y="-108452" />
+		<node x="69565" y="-108452" />
+		<node x="69565" y="-107452" />
+		<node x="68565" y="-107452" />
+	</territory>
+	<npcmaker name="Den_of_Evil_20" territory="Den_of_Evil_20" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="69065;-107952;-1136;7275" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_200" minZ="-3625" maxZ="-2825">
+		<node x="67521" y="-124298" />
+		<node x="68521" y="-124298" />
+		<node x="68521" y="-123298" />
+		<node x="67521" y="-123298" />
+	</territory>
+	<npcmaker name="Den_of_Evil_200" territory="Den_of_Evil_200" spawn="ALL" maximumNpcs="1">
+		<npc id="22048" pos="68021;-123798;-3125;23882" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_201" minZ="-3663" maxZ="-2863">
+		<node x="68752" y="-123738" />
+		<node x="69752" y="-123738" />
+		<node x="69752" y="-122738" />
+		<node x="68752" y="-122738" />
+	</territory>
+	<npcmaker name="Den_of_Evil_201" territory="Den_of_Evil_201" spawn="ALL" maximumNpcs="1">
+		<npc id="22048" pos="69252;-123238;-3163;32920" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_202" minZ="-3678" maxZ="-2878">
+		<node x="68814" y="-124786" />
+		<node x="69814" y="-124786" />
+		<node x="69814" y="-123786" />
+		<node x="68814" y="-123786" />
+	</territory>
+	<npcmaker name="Den_of_Evil_202" territory="Den_of_Evil_202" spawn="ALL" maximumNpcs="1">
+		<npc id="22045" pos="69314;-124286;-3178;47518" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_203" minZ="-3621" maxZ="-2821">
+		<node x="68139" y="-124163" />
+		<node x="69139" y="-124163" />
+		<node x="69139" y="-123163" />
+		<node x="68139" y="-123163" />
+	</territory>
+	<npcmaker name="Den_of_Evil_203" territory="Den_of_Evil_203" spawn="ALL" maximumNpcs="1">
+		<npc id="22045" pos="68639;-123663;-3121;4763" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_204" minZ="-3412" maxZ="-2612">
+		<node x="67270" y="-123299" />
+		<node x="68270" y="-123299" />
+		<node x="68270" y="-122299" />
+		<node x="67270" y="-122299" />
+	</territory>
+	<npcmaker name="Den_of_Evil_204" territory="Den_of_Evil_204" spawn="ALL" maximumNpcs="1">
+		<npc id="22032" pos="67770;-122799;-2912;24473" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_205" minZ="-3412" maxZ="-2612">
+		<node x="66819" y="-123198" />
+		<node x="67819" y="-123198" />
+		<node x="67819" y="-122198" />
+		<node x="66819" y="-122198" />
+	</territory>
+	<npcmaker name="Den_of_Evil_205" territory="Den_of_Evil_205" spawn="ALL" maximumNpcs="1">
+		<npc id="22031" pos="67319;-122698;-2912;24928" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_206" minZ="-3412" maxZ="-2612">
+		<node x="67591" y="-122488" />
+		<node x="68591" y="-122488" />
+		<node x="68591" y="-121488" />
+		<node x="67591" y="-121488" />
+	</territory>
+	<npcmaker name="Den_of_Evil_206" territory="Den_of_Evil_206" spawn="ALL" maximumNpcs="1">
+		<npc id="22034" pos="68091;-121988;-2912;6085" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_207" minZ="-3412" maxZ="-2612">
+		<node x="67677" y="-122526" />
+		<node x="68677" y="-122526" />
+		<node x="68677" y="-121526" />
+		<node x="67677" y="-121526" />
+	</territory>
+	<npcmaker name="Den_of_Evil_207" territory="Den_of_Evil_207" spawn="ALL" maximumNpcs="1">
+		<npc id="22032" pos="68177;-122026;-2912;61196" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_208" minZ="-3412" maxZ="-2612">
+		<node x="67783" y="-122957" />
+		<node x="68783" y="-122957" />
+		<node x="68783" y="-121957" />
+		<node x="67783" y="-121957" />
+	</territory>
+	<npcmaker name="Den_of_Evil_208" territory="Den_of_Evil_208" spawn="ALL" maximumNpcs="1">
+		<npc id="22029" pos="68283;-122457;-2912;50608" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_209" minZ="-3412" maxZ="-2612">
+		<node x="67003" y="-122827" />
+		<node x="68003" y="-122827" />
+		<node x="68003" y="-121827" />
+		<node x="67003" y="-121827" />
+	</territory>
+	<npcmaker name="Den_of_Evil_209" territory="Den_of_Evil_209" spawn="ALL" maximumNpcs="1">
+		<npc id="22029" pos="67503;-122327;-2912;29035" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_21" minZ="-1662" maxZ="-862">
+		<node x="67825" y="-108261" />
+		<node x="68825" y="-108261" />
+		<node x="68825" y="-107261" />
+		<node x="67825" y="-107261" />
+	</territory>
+	<npcmaker name="Den_of_Evil_21" territory="Den_of_Evil_21" spawn="ALL" maximumNpcs="1">
+		<npc id="22039" pos="68325;-107761;-1162;17569" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_210" minZ="-3412" maxZ="-2612">
+		<node x="68056" y="-122934" />
+		<node x="69056" y="-122934" />
+		<node x="69056" y="-121934" />
+		<node x="68056" y="-121934" />
+	</territory>
+	<npcmaker name="Den_of_Evil_210" territory="Den_of_Evil_210" spawn="ALL" maximumNpcs="1">
+		<npc id="22045" pos="68556;-122434;-2912;50478" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_211" minZ="-3410" maxZ="-2610">
+		<node x="66424" y="-122432" />
+		<node x="67424" y="-122432" />
+		<node x="67424" y="-121432" />
+		<node x="66424" y="-121432" />
+	</territory>
+	<npcmaker name="Den_of_Evil_211" territory="Den_of_Evil_211" spawn="ALL" maximumNpcs="1">
+		<npc id="22032" pos="66924;-121932;-2910;28467" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_212" minZ="-3411" maxZ="-2611">
+		<node x="66337" y="-122524" />
+		<node x="67337" y="-122524" />
+		<node x="67337" y="-121524" />
+		<node x="66337" y="-121524" />
+	</territory>
+	<npcmaker name="Den_of_Evil_212" territory="Den_of_Evil_212" spawn="ALL" maximumNpcs="1">
+		<npc id="22031" pos="66837;-122024;-2911;41251" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_213" minZ="-3412" maxZ="-2612">
+		<node x="67201" y="-122660" />
+		<node x="68201" y="-122660" />
+		<node x="68201" y="-121660" />
+		<node x="67201" y="-121660" />
+	</territory>
+	<npcmaker name="Den_of_Evil_213" territory="Den_of_Evil_213" spawn="ALL" maximumNpcs="1">
+		<npc id="22034" pos="67701;-122160;-2912;21517" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_214" minZ="-3412" maxZ="-2612">
+		<node x="66437" y="-122814" />
+		<node x="67437" y="-122814" />
+		<node x="67437" y="-121814" />
+		<node x="66437" y="-121814" />
+	</territory>
+	<npcmaker name="Den_of_Evil_214" territory="Den_of_Evil_214" spawn="ALL" maximumNpcs="1">
+		<npc id="22034" pos="66937;-122314;-2912;65176" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_215" minZ="-3417" maxZ="-2617">
+		<node x="66993" y="-123618" />
+		<node x="67993" y="-123618" />
+		<node x="67993" y="-122618" />
+		<node x="66993" y="-122618" />
+	</territory>
+	<npcmaker name="Den_of_Evil_215" territory="Den_of_Evil_215" spawn="ALL" maximumNpcs="1">
+		<npc id="22034" pos="67493;-123118;-2917;0" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_216" minZ="-3413" maxZ="-2613">
+		<node x="67595" y="-123474" />
+		<node x="68595" y="-123474" />
+		<node x="68595" y="-122474" />
+		<node x="67595" y="-122474" />
+	</territory>
+	<npcmaker name="Den_of_Evil_216" territory="Den_of_Evil_216" spawn="ALL" maximumNpcs="1">
+		<npc id="22031" pos="68095;-122974;-2913;4328" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_217" minZ="-3511" maxZ="-2711">
+		<node x="68537" y="-122550" />
+		<node x="69537" y="-122550" />
+		<node x="69537" y="-121550" />
+		<node x="68537" y="-121550" />
+	</territory>
+	<npcmaker name="Den_of_Evil_217" territory="Den_of_Evil_217" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="69037;-122050;-3011;20900" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_218" minZ="-3515" maxZ="-2715">
+		<node x="67658" y="-121622" />
+		<node x="68658" y="-121622" />
+		<node x="68658" y="-120622" />
+		<node x="67658" y="-120622" />
+	</territory>
+	<npcmaker name="Den_of_Evil_218" territory="Den_of_Evil_218" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="68158;-121122;-3015;45970" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_219" minZ="-3571" maxZ="-2771">
+		<node x="66881" y="-121181" />
+		<node x="67881" y="-121181" />
+		<node x="67881" y="-120181" />
+		<node x="66881" y="-120181" />
+	</territory>
+	<npcmaker name="Den_of_Evil_219" territory="Den_of_Evil_219" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="67381;-120681;-3071;28503" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_22" minZ="-1662" maxZ="-862">
+		<node x="67367" y="-107397" />
+		<node x="68367" y="-107397" />
+		<node x="68367" y="-106397" />
+		<node x="67367" y="-106397" />
+	</territory>
+	<npcmaker name="Den_of_Evil_22" territory="Den_of_Evil_22" spawn="ALL" maximumNpcs="1">
+		<npc id="22039" pos="67867;-106897;-1162;17169" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_220" minZ="-3414" maxZ="-2614">
+		<node x="67121" y="-120168" />
+		<node x="68121" y="-120168" />
+		<node x="68121" y="-119168" />
+		<node x="67121" y="-119168" />
+	</territory>
+	<npcmaker name="Den_of_Evil_220" territory="Den_of_Evil_220" spawn="ALL" maximumNpcs="1">
+		<npc id="22046" pos="67621;-119668;-2914;18230" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_221" minZ="-3273" maxZ="-2473">
+		<node x="67563" y="-119937" />
+		<node x="68563" y="-119937" />
+		<node x="68563" y="-118937" />
+		<node x="67563" y="-118937" />
+	</territory>
+	<npcmaker name="Den_of_Evil_221" territory="Den_of_Evil_221" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="68063;-119437;-2773;10292" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_222" minZ="-3325" maxZ="-2525">
+		<node x="67789" y="-120210" />
+		<node x="68789" y="-120210" />
+		<node x="68789" y="-119210" />
+		<node x="67789" y="-119210" />
+	</territory>
+	<npcmaker name="Den_of_Evil_222" territory="Den_of_Evil_222" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="68289;-119710;-2825;61916" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_223" minZ="-3029" maxZ="-2229">
+		<node x="68650" y="-119784" />
+		<node x="69650" y="-119784" />
+		<node x="69650" y="-118784" />
+		<node x="68650" y="-118784" />
+	</territory>
+	<npcmaker name="Den_of_Evil_223" territory="Den_of_Evil_223" spawn="ALL" maximumNpcs="1">
+		<npc id="22048" pos="69150;-119284;-2529;3022" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_224" minZ="-3029" maxZ="-2229">
+		<node x="68580" y="-119325" />
+		<node x="69580" y="-119325" />
+		<node x="69580" y="-118325" />
+		<node x="68580" y="-118325" />
+	</territory>
+	<npcmaker name="Den_of_Evil_224" territory="Den_of_Evil_224" spawn="ALL" maximumNpcs="1">
+		<npc id="22031" pos="69080;-118825;-2529;18151" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_225" minZ="-3028" maxZ="-2228">
+		<node x="70110" y="-119890" />
+		<node x="71110" y="-119890" />
+		<node x="71110" y="-118890" />
+		<node x="70110" y="-118890" />
+	</territory>
+	<npcmaker name="Den_of_Evil_225" territory="Den_of_Evil_225" spawn="ALL" maximumNpcs="1">
+		<npc id="22032" pos="70610;-119390;-2528;63082" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_226" minZ="-3029" maxZ="-2229">
+		<node x="69262" y="-119913" />
+		<node x="70262" y="-119913" />
+		<node x="70262" y="-118913" />
+		<node x="69262" y="-118913" />
+	</territory>
+	<npcmaker name="Den_of_Evil_226" territory="Den_of_Evil_226" spawn="ALL" maximumNpcs="1">
+		<npc id="22032" pos="69762;-119413;-2529;44061" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_227" minZ="-3030" maxZ="-2230">
+		<node x="69268" y="-120021" />
+		<node x="70268" y="-120021" />
+		<node x="70268" y="-119021" />
+		<node x="69268" y="-119021" />
+	</territory>
+	<npcmaker name="Den_of_Evil_227" territory="Den_of_Evil_227" spawn="ALL" maximumNpcs="1">
+		<npc id="22035" pos="69768;-119521;-2530;49730" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_228" minZ="-3529" maxZ="-2729">
+		<node x="72926" y="-122228" />
+		<node x="73926" y="-122228" />
+		<node x="73926" y="-121228" />
+		<node x="72926" y="-121228" />
+	</territory>
+	<npcmaker name="Den_of_Evil_228" territory="Den_of_Evil_228" spawn="ALL" maximumNpcs="1">
+		<npc id="22035" pos="73426;-121728;-3029;49625" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_229" minZ="-3529" maxZ="-2729">
+		<node x="73453" y="-122981" />
+		<node x="74453" y="-122981" />
+		<node x="74453" y="-121981" />
+		<node x="73453" y="-121981" />
+	</territory>
+	<npcmaker name="Den_of_Evil_229" territory="Den_of_Evil_229" spawn="ALL" maximumNpcs="1">
+		<npc id="22031" pos="73953;-122481;-3029;61868" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_23" minZ="-1658" maxZ="-858">
+		<node x="66622" y="-107663" />
+		<node x="67622" y="-107663" />
+		<node x="67622" y="-106663" />
+		<node x="66622" y="-106663" />
+	</territory>
+	<npcmaker name="Den_of_Evil_23" territory="Den_of_Evil_23" spawn="ALL" maximumNpcs="1">
+		<npc id="22039" pos="67122;-107163;-1158;33836" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_230" minZ="-3529" maxZ="-2729">
+		<node x="73658" y="-123032" />
+		<node x="74658" y="-123032" />
+		<node x="74658" y="-122032" />
+		<node x="73658" y="-122032" />
+	</territory>
+	<npcmaker name="Den_of_Evil_230" territory="Den_of_Evil_230" spawn="ALL" maximumNpcs="1">
+		<npc id="22032" pos="74158;-122532;-3029;62842" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_231" minZ="-3601" maxZ="-2801">
+		<node x="67985" y="-121474" />
+		<node x="68985" y="-121474" />
+		<node x="68985" y="-120474" />
+		<node x="67985" y="-120474" />
+	</territory>
+	<npcmaker name="Den_of_Evil_231" territory="Den_of_Evil_231" spawn="ALL" maximumNpcs="1">
+		<npc id="22048" pos="68485;-120974;-3101;52988" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_232" minZ="-3616" maxZ="-2816">
+		<node x="68645" y="-121450" />
+		<node x="69645" y="-121450" />
+		<node x="69645" y="-120450" />
+		<node x="68645" y="-120450" />
+	</territory>
+	<npcmaker name="Den_of_Evil_232" territory="Den_of_Evil_232" spawn="ALL" maximumNpcs="1">
+		<npc id="22048" pos="69145;-120950;-3116;40858" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_233" minZ="-3684" maxZ="-2884">
+		<node x="69165" y="-122530" />
+		<node x="70165" y="-122530" />
+		<node x="70165" y="-121530" />
+		<node x="69165" y="-121530" />
+	</territory>
+	<npcmaker name="Den_of_Evil_233" territory="Den_of_Evil_233" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="69665;-122030;-3184;48353" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_234" minZ="-3780" maxZ="-2980">
+		<node x="72511" y="-123414" />
+		<node x="73511" y="-123414" />
+		<node x="73511" y="-122414" />
+		<node x="72511" y="-122414" />
+	</territory>
+	<npcmaker name="Den_of_Evil_234" territory="Den_of_Evil_234" spawn="ALL" maximumNpcs="1">
+		<npc id="22045" pos="73011;-122914;-3280;361" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_235" minZ="-3752" maxZ="-2952">
+		<node x="75140" y="-124708" />
+		<node x="76140" y="-124708" />
+		<node x="76140" y="-123708" />
+		<node x="75140" y="-123708" />
+	</territory>
+	<npcmaker name="Den_of_Evil_235" territory="Den_of_Evil_235" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="75640;-124208;-3252;14126" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_236" minZ="-3747" maxZ="-2947">
+		<node x="75166" y="-123493" />
+		<node x="76166" y="-123493" />
+		<node x="76166" y="-122493" />
+		<node x="75166" y="-122493" />
+	</territory>
+	<npcmaker name="Den_of_Evil_236" territory="Den_of_Evil_236" spawn="ALL" maximumNpcs="1">
+		<npc id="22045" pos="75666;-122993;-3247;14977" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_237" minZ="-3683" maxZ="-2883">
+		<node x="74259" y="-123694" />
+		<node x="75259" y="-123694" />
+		<node x="75259" y="-122694" />
+		<node x="74259" y="-122694" />
+	</territory>
+	<npcmaker name="Den_of_Evil_237" territory="Den_of_Evil_237" spawn="ALL" maximumNpcs="1">
+		<npc id="22048" pos="74759;-123194;-3183;29750" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_238" minZ="-3798" maxZ="-2998">
+		<node x="74092" y="-124175" />
+		<node x="75092" y="-124175" />
+		<node x="75092" y="-123175" />
+		<node x="74092" y="-123175" />
+	</territory>
+	<npcmaker name="Den_of_Evil_238" territory="Den_of_Evil_238" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="74592;-123675;-3298;43762" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_24" minZ="-1692" maxZ="-892">
+		<node x="66709" y="-108912" />
+		<node x="67709" y="-108912" />
+		<node x="67709" y="-107912" />
+		<node x="66709" y="-107912" />
+	</territory>
+	<npcmaker name="Den_of_Evil_24" territory="Den_of_Evil_24" spawn="ALL" maximumNpcs="1">
+		<npc id="22046" pos="67209;-108412;-1192;54329" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_25" minZ="-1745" maxZ="-945">
+		<node x="66127" y="-109033" />
+		<node x="67127" y="-109033" />
+		<node x="67127" y="-108033" />
+		<node x="66127" y="-108033" />
+	</territory>
+	<npcmaker name="Den_of_Evil_25" territory="Den_of_Evil_25" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="66627;-108533;-1245;35808" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_26" minZ="-1649" maxZ="-849">
+		<node x="66170" y="-108136" />
+		<node x="67170" y="-108136" />
+		<node x="67170" y="-107136" />
+		<node x="66170" y="-107136" />
+	</territory>
+	<npcmaker name="Den_of_Evil_26" territory="Den_of_Evil_26" spawn="ALL" maximumNpcs="1">
+		<npc id="22049" pos="66670;-107636;-1149;21915" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_27" minZ="-1649" maxZ="-849">
+		<node x="66084" y="-107293" />
+		<node x="67084" y="-107293" />
+		<node x="67084" y="-106293" />
+		<node x="66084" y="-106293" />
+	</territory>
+	<npcmaker name="Den_of_Evil_27" territory="Den_of_Evil_27" spawn="ALL" maximumNpcs="1">
+		<npc id="22049" pos="66584;-106793;-1149;8955" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_28" minZ="-1647" maxZ="-847">
+		<node x="66312" y="-106968" />
+		<node x="67312" y="-106968" />
+		<node x="67312" y="-105968" />
+		<node x="66312" y="-105968" />
+	</territory>
+	<npcmaker name="Den_of_Evil_28" territory="Den_of_Evil_28" spawn="ALL" maximumNpcs="1">
+		<npc id="22049" pos="66812;-106468;-1147;6977" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_29" minZ="-1649" maxZ="-849">
+		<node x="66223" y="-107284" />
+		<node x="67223" y="-107284" />
+		<node x="67223" y="-106284" />
+		<node x="66223" y="-106284" />
+	</territory>
+	<npcmaker name="Den_of_Evil_29" territory="Den_of_Evil_29" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="66723;-106784;-1149;48351" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_3" minZ="-1484" maxZ="-684">
+		<node x="71391" y="-105447" />
+		<node x="72391" y="-105447" />
+		<node x="72391" y="-104447" />
+		<node x="71391" y="-104447" />
+	</territory>
+	<npcmaker name="Den_of_Evil_3" territory="Den_of_Evil_3" spawn="ALL" maximumNpcs="1">
+		<npc id="22046" pos="71891;-104947;-984;16384" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_4" minZ="-1492" maxZ="-692">
+		<node x="71117" y="-105480" />
+		<node x="72117" y="-105480" />
+		<node x="72117" y="-104480" />
+		<node x="71117" y="-104480" />
+	</territory>
+	<npcmaker name="Den_of_Evil_4" territory="Den_of_Evil_4" spawn="ALL" maximumNpcs="1">
+		<npc id="22046" pos="71617;-104980;-992;35486" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_45" minZ="-2168" maxZ="-1368">
+		<node x="70702" y="-112187" />
+		<node x="71702" y="-112187" />
+		<node x="71702" y="-111187" />
+		<node x="70702" y="-111187" />
+	</territory>
+	<npcmaker name="Den_of_Evil_45" territory="Den_of_Evil_45" spawn="ALL" maximumNpcs="1">
+		<npc id="22046" pos="71202;-111687;-1668;61025" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_46" minZ="-2315" maxZ="-1515">
+		<node x="69175" y="-112360" />
+		<node x="70175" y="-112360" />
+		<node x="70175" y="-111360" />
+		<node x="69175" y="-111360" />
+	</territory>
+	<npcmaker name="Den_of_Evil_46" territory="Den_of_Evil_46" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="69675;-111860;-1815;28166" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_47" minZ="-2338" maxZ="-1538">
+		<node x="69056" y="-112604" />
+		<node x="70056" y="-112604" />
+		<node x="70056" y="-111604" />
+		<node x="69056" y="-111604" />
+	</territory>
+	<npcmaker name="Den_of_Evil_47" territory="Den_of_Evil_47" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="69556;-112104;-1838;44015" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_48" minZ="-2343" maxZ="-1543">
+		<node x="68559" y="-112578" />
+		<node x="69559" y="-112578" />
+		<node x="69559" y="-111578" />
+		<node x="68559" y="-111578" />
+	</territory>
+	<npcmaker name="Den_of_Evil_48" territory="Den_of_Evil_48" spawn="ALL" maximumNpcs="1">
+		<npc id="22049" pos="69059;-112078;-1843;8950" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_49" minZ="-2241" maxZ="-1441">
+		<node x="69106" y="-113200" />
+		<node x="70106" y="-113200" />
+		<node x="70106" y="-112200" />
+		<node x="69106" y="-112200" />
+	</territory>
+	<npcmaker name="Den_of_Evil_49" territory="Den_of_Evil_49" spawn="ALL" maximumNpcs="1">
+		<npc id="22046" pos="69606;-112700;-1741;50373" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_5" minZ="-1526" maxZ="-726">
+		<node x="70846" y="-105838" />
+		<node x="71846" y="-105838" />
+		<node x="71846" y="-104838" />
+		<node x="70846" y="-104838" />
+	</territory>
+	<npcmaker name="Den_of_Evil_5" territory="Den_of_Evil_5" spawn="ALL" maximumNpcs="1">
+		<npc id="22049" pos="71346;-105338;-1026;55201" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_50" minZ="-2211" maxZ="-1411">
+		<node x="69111" y="-113670" />
+		<node x="70111" y="-113670" />
+		<node x="70111" y="-112670" />
+		<node x="69111" y="-112670" />
+	</territory>
+	<npcmaker name="Den_of_Evil_50" territory="Den_of_Evil_50" spawn="ALL" maximumNpcs="1">
+		<npc id="22046" pos="69611;-113170;-1711;53336" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_51" minZ="-2239" maxZ="-1439">
+		<node x="69512" y="-113300" />
+		<node x="70512" y="-113300" />
+		<node x="70512" y="-112300" />
+		<node x="69512" y="-112300" />
+	</territory>
+	<npcmaker name="Den_of_Evil_51" territory="Den_of_Evil_51" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="70012;-112800;-1739;3384" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_52" minZ="-2243" maxZ="-1443">
+		<node x="69466" y="-114190" />
+		<node x="70466" y="-114190" />
+		<node x="70466" y="-113190" />
+		<node x="69466" y="-113190" />
+	</territory>
+	<npcmaker name="Den_of_Evil_52" territory="Den_of_Evil_52" spawn="ALL" maximumNpcs="1">
+		<npc id="22049" pos="69966;-113690;-1743;11995" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_53" minZ="-2239" maxZ="-1439">
+		<node x="69755" y="-114259" />
+		<node x="70755" y="-114259" />
+		<node x="70755" y="-113259" />
+		<node x="69755" y="-113259" />
+	</territory>
+	<npcmaker name="Den_of_Evil_53" territory="Den_of_Evil_53" spawn="ALL" maximumNpcs="1">
+		<npc id="32016" pos="70255;-113759;-1739;48066" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_54" minZ="-2245" maxZ="-1445">
+		<node x="69681" y="-114806" />
+		<node x="70681" y="-114806" />
+		<node x="70681" y="-113806" />
+		<node x="69681" y="-113806" />
+	</territory>
+	<npcmaker name="Den_of_Evil_54" territory="Den_of_Evil_54" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="70181;-114306;-1745;50649" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_55" minZ="-2239" maxZ="-1439">
+		<node x="70436" y="-114790" />
+		<node x="71436" y="-114790" />
+		<node x="71436" y="-113790" />
+		<node x="70436" y="-113790" />
+	</territory>
+	<npcmaker name="Den_of_Evil_55" territory="Den_of_Evil_55" spawn="ALL" maximumNpcs="1">
+		<npc id="22046" pos="70936;-114290;-1739;65431" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_56" minZ="-2239" maxZ="-1439">
+		<node x="70818" y="-114168" />
+		<node x="71818" y="-114168" />
+		<node x="71818" y="-113168" />
+		<node x="70818" y="-113168" />
+	</territory>
+	<npcmaker name="Den_of_Evil_56" territory="Den_of_Evil_56" spawn="ALL" maximumNpcs="1">
+		<npc id="22046" pos="71318;-113668;-1739;12020" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_57" minZ="-2239" maxZ="-1439">
+		<node x="70895" y="-113544" />
+		<node x="71895" y="-113544" />
+		<node x="71895" y="-112544" />
+		<node x="70895" y="-112544" />
+	</territory>
+	<npcmaker name="Den_of_Evil_57" territory="Den_of_Evil_57" spawn="ALL" maximumNpcs="1">
+		<npc id="22046" pos="71395;-113044;-1739;15297" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_58" minZ="-2232" maxZ="-1432">
+		<node x="70783" y="-112854" />
+		<node x="71783" y="-112854" />
+		<node x="71783" y="-111854" />
+		<node x="70783" y="-111854" />
+	</territory>
+	<npcmaker name="Den_of_Evil_58" territory="Den_of_Evil_58" spawn="ALL" maximumNpcs="1">
+		<npc id="22046" pos="71283;-112354;-1732;285" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_59" minZ="-2395" maxZ="-1595">
+		<node x="71445" y="-115314" />
+		<node x="72445" y="-115314" />
+		<node x="72445" y="-114314" />
+		<node x="71445" y="-114314" />
+	</territory>
+	<npcmaker name="Den_of_Evil_59" territory="Den_of_Evil_59" spawn="ALL" maximumNpcs="1">
+		<npc id="22048" pos="71945;-114814;-1895;52432" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_6" minZ="-1524" maxZ="-724">
+		<node x="71159" y="-106135" />
+		<node x="72159" y="-106135" />
+		<node x="72159" y="-105135" />
+		<node x="71159" y="-105135" />
+	</territory>
+	<npcmaker name="Den_of_Evil_6" territory="Den_of_Evil_6" spawn="ALL" maximumNpcs="1">
+		<npc id="22046" pos="71659;-105635;-1024;51891" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_60" minZ="-2513" maxZ="-1713">
+		<node x="71833" y="-115294" />
+		<node x="72833" y="-115294" />
+		<node x="72833" y="-114294" />
+		<node x="71833" y="-114294" />
+	</territory>
+	<npcmaker name="Den_of_Evil_60" territory="Den_of_Evil_60" spawn="ALL" maximumNpcs="1">
+		<npc id="22049" pos="72333;-114794;-2013;10922" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_61" minZ="-2424" maxZ="-1624">
+		<node x="71775" y="-114835" />
+		<node x="72775" y="-114835" />
+		<node x="72775" y="-113835" />
+		<node x="71775" y="-113835" />
+	</territory>
+	<npcmaker name="Den_of_Evil_61" territory="Den_of_Evil_61" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="72275;-114335;-1924;17495" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_62" minZ="-2747" maxZ="-1947">
+		<node x="72087" y="-116149" />
+		<node x="73087" y="-116149" />
+		<node x="73087" y="-115149" />
+		<node x="72087" y="-115149" />
+	</territory>
+	<npcmaker name="Den_of_Evil_62" territory="Den_of_Evil_62" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="72587;-115649;-2247;58884" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_63" minZ="-2826" maxZ="-2026">
+		<node x="72578" y="-116696" />
+		<node x="73578" y="-116696" />
+		<node x="73578" y="-115696" />
+		<node x="72578" y="-115696" />
+	</territory>
+	<npcmaker name="Den_of_Evil_63" territory="Den_of_Evil_63" spawn="ALL" maximumNpcs="1">
+		<npc id="22046" pos="73078;-116196;-2326;53133" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_64" minZ="-2751" maxZ="-1951">
+		<node x="73028" y="-116908" />
+		<node x="74028" y="-116908" />
+		<node x="74028" y="-115908" />
+		<node x="73028" y="-115908" />
+	</territory>
+	<npcmaker name="Den_of_Evil_64" territory="Den_of_Evil_64" spawn="ALL" maximumNpcs="1">
+		<npc id="22046" pos="73528;-116408;-2251;52851" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_65" minZ="-2721" maxZ="-1921">
+		<node x="73470" y="-116714" />
+		<node x="74470" y="-116714" />
+		<node x="74470" y="-115714" />
+		<node x="73470" y="-115714" />
+	</territory>
+	<npcmaker name="Den_of_Evil_65" territory="Den_of_Evil_65" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="73970;-116214;-2221;6999" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_66" minZ="-2745" maxZ="-1945">
+		<node x="73206" y="-116368" />
+		<node x="74206" y="-116368" />
+		<node x="74206" y="-115368" />
+		<node x="73206" y="-115368" />
+	</territory>
+	<npcmaker name="Den_of_Evil_66" territory="Den_of_Evil_66" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="73706;-115868;-2245;22288" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_67" minZ="-2720" maxZ="-1920">
+		<node x="73793" y="-117162" />
+		<node x="74793" y="-117162" />
+		<node x="74793" y="-116162" />
+		<node x="73793" y="-116162" />
+	</territory>
+	<npcmaker name="Den_of_Evil_67" territory="Den_of_Evil_67" spawn="ALL" maximumNpcs="1">
+		<npc id="22048" pos="74293;-116662;-2220;45403" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_68" minZ="-2720" maxZ="-1920">
+		<node x="73634" y="-117419" />
+		<node x="74634" y="-117419" />
+		<node x="74634" y="-116419" />
+		<node x="73634" y="-116419" />
+	</territory>
+	<npcmaker name="Den_of_Evil_68" territory="Den_of_Evil_68" spawn="ALL" maximumNpcs="1">
+		<npc id="22041" pos="74134;-116919;-2220;34380" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_69" minZ="-2720" maxZ="-1920">
+		<node x="74133" y="-117668" />
+		<node x="75133" y="-117668" />
+		<node x="75133" y="-116668" />
+		<node x="74133" y="-116668" />
+	</territory>
+	<npcmaker name="Den_of_Evil_69" territory="Den_of_Evil_69" spawn="ALL" maximumNpcs="1">
+		<npc id="22041" pos="74633;-117168;-2220;61212" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_7" minZ="-1442" maxZ="-642">
+		<node x="69641" y="-105489" />
+		<node x="70641" y="-105489" />
+		<node x="70641" y="-104489" />
+		<node x="69641" y="-104489" />
+	</territory>
+	<npcmaker name="Den_of_Evil_7" territory="Den_of_Evil_7" spawn="ALL" maximumNpcs="1">
+		<npc id="22049" pos="70141;-104989;-942;28651" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_70" minZ="-2720" maxZ="-1920">
+		<node x="74213" y="-117341" />
+		<node x="75213" y="-117341" />
+		<node x="75213" y="-116341" />
+		<node x="74213" y="-116341" />
+	</territory>
+	<npcmaker name="Den_of_Evil_70" territory="Den_of_Evil_70" spawn="ALL" maximumNpcs="1">
+		<npc id="22041" pos="74713;-116841;-2220;14357" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_71" minZ="-2720" maxZ="-1920">
+		<node x="73963" y="-116949" />
+		<node x="74963" y="-116949" />
+		<node x="74963" y="-115949" />
+		<node x="73963" y="-115949" />
+	</territory>
+	<npcmaker name="Den_of_Evil_71" territory="Den_of_Evil_71" spawn="ALL" maximumNpcs="1">
+		<npc id="22041" pos="74463;-116449;-2220;11635" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_72" minZ="-2720" maxZ="-1920">
+		<node x="73869" y="-117253" />
+		<node x="74869" y="-117253" />
+		<node x="74869" y="-116253" />
+		<node x="73869" y="-116253" />
+	</territory>
+	<npcmaker name="Den_of_Evil_72" territory="Den_of_Evil_72" spawn="ALL" maximumNpcs="1">
+		<npc id="22041" pos="74369;-116753;-2220;43559" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_73" minZ="-2720" maxZ="-1920">
+		<node x="73938" y="-117487" />
+		<node x="74938" y="-117487" />
+		<node x="74938" y="-116487" />
+		<node x="73938" y="-116487" />
+	</territory>
+	<npcmaker name="Den_of_Evil_73" territory="Den_of_Evil_73" spawn="ALL" maximumNpcs="1">
+		<npc id="22031" pos="74438;-116987;-2220;52185" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_74" minZ="-2720" maxZ="-1920">
+		<node x="73976" y="-117056" />
+		<node x="74976" y="-117056" />
+		<node x="74976" y="-116056" />
+		<node x="73976" y="-116056" />
+	</territory>
+	<npcmaker name="Den_of_Evil_74" territory="Den_of_Evil_74" spawn="ALL" maximumNpcs="1">
+		<npc id="22031" pos="74476;-116556;-2220;11874" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_75" minZ="-2720" maxZ="-1920">
+		<node x="74171" y="-117150" />
+		<node x="75171" y="-117150" />
+		<node x="75171" y="-116150" />
+		<node x="74171" y="-116150" />
+	</territory>
+	<npcmaker name="Den_of_Evil_75" territory="Den_of_Evil_75" spawn="ALL" maximumNpcs="1">
+		<npc id="22032" pos="74671;-116650;-2220;49876" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_76" minZ="-2720" maxZ="-1920">
+		<node x="73577" y="-117678" />
+		<node x="74577" y="-117678" />
+		<node x="74577" y="-116678" />
+		<node x="73577" y="-116678" />
+	</territory>
+	<npcmaker name="Den_of_Evil_76" territory="Den_of_Evil_76" spawn="ALL" maximumNpcs="1">
+		<npc id="22032" pos="74077;-117178;-2220;41241" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_77" minZ="-3028" maxZ="-2228">
+		<node x="70209" y="-118212" />
+		<node x="71209" y="-118212" />
+		<node x="71209" y="-117212" />
+		<node x="70209" y="-117212" />
+	</territory>
+	<npcmaker name="Den_of_Evil_77" territory="Den_of_Evil_77" spawn="ALL" maximumNpcs="1">
+		<npc id="22031" pos="70709;-117712;-2528;42805" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_78" minZ="-3028" maxZ="-2228">
+		<node x="69578" y="-119287" />
+		<node x="70578" y="-119287" />
+		<node x="70578" y="-118287" />
+		<node x="69578" y="-118287" />
+	</territory>
+	<npcmaker name="Den_of_Evil_78" territory="Den_of_Evil_78" spawn="ALL" maximumNpcs="1">
+		<npc id="22031" pos="70078;-118787;-2528;43617" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_79" minZ="-3029" maxZ="-2229">
+		<node x="70247" y="-119054" />
+		<node x="71247" y="-119054" />
+		<node x="71247" y="-118054" />
+		<node x="70247" y="-118054" />
+	</territory>
+	<npcmaker name="Den_of_Evil_79" territory="Den_of_Evil_79" spawn="ALL" maximumNpcs="1">
+		<npc id="22032" pos="70747;-118554;-2529;53514" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_8" minZ="-1487" maxZ="-687">
+		<node x="68714" y="-105366" />
+		<node x="69714" y="-105366" />
+		<node x="69714" y="-104366" />
+		<node x="68714" y="-104366" />
+	</territory>
+	<npcmaker name="Den_of_Evil_8" territory="Den_of_Evil_8" spawn="ALL" maximumNpcs="1">
+		<npc id="22049" pos="69214;-104866;-987;55751" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_80" minZ="-3028" maxZ="-2228">
+		<node x="70209" y="-119224" />
+		<node x="71209" y="-119224" />
+		<node x="71209" y="-118224" />
+		<node x="70209" y="-118224" />
+	</territory>
+	<npcmaker name="Den_of_Evil_80" territory="Den_of_Evil_80" spawn="ALL" maximumNpcs="1">
+		<npc id="22033" pos="70709;-118724;-2528;41833" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_81" minZ="-3029" maxZ="-2229">
+		<node x="69386" y="-118600" />
+		<node x="70386" y="-118600" />
+		<node x="70386" y="-117600" />
+		<node x="69386" y="-117600" />
+	</territory>
+	<npcmaker name="Den_of_Evil_81" territory="Den_of_Evil_81" spawn="ALL" maximumNpcs="1">
+		<npc id="22029" pos="69886;-118100;-2529;33174" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_82" minZ="-3029" maxZ="-2229">
+		<node x="69027" y="-119587" />
+		<node x="70027" y="-119587" />
+		<node x="70027" y="-118587" />
+		<node x="69027" y="-118587" />
+	</territory>
+	<npcmaker name="Den_of_Evil_82" territory="Den_of_Evil_82" spawn="ALL" maximumNpcs="1">
+		<npc id="22033" pos="69527;-119087;-2529;56490" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_83" minZ="-3028" maxZ="-2228">
+		<node x="69849" y="-118129" />
+		<node x="70849" y="-118129" />
+		<node x="70849" y="-117129" />
+		<node x="69849" y="-117129" />
+	</territory>
+	<npcmaker name="Den_of_Evil_83" territory="Den_of_Evil_83" spawn="ALL" maximumNpcs="1">
+		<npc id="22048" pos="70349;-117629;-2528;5245" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_84" minZ="-3029" maxZ="-2229">
+		<node x="68954" y="-118853" />
+		<node x="69954" y="-118853" />
+		<node x="69954" y="-117853" />
+		<node x="68954" y="-117853" />
+	</territory>
+	<npcmaker name="Den_of_Evil_84" territory="Den_of_Evil_84" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="69454;-118353;-2529;42392" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_85" minZ="-2920" maxZ="-2120">
+		<node x="68636" y="-118159" />
+		<node x="69636" y="-118159" />
+		<node x="69636" y="-117159" />
+		<node x="68636" y="-117159" />
+	</territory>
+	<npcmaker name="Den_of_Evil_85" territory="Den_of_Evil_85" spawn="ALL" maximumNpcs="1">
+		<npc id="22048" pos="69136;-117659;-2420;18372" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_86" minZ="-2680" maxZ="-1880">
+		<node x="68560" y="-117415" />
+		<node x="69560" y="-117415" />
+		<node x="69560" y="-116415" />
+		<node x="68560" y="-116415" />
+	</territory>
+	<npcmaker name="Den_of_Evil_86" territory="Den_of_Evil_86" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="69060;-116915;-2180;48705" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_87" minZ="-2681" maxZ="-1881">
+		<node x="67906" y="-117890" />
+		<node x="68906" y="-117890" />
+		<node x="68906" y="-116890" />
+		<node x="67906" y="-116890" />
+	</territory>
+	<npcmaker name="Den_of_Evil_87" territory="Den_of_Evil_87" spawn="ALL" maximumNpcs="1">
+		<npc id="22046" pos="68406;-117390;-2181;9802" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_88" minZ="-2673" maxZ="-1873">
+		<node x="67697" y="-117374" />
+		<node x="68697" y="-117374" />
+		<node x="68697" y="-116374" />
+		<node x="67697" y="-116374" />
+	</territory>
+	<npcmaker name="Den_of_Evil_88" territory="Den_of_Evil_88" spawn="ALL" maximumNpcs="1">
+		<npc id="22033" pos="68197;-116874;-2173;21324" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_89" minZ="-2673" maxZ="-1873">
+		<node x="67886" y="-117096" />
+		<node x="68886" y="-117096" />
+		<node x="68886" y="-116096" />
+		<node x="67886" y="-116096" />
+	</territory>
+	<npcmaker name="Den_of_Evil_89" territory="Den_of_Evil_89" spawn="ALL" maximumNpcs="1">
+		<npc id="22032" pos="68386;-116596;-2173;10027" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_9" minZ="-1456" maxZ="-656">
+		<node x="69400" y="-106103" />
+		<node x="70400" y="-106103" />
+		<node x="70400" y="-105103" />
+		<node x="69400" y="-105103" />
+	</territory>
+	<npcmaker name="Den_of_Evil_9" territory="Den_of_Evil_9" spawn="ALL" maximumNpcs="1">
+		<npc id="22046" pos="69900;-105603;-956;40411" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_90" minZ="-2674" maxZ="-1874">
+		<node x="67875" y="-116043" />
+		<node x="68875" y="-116043" />
+		<node x="68875" y="-115043" />
+		<node x="67875" y="-115043" />
+	</territory>
+	<npcmaker name="Den_of_Evil_90" territory="Den_of_Evil_90" spawn="ALL" maximumNpcs="1">
+		<npc id="22032" pos="68375;-115543;-2174;12107" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_91" minZ="-2674" maxZ="-1874">
+		<node x="67061" y="-116388" />
+		<node x="68061" y="-116388" />
+		<node x="68061" y="-115388" />
+		<node x="67061" y="-115388" />
+	</territory>
+	<npcmaker name="Den_of_Evil_91" territory="Den_of_Evil_91" spawn="ALL" maximumNpcs="1">
+		<npc id="22032" pos="67561;-115888;-2174;36123" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_92" minZ="-2673" maxZ="-1873">
+		<node x="66922" y="-116358" />
+		<node x="67922" y="-116358" />
+		<node x="67922" y="-115358" />
+		<node x="66922" y="-115358" />
+	</territory>
+	<npcmaker name="Den_of_Evil_92" territory="Den_of_Evil_92" spawn="ALL" maximumNpcs="1">
+		<npc id="22038" pos="67422;-115858;-2173;38461" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_93" minZ="-2672" maxZ="-1872">
+		<node x="66886" y="-116889" />
+		<node x="67886" y="-116889" />
+		<node x="67886" y="-115889" />
+		<node x="66886" y="-115889" />
+	</territory>
+	<npcmaker name="Den_of_Evil_93" territory="Den_of_Evil_93" spawn="ALL" maximumNpcs="1">
+		<npc id="22033" pos="67386;-116389;-2172;33976" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_94" minZ="-2672" maxZ="-1872">
+		<node x="66903" y="-116955" />
+		<node x="67903" y="-116955" />
+		<node x="67903" y="-115955" />
+		<node x="66903" y="-115955" />
+	</territory>
+	<npcmaker name="Den_of_Evil_94" territory="Den_of_Evil_94" spawn="ALL" maximumNpcs="1">
+		<npc id="22031" pos="67403;-116455;-2172;51781" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_95" minZ="-2673" maxZ="-1873">
+		<node x="67415" y="-116962" />
+		<node x="68415" y="-116962" />
+		<node x="68415" y="-115962" />
+		<node x="67415" y="-115962" />
+	</territory>
+	<npcmaker name="Den_of_Evil_95" territory="Den_of_Evil_95" spawn="ALL" maximumNpcs="1">
+		<npc id="22033" pos="67915;-116462;-2173;3466" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_96" minZ="-2674" maxZ="-1874">
+		<node x="67213" y="-115645" />
+		<node x="68213" y="-115645" />
+		<node x="68213" y="-114645" />
+		<node x="67213" y="-114645" />
+	</territory>
+	<npcmaker name="Den_of_Evil_96" territory="Den_of_Evil_96" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="67713;-115145;-2174;15326" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_97" minZ="-2698" maxZ="-1898">
+		<node x="67381" y="-114432" />
+		<node x="68381" y="-114432" />
+		<node x="68381" y="-113432" />
+		<node x="67381" y="-113432" />
+	</territory>
+	<npcmaker name="Den_of_Evil_97" territory="Den_of_Evil_97" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="67881;-113932;-2198;17970" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_98" minZ="-2706" maxZ="-1906">
+		<node x="67099" y="-113536" />
+		<node x="68099" y="-113536" />
+		<node x="68099" y="-112536" />
+		<node x="67099" y="-112536" />
+	</territory>
+	<npcmaker name="Den_of_Evil_98" territory="Den_of_Evil_98" spawn="ALL" maximumNpcs="1">
+		<npc id="22046" pos="67599;-113036;-2206;51630" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="Den_of_Evil_99" minZ="-2701" maxZ="-1901">
+		<node x="67018" y="-112701" />
+		<node x="68018" y="-112701" />
+		<node x="68018" y="-111701" />
+		<node x="67018" y="-111701" />
+	</territory>
+	<npcmaker name="Den_of_Evil_99" territory="Den_of_Evil_99" spawn="ALL" maximumNpcs="1">
+		<npc id="22047" pos="67518;-112201;-2201;22819" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_10" minZ="-3943" maxZ="-3143">
+		<node x="88534" y="-118075" />
+		<node x="89534" y="-118075" />
+		<node x="89534" y="-117075" />
+		<node x="88534" y="-117075" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_10" territory="PavelRuins_ArchaicL_10" spawn="ALL" maximumNpcs="1">
+		<npc id="22057" pos="89034;-117575;-3443;10646" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_101" minZ="-3831" maxZ="-3031">
+		<node x="89313" y="-110350" />
+		<node x="90313" y="-110350" />
+		<node x="90313" y="-109350" />
+		<node x="89313" y="-109350" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_101" territory="PavelRuins_ArchaicL_101" spawn="ALL" maximumNpcs="1">
+		<npc id="22053" pos="89813;-109850;-3331;330" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_102" minZ="-3831" maxZ="-3031">
+		<node x="90250" y="-110636" />
+		<node x="91250" y="-110636" />
+		<node x="91250" y="-109636" />
+		<node x="90250" y="-109636" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_102" territory="PavelRuins_ArchaicL_102" spawn="ALL" maximumNpcs="1">
+		<npc id="22053" pos="90750;-110136;-3331;60340" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_103" minZ="-3831" maxZ="-3031">
+		<node x="89444" y="-110764" />
+		<node x="90444" y="-110764" />
+		<node x="90444" y="-109764" />
+		<node x="89444" y="-109764" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_103" territory="PavelRuins_ArchaicL_103" spawn="ALL" maximumNpcs="1">
+		<npc id="22062" pos="89944;-110264;-3331;30071" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_104" minZ="-3831" maxZ="-3031">
+		<node x="89265" y="-110256" />
+		<node x="90265" y="-110256" />
+		<node x="90265" y="-109256" />
+		<node x="89265" y="-109256" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_104" territory="PavelRuins_ArchaicL_104" spawn="ALL" maximumNpcs="1">
+		<npc id="22062" pos="89765;-109756;-3331;20015" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_105" minZ="-3831" maxZ="-3031">
+		<node x="89842" y="-110330" />
+		<node x="90842" y="-110330" />
+		<node x="90842" y="-109330" />
+		<node x="89842" y="-109330" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_105" territory="PavelRuins_ArchaicL_105" spawn="ALL" maximumNpcs="1">
+		<npc id="22064" pos="90342;-109830;-3331;64238" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_106" minZ="-3831" maxZ="-3031">
+		<node x="89721" y="-110843" />
+		<node x="90721" y="-110843" />
+		<node x="90721" y="-109843" />
+		<node x="89721" y="-109843" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_106" territory="PavelRuins_ArchaicL_106" spawn="ALL" maximumNpcs="1">
+		<npc id="22064" pos="90221;-110343;-3331;44392" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_107" minZ="-3831" maxZ="-3031">
+		<node x="89722" y="-110322" />
+		<node x="90722" y="-110322" />
+		<node x="90722" y="-109322" />
+		<node x="89722" y="-109322" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_107" territory="PavelRuins_ArchaicL_107" spawn="ALL" maximumNpcs="1">
+		<npc id="22059" pos="90222;-109822;-3331;17616" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_108" minZ="-3831" maxZ="-3031">
+		<node x="89206" y="-110649" />
+		<node x="90206" y="-110649" />
+		<node x="90206" y="-109649" />
+		<node x="89206" y="-109649" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_108" territory="PavelRuins_ArchaicL_108" spawn="ALL" maximumNpcs="1">
+		<npc id="22059" pos="89706;-110149;-3331;51161" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_109" minZ="-3831" maxZ="-3031">
+		<node x="89076" y="-110472" />
+		<node x="90076" y="-110472" />
+		<node x="90076" y="-109472" />
+		<node x="89076" y="-109472" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_109" territory="PavelRuins_ArchaicL_109" spawn="ALL" maximumNpcs="1">
+		<npc id="22053" pos="89576;-109972;-3331;17888" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_11" minZ="-4342" maxZ="-3542">
+		<node x="88598" y="-125102" />
+		<node x="89598" y="-125102" />
+		<node x="89598" y="-124102" />
+		<node x="88598" y="-124102" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_11" territory="PavelRuins_ArchaicL_11" spawn="ALL" maximumNpcs="1">
+		<npc id="22051" pos="89098;-124602;-3842;2635" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_110" minZ="-3831" maxZ="-3031">
+		<node x="89862" y="-110154" />
+		<node x="90862" y="-110154" />
+		<node x="90862" y="-109154" />
+		<node x="89862" y="-109154" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_110" territory="PavelRuins_ArchaicL_110" spawn="ALL" maximumNpcs="1">
+		<npc id="22053" pos="90362;-109654;-3331;4333" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_111" minZ="-3831" maxZ="-3031">
+		<node x="90046" y="-110964" />
+		<node x="91046" y="-110964" />
+		<node x="91046" y="-109964" />
+		<node x="90046" y="-109964" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_111" territory="PavelRuins_ArchaicL_111" spawn="ALL" maximumNpcs="1">
+		<npc id="22062" pos="90546;-110464;-3331;9915" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_112" minZ="-3859" maxZ="-3059">
+		<node x="90443" y="-111483" />
+		<node x="91443" y="-111483" />
+		<node x="91443" y="-110483" />
+		<node x="90443" y="-110483" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_112" territory="PavelRuins_ArchaicL_112" spawn="ALL" maximumNpcs="1">
+		<npc id="22059" pos="90943;-110983;-3359;54483" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_113" minZ="-3867" maxZ="-3067">
+		<node x="90572" y="-111573" />
+		<node x="91572" y="-111573" />
+		<node x="91572" y="-110573" />
+		<node x="90572" y="-110573" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_113" territory="PavelRuins_ArchaicL_113" spawn="ALL" maximumNpcs="1">
+		<npc id="22054" pos="91072;-111073;-3367;47559" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_114" minZ="-3873" maxZ="-3073">
+		<node x="90651" y="-111021" />
+		<node x="91651" y="-111021" />
+		<node x="91651" y="-110021" />
+		<node x="90651" y="-110021" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_114" territory="PavelRuins_ArchaicL_114" spawn="ALL" maximumNpcs="1">
+		<npc id="22053" pos="91151;-110521;-3373;13589" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_115" minZ="-3860" maxZ="-3060">
+		<node x="90677" y="-110639" />
+		<node x="91677" y="-110639" />
+		<node x="91677" y="-109639" />
+		<node x="90677" y="-109639" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_115" territory="PavelRuins_ArchaicL_115" spawn="ALL" maximumNpcs="1">
+		<npc id="22064" pos="91177;-110139;-3360;14469" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_116" minZ="-3872" maxZ="-3072">
+		<node x="90862" y="-110384" />
+		<node x="91862" y="-110384" />
+		<node x="91862" y="-109384" />
+		<node x="90862" y="-109384" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_116" territory="PavelRuins_ArchaicL_116" spawn="ALL" maximumNpcs="1">
+		<npc id="22053" pos="91362;-109884;-3372;6850" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_117" minZ="-3832" maxZ="-3032">
+		<node x="90398" y="-110795" />
+		<node x="91398" y="-110795" />
+		<node x="91398" y="-109795" />
+		<node x="90398" y="-109795" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_117" territory="PavelRuins_ArchaicL_117" spawn="ALL" maximumNpcs="1">
+		<npc id="22053" pos="90898;-110295;-3332;44845" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_118" minZ="-3837" maxZ="-3037">
+		<node x="90540" y="-110497" />
+		<node x="91540" y="-110497" />
+		<node x="91540" y="-109497" />
+		<node x="90540" y="-109497" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_118" territory="PavelRuins_ArchaicL_118" spawn="ALL" maximumNpcs="1">
+		<npc id="22062" pos="91040;-109997;-3337;14487" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_12" minZ="-4277" maxZ="-3477">
+		<node x="88044" y="-125262" />
+		<node x="89044" y="-125262" />
+		<node x="89044" y="-124262" />
+		<node x="88044" y="-124262" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_12" territory="PavelRuins_ArchaicL_12" spawn="ALL" maximumNpcs="1">
+		<npc id="22051" pos="88544;-124762;-3777;35700" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_120" minZ="-3827" maxZ="-3027">
+		<node x="87684" y="-105235" />
+		<node x="88684" y="-105235" />
+		<node x="88684" y="-104235" />
+		<node x="87684" y="-104235" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_120" territory="PavelRuins_ArchaicL_120" spawn="ALL" maximumNpcs="1">
+		<npc id="22074" pos="88184;-104735;-3327;23744" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_121" minZ="-3827" maxZ="-3027">
+		<node x="86960" y="-104539" />
+		<node x="87960" y="-104539" />
+		<node x="87960" y="-103539" />
+		<node x="86960" y="-103539" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_121" territory="PavelRuins_ArchaicL_121" spawn="ALL" maximumNpcs="1">
+		<npc id="22074" pos="87460;-104039;-3327;21162" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_122" minZ="-3827" maxZ="-3027">
+		<node x="86918" y="-104147" />
+		<node x="87918" y="-104147" />
+		<node x="87918" y="-103147" />
+		<node x="86918" y="-103147" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_122" territory="PavelRuins_ArchaicL_122" spawn="ALL" maximumNpcs="1">
+		<npc id="22075" pos="87418;-103647;-3327;14685" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_123" minZ="-3827" maxZ="-3027">
+		<node x="87174" y="-104962" />
+		<node x="88174" y="-104962" />
+		<node x="88174" y="-103962" />
+		<node x="87174" y="-103962" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_123" territory="PavelRuins_ArchaicL_123" spawn="ALL" maximumNpcs="1">
+		<npc id="22075" pos="87674;-104462;-3327;52382" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_124" minZ="-3827" maxZ="-3027">
+		<node x="87398" y="-105004" />
+		<node x="88398" y="-105004" />
+		<node x="88398" y="-104004" />
+		<node x="87398" y="-104004" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_124" territory="PavelRuins_ArchaicL_124" spawn="ALL" maximumNpcs="1">
+		<npc id="22062" pos="87898;-104504;-3327;6624" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_125" minZ="-3827" maxZ="-3027">
+		<node x="87076" y="-104541" />
+		<node x="88076" y="-104541" />
+		<node x="88076" y="-103541" />
+		<node x="87076" y="-103541" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_125" territory="PavelRuins_ArchaicL_125" spawn="ALL" maximumNpcs="1">
+		<npc id="22062" pos="87576;-104041;-3327;24226" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_126" minZ="-3827" maxZ="-3027">
+		<node x="92695" y="-106336" />
+		<node x="93695" y="-106336" />
+		<node x="93695" y="-105336" />
+		<node x="92695" y="-105336" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_126" territory="PavelRuins_ArchaicL_126" spawn="ALL" maximumNpcs="1">
+		<npc id="22077" pos="93195;-105836;-3327;3821" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_127" minZ="-3827" maxZ="-3027">
+		<node x="93875" y="-106117" />
+		<node x="94875" y="-106117" />
+		<node x="94875" y="-105117" />
+		<node x="93875" y="-105117" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_127" territory="PavelRuins_ArchaicL_127" spawn="ALL" maximumNpcs="1">
+		<npc id="22077" pos="94375;-105617;-3327;65310" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_128" minZ="-3827" maxZ="-3027">
+		<node x="94365" y="-106584" />
+		<node x="95365" y="-106584" />
+		<node x="95365" y="-105584" />
+		<node x="94365" y="-105584" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_128" territory="PavelRuins_ArchaicL_128" spawn="ALL" maximumNpcs="1">
+		<npc id="22063" pos="94865;-106084;-3327;54031" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_129" minZ="-3827" maxZ="-3027">
+		<node x="93624" y="-106874" />
+		<node x="94624" y="-106874" />
+		<node x="94624" y="-105874" />
+		<node x="93624" y="-105874" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_129" territory="PavelRuins_ArchaicL_129" spawn="ALL" maximumNpcs="1">
+		<npc id="22063" pos="94124;-106374;-3327;34271" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_13" minZ="-4242" maxZ="-3442">
+		<node x="87330" y="-125527" />
+		<node x="88330" y="-125527" />
+		<node x="88330" y="-124527" />
+		<node x="87330" y="-124527" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_13" territory="PavelRuins_ArchaicL_13" spawn="ALL" maximumNpcs="1">
+		<npc id="22051" pos="87830;-125027;-3742;34447" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_130" minZ="-3827" maxZ="-3027">
+		<node x="93296" y="-106017" />
+		<node x="94296" y="-106017" />
+		<node x="94296" y="-105017" />
+		<node x="93296" y="-105017" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_130" territory="PavelRuins_ArchaicL_130" spawn="ALL" maximumNpcs="1">
+		<npc id="22065" pos="93796;-105517;-3327;13208" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_131" minZ="-3827" maxZ="-3027">
+		<node x="94125" y="-105976" />
+		<node x="95125" y="-105976" />
+		<node x="95125" y="-104976" />
+		<node x="94125" y="-104976" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_131" territory="PavelRuins_ArchaicL_131" spawn="ALL" maximumNpcs="1">
+		<npc id="22065" pos="94625;-105476;-3327;0" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_132" minZ="-3827" maxZ="-3027">
+		<node x="94175" y="-106614" />
+		<node x="95175" y="-106614" />
+		<node x="95175" y="-105614" />
+		<node x="94175" y="-105614" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_132" territory="PavelRuins_ArchaicL_132" spawn="ALL" maximumNpcs="1">
+		<npc id="22076" pos="94675;-106114;-3327;46749" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_133" minZ="-3827" maxZ="-3027">
+		<node x="93221" y="-106783" />
+		<node x="94221" y="-106783" />
+		<node x="94221" y="-105783" />
+		<node x="93221" y="-105783" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_133" territory="PavelRuins_ArchaicL_133" spawn="ALL" maximumNpcs="1">
+		<npc id="22076" pos="93721;-106283;-3327;32918" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_134" minZ="-3827" maxZ="-3027">
+		<node x="93880" y="-107039" />
+		<node x="94880" y="-107039" />
+		<node x="94880" y="-106039" />
+		<node x="93880" y="-106039" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_134" territory="PavelRuins_ArchaicL_134" spawn="ALL" maximumNpcs="1">
+		<npc id="22065" pos="94380;-106539;-3327;55737" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_135" minZ="-3827" maxZ="-3027">
+		<node x="94508" y="-105813" />
+		<node x="95508" y="-105813" />
+		<node x="95508" y="-104813" />
+		<node x="94508" y="-104813" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_135" territory="PavelRuins_ArchaicL_135" spawn="ALL" maximumNpcs="1">
+		<npc id="22065" pos="95008;-105313;-3327;12745" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_136" minZ="-3827" maxZ="-3027">
+		<node x="94005" y="-105659" />
+		<node x="95005" y="-105659" />
+		<node x="95005" y="-104659" />
+		<node x="94005" y="-104659" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_136" territory="PavelRuins_ArchaicL_136" spawn="ALL" maximumNpcs="1">
+		<npc id="22076" pos="94505;-105159;-3327;29609" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_137" minZ="-3827" maxZ="-3027">
+		<node x="92810" y="-106710" />
+		<node x="93810" y="-106710" />
+		<node x="93810" y="-105710" />
+		<node x="92810" y="-105710" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_137" territory="PavelRuins_ArchaicL_137" spawn="ALL" maximumNpcs="1">
+		<npc id="22076" pos="93310;-106210;-3327;42285" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_138" minZ="-3827" maxZ="-3027">
+		<node x="93513" y="-107508" />
+		<node x="94513" y="-107508" />
+		<node x="94513" y="-106508" />
+		<node x="93513" y="-106508" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_138" territory="PavelRuins_ArchaicL_138" spawn="ALL" maximumNpcs="1">
+		<npc id="22063" pos="94013;-107008;-3327;7485" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_139" minZ="-3827" maxZ="-3027">
+		<node x="94283" y="-107099" />
+		<node x="95283" y="-107099" />
+		<node x="95283" y="-106099" />
+		<node x="94283" y="-106099" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_139" territory="PavelRuins_ArchaicL_139" spawn="ALL" maximumNpcs="1">
+		<npc id="22063" pos="94783;-106599;-3327;4933" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_14" minZ="-4257" maxZ="-3457">
+		<node x="86505" y="-125872" />
+		<node x="87505" y="-125872" />
+		<node x="87505" y="-124872" />
+		<node x="86505" y="-124872" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_14" territory="PavelRuins_ArchaicL_14" spawn="ALL" maximumNpcs="1">
+		<npc id="22051" pos="87005;-125372;-3757;38003" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_140" minZ="-3827" maxZ="-3027">
+		<node x="94791" y="-106099" />
+		<node x="95791" y="-106099" />
+		<node x="95791" y="-105099" />
+		<node x="94791" y="-105099" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_140" territory="PavelRuins_ArchaicL_140" spawn="ALL" maximumNpcs="1">
+		<npc id="22063" pos="95291;-105599;-3327;13322" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_141" minZ="-3827" maxZ="-3027">
+		<node x="93666" y="-105664" />
+		<node x="94666" y="-105664" />
+		<node x="94666" y="-104664" />
+		<node x="93666" y="-104664" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_141" territory="PavelRuins_ArchaicL_141" spawn="ALL" maximumNpcs="1">
+		<npc id="22077" pos="94166;-105164;-3327;11009" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_142" minZ="-3827" maxZ="-3027">
+		<node x="93435" y="-106827" />
+		<node x="94435" y="-106827" />
+		<node x="94435" y="-105827" />
+		<node x="93435" y="-105827" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_142" territory="PavelRuins_ArchaicL_142" spawn="ALL" maximumNpcs="1">
+		<npc id="22077" pos="93935;-106327;-3327;48011" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_143" minZ="-3827" maxZ="-3027">
+		<node x="91561" y="-107638" />
+		<node x="92561" y="-107638" />
+		<node x="92561" y="-106638" />
+		<node x="91561" y="-106638" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_143" territory="PavelRuins_ArchaicL_143" spawn="ALL" maximumNpcs="1">
+		<npc id="22074" pos="92061;-107138;-3327;54253" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_144" minZ="-3827" maxZ="-3027">
+		<node x="91907" y="-107855" />
+		<node x="92907" y="-107855" />
+		<node x="92907" y="-106855" />
+		<node x="91907" y="-106855" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_144" territory="PavelRuins_ArchaicL_144" spawn="ALL" maximumNpcs="1">
+		<npc id="22072" pos="92407;-107355;-3327;50987" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_145" minZ="-3827" maxZ="-3027">
+		<node x="92026" y="-108216" />
+		<node x="93026" y="-108216" />
+		<node x="93026" y="-107216" />
+		<node x="92026" y="-107216" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_145" territory="PavelRuins_ArchaicL_145" spawn="ALL" maximumNpcs="1">
+		<npc id="22062" pos="92526;-107716;-3327;57105" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_146" minZ="-3827" maxZ="-3027">
+		<node x="91697" y="-108045" />
+		<node x="92697" y="-108045" />
+		<node x="92697" y="-107045" />
+		<node x="91697" y="-107045" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_146" territory="PavelRuins_ArchaicL_146" spawn="ALL" maximumNpcs="1">
+		<npc id="22062" pos="92197;-107545;-3327;26148" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_147" minZ="-3827" maxZ="-3027">
+		<node x="91684" y="-107788" />
+		<node x="92684" y="-107788" />
+		<node x="92684" y="-106788" />
+		<node x="91684" y="-106788" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_147" territory="PavelRuins_ArchaicL_147" spawn="ALL" maximumNpcs="1">
+		<npc id="22074" pos="92184;-107288;-3327;16441" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_148" minZ="-3827" maxZ="-3027">
+		<node x="92421" y="-108594" />
+		<node x="93421" y="-108594" />
+		<node x="93421" y="-107594" />
+		<node x="92421" y="-107594" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_148" territory="PavelRuins_ArchaicL_148" spawn="ALL" maximumNpcs="1">
+		<npc id="22072" pos="92921;-108094;-3327;30908" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_149" minZ="-3827" maxZ="-3027">
+		<node x="91734" y="-105099" />
+		<node x="92734" y="-105099" />
+		<node x="92734" y="-104099" />
+		<node x="91734" y="-104099" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_149" territory="PavelRuins_ArchaicL_149" spawn="ALL" maximumNpcs="1">
+		<npc id="22074" pos="92234;-104599;-3327;11105" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_15" minZ="-4279" maxZ="-3479">
+		<node x="86209" y="-126263" />
+		<node x="87209" y="-126263" />
+		<node x="87209" y="-125263" />
+		<node x="86209" y="-125263" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_15" territory="PavelRuins_ArchaicL_15" spawn="ALL" maximumNpcs="1">
+		<npc id="22051" pos="86709;-125763;-3779;44841" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_150" minZ="-3827" maxZ="-3027">
+		<node x="92112" y="-104545" />
+		<node x="93112" y="-104545" />
+		<node x="93112" y="-103545" />
+		<node x="92112" y="-103545" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_150" territory="PavelRuins_ArchaicL_150" spawn="ALL" maximumNpcs="1">
+		<npc id="22074" pos="92612;-104045;-3327;8434" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_151" minZ="-3827" maxZ="-3027">
+		<node x="92080" y="-104808" />
+		<node x="93080" y="-104808" />
+		<node x="93080" y="-103808" />
+		<node x="92080" y="-103808" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_151" territory="PavelRuins_ArchaicL_151" spawn="ALL" maximumNpcs="1">
+		<npc id="22062" pos="92580;-104308;-3327;47790" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_152" minZ="-3827" maxZ="-3027">
+		<node x="91520" y="-104950" />
+		<node x="92520" y="-104950" />
+		<node x="92520" y="-103950" />
+		<node x="91520" y="-103950" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_152" territory="PavelRuins_ArchaicL_152" spawn="ALL" maximumNpcs="1">
+		<npc id="22062" pos="92020;-104450;-3327;35393" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_153" minZ="-3827" maxZ="-3027">
+		<node x="91872" y="-104638" />
+		<node x="92872" y="-104638" />
+		<node x="92872" y="-103638" />
+		<node x="91872" y="-103638" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_153" territory="PavelRuins_ArchaicL_153" spawn="ALL" maximumNpcs="1">
+		<npc id="22072" pos="92372;-104138;-3327;8906" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_154" minZ="-3827" maxZ="-3027">
+		<node x="91889" y="-104958" />
+		<node x="92889" y="-104958" />
+		<node x="92889" y="-103958" />
+		<node x="91889" y="-103958" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_154" territory="PavelRuins_ArchaicL_154" spawn="ALL" maximumNpcs="1">
+		<npc id="22072" pos="92389;-104458;-3327;49705" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_155" minZ="-3827" maxZ="-3027">
+		<node x="94982" y="-104419" />
+		<node x="95982" y="-104419" />
+		<node x="95982" y="-103419" />
+		<node x="94982" y="-103419" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_155" territory="PavelRuins_ArchaicL_155" spawn="ALL" maximumNpcs="1">
+		<npc id="22074" pos="95482;-103919;-3327;54408" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_156" minZ="-3827" maxZ="-3027">
+		<node x="95548" y="-104837" />
+		<node x="96548" y="-104837" />
+		<node x="96548" y="-103837" />
+		<node x="95548" y="-103837" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_156" territory="PavelRuins_ArchaicL_156" spawn="ALL" maximumNpcs="1">
+		<npc id="22074" pos="96048;-104337;-3327;58509" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_157" minZ="-3827" maxZ="-3027">
+		<node x="95322" y="-104854" />
+		<node x="96322" y="-104854" />
+		<node x="96322" y="-103854" />
+		<node x="95322" y="-103854" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_157" territory="PavelRuins_ArchaicL_157" spawn="ALL" maximumNpcs="1">
+		<npc id="22062" pos="95822;-104354;-3327;33551" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_158" minZ="-3827" maxZ="-3027">
+		<node x="95268" y="-104438" />
+		<node x="96268" y="-104438" />
+		<node x="96268" y="-103438" />
+		<node x="95268" y="-103438" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_158" territory="PavelRuins_ArchaicL_158" spawn="ALL" maximumNpcs="1">
+		<npc id="22062" pos="95768;-103938;-3327;17731" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_159" minZ="-3827" maxZ="-3027">
+		<node x="95487" y="-104594" />
+		<node x="96487" y="-104594" />
+		<node x="96487" y="-103594" />
+		<node x="95487" y="-103594" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_159" territory="PavelRuins_ArchaicL_159" spawn="ALL" maximumNpcs="1">
+		<npc id="22072" pos="95987;-104094;-3327;62777" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_16" minZ="-4320" maxZ="-3520">
+		<node x="87109" y="-126409" />
+		<node x="88109" y="-126409" />
+		<node x="88109" y="-125409" />
+		<node x="87109" y="-125409" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_16" territory="PavelRuins_ArchaicL_16" spawn="ALL" maximumNpcs="1">
+		<npc id="22051" pos="87609;-125909;-3820;61137" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_160" minZ="-3827" maxZ="-3027">
+		<node x="95075" y="-104626" />
+		<node x="96075" y="-104626" />
+		<node x="96075" y="-103626" />
+		<node x="95075" y="-103626" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_160" territory="PavelRuins_ArchaicL_160" spawn="ALL" maximumNpcs="1">
+		<npc id="22072" pos="95575;-104126;-3327;35911" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_161" minZ="-3827" maxZ="-3027">
+		<node x="95813" y="-107630" />
+		<node x="96813" y="-107630" />
+		<node x="96813" y="-106630" />
+		<node x="95813" y="-106630" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_161" territory="PavelRuins_ArchaicL_161" spawn="ALL" maximumNpcs="1">
+		<npc id="22074" pos="96313;-107130;-3327;38213" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_162" minZ="-3827" maxZ="-3027">
+		<node x="95188" y="-108383" />
+		<node x="96188" y="-108383" />
+		<node x="96188" y="-107383" />
+		<node x="95188" y="-107383" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_162" territory="PavelRuins_ArchaicL_162" spawn="ALL" maximumNpcs="1">
+		<npc id="22074" pos="95688;-107883;-3327;41572" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_163" minZ="-3827" maxZ="-3027">
+		<node x="95247" y="-107853" />
+		<node x="96247" y="-107853" />
+		<node x="96247" y="-106853" />
+		<node x="95247" y="-106853" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_163" territory="PavelRuins_ArchaicL_163" spawn="ALL" maximumNpcs="1">
+		<npc id="22062" pos="95747;-107353;-3327;15228" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_164" minZ="-3827" maxZ="-3027">
+		<node x="95698" y="-107979" />
+		<node x="96698" y="-107979" />
+		<node x="96698" y="-106979" />
+		<node x="95698" y="-106979" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_164" territory="PavelRuins_ArchaicL_164" spawn="ALL" maximumNpcs="1">
+		<npc id="22072" pos="96198;-107479;-3327;9896" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_165" minZ="-3827" maxZ="-3027">
+		<node x="94942" y="-108220" />
+		<node x="95942" y="-108220" />
+		<node x="95942" y="-107220" />
+		<node x="94942" y="-107220" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_165" territory="PavelRuins_ArchaicL_165" spawn="ALL" maximumNpcs="1">
+		<npc id="22062" pos="95442;-107720;-3327;35064" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_166" minZ="-3827" maxZ="-3027">
+		<node x="95160" y="-108028" />
+		<node x="96160" y="-108028" />
+		<node x="96160" y="-107028" />
+		<node x="95160" y="-107028" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_166" territory="PavelRuins_ArchaicL_166" spawn="ALL" maximumNpcs="1">
+		<npc id="22072" pos="95660;-107528;-3327;7532" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_167" minZ="-3827" maxZ="-3027">
+		<node x="88471" y="-110043" />
+		<node x="89471" y="-110043" />
+		<node x="89471" y="-109043" />
+		<node x="88471" y="-109043" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_167" territory="PavelRuins_ArchaicL_167" spawn="ALL" maximumNpcs="1">
+		<npc id="22074" pos="88971;-109543;-3327;41929" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_168" minZ="-3827" maxZ="-3027">
+		<node x="88338" y="-110437" />
+		<node x="89338" y="-110437" />
+		<node x="89338" y="-109437" />
+		<node x="88338" y="-109437" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_168" territory="PavelRuins_ArchaicL_168" spawn="ALL" maximumNpcs="1">
+		<npc id="22062" pos="88838;-109937;-3327;38489" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_169" minZ="-3827" maxZ="-3027">
+		<node x="88074" y="-110613" />
+		<node x="89074" y="-110613" />
+		<node x="89074" y="-109613" />
+		<node x="88074" y="-109613" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_169" territory="PavelRuins_ArchaicL_169" spawn="ALL" maximumNpcs="1">
+		<npc id="22074" pos="88574;-110113;-3327;41174" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_17" minZ="-4333" maxZ="-3533">
+		<node x="86738" y="-126846" />
+		<node x="87738" y="-126846" />
+		<node x="87738" y="-125846" />
+		<node x="86738" y="-125846" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_17" territory="PavelRuins_ArchaicL_17" spawn="ALL" maximumNpcs="1">
+		<npc id="22051" pos="87238;-126346;-3833;56116" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_170" minZ="-3827" maxZ="-3027">
+		<node x="88238" y="-110257" />
+		<node x="89238" y="-110257" />
+		<node x="89238" y="-109257" />
+		<node x="88238" y="-109257" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_170" territory="PavelRuins_ArchaicL_170" spawn="ALL" maximumNpcs="1">
+		<npc id="22072" pos="88738;-109757;-3327;11882" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_171" minZ="-3827" maxZ="-3027">
+		<node x="88443" y="-109747" />
+		<node x="89443" y="-109747" />
+		<node x="89443" y="-108747" />
+		<node x="88443" y="-108747" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_171" territory="PavelRuins_ArchaicL_171" spawn="ALL" maximumNpcs="1">
+		<npc id="22072" pos="88943;-109247;-3327;12398" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_172" minZ="-3827" maxZ="-3027">
+		<node x="88546" y="-109484" />
+		<node x="89546" y="-109484" />
+		<node x="89546" y="-108484" />
+		<node x="88546" y="-108484" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_172" territory="PavelRuins_ArchaicL_172" spawn="ALL" maximumNpcs="1">
+		<npc id="22062" pos="89046;-108984;-3327;12491" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_177" minZ="-3810" maxZ="-3010">
+		<node x="90960" y="-113703" />
+		<node x="91960" y="-113703" />
+		<node x="91960" y="-112703" />
+		<node x="90960" y="-112703" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_177" territory="PavelRuins_ArchaicL_177" spawn="ALL" maximumNpcs="1">
+		<npc id="22056" pos="91460;-113203;-3310;58716" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_178" minZ="-3804" maxZ="-3004">
+		<node x="91147" y="-114423" />
+		<node x="92147" y="-114423" />
+		<node x="92147" y="-113423" />
+		<node x="91147" y="-113423" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_178" territory="PavelRuins_ArchaicL_178" spawn="ALL" maximumNpcs="1">
+		<npc id="22056" pos="91647;-113923;-3304;49185" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_179" minZ="-3823" maxZ="-3023">
+		<node x="91698" y="-114663" />
+		<node x="92698" y="-114663" />
+		<node x="92698" y="-113663" />
+		<node x="91698" y="-113663" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_179" territory="PavelRuins_ArchaicL_179" spawn="ALL" maximumNpcs="1">
+		<npc id="22058" pos="92198;-114163;-3323;42740" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_18" minZ="-5036" maxZ="-4236">
+		<node x="93147" y="-123119" />
+		<node x="94147" y="-123119" />
+		<node x="94147" y="-122119" />
+		<node x="93147" y="-122119" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_18" territory="PavelRuins_ArchaicL_18" spawn="ALL" maximumNpcs="1">
+		<npc id="22053" pos="93647;-122619;-4536;2945" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_180" minZ="-3836" maxZ="-3036">
+		<node x="91416" y="-114919" />
+		<node x="92416" y="-114919" />
+		<node x="92416" y="-113919" />
+		<node x="91416" y="-113919" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_180" territory="PavelRuins_ArchaicL_180" spawn="ALL" maximumNpcs="1">
+		<npc id="22058" pos="91916;-114419;-3336;36641" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_181" minZ="-3854" maxZ="-3054">
+		<node x="91126" y="-115131" />
+		<node x="92126" y="-115131" />
+		<node x="92126" y="-114131" />
+		<node x="91126" y="-114131" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_181" territory="PavelRuins_ArchaicL_181" spawn="ALL" maximumNpcs="1">
+		<npc id="22055" pos="91626;-114631;-3354;62965" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_182" minZ="-3854" maxZ="-3054">
+		<node x="91405" y="-115201" />
+		<node x="92405" y="-115201" />
+		<node x="92405" y="-114201" />
+		<node x="91405" y="-114201" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_182" territory="PavelRuins_ArchaicL_182" spawn="ALL" maximumNpcs="1">
+		<npc id="22058" pos="91905;-114701;-3354;59087" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_183" minZ="-3837" maxZ="-3037">
+		<node x="90364" y="-114675" />
+		<node x="91364" y="-114675" />
+		<node x="91364" y="-113675" />
+		<node x="90364" y="-113675" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_183" territory="PavelRuins_ArchaicL_183" spawn="ALL" maximumNpcs="1">
+		<npc id="22056" pos="90864;-114175;-3337;30446" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_184" minZ="-3833" maxZ="-3033">
+		<node x="90292" y="-114492" />
+		<node x="91292" y="-114492" />
+		<node x="91292" y="-113492" />
+		<node x="90292" y="-113492" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_184" territory="PavelRuins_ArchaicL_184" spawn="ALL" maximumNpcs="1">
+		<npc id="22055" pos="90792;-113992;-3333;20294" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_185" minZ="-3849" maxZ="-3049">
+		<node x="90307" y="-115150" />
+		<node x="91307" y="-115150" />
+		<node x="91307" y="-114150" />
+		<node x="90307" y="-114150" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_185" territory="PavelRuins_ArchaicL_185" spawn="ALL" maximumNpcs="1">
+		<npc id="22058" pos="90807;-114650;-3349;59066" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_186" minZ="-3902" maxZ="-3102">
+		<node x="89028" y="-114177" />
+		<node x="90028" y="-114177" />
+		<node x="90028" y="-113177" />
+		<node x="89028" y="-113177" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_186" territory="PavelRuins_ArchaicL_186" spawn="ALL" maximumNpcs="1">
+		<npc id="22055" pos="89528;-113677;-3402;27794" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_187" minZ="-3897" maxZ="-3097">
+		<node x="88858" y="-113942" />
+		<node x="89858" y="-113942" />
+		<node x="89858" y="-112942" />
+		<node x="88858" y="-112942" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_187" territory="PavelRuins_ArchaicL_187" spawn="ALL" maximumNpcs="1">
+		<npc id="22058" pos="89358;-113442;-3397;3322" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_188" minZ="-3841" maxZ="-3041">
+		<node x="89284" y="-113370" />
+		<node x="90284" y="-113370" />
+		<node x="90284" y="-112370" />
+		<node x="89284" y="-112370" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_188" territory="PavelRuins_ArchaicL_188" spawn="ALL" maximumNpcs="1">
+		<npc id="22055" pos="89784;-112870;-3341;5637" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_189" minZ="-3859" maxZ="-3059">
+		<node x="89484" y="-113026" />
+		<node x="90484" y="-113026" />
+		<node x="90484" y="-112026" />
+		<node x="89484" y="-112026" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_189" territory="PavelRuins_ArchaicL_189" spawn="ALL" maximumNpcs="1">
+		<npc id="22057" pos="89984;-112526;-3359;12248" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_19" minZ="-5045" maxZ="-4245">
+		<node x="94431" y="-122630" />
+		<node x="95431" y="-122630" />
+		<node x="95431" y="-121630" />
+		<node x="94431" y="-121630" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_19" territory="PavelRuins_ArchaicL_19" spawn="ALL" maximumNpcs="1">
+		<npc id="22054" pos="94931;-122130;-4545;1810" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_190" minZ="-3842" maxZ="-3042">
+		<node x="90312" y="-113527" />
+		<node x="91312" y="-113527" />
+		<node x="91312" y="-112527" />
+		<node x="90312" y="-112527" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_190" territory="PavelRuins_ArchaicL_190" spawn="ALL" maximumNpcs="1">
+		<npc id="22056" pos="90812;-113027;-3342;20204" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_191" minZ="-3859" maxZ="-3059">
+		<node x="88553" y="-113266" />
+		<node x="89553" y="-113266" />
+		<node x="89553" y="-112266" />
+		<node x="88553" y="-112266" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_191" territory="PavelRuins_ArchaicL_191" spawn="ALL" maximumNpcs="1">
+		<npc id="22058" pos="89053;-112766;-3359;37971" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_192" minZ="-3869" maxZ="-3069">
+		<node x="88137" y="-113882" />
+		<node x="89137" y="-113882" />
+		<node x="89137" y="-112882" />
+		<node x="88137" y="-112882" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_192" territory="PavelRuins_ArchaicL_192" spawn="ALL" maximumNpcs="1">
+		<npc id="22058" pos="88637;-113382;-3369;45109" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_193" minZ="-3756" maxZ="-2956">
+		<node x="87939" y="-114259" />
+		<node x="88939" y="-114259" />
+		<node x="88939" y="-113259" />
+		<node x="87939" y="-113259" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_193" territory="PavelRuins_ArchaicL_193" spawn="ALL" maximumNpcs="1">
+		<npc id="22057" pos="88439;-113759;-3256;38814" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_194" minZ="-3761" maxZ="-2961">
+		<node x="87738" y="-114739" />
+		<node x="88738" y="-114739" />
+		<node x="88738" y="-113739" />
+		<node x="87738" y="-113739" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_194" territory="PavelRuins_ArchaicL_194" spawn="ALL" maximumNpcs="1">
+		<npc id="22055" pos="88238;-114239;-3261;23250" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_195" minZ="-3837" maxZ="-3037">
+		<node x="88036" y="-115038" />
+		<node x="89036" y="-115038" />
+		<node x="89036" y="-114038" />
+		<node x="88036" y="-114038" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_195" territory="PavelRuins_ArchaicL_195" spawn="ALL" maximumNpcs="1">
+		<npc id="22058" pos="88536;-114538;-3337;57541" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_196" minZ="-3806" maxZ="-3006">
+		<node x="87831" y="-114933" />
+		<node x="88831" y="-114933" />
+		<node x="88831" y="-113933" />
+		<node x="87831" y="-113933" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_196" territory="PavelRuins_ArchaicL_196" spawn="ALL" maximumNpcs="1">
+		<npc id="22056" pos="88331;-114433;-3306;21333" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_197" minZ="-3615" maxZ="-2815">
+		<node x="87053" y="-114705" />
+		<node x="88053" y="-114705" />
+		<node x="88053" y="-113705" />
+		<node x="87053" y="-113705" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_197" territory="PavelRuins_ArchaicL_197" spawn="ALL" maximumNpcs="1">
+		<npc id="22056" pos="87553;-114205;-3115;54477" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_198" minZ="-3541" maxZ="-2741">
+		<node x="86244" y="-114289" />
+		<node x="87244" y="-114289" />
+		<node x="87244" y="-113289" />
+		<node x="86244" y="-113289" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_198" territory="PavelRuins_ArchaicL_198" spawn="ALL" maximumNpcs="1">
+		<npc id="22055" pos="86744;-113789;-3041;28110" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_199" minZ="-3603" maxZ="-2803">
+		<node x="86652" y="-114233" />
+		<node x="87652" y="-114233" />
+		<node x="87652" y="-113233" />
+		<node x="86652" y="-113233" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_199" territory="PavelRuins_ArchaicL_199" spawn="ALL" maximumNpcs="1">
+		<npc id="22057" pos="87152;-113733;-3103;43430" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_2" minZ="-4311" maxZ="-3511">
+		<node x="89025" y="-118684" />
+		<node x="90025" y="-118684" />
+		<node x="90025" y="-117684" />
+		<node x="89025" y="-117684" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_2" territory="PavelRuins_ArchaicL_2" spawn="ALL" maximumNpcs="1">
+		<npc id="22057" pos="89525;-118184;-3811;34914" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_20" minZ="-5055" maxZ="-4255">
+		<node x="93991" y="-120774" />
+		<node x="94991" y="-120774" />
+		<node x="94991" y="-119774" />
+		<node x="93991" y="-119774" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_20" territory="PavelRuins_ArchaicL_20" spawn="ALL" maximumNpcs="1">
+		<npc id="22060" pos="94491;-120274;-4555;12066" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_200" minZ="-3494" maxZ="-2694">
+		<node x="86230" y="-113769" />
+		<node x="87230" y="-113769" />
+		<node x="87230" y="-112769" />
+		<node x="86230" y="-112769" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_200" territory="PavelRuins_ArchaicL_200" spawn="ALL" maximumNpcs="1">
+		<npc id="22058" pos="86730;-113269;-2994;26353" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_201" minZ="-3468" maxZ="-2668">
+		<node x="86124" y="-113527" />
+		<node x="87124" y="-113527" />
+		<node x="87124" y="-112527" />
+		<node x="86124" y="-112527" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_201" territory="PavelRuins_ArchaicL_201" spawn="ALL" maximumNpcs="1">
+		<npc id="22056" pos="86624;-113027;-2968;44438" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_202" minZ="-3512" maxZ="-2712">
+		<node x="86632" y="-113168" />
+		<node x="87632" y="-113168" />
+		<node x="87632" y="-112168" />
+		<node x="86632" y="-112168" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_202" territory="PavelRuins_ArchaicL_202" spawn="ALL" maximumNpcs="1">
+		<npc id="22057" pos="87132;-112668;-3012;4568" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_203" minZ="-3630" maxZ="-2830">
+		<node x="87035" y="-113193" />
+		<node x="88035" y="-113193" />
+		<node x="88035" y="-112193" />
+		<node x="87035" y="-112193" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_203" territory="PavelRuins_ArchaicL_203" spawn="ALL" maximumNpcs="1">
+		<npc id="22058" pos="87535;-112693;-3130;23297" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_204" minZ="-3718" maxZ="-2918">
+		<node x="87313" y="-113254" />
+		<node x="88313" y="-113254" />
+		<node x="88313" y="-112254" />
+		<node x="87313" y="-112254" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_204" territory="PavelRuins_ArchaicL_204" spawn="ALL" maximumNpcs="1">
+		<npc id="22056" pos="87813;-112754;-3218;62070" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_205" minZ="-3802" maxZ="-3002">
+		<node x="87943" y="-112903" />
+		<node x="88943" y="-112903" />
+		<node x="88943" y="-111903" />
+		<node x="87943" y="-111903" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_205" territory="PavelRuins_ArchaicL_205" spawn="ALL" maximumNpcs="1">
+		<npc id="22055" pos="88443;-112403;-3302;65472" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_206" minZ="-3621" maxZ="-2821">
+		<node x="87301" y="-112395" />
+		<node x="88301" y="-112395" />
+		<node x="88301" y="-111395" />
+		<node x="87301" y="-111395" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_206" territory="PavelRuins_ArchaicL_206" spawn="ALL" maximumNpcs="1">
+		<npc id="22055" pos="87801;-111895;-3121;23378" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_207" minZ="-3546" maxZ="-2746">
+		<node x="87053" y="-112205" />
+		<node x="88053" y="-112205" />
+		<node x="88053" y="-111205" />
+		<node x="87053" y="-111205" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_207" territory="PavelRuins_ArchaicL_207" spawn="ALL" maximumNpcs="1">
+		<npc id="22056" pos="87553;-111705;-3046;13326" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_208" minZ="-3486" maxZ="-2686">
+		<node x="86724" y="-112348" />
+		<node x="87724" y="-112348" />
+		<node x="87724" y="-111348" />
+		<node x="86724" y="-111348" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_208" territory="PavelRuins_ArchaicL_208" spawn="ALL" maximumNpcs="1">
+		<npc id="22057" pos="87224;-111848;-2986;34904" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_209" minZ="-3451" maxZ="-2651">
+		<node x="86362" y="-112078" />
+		<node x="87362" y="-112078" />
+		<node x="87362" y="-111078" />
+		<node x="86362" y="-111078" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_209" territory="PavelRuins_ArchaicL_209" spawn="ALL" maximumNpcs="1">
+		<npc id="22058" pos="86862;-111578;-2951;23604" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_21" minZ="-5053" maxZ="-4253">
+		<node x="93076" y="-120523" />
+		<node x="94076" y="-120523" />
+		<node x="94076" y="-119523" />
+		<node x="93076" y="-119523" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_21" territory="PavelRuins_ArchaicL_21" spawn="ALL" maximumNpcs="1">
+		<npc id="22060" pos="93576;-120023;-4553;30480" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_210" minZ="-3805" maxZ="-3005">
+		<node x="87425" y="-111669" />
+		<node x="88425" y="-111669" />
+		<node x="88425" y="-110669" />
+		<node x="87425" y="-110669" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_210" territory="PavelRuins_ArchaicL_210" spawn="ALL" maximumNpcs="1">
+		<npc id="22055" pos="87925;-111169;-3305;1135" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_211" minZ="-3814" maxZ="-3014">
+		<node x="87081" y="-110715" />
+		<node x="88081" y="-110715" />
+		<node x="88081" y="-109715" />
+		<node x="87081" y="-109715" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_211" territory="PavelRuins_ArchaicL_211" spawn="ALL" maximumNpcs="1">
+		<npc id="22056" pos="87581;-110215;-3314;18865" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_212" minZ="-3811" maxZ="-3011">
+		<node x="86714" y="-110248" />
+		<node x="87714" y="-110248" />
+		<node x="87714" y="-109248" />
+		<node x="86714" y="-109248" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_212" territory="PavelRuins_ArchaicL_212" spawn="ALL" maximumNpcs="1">
+		<npc id="22056" pos="87214;-109748;-3311;20795" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_213" minZ="-3814" maxZ="-3014">
+		<node x="86425" y="-110017" />
+		<node x="87425" y="-110017" />
+		<node x="87425" y="-109017" />
+		<node x="86425" y="-109017" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_213" territory="PavelRuins_ArchaicL_213" spawn="ALL" maximumNpcs="1">
+		<npc id="22057" pos="86925;-109517;-3314;25922" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_214" minZ="-3716" maxZ="-2916">
+		<node x="86338" y="-110822" />
+		<node x="87338" y="-110822" />
+		<node x="87338" y="-109822" />
+		<node x="86338" y="-109822" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_214" territory="PavelRuins_ArchaicL_214" spawn="ALL" maximumNpcs="1">
+		<npc id="22058" pos="86838;-110322;-3216;45428" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_215" minZ="-3330" maxZ="-2530">
+		<node x="85632" y="-112424" />
+		<node x="86632" y="-112424" />
+		<node x="86632" y="-111424" />
+		<node x="85632" y="-111424" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_215" territory="PavelRuins_ArchaicL_215" spawn="ALL" maximumNpcs="1">
+		<npc id="22056" pos="86132;-111924;-2830;41700" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_216" minZ="-3268" maxZ="-2468">
+		<node x="85308" y="-113205" />
+		<node x="86308" y="-113205" />
+		<node x="86308" y="-112205" />
+		<node x="85308" y="-112205" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_216" territory="PavelRuins_ArchaicL_216" spawn="ALL" maximumNpcs="1">
+		<npc id="22055" pos="85808;-112705;-2768;48324" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_217" minZ="-3274" maxZ="-2474">
+		<node x="85247" y="-113830" />
+		<node x="86247" y="-113830" />
+		<node x="86247" y="-112830" />
+		<node x="85247" y="-112830" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_217" territory="PavelRuins_ArchaicL_217" spawn="ALL" maximumNpcs="1">
+		<npc id="22056" pos="85747;-113330;-2774;49493" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_218" minZ="-3934" maxZ="-3134">
+		<node x="85777" y="-116179" />
+		<node x="86777" y="-116179" />
+		<node x="86777" y="-115179" />
+		<node x="85777" y="-115179" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_218" territory="PavelRuins_ArchaicL_218" spawn="ALL" maximumNpcs="1">
+		<npc id="22057" pos="86277;-115679;-3434;51434" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_219" minZ="-3941" maxZ="-3141">
+		<node x="86309" y="-116778" />
+		<node x="87309" y="-116778" />
+		<node x="87309" y="-115778" />
+		<node x="86309" y="-115778" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_219" territory="PavelRuins_ArchaicL_219" spawn="ALL" maximumNpcs="1">
+		<npc id="22056" pos="86809;-116278;-3441;53385" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_22" minZ="-5050" maxZ="-4250">
+		<node x="93589" y="-122336" />
+		<node x="94589" y="-122336" />
+		<node x="94589" y="-121336" />
+		<node x="93589" y="-121336" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_22" territory="PavelRuins_ArchaicL_22" spawn="ALL" maximumNpcs="1">
+		<npc id="22060" pos="94089;-121836;-4550;52113" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_220" minZ="-3973" maxZ="-3173">
+		<node x="86931" y="-117537" />
+		<node x="87931" y="-117537" />
+		<node x="87931" y="-116537" />
+		<node x="86931" y="-116537" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_220" territory="PavelRuins_ArchaicL_220" spawn="ALL" maximumNpcs="1">
+		<npc id="22055" pos="87431;-117037;-3473;55336" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_221" minZ="-3967" maxZ="-3167">
+		<node x="87204" y="-117121" />
+		<node x="88204" y="-117121" />
+		<node x="88204" y="-116121" />
+		<node x="87204" y="-116121" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_221" territory="PavelRuins_ArchaicL_221" spawn="ALL" maximumNpcs="1">
+		<npc id="22057" pos="87704;-116621;-3467;15720" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_23" minZ="-5047" maxZ="-4247">
+		<node x="94436" y="-122043" />
+		<node x="95436" y="-122043" />
+		<node x="95436" y="-121043" />
+		<node x="94436" y="-121043" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_23" territory="PavelRuins_ArchaicL_23" spawn="ALL" maximumNpcs="1">
+		<npc id="22055" pos="94936;-121543;-4547;65086" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_24" minZ="-5037" maxZ="-4237">
+		<node x="93283" y="-122827" />
+		<node x="94283" y="-122827" />
+		<node x="94283" y="-121827" />
+		<node x="93283" y="-121827" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_24" territory="PavelRuins_ArchaicL_24" spawn="ALL" maximumNpcs="1">
+		<npc id="22055" pos="93783;-122327;-4537;39639" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_25" minZ="-5055" maxZ="-4255">
+		<node x="92549" y="-121632" />
+		<node x="93549" y="-121632" />
+		<node x="93549" y="-120632" />
+		<node x="92549" y="-120632" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_25" territory="PavelRuins_ArchaicL_25" spawn="ALL" maximumNpcs="1">
+		<npc id="22055" pos="93049;-121132;-4555;26464" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_26" minZ="-5033" maxZ="-4233">
+		<node x="93408" y="-121152" />
+		<node x="94408" y="-121152" />
+		<node x="94408" y="-120152" />
+		<node x="93408" y="-120152" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_26" territory="PavelRuins_ArchaicL_26" spawn="ALL" maximumNpcs="1">
+		<npc id="22055" pos="93908;-120652;-4533;6353" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_27" minZ="-5041" maxZ="-4241">
+		<node x="94459" y="-120366" />
+		<node x="95459" y="-120366" />
+		<node x="95459" y="-119366" />
+		<node x="94459" y="-119366" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_27" territory="PavelRuins_ArchaicL_27" spawn="ALL" maximumNpcs="1">
+		<npc id="22055" pos="94959;-119866;-4541;2236" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_28" minZ="-5047" maxZ="-4247">
+		<node x="93627" y="-120661" />
+		<node x="94627" y="-120661" />
+		<node x="94627" y="-119661" />
+		<node x="93627" y="-119661" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_28" territory="PavelRuins_ArchaicL_28" spawn="ALL" maximumNpcs="1">
+		<npc id="22056" pos="94127;-120161;-4547;16828" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_29" minZ="-5033" maxZ="-4233">
+		<node x="93724" y="-122702" />
+		<node x="94724" y="-122702" />
+		<node x="94724" y="-121702" />
+		<node x="93724" y="-121702" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_29" territory="PavelRuins_ArchaicL_29" spawn="ALL" maximumNpcs="1">
+		<npc id="22056" pos="94224;-122202;-4533;58977" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_3" minZ="-4305" maxZ="-3505">
+		<node x="88804" y="-119203" />
+		<node x="89804" y="-119203" />
+		<node x="89804" y="-118203" />
+		<node x="88804" y="-118203" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_3" territory="PavelRuins_ArchaicL_3" spawn="ALL" maximumNpcs="1">
+		<npc id="22057" pos="89304;-118703;-3805;47343" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_30" minZ="-5050" maxZ="-4250">
+		<node x="94791" y="-122940" />
+		<node x="95791" y="-122940" />
+		<node x="95791" y="-121940" />
+		<node x="94791" y="-121940" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_30" territory="PavelRuins_ArchaicL_30" spawn="ALL" maximumNpcs="1">
+		<npc id="22056" pos="95291;-122440;-4550;60246" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_31" minZ="-5066" maxZ="-4266">
+		<node x="95123" y="-121897" />
+		<node x="96123" y="-121897" />
+		<node x="96123" y="-120897" />
+		<node x="95123" y="-120897" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_31" territory="PavelRuins_ArchaicL_31" spawn="ALL" maximumNpcs="1">
+		<npc id="22056" pos="95623;-121397;-4566;8432" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_32" minZ="-5052" maxZ="-4252">
+		<node x="94600" y="-122060" />
+		<node x="95600" y="-122060" />
+		<node x="95600" y="-121060" />
+		<node x="94600" y="-121060" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_32" territory="PavelRuins_ArchaicL_32" spawn="ALL" maximumNpcs="1">
+		<npc id="22057" pos="95100;-121560;-4552;34616" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_33" minZ="-5055" maxZ="-4255">
+		<node x="93801" y="-120462" />
+		<node x="94801" y="-120462" />
+		<node x="94801" y="-119462" />
+		<node x="93801" y="-119462" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_33" territory="PavelRuins_ArchaicL_33" spawn="ALL" maximumNpcs="1">
+		<npc id="22057" pos="94301;-119962;-4555;15288" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_34" minZ="-5055" maxZ="-4255">
+		<node x="93125" y="-121229" />
+		<node x="94125" y="-121229" />
+		<node x="94125" y="-120229" />
+		<node x="93125" y="-120229" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_34" territory="PavelRuins_ArchaicL_34" spawn="ALL" maximumNpcs="1">
+		<npc id="22057" pos="93625;-120729;-4555;47733" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_35" minZ="-5049" maxZ="-4249">
+		<node x="93468" y="-122329" />
+		<node x="94468" y="-122329" />
+		<node x="94468" y="-121329" />
+		<node x="93468" y="-121329" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_35" territory="PavelRuins_ArchaicL_35" spawn="ALL" maximumNpcs="1">
+		<npc id="22057" pos="93968;-121829;-4549;54996" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_36" minZ="-4780" maxZ="-3980">
+		<node x="89840" y="-127432" />
+		<node x="90840" y="-127432" />
+		<node x="90840" y="-126432" />
+		<node x="89840" y="-126432" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_36" territory="PavelRuins_ArchaicL_36" spawn="ALL" maximumNpcs="1">
+		<npc id="22052" pos="90340;-126932;-4280;58930" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_37" minZ="-4775" maxZ="-3975">
+		<node x="91004" y="-128238" />
+		<node x="92004" y="-128238" />
+		<node x="92004" y="-127238" />
+		<node x="91004" y="-127238" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_37" territory="PavelRuins_ArchaicL_37" spawn="ALL" maximumNpcs="1">
+		<npc id="22052" pos="91504;-127738;-4275;58352" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_38" minZ="-4768" maxZ="-3968">
+		<node x="91101" y="-128982" />
+		<node x="92101" y="-128982" />
+		<node x="92101" y="-127982" />
+		<node x="91101" y="-127982" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_38" territory="PavelRuins_ArchaicL_38" spawn="ALL" maximumNpcs="1">
+		<npc id="22052" pos="91601;-128482;-4268;48186" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_39" minZ="-4781" maxZ="-3981">
+		<node x="90509" y="-129036" />
+		<node x="91509" y="-129036" />
+		<node x="91509" y="-128036" />
+		<node x="90509" y="-128036" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_39" territory="PavelRuins_ArchaicL_39" spawn="ALL" maximumNpcs="1">
+		<npc id="22052" pos="91009;-128536;-4281;23822" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_4" minZ="-4140" maxZ="-3340">
+		<node x="88598" y="-119821" />
+		<node x="89598" y="-119821" />
+		<node x="89598" y="-118821" />
+		<node x="88598" y="-118821" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_4" territory="PavelRuins_ArchaicL_4" spawn="ALL" maximumNpcs="1">
+		<npc id="22057" pos="89098;-119321;-3640;43266" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_40" minZ="-4756" maxZ="-3956">
+		<node x="92328" y="-127679" />
+		<node x="93328" y="-127679" />
+		<node x="93328" y="-126679" />
+		<node x="92328" y="-126679" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_40" territory="PavelRuins_ArchaicL_40" spawn="ALL" maximumNpcs="1">
+		<npc id="22052" pos="92828;-127179;-4256;4867" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_41" minZ="-4759" maxZ="-3959">
+		<node x="91691" y="-128210" />
+		<node x="92691" y="-128210" />
+		<node x="92691" y="-127210" />
+		<node x="91691" y="-127210" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_41" territory="PavelRuins_ArchaicL_41" spawn="ALL" maximumNpcs="1">
+		<npc id="22050" pos="92191;-127710;-4259;51660" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_42" minZ="-4785" maxZ="-3985">
+		<node x="91831" y="-127238" />
+		<node x="92831" y="-127238" />
+		<node x="92831" y="-126238" />
+		<node x="91831" y="-126238" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_42" territory="PavelRuins_ArchaicL_42" spawn="ALL" maximumNpcs="1">
+		<npc id="22050" pos="92331;-126738;-4285;14760" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_43" minZ="-4764" maxZ="-3964">
+		<node x="90467" y="-127236" />
+		<node x="91467" y="-127236" />
+		<node x="91467" y="-126236" />
+		<node x="90467" y="-126236" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_43" territory="PavelRuins_ArchaicL_43" spawn="ALL" maximumNpcs="1">
+		<npc id="22050" pos="90967;-126736;-4264;34699" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_44" minZ="-4750" maxZ="-3950">
+		<node x="90379" y="-127907" />
+		<node x="91379" y="-127907" />
+		<node x="91379" y="-126907" />
+		<node x="90379" y="-126907" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_44" territory="PavelRuins_ArchaicL_44" spawn="ALL" maximumNpcs="1">
+		<npc id="22050" pos="90879;-127407;-4250;48414" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_45" minZ="-4785" maxZ="-3985">
+		<node x="92275" y="-128541" />
+		<node x="93275" y="-128541" />
+		<node x="93275" y="-127541" />
+		<node x="92275" y="-127541" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_45" territory="PavelRuins_ArchaicL_45" spawn="ALL" maximumNpcs="1">
+		<npc id="22054" pos="92775;-128041;-4285;1889" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_46" minZ="-4784" maxZ="-3984">
+		<node x="91789" y="-127649" />
+		<node x="92789" y="-127649" />
+		<node x="92789" y="-126649" />
+		<node x="91789" y="-126649" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_46" territory="PavelRuins_ArchaicL_46" spawn="ALL" maximumNpcs="1">
+		<npc id="22054" pos="92289;-127149;-4284;23858" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_47" minZ="-4765" maxZ="-3965">
+		<node x="90703" y="-127397" />
+		<node x="91703" y="-127397" />
+		<node x="91703" y="-126397" />
+		<node x="90703" y="-126397" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_47" territory="PavelRuins_ArchaicL_47" spawn="ALL" maximumNpcs="1">
+		<npc id="22054" pos="91203;-126897;-4265;47350" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_48" minZ="-4783" maxZ="-3983">
+		<node x="91021" y="-128584" />
+		<node x="92021" y="-128584" />
+		<node x="92021" y="-127584" />
+		<node x="91021" y="-127584" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_48" territory="PavelRuins_ArchaicL_48" spawn="ALL" maximumNpcs="1">
+		<npc id="22054" pos="91521;-128084;-4283;51210" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_49" minZ="-4767" maxZ="-3967">
+		<node x="91342" y="-128529" />
+		<node x="92342" y="-128529" />
+		<node x="92342" y="-127529" />
+		<node x="91342" y="-127529" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_49" territory="PavelRuins_ArchaicL_49" spawn="ALL" maximumNpcs="1">
+		<npc id="22051" pos="91842;-128029;-4267;6604" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_5" minZ="-4155" maxZ="-3355">
+		<node x="88634" y="-119761" />
+		<node x="89634" y="-119761" />
+		<node x="89634" y="-118761" />
+		<node x="88634" y="-118761" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_5" territory="PavelRuins_ArchaicL_5" spawn="ALL" maximumNpcs="1">
+		<npc id="22057" pos="89134;-119261;-3655;10748" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_50" minZ="-4720" maxZ="-3920">
+		<node x="91763" y="-129275" />
+		<node x="92763" y="-129275" />
+		<node x="92763" y="-128275" />
+		<node x="91763" y="-128275" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_50" territory="PavelRuins_ArchaicL_50" spawn="ALL" maximumNpcs="1">
+		<npc id="22051" pos="92263;-128775;-4220;42569" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_51" minZ="-4780" maxZ="-3980">
+		<node x="90521" y="-128885" />
+		<node x="91521" y="-128885" />
+		<node x="91521" y="-127885" />
+		<node x="90521" y="-127885" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_51" territory="PavelRuins_ArchaicL_51" spawn="ALL" maximumNpcs="1">
+		<npc id="22051" pos="91021;-128385;-4280;64561" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_52" minZ="-4784" maxZ="-3984">
+		<node x="91468" y="-127635" />
+		<node x="92468" y="-127635" />
+		<node x="92468" y="-126635" />
+		<node x="91468" y="-126635" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_52" territory="PavelRuins_ArchaicL_52" spawn="ALL" maximumNpcs="1">
+		<npc id="22051" pos="91968;-127135;-4284;12066" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_53" minZ="-4752" maxZ="-3952">
+		<node x="91098" y="-126845" />
+		<node x="92098" y="-126845" />
+		<node x="92098" y="-125845" />
+		<node x="91098" y="-125845" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_53" territory="PavelRuins_ArchaicL_53" spawn="ALL" maximumNpcs="1">
+		<npc id="22051" pos="91598;-126345;-4252;14946" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_54" minZ="-4897" maxZ="-4097">
+		<node x="85693" y="-123526" />
+		<node x="86693" y="-123526" />
+		<node x="86693" y="-122526" />
+		<node x="85693" y="-122526" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_54" territory="PavelRuins_ArchaicL_54" spawn="ALL" maximumNpcs="1">
+		<npc id="22052" pos="86193;-123026;-4397;11548" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_55" minZ="-4860" maxZ="-4060">
+		<node x="86124" y="-122408" />
+		<node x="87124" y="-122408" />
+		<node x="87124" y="-121408" />
+		<node x="86124" y="-121408" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_55" territory="PavelRuins_ArchaicL_55" spawn="ALL" maximumNpcs="1">
+		<npc id="22052" pos="86624;-121908;-4360;11476" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_56" minZ="-4889" maxZ="-4089">
+		<node x="86123" y="-121305" />
+		<node x="87123" y="-121305" />
+		<node x="87123" y="-120305" />
+		<node x="86123" y="-120305" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_56" territory="PavelRuins_ArchaicL_56" spawn="ALL" maximumNpcs="1">
+		<npc id="22052" pos="86623;-120805;-4389;17598" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_57" minZ="-4877" maxZ="-4077">
+		<node x="85405" y="-120759" />
+		<node x="86405" y="-120759" />
+		<node x="86405" y="-119759" />
+		<node x="85405" y="-119759" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_57" territory="PavelRuins_ArchaicL_57" spawn="ALL" maximumNpcs="1">
+		<npc id="22052" pos="85905;-120259;-4377;34904" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_58" minZ="-4888" maxZ="-4088">
+		<node x="84633" y="-121117" />
+		<node x="85633" y="-121117" />
+		<node x="85633" y="-120117" />
+		<node x="84633" y="-120117" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_58" territory="PavelRuins_ArchaicL_58" spawn="ALL" maximumNpcs="1">
+		<npc id="22053" pos="85133;-120617;-4388;40426" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_59" minZ="-4897" maxZ="-4097">
+		<node x="85490" y="-122587" />
+		<node x="86490" y="-122587" />
+		<node x="86490" y="-121587" />
+		<node x="85490" y="-121587" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_59" territory="PavelRuins_ArchaicL_59" spawn="ALL" maximumNpcs="1">
+		<npc id="22053" pos="85990;-122087;-4397;61518" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_6" minZ="-4158" maxZ="-3358">
+		<node x="88258" y="-118731" />
+		<node x="89258" y="-118731" />
+		<node x="89258" y="-117731" />
+		<node x="88258" y="-117731" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_6" territory="PavelRuins_ArchaicL_6" spawn="ALL" maximumNpcs="1">
+		<npc id="22057" pos="88758;-118231;-3658;21017" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_60" minZ="-4902" maxZ="-4102">
+		<node x="86741" y="-122614" />
+		<node x="87741" y="-122614" />
+		<node x="87741" y="-121614" />
+		<node x="86741" y="-121614" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_60" territory="PavelRuins_ArchaicL_60" spawn="ALL" maximumNpcs="1">
+		<npc id="22054" pos="87241;-122114;-4402;2585" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_61" minZ="-4849" maxZ="-4049">
+		<node x="86883" y="-121747" />
+		<node x="87883" y="-121747" />
+		<node x="87883" y="-120747" />
+		<node x="86883" y="-120747" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_61" territory="PavelRuins_ArchaicL_61" spawn="ALL" maximumNpcs="1">
+		<npc id="22054" pos="87383;-121247;-4349;19162" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_62" minZ="-4873" maxZ="-4073">
+		<node x="85942" y="-120706" />
+		<node x="86942" y="-120706" />
+		<node x="86942" y="-119706" />
+		<node x="85942" y="-119706" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_62" territory="PavelRuins_ArchaicL_62" spawn="ALL" maximumNpcs="1">
+		<npc id="22053" pos="86442;-120206;-4373;57995" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_63" minZ="-4889" maxZ="-4089">
+		<node x="85077" y="-121648" />
+		<node x="86077" y="-121648" />
+		<node x="86077" y="-120648" />
+		<node x="85077" y="-120648" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_63" territory="PavelRuins_ArchaicL_63" spawn="ALL" maximumNpcs="1">
+		<npc id="22051" pos="85577;-121148;-4389;41620" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_64" minZ="-4897" maxZ="-4097">
+		<node x="84653" y="-122648" />
+		<node x="85653" y="-122648" />
+		<node x="85653" y="-121648" />
+		<node x="84653" y="-121648" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_64" territory="PavelRuins_ArchaicL_64" spawn="ALL" maximumNpcs="1">
+		<npc id="22051" pos="85153;-122148;-4397;44902" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_65" minZ="-4893" maxZ="-4093">
+		<node x="85478" y="-122957" />
+		<node x="86478" y="-122957" />
+		<node x="86478" y="-121957" />
+		<node x="85478" y="-121957" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_65" territory="PavelRuins_ArchaicL_65" spawn="ALL" maximumNpcs="1">
+		<npc id="22051" pos="85978;-122457;-4393;62424" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_66" minZ="-4896" maxZ="-4096">
+		<node x="86180" y="-122773" />
+		<node x="87180" y="-122773" />
+		<node x="87180" y="-121773" />
+		<node x="86180" y="-121773" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_66" territory="PavelRuins_ArchaicL_66" spawn="ALL" maximumNpcs="1">
+		<npc id="22051" pos="86680;-122273;-4396;2665" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_67" minZ="-4890" maxZ="-4090">
+		<node x="86750" y="-122241" />
+		<node x="87750" y="-122241" />
+		<node x="87750" y="-121241" />
+		<node x="86750" y="-121241" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_67" territory="PavelRuins_ArchaicL_67" spawn="ALL" maximumNpcs="1">
+		<npc id="22051" pos="87250;-121741;-4390;8706" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_68" minZ="-4854" maxZ="-4054">
+		<node x="86567" y="-121477" />
+		<node x="87567" y="-121477" />
+		<node x="87567" y="-120477" />
+		<node x="86567" y="-120477" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_68" territory="PavelRuins_ArchaicL_68" spawn="ALL" maximumNpcs="1">
+		<npc id="22056" pos="87067;-120977;-4354;21013" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_69" minZ="-4863" maxZ="-4063">
+		<node x="84986" y="-121199" />
+		<node x="85986" y="-121199" />
+		<node x="85986" y="-120199" />
+		<node x="84986" y="-120199" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_69" territory="PavelRuins_ArchaicL_69" spawn="ALL" maximumNpcs="1">
+		<npc id="22056" pos="85486;-120699;-4363;32463" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_7" minZ="-4183" maxZ="-3383">
+		<node x="87752" y="-119330" />
+		<node x="88752" y="-119330" />
+		<node x="88752" y="-118330" />
+		<node x="87752" y="-118330" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_7" territory="PavelRuins_ArchaicL_7" spawn="ALL" maximumNpcs="1">
+		<npc id="22057" pos="88252;-118830;-3683;42368" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_70" minZ="-4889" maxZ="-4089">
+		<node x="84813" y="-122232" />
+		<node x="85813" y="-122232" />
+		<node x="85813" y="-121232" />
+		<node x="84813" y="-121232" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_70" territory="PavelRuins_ArchaicL_70" spawn="ALL" maximumNpcs="1">
+		<npc id="22056" pos="85313;-121732;-4389;49465" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_71" minZ="-4886" maxZ="-4086">
+		<node x="85143" y="-123005" />
+		<node x="86143" y="-123005" />
+		<node x="86143" y="-122005" />
+		<node x="85143" y="-122005" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_71" territory="PavelRuins_ArchaicL_71" spawn="ALL" maximumNpcs="1">
+		<npc id="22056" pos="85643;-122505;-4386;54777" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_72" minZ="-4895" maxZ="-4095">
+		<node x="86362" y="-123030" />
+		<node x="87362" y="-123030" />
+		<node x="87362" y="-122030" />
+		<node x="86362" y="-122030" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_72" territory="PavelRuins_ArchaicL_72" spawn="ALL" maximumNpcs="1">
+		<npc id="22056" pos="86862;-122530;-4395;64717" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_73" minZ="-3827" maxZ="-3027">
+		<node x="87714" y="-107653" />
+		<node x="88714" y="-107653" />
+		<node x="88714" y="-106653" />
+		<node x="87714" y="-106653" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_73" territory="PavelRuins_ArchaicL_73" spawn="ALL" maximumNpcs="1">
+		<npc id="22075" pos="88214;-107153;-3327;3805" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_74" minZ="-3827" maxZ="-3027">
+		<node x="87100" y="-108213" />
+		<node x="88100" y="-108213" />
+		<node x="88100" y="-107213" />
+		<node x="87100" y="-107213" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_74" territory="PavelRuins_ArchaicL_74" spawn="ALL" maximumNpcs="1">
+		<npc id="22062" pos="87600;-107713;-3327;37604" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_75" minZ="-3827" maxZ="-3027">
+		<node x="87431" y="-107824" />
+		<node x="88431" y="-107824" />
+		<node x="88431" y="-106824" />
+		<node x="87431" y="-106824" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_75" territory="PavelRuins_ArchaicL_75" spawn="ALL" maximumNpcs="1">
+		<npc id="22074" pos="87931;-107324;-3327;62234" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_76" minZ="-3827" maxZ="-3027">
+		<node x="87379" y="-108153" />
+		<node x="88379" y="-108153" />
+		<node x="88379" y="-107153" />
+		<node x="87379" y="-107153" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_76" territory="PavelRuins_ArchaicL_76" spawn="ALL" maximumNpcs="1">
+		<npc id="22062" pos="87879;-107653;-3327;44409" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_77" minZ="-3827" maxZ="-3027">
+		<node x="86952" y="-108007" />
+		<node x="87952" y="-108007" />
+		<node x="87952" y="-107007" />
+		<node x="86952" y="-107007" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_77" territory="PavelRuins_ArchaicL_77" spawn="ALL" maximumNpcs="1">
+		<npc id="22075" pos="87452;-107507;-3327;35814" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_78" minZ="-3827" maxZ="-3027">
+		<node x="86508" y="-106271" />
+		<node x="87508" y="-106271" />
+		<node x="87508" y="-105271" />
+		<node x="86508" y="-105271" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_78" territory="PavelRuins_ArchaicL_78" spawn="ALL" maximumNpcs="1">
+		<npc id="22062" pos="87008;-105771;-3327;29026" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_79" minZ="-3827" maxZ="-3027">
+		<node x="85039" y="-105778" />
+		<node x="86039" y="-105778" />
+		<node x="86039" y="-104778" />
+		<node x="85039" y="-104778" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_79" territory="PavelRuins_ArchaicL_79" spawn="ALL" maximumNpcs="1">
+		<npc id="22062" pos="85539;-105278;-3327;30266" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_8" minZ="-4056" maxZ="-3256">
+		<node x="87106" y="-118989" />
+		<node x="88106" y="-118989" />
+		<node x="88106" y="-117989" />
+		<node x="87106" y="-117989" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_8" territory="PavelRuins_ArchaicL_8" spawn="ALL" maximumNpcs="1">
+		<npc id="22057" pos="87606;-118489;-3556;21921" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_80" minZ="-3827" maxZ="-3027">
+		<node x="84270" y="-106194" />
+		<node x="85270" y="-106194" />
+		<node x="85270" y="-105194" />
+		<node x="84270" y="-105194" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_80" territory="PavelRuins_ArchaicL_80" spawn="ALL" maximumNpcs="1">
+		<npc id="22062" pos="84770;-105694;-3327;44290" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_81" minZ="-3827" maxZ="-3027">
+		<node x="84229" y="-106965" />
+		<node x="85229" y="-106965" />
+		<node x="85229" y="-105965" />
+		<node x="84229" y="-105965" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_81" territory="PavelRuins_ArchaicL_81" spawn="ALL" maximumNpcs="1">
+		<npc id="22053" pos="84729;-106465;-3327;49252" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_82" minZ="-3827" maxZ="-3027">
+		<node x="85316" y="-107363" />
+		<node x="86316" y="-107363" />
+		<node x="86316" y="-106363" />
+		<node x="85316" y="-106363" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_82" territory="PavelRuins_ArchaicL_82" spawn="ALL" maximumNpcs="1">
+		<npc id="22053" pos="85816;-106863;-3327;64818" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_83" minZ="-3827" maxZ="-3027">
+		<node x="86507" y="-106805" />
+		<node x="87507" y="-106805" />
+		<node x="87507" y="-105805" />
+		<node x="86507" y="-105805" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_83" territory="PavelRuins_ArchaicL_83" spawn="ALL" maximumNpcs="1">
+		<npc id="22053" pos="87007;-106305;-3327;8612" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_84" minZ="-3827" maxZ="-3027">
+		<node x="85817" y="-105608" />
+		<node x="86817" y="-105608" />
+		<node x="86817" y="-104608" />
+		<node x="85817" y="-104608" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_84" territory="PavelRuins_ArchaicL_84" spawn="ALL" maximumNpcs="1">
+		<npc id="22053" pos="86317;-105108;-3327;30984" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_85" minZ="-3827" maxZ="-3027">
+		<node x="86546" y="-105750" />
+		<node x="87546" y="-105750" />
+		<node x="87546" y="-104750" />
+		<node x="86546" y="-104750" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_85" territory="PavelRuins_ArchaicL_85" spawn="ALL" maximumNpcs="1">
+		<npc id="22060" pos="87046;-105250;-3327;56549" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_86" minZ="-3827" maxZ="-3027">
+		<node x="86022" y="-106703" />
+		<node x="87022" y="-106703" />
+		<node x="87022" y="-105703" />
+		<node x="86022" y="-105703" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_86" territory="PavelRuins_ArchaicL_86" spawn="ALL" maximumNpcs="1">
+		<npc id="22060" pos="86522;-106203;-3327;28597" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_87" minZ="-3827" maxZ="-3027">
+		<node x="85108" y="-106776" />
+		<node x="86108" y="-106776" />
+		<node x="86108" y="-105776" />
+		<node x="85108" y="-105776" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_87" territory="PavelRuins_ArchaicL_87" spawn="ALL" maximumNpcs="1">
+		<npc id="22060" pos="85608;-106276;-3327;31668" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_88" minZ="-3827" maxZ="-3027">
+		<node x="84776" y="-106149" />
+		<node x="85776" y="-106149" />
+		<node x="85776" y="-105149" />
+		<node x="84776" y="-105149" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_88" territory="PavelRuins_ArchaicL_88" spawn="ALL" maximumNpcs="1">
+		<npc id="22060" pos="85276;-105649;-3327;15811" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_89" minZ="-3827" maxZ="-3027">
+		<node x="84981" y="-105358" />
+		<node x="85981" y="-105358" />
+		<node x="85981" y="-104358" />
+		<node x="84981" y="-104358" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_89" territory="PavelRuins_ArchaicL_89" spawn="ALL" maximumNpcs="1">
+		<npc id="22060" pos="85481;-104858;-3327;7650" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_9" minZ="-3895" maxZ="-3095">
+		<node x="88024" y="-118167" />
+		<node x="89024" y="-118167" />
+		<node x="89024" y="-117167" />
+		<node x="88024" y="-117167" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_9" territory="PavelRuins_ArchaicL_9" spawn="ALL" maximumNpcs="1">
+		<npc id="22057" pos="88524;-117667;-3395;3545" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_90" minZ="-3827" maxZ="-3027">
+		<node x="86034" y="-105895" />
+		<node x="87034" y="-105895" />
+		<node x="87034" y="-104895" />
+		<node x="86034" y="-104895" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_90" territory="PavelRuins_ArchaicL_90" spawn="ALL" maximumNpcs="1">
+		<npc id="22064" pos="86534;-105395;-3327;56304" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_91" minZ="-3827" maxZ="-3027">
+		<node x="86024" y="-107093" />
+		<node x="87024" y="-107093" />
+		<node x="87024" y="-106093" />
+		<node x="86024" y="-106093" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_91" territory="PavelRuins_ArchaicL_91" spawn="ALL" maximumNpcs="1">
+		<npc id="22064" pos="86524;-106593;-3327;47819" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_92" minZ="-3827" maxZ="-3027">
+		<node x="85084" y="-107508" />
+		<node x="86084" y="-107508" />
+		<node x="86084" y="-106508" />
+		<node x="85084" y="-106508" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_92" territory="PavelRuins_ArchaicL_92" spawn="ALL" maximumNpcs="1">
+		<npc id="22064" pos="85584;-107008;-3327;31085" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_93" minZ="-3827" maxZ="-3027">
+		<node x="84674" y="-106950" />
+		<node x="85674" y="-106950" />
+		<node x="85674" y="-105950" />
+		<node x="84674" y="-105950" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_93" territory="PavelRuins_ArchaicL_93" spawn="ALL" maximumNpcs="1">
+		<npc id="22064" pos="85174;-106450;-3327;18731" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_94" minZ="-3827" maxZ="-3027">
+		<node x="85027" y="-106027" />
+		<node x="86027" y="-106027" />
+		<node x="86027" y="-105027" />
+		<node x="85027" y="-105027" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_94" territory="PavelRuins_ArchaicL_94" spawn="ALL" maximumNpcs="1">
+		<npc id="22059" pos="85527;-105527;-3327;64365" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_95" minZ="-3827" maxZ="-3027">
+		<node x="85999" y="-106287" />
+		<node x="86999" y="-106287" />
+		<node x="86999" y="-105287" />
+		<node x="85999" y="-105287" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_95" territory="PavelRuins_ArchaicL_95" spawn="ALL" maximumNpcs="1">
+		<npc id="22059" pos="86499;-105787;-3327;54257" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_96" minZ="-3827" maxZ="-3027">
+		<node x="85389" y="-107099" />
+		<node x="86389" y="-107099" />
+		<node x="86389" y="-106099" />
+		<node x="85389" y="-106099" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_96" territory="PavelRuins_ArchaicL_96" spawn="ALL" maximumNpcs="1">
+		<npc id="22059" pos="85889;-106599;-3327;35402" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_97" minZ="-3827" maxZ="-3027">
+		<node x="85588" y="-106996" />
+		<node x="86588" y="-106996" />
+		<node x="86588" y="-105996" />
+		<node x="85588" y="-105996" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_97" territory="PavelRuins_ArchaicL_97" spawn="ALL" maximumNpcs="1">
+		<npc id="22062" pos="86088;-106496;-3327;59307" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_98" minZ="-3827" maxZ="-3027">
+		<node x="86670" y="-106336" />
+		<node x="87670" y="-106336" />
+		<node x="87670" y="-105336" />
+		<node x="86670" y="-105336" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_98" territory="PavelRuins_ArchaicL_98" spawn="ALL" maximumNpcs="1">
+		<npc id="22062" pos="87170;-105836;-3327;9618" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="PavelRuins_ArchaicL_99" minZ="-3827" maxZ="-3027">
+		<node x="85890" y="-105351" />
+		<node x="86890" y="-105351" />
+		<node x="86890" y="-104351" />
+		<node x="85890" y="-104351" />
+	</territory>
+	<npcmaker name="PavelRuins_ArchaicL_99" territory="PavelRuins_ArchaicL_99" spawn="ALL" maximumNpcs="1">
+		<npc id="22062" pos="86390;-104851;-3327;28084" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="raidboss_2214_darkness_shaman_baranka" minZ="-988" maxZ="-368">
+		<node x="73500" y="-102500" />
+		<node x="74500" y="-102500" />
+		<node x="74500" y="-101500" />
+		<node x="73500" y="-101500" />
+	</territory>
+	<npcmaker name="raidboss_2214_darkness_shaman_baranka" territory="raidboss_2214_darkness_shaman_baranka" spawn="ALL" maximumNpcs="7">
+		<npc id="25509" total="1" respawnDelay="15h" respawnRandom="1h" dbName="darkness_shaman_baranka" dbSaving="DEATH_TIME;PARAMETERS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="raidboss_2214_dr_chaos_gigantic_golem" minZ="-3372" maxZ="-2752">
+		<node x="96324" y="-111270" />
+		<node x="96724" y="-111270" />
+		<node x="96724" y="-110870" />
+		<node x="96324" y="-110870" />
+	</territory>
+	<npcmaker name="raidboss_2214_dr_chaos_gigantic_golem" territory="raidboss_2214_dr_chaos_gigantic_golem" spawn="ALL" maximumNpcs="1">
+		<npc id="25512" total="1" respawnDelay="15h" respawnRandom="1h" dbName="dr_chaos_gigantic_golem" dbSaving="DEATH_TIME;PARAMETERS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart14_npc2214_34" minZ="-3412" maxZ="-3012">
+		<node x="90412" y="-110524" />
+		<node x="90938" y="-109857" />
+		<node x="90521" y="-109482" />
+		<node x="89965" y="-109892" />
+	</territory>
+	<npcmaker name="pabelnpc_m01" territory="schuttgart14_npc2214_34" spawn="ALL" maximumNpcs="1">
+		<npc id="32042" pos="90052;-109895;-3328;51700" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart14_npc2214_44" minZ="-3400" maxZ="-3100">
+		<node x="96680" y="-111418" />
+		<node x="97232" y="-110693" />
+		<node x="95915" y="-109948" />
+		<node x="95469" y="-110803" />
+	</territory>
+	<npcmaker name="pabelnpc_m02" territory="schuttgart14_npc2214_44" spawn="ALL" maximumNpcs="3">
+		<npc id="32032" pos="96341;-110891;-3337;43000" total="1" respawnDelay="1m"/>
+		<npc id="32045" pos="96313;-110455;-3340;50600" total="1" respawnDelay="1m"/>
+		<npc id="32050" pos="96848;-111076;-3344;36864" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart14_npc2214_58" minZ="-3384" maxZ="-2984">
+		<node x="93976" y="-105710" />
+		<node x="93958" y="-106131" />
+		<node x="94431" y="-106152" />
+		<node x="94450" y="-105716" />
+	</territory>
+	<npcmaker name="pabelnpc_m03" territory="schuttgart14_npc2214_58" spawn="ALL" maximumNpcs="1">
+		<npc id="32043" pos="94092;-105804;-3329;57100" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart14_npc2214_73" minZ="-3392" maxZ="-2992">
+		<node x="85741" y="-105707" />
+		<node x="85723" y="-106128" />
+		<node x="86196" y="-106149" />
+		<node x="86215" y="-105713" />
+	</territory>
+	<npcmaker name="pabelnpc_m04" territory="schuttgart14_npc2214_73" spawn="ALL" maximumNpcs="1">
+		<npc id="32044" pos="86101;-105818;-3338;40960" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart14_npc2214_76" minZ="-3328" maxZ="-3028">
+		<node x="97329" y="-108430" />
+		<node x="97529" y="-108430" />
+		<node x="97529" y="-108230" />
+		<node x="97329" y="-108230" />
+	</territory>
+	<npcmaker name="pabelnpc_m05" territory="schuttgart14_npc2214_76" spawn="ALL" maximumNpcs="6">
+		<npc id="32047" pos="97014;-110618;-3293;45056" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart14_npc2214_77" minZ="-3378" maxZ="-3078">
+		<node x="90236" y="-107364" />
+		<node x="90436" y="-107364" />
+		<node x="90436" y="-107164" />
+		<node x="90236" y="-107164" />
+	</territory>
+	<npcmaker name="pabelnpc_m06" territory="schuttgart14_npc2214_77" spawn="ALL" maximumNpcs="1">
+		<npc id="32046" pos="90336;-107264;-3323;57344" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="schuttgart14_npc2214_78" minZ="-4015" maxZ="-3715">
+		<node x="90845" y="-117457" />
+		<node x="91809" y="-116861" />
+		<node x="91079" y="-116315" />
+		<node x="90446" y="-116839" />
+	</territory>
+	<npcmaker name="pabelnpc_m07" territory="schuttgart14_npc2214_78" spawn="ALL" maximumNpcs="2">
+		<npc id="32041" pos="91374;-116884;-3920;54750" total="1" respawnDelay="1m"/>
+		<npc id="32069" pos="91316;-116927;-3920;55000" total="1" respawnDelay="1m"/>
+	</npcmaker>
+</list>

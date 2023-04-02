@@ -1,0 +1,53 @@
+<html><title>Premium Service</title>
+<body>
+<center>
+<table width=260>
+<tr>
+<td><button value="Main" action="bypass -h admin_admin" width=65 height=19 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2"></td>
+<td><button value="Game" action="bypass -h admin_admin 2" width=65 height=19 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2"></td>
+<td><button value="Effects" action="bypass -h admin_admin 3" width=65 height=19 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2"></td>
+<td><button value="Server" action="bypass -h admin_admin 4" width=65 height=19 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2"></td>
+</tr>
+</table>
+<br>
+<br>
+<center>
+<table><tr><td><center><font color="FFFF00">Description<br></font></center></td></tr>
+<tr><td>Account name: player account name.</td></tr>
+<tr><td>Add month: Current month + add month</td></tr>
+<tr><td>Day of month: 1 = the first day of month</td></tr>
+<tr><td>Hour of day: 12 = 12:00 PM</td></tr>
+</table>
+<br>
+<br>
+<table width=270 bgcolor=000000>
+	<tr>
+		<td>Account Name:</td>
+		<td width=150><edit var="acc_name" width=150></td>
+	</tr>
+</table>
+<table width=270 bgcolor=000000>
+	<tr>
+	    <td>Add Month:</td>
+		<td width=150><combobox width=150 height=18 var="premmonth" list=1;2;3;4;5;6;><br1></td>
+	</tr>
+</table>
+<table width=270 bgcolor=000000>
+	<tr>
+	    <td>Day of Month:</td>
+		<td width=150><combobox width=150 height=18 var="daymonth" list=1;5;10;15;25;28;><br1></td>
+	</tr>
+</table>
+<table width=270 bgcolor=000000>
+	<tr>
+	    <td>Hour of Day:</td>
+		<td width=150><combobox width=150 height=18 var="hourofday" list=12;13;14;15;16;17;18;><br1></td>
+	</tr>
+</table>
+<br>
+<br>
+<button value="Give premium" action="bypass -h admin_premium_add $acc_name $premmonth $daymonth $hourofday" width=80 height=15 back="sek.cbui94" fore="sek.cbui92">
+</center>
+<br>
+</center>
+</body></html>
