@@ -46,7 +46,7 @@
 		<mkdir dir="${build.dist.login}/config" />
 		<copy todir="${build.dist.game}/config">
 			<fileset dir="config">
-				<include name="*.properties" />
+				<include name="**/*.*" />
 				<include name="chatfilter.txt" />
 				<exclude name="banned_ips.properties" />
 				<exclude name="loginserver.properties" />
