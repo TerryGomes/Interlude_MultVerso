@@ -23,6 +23,12 @@
   
 <h1>Projeto Interlude Base L2Acis 401</h1>
 
+<p>
+Link da source completo, algumas pastas não estão carregando só na acis.
+
+https://www.mediafire.com/file/sqysoxd5m8gh66j/gameserver.rar/file
+</p>
+
 <div>
  <ul>
       <h3>Fixados: </h3>
