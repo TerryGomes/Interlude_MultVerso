@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Rune Area
+ * Fortress of the Dead
+-->
+<list>
+	<!--  -->
+	<territory name="fortress_of_dead_boss" minZ="548" maxZ="876">
+		<node x="57440" y="-27930" />
+		<node x="58830" y="-27930" />
+		<node x="58830" y="-27030" />
+		<node x="57440" y="-27030" />
+	</territory>
+	<npcmaker name="fortress_of_dead_boss" territory="fortress_of_dead_boss" spawn="ALL" maximumNpcs="111" event="agit_defend_warfare_start(64)">
+		<npc id="35629" pos="58640;-27490;584;32768" total="1" respawnDelay="2h" dbName="fortress_dead_001" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="58530;-27815;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_004" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="58530;-27745;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_005" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="58530;-27680;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_006" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="58530;-27615;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_007" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="58530;-27550;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_008" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="58530;-27485;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_009" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="58530;-27420;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_010" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="58530;-27355;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_011" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="58530;-27290;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_012" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="58465;-27815;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_013" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="58465;-27745;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_014" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="58465;-27680;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_015" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="58465;-27615;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_016" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="58465;-27550;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_017" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="58465;-27485;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_018" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="58465;-27420;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_019" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="58465;-27355;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_020" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="58465;-27290;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_021" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35637" pos="58400;-27815;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_022" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35637" pos="58400;-27745;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_023" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35637" pos="58400;-27680;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_024" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35637" pos="58400;-27615;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_025" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35637" pos="58400;-27550;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_026" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35637" pos="58400;-27485;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_027" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35637" pos="58400;-27420;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_028" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35637" pos="58400;-27355;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_029" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35637" pos="58400;-27290;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_030" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="58335;-27815;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_031" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="58335;-27745;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_032" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="58335;-27680;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_033" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="58335;-27615;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_034" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="58335;-27550;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_035" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="58335;-27485;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_036" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="58335;-27420;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_037" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="58335;-27355;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_038" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="58335;-27290;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_039" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="58270;-27815;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_040" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="58270;-27745;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_041" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="58270;-27680;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_042" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="58270;-27615;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_043" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="58270;-27550;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_044" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="58270;-27485;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_045" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="58270;-27420;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_046" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="58270;-27355;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_047" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="58270;-27290;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_048" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35637" pos="58205;-27815;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_049" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35637" pos="58205;-27745;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_050" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35637" pos="58205;-27680;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_051" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35637" pos="58205;-27615;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_052" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35637" pos="58205;-27550;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_053" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35637" pos="58205;-27485;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_054" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35637" pos="58205;-27420;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_055" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35637" pos="58205;-27355;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_056" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35637" pos="58205;-27290;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_057" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="58140;-27815;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_058" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="58140;-27745;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_059" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="58140;-27680;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_060" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="58140;-27615;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_061" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="58140;-27550;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_062" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="58140;-27485;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_063" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="58140;-27420;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_064" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="58140;-27355;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_065" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="58140;-27290;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_066" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="58075;-27815;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_067" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="58075;-27745;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_068" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="58075;-27680;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_069" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="58075;-27615;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_070" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="58075;-27550;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_071" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="58075;-27485;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_072" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="58075;-27420;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_073" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="58075;-27355;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_074" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="58075;-27290;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_075" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35637" pos="58010;-27815;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_076" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35637" pos="58010;-27745;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_077" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35637" pos="58010;-27680;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_078" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35637" pos="58010;-27615;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_079" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35637" pos="58010;-27550;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_080" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35637" pos="58010;-27485;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_081" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35637" pos="58010;-27420;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_082" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35637" pos="58010;-27355;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_083" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35637" pos="58010;-27290;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_084" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="57945;-27815;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_085" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="57945;-27745;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_086" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="57945;-27680;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_087" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="57945;-27615;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_088" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="57945;-27550;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_089" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="57945;-27485;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_090" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="57945;-27420;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_091" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="57945;-27355;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_092" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="57945;-27290;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_093" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="57880;-27815;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_094" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="57880;-27745;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_095" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="57880;-27680;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_096" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="57880;-27615;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_097" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="57880;-27550;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_098" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="57880;-27485;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_099" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="57880;-27420;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_101" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="57880;-27355;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_102" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="57880;-27290;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_103" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35637" pos="57815;-27815;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_104" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35637" pos="57815;-27745;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_105" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35637" pos="57815;-27680;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_106" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35637" pos="57815;-27615;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_107" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35637" pos="57815;-27550;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_108" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35637" pos="57815;-27485;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_109" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35637" pos="57815;-27420;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_110" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35637" pos="57815;-27355;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_111" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35637" pos="57815;-27290;584;32768" total="1" respawnDelay="20m" dbName="fortress_dead_112" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="fortress_of_dead_guard11" minZ="548" maxZ="868">
+		<node x="58030" y="-29290" />
+		<node x="58230" y="-29290" />
+		<node x="58230" y="-29090" />
+		<node x="58030" y="-29090" />
+	</territory>
+	<npcmaker name="fortress_of_dead_guard11" territory="fortress_of_dead_guard11" spawn="ALL" maximumNpcs="1">
+		<npc id="35641" pos="58130;-29190;568;16384" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="fortress_of_dead_guard12" minZ="548" maxZ="868">
+		<node x="58030" y="-29675" />
+		<node x="58230" y="-29675" />
+		<node x="58230" y="-29475" />
+		<node x="58030" y="-29475" />
+	</territory>
+	<npcmaker name="fortress_of_dead_guard12" territory="fortress_of_dead_guard12" spawn="ALL" maximumNpcs="1">
+		<npc id="35641" pos="58130;-29575;568;49152" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="fortress_of_dead_guard21" minZ="572" maxZ="892">
+		<node x="57980" y="-26400" />
+		<node x="58180" y="-26400" />
+		<node x="58180" y="-26200" />
+		<node x="57980" y="-26200" />
+	</territory>
+	<npcmaker name="fortress_of_dead_guard21" territory="fortress_of_dead_guard21" spawn="ALL" maximumNpcs="1">
+		<npc id="35642" pos="58080;-26300;592;16384" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="fortress_of_dead_guard22" minZ="572" maxZ="892">
+		<node x="57760" y="-26580" />
+		<node x="57960" y="-26580" />
+		<node x="57960" y="-26380" />
+		<node x="57760" y="-26380" />
+	</territory>
+	<npcmaker name="fortress_of_dead_guard22" territory="fortress_of_dead_guard22" spawn="ALL" maximumNpcs="1">
+		<npc id="35642" pos="57860;-26480;592;49152" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="fortress_of_dead_steward_bandello" minZ="572" maxZ="892">
+		<node x="57845" y="-25995" />
+		<node x="58045" y="-25995" />
+		<node x="58045" y="-25795" />
+		<node x="57845" y="-25795" />
+	</territory>
+	<npcmaker name="fortress_of_dead_steward_bandello" territory="fortress_of_dead_steward_bandello" spawn="ALL" maximumNpcs="1">
+		<npc id="35640" pos="57945;-25895;592;49152" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="fortress_of_dead_wyvern_manager_valens" minZ="548" maxZ="868">
+		<node x="56655" y="-26605" />
+		<node x="56855" y="-26605" />
+		<node x="56855" y="-26405" />
+		<node x="56655" y="-26405" />
+	</territory>
+	<npcmaker name="fortress_of_dead_wyvern_manager_valens" territory="fortress_of_dead_wyvern_manager_valens" spawn="ALL" maximumNpcs="1">
+		<npc id="35638" pos="56755;-26505;568;49152" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="rune_fod_agit_2117_11" minZ="564" maxZ="884">
+		<node x="57260" y="-30080" />
+		<node x="57635" y="-30080" />
+		<node x="57635" y="-29490" />
+		<node x="57260" y="-29490" />
+	</territory>
+	<npcmaker name="rune_fod_agit_2117_11" territory="rune_fod_agit_2117_11" spawn="ALL" maximumNpcs="9" event="agit_defend_warfare_start(64)">
+		<npc id="35634" pos="57360;-29980;584;49152" total="1" respawnDelay="2h" dbName="fortress_dead_113" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57376;-29930;584;49152" total="1" respawnDelay="2h" dbName="fortress_dead_114" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57390;-29890;584;49152" total="1" respawnDelay="2h" dbName="fortress_dead_115" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57410;-29845;584;49152" total="1" respawnDelay="2h" dbName="fortress_dead_116" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57434;-29795;584;49152" total="1" respawnDelay="2h" dbName="fortress_dead_117" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57464;-29750;584;49152" total="1" respawnDelay="2h" dbName="fortress_dead_118" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57497;-29700;584;49152" total="1" respawnDelay="2h" dbName="fortress_dead_119" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57520;-29640;584;49152" total="1" respawnDelay="2h" dbName="fortress_dead_120" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57535;-29590;584;49152" total="1" respawnDelay="2h" dbName="fortress_dead_121" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="rune_fod_agit_2117_12" minZ="564" maxZ="884">
+		<node x="58275" y="-30070" />
+		<node x="58660" y="-30070" />
+		<node x="58660" y="-29500" />
+		<node x="58275" y="-29500" />
+	</territory>
+	<npcmaker name="rune_fod_agit_2117_12" territory="rune_fod_agit_2117_12" spawn="ALL" maximumNpcs="9" event="agit_defend_warfare_start(64)">
+		<npc id="35634" pos="58375;-29600;584;49152" total="1" respawnDelay="2h" dbName="fortress_dead_122" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58395;-29650;584;49152" total="1" respawnDelay="2h" dbName="fortress_dead_123" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58425;-29700;584;49152" total="1" respawnDelay="2h" dbName="fortress_dead_124" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58445;-29745;584;49152" total="1" respawnDelay="2h" dbName="fortress_dead_125" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58470;-29795;584;49152" total="1" respawnDelay="2h" dbName="fortress_dead_126" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58490;-29840;584;49152" total="1" respawnDelay="2h" dbName="fortress_dead_127" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58520;-29880;584;49152" total="1" respawnDelay="2h" dbName="fortress_dead_128" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58530;-29920;584;49152" total="1" respawnDelay="2h" dbName="fortress_dead_129" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58560;-29970;584;49152" total="1" respawnDelay="2h" dbName="fortress_dead_130" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="rune_fod_agit_2117_13" minZ="548" maxZ="876">
+		<node x="56840" y="-28875" />
+		<node x="57305" y="-28875" />
+		<node x="57305" y="-28235" />
+		<node x="56840" y="-28235" />
+	</territory>
+	<npcmaker name="rune_fod_agit_2117_13" territory="rune_fod_agit_2117_13" spawn="ALL" maximumNpcs="32" event="agit_defend_warfare_start(64)">
+		<npc id="35634" pos="57090;-28775;568;57400" total="1" respawnDelay="2h" dbName="fortress_dead_131" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57110;-28705;568;57400" total="1" respawnDelay="2h" dbName="fortress_dead_132" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57130;-28640;568;57400" total="1" respawnDelay="2h" dbName="fortress_dead_133" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57140;-28595;568;57400" total="1" respawnDelay="2h" dbName="fortress_dead_134" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57150;-28535;568;57400" total="1" respawnDelay="2h" dbName="fortress_dead_135" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57170;-28480;568;57400" total="1" respawnDelay="2h" dbName="fortress_dead_136" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57190;-28415;568;57400" total="1" respawnDelay="2h" dbName="fortress_dead_137" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57205;-28360;568;57400" total="1" respawnDelay="2h" dbName="fortress_dead_138" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57155;-28355;568;57400" total="1" respawnDelay="2h" dbName="fortress_dead_139" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57140;-28400;568;57400" total="1" respawnDelay="2h" dbName="fortress_dead_140" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57125;-28465;568;57400" total="1" respawnDelay="2h" dbName="fortress_dead_141" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57110;-28525;568;57400" total="1" respawnDelay="2h" dbName="fortress_dead_142" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57095;-28575;568;57400" total="1" respawnDelay="2h" dbName="fortress_dead_143" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57075;-28630;568;57400" total="1" respawnDelay="2h" dbName="fortress_dead_144" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57065;-28690;568;57400" total="1" respawnDelay="2h" dbName="fortress_dead_145" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57045;-28760;568;57400" total="1" respawnDelay="2h" dbName="fortress_dead_146" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="56985;-28750;568;57400" total="1" respawnDelay="2h" dbName="fortress_dead_147" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="57010;-28680;568;57400" total="1" respawnDelay="2h" dbName="fortress_dead_148" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="57025;-28620;568;57400" total="1" respawnDelay="2h" dbName="fortress_dead_149" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="57045;-28565;568;57400" total="1" respawnDelay="2h" dbName="fortress_dead_150" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="57065;-28510;568;57400" total="1" respawnDelay="2h" dbName="fortress_dead_151" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="57080;-28450;568;57400" total="1" respawnDelay="2h" dbName="fortress_dead_152" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="57090;-28395;568;57400" total="1" respawnDelay="2h" dbName="fortress_dead_153" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="57100;-28340;568;57400" total="1" respawnDelay="2h" dbName="fortress_dead_154" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="57050;-28335;568;57400" total="1" respawnDelay="2h" dbName="fortress_dead_155" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="57030;-28390;568;57400" total="1" respawnDelay="2h" dbName="fortress_dead_156" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="57015;-28440;568;57400" total="1" respawnDelay="2h" dbName="fortress_dead_157" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="57000;-28500;568;57400" total="1" respawnDelay="2h" dbName="fortress_dead_158" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="56985;-28555;568;57400" total="1" respawnDelay="2h" dbName="fortress_dead_159" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="56975;-28610;568;57400" total="1" respawnDelay="2h" dbName="fortress_dead_160" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="56955;-28685;568;57400" total="1" respawnDelay="2h" dbName="fortress_dead_161" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="56940;-28740;576;57400" total="1" respawnDelay="2h" dbName="fortress_dead_162" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="rune_fod_agit_2117_14" minZ="548" maxZ="868">
+		<node x="58700" y="-29100" />
+		<node x="59050" y="-29100" />
+		<node x="59050" y="-28380" />
+		<node x="58700" y="-28380" />
+	</territory>
+	<npcmaker name="rune_fod_agit_2117_14" territory="rune_fod_agit_2117_14" spawn="ALL" maximumNpcs="40" event="agit_defend_warfare_start(64)">
+		<npc id="35634" pos="58800;-29000;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_163" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58800;-28940;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_164" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58800;-28880;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_165" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58800;-28820;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_166" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58800;-28760;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_167" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58800;-28700;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_168" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58800;-28640;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_169" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58800;-28580;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_170" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58800;-28520;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_171" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58800;-28480;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_172" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58850;-29000;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_173" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58850;-28940;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_174" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58850;-28880;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_175" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58850;-28820;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_176" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58850;-28760;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_177" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58850;-28700;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_178" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58850;-28640;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_179" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58850;-28580;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_180" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58850;-28520;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_181" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58850;-28480;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_182" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="58900;-29000;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_183" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="58900;-28940;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_184" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="58900;-28880;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_185" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="58900;-28820;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_186" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="58900;-28760;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_187" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="58900;-28700;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_188" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="58900;-28640;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_189" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="58900;-28580;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_190" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="58900;-28520;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_191" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="58900;-28480;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_192" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="58950;-29000;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_193" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="58950;-28940;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_194" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="58950;-28880;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_195" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="58950;-28820;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_196" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="58950;-28760;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_197" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="58950;-28700;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_198" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="58950;-28640;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_199" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="58950;-28580;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_201" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="58950;-28520;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_202" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="58950;-28480;568;32768" total="1" respawnDelay="2h" dbName="fortress_dead_203" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="rune_fod_agit_2117_15" minZ="548" maxZ="868">
+		<node x="58900" y="-27280" />
+		<node x="59500" y="-27280" />
+		<node x="59500" y="-26900" />
+		<node x="58900" y="-26900" />
+	</territory>
+	<npcmaker name="rune_fod_agit_2117_15" territory="rune_fod_agit_2117_15" spawn="ALL" maximumNpcs="44" event="agit_defend_warfare_start(64)">
+		<npc id="35634" pos="59000;-27180;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_204" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="59040;-27180;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_205" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="59080;-27180;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_206" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="59120;-27180;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_207" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="59160;-27180;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_208" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="59200;-27180;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_209" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="59240;-27180;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_210" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="59280;-27180;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_211" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="59320;-27180;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_212" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="59360;-27180;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_213" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="59400;-27180;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_214" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="59000;-27120;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_215" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="59040;-27120;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_216" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="59080;-27120;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_217" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="59120;-27120;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_218" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="59160;-27120;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_219" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="59200;-27120;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_220" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="59240;-27120;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_221" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="59280;-27120;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_222" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="59320;-27120;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_223" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="59360;-27120;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_224" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="59400;-27120;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_225" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="59000;-27060;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_226" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="59040;-27060;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_227" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="59080;-27060;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_228" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="59120;-27060;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_229" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="59160;-27060;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_230" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="59200;-27060;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_231" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="59240;-27060;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_232" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="59280;-27060;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_233" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="59320;-27060;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_234" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="59360;-27060;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_235" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="59400;-27060;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_236" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="59000;-27000;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_237" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="59040;-27000;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_238" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="59080;-27000;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_239" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="59120;-27000;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_240" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="59160;-27000;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_241" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="59200;-27000;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_242" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="59240;-27000;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_243" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="59280;-27000;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_244" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="59320;-27000;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_245" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="59360;-27000;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_246" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35633" pos="59400;-27000;568;49152" total="1" respawnDelay="20m" dbName="fortress_dead_247" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="rune_fod_agit_2117_16" minZ="580" maxZ="900">
+		<node x="58460" y="-26285" />
+		<node x="59480" y="-26285" />
+		<node x="59480" y="-26000" />
+		<node x="58460" y="-26000" />
+	</territory>
+	<npcmaker name="rune_fod_agit_2117_16" territory="rune_fod_agit_2117_16" spawn="ALL" maximumNpcs="13" event="agit_defend_warfare_start(64)">
+		<npc id="35634" pos="59380;-26185;600;49152" total="1" respawnDelay="2h" dbName="fortress_dead_248" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="59170;-26185;600;49152" total="1" respawnDelay="2h" dbName="fortress_dead_249" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58950;-26185;600;49152" total="1" respawnDelay="2h" dbName="fortress_dead_250" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58785;-26185;600;49152" total="1" respawnDelay="2h" dbName="fortress_dead_251" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58640;-26185;600;49152" total="1" respawnDelay="2h" dbName="fortress_dead_252" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58560;-26185;600;49152" total="1" respawnDelay="2h" dbName="fortress_dead_253" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="59380;-26100;600;49152" total="1" respawnDelay="2h" dbName="fortress_dead_254" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="59170;-26100;600;49152" total="1" respawnDelay="2h" dbName="fortress_dead_255" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="59025;-26100;600;49152" total="1" respawnDelay="2h" dbName="fortress_dead_256" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58950;-26100;600;49152" total="1" respawnDelay="2h" dbName="fortress_dead_257" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58780;-26100;600;49152" total="1" respawnDelay="2h" dbName="fortress_dead_258" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58640;-26100;600;49152" total="1" respawnDelay="2h" dbName="fortress_dead_259" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58560;-26100;600;49152" total="1" respawnDelay="2h" dbName="fortress_dead_260" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="rune_fod_agit_2117_17" minZ="580" maxZ="900">
+		<node x="56410" y="-26285" />
+		<node x="57435" y="-26285" />
+		<node x="57435" y="-26000" />
+		<node x="56410" y="-26000" />
+	</territory>
+	<npcmaker name="rune_fod_agit_2117_17" territory="rune_fod_agit_2117_17" spawn="ALL" maximumNpcs="14" event="agit_defend_warfare_start(64)">
+		<npc id="35634" pos="57330;-26185;600;49152" total="1" respawnDelay="2h" dbName="fortress_dead_261" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57075;-26185;600;49152" total="1" respawnDelay="2h" dbName="fortress_dead_262" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="56890;-26185;600;49152" total="1" respawnDelay="2h" dbName="fortress_dead_263" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="56770;-26185;600;49152" total="1" respawnDelay="2h" dbName="fortress_dead_264" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="56700;-26185;600;49152" total="1" respawnDelay="2h" dbName="fortress_dead_265" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="56580;-26185;600;49152" total="1" respawnDelay="2h" dbName="fortress_dead_266" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="56510;-26185;600;49152" total="1" respawnDelay="2h" dbName="fortress_dead_267" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57335;-26100;600;49152" total="1" respawnDelay="2h" dbName="fortress_dead_268" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57075;-26100;600;49152" total="1" respawnDelay="2h" dbName="fortress_dead_269" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="56890;-26100;600;49152" total="1" respawnDelay="2h" dbName="fortress_dead_270" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="56770;-26100;600;49152" total="1" respawnDelay="2h" dbName="fortress_dead_271" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="56700;-26100;600;49152" total="1" respawnDelay="2h" dbName="fortress_dead_272" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="56580;-26100;600;49152" total="1" respawnDelay="2h" dbName="fortress_dead_273" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="56510;-26100;600;49152" total="1" respawnDelay="2h" dbName="fortress_dead_274" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="rune_fod_agit_2117_18" minZ="572" maxZ="892">
+		<node x="58250" y="-27000" />
+		<node x="58600" y="-27000" />
+		<node x="58600" y="-26340" />
+		<node x="58250" y="-26340" />
+	</territory>
+	<npcmaker name="rune_fod_agit_2117_18" territory="rune_fod_agit_2117_18" spawn="ALL" maximumNpcs="48" event="agit_defend_warfare_start(64)">
+		<npc id="35634" pos="58500;-26900;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_275" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58500;-26860;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_276" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58500;-26820;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_277" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58500;-26780;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_278" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58500;-26740;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_279" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58500;-26700;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_280" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58500;-26660;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_281" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58500;-26620;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_282" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58500;-26580;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_283" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58500;-26540;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_284" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58500;-26480;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_285" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58500;-26440;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_286" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58450;-26900;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_287" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58450;-26860;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_288" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58450;-26820;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_289" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58450;-26780;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_290" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58450;-26740;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_291" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58450;-26700;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_292" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58450;-26660;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_293" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58450;-26620;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_294" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58450;-26580;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_295" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58450;-26540;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_296" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58450;-26480;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_297" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="58450;-26440;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_298" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="58400;-26900;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_299" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="58400;-26860;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_300" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="58400;-26820;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_301" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="58400;-26780;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_302" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="58400;-26740;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_303" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="58400;-26700;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_304" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="58400;-26660;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_305" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="58400;-26620;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_306" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="58400;-26580;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_307" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="58400;-26540;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_308" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="58400;-26480;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_309" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="58400;-26440;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_310" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="58350;-26900;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_311" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="58350;-26860;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_312" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="58350;-26820;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_313" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="58350;-26780;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_314" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="58350;-26740;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_315" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="58350;-26700;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_316" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="58350;-26660;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_317" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="58350;-26620;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_318" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="58350;-26580;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_319" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="58350;-26540;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_320" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="58350;-26480;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_321" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="58350;-26440;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_322" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="rune_fod_agit_2117_19" minZ="572" maxZ="892">
+		<node x="57300" y="-27000" />
+		<node x="57650" y="-27000" />
+		<node x="57650" y="-26340" />
+		<node x="57300" y="-26340" />
+	</territory>
+	<npcmaker name="rune_fod_agit_2117_19" territory="rune_fod_agit_2117_19" spawn="ALL" maximumNpcs="48" event="agit_defend_warfare_start(64)">
+		<npc id="35634" pos="57550;-26900;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_323" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57550;-26860;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_324" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57550;-26820;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_325" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57550;-26780;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_326" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57550;-26740;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_327" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57550;-26700;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_328" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57550;-26660;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_329" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57550;-26620;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_330" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57550;-26580;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_331" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57550;-26540;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_332" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57550;-26480;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_333" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57550;-26440;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_334" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57500;-26900;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_335" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57500;-26860;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_336" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57500;-26820;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_337" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57500;-26780;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_338" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57500;-26740;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_339" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57500;-26700;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_340" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57500;-26660;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_341" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57500;-26620;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_342" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57500;-26580;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_343" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57500;-26540;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_344" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57500;-26480;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_345" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35634" pos="57500;-26440;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_346" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="57450;-26900;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_347" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="57450;-26860;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_348" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="57450;-26820;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_349" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="57450;-26780;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_350" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="57450;-26740;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_351" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="57450;-26700;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_352" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="57450;-26660;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_353" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="57450;-26620;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_354" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="57450;-26580;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_355" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="57450;-26540;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_356" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="57450;-26480;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_357" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35635" pos="57450;-26440;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_358" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="57400;-26900;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_359" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="57400;-26860;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_360" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="57400;-26820;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_361" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="57400;-26780;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_362" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="57400;-26740;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_363" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="57400;-26700;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_364" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="57400;-26660;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_365" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="57400;-26620;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_366" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="57400;-26580;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_367" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="57400;-26540;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_368" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="57400;-26480;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_369" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="35636" pos="57400;-26440;592;0" total="1" respawnDelay="20m" dbName="fortress_dead_370" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+</list>

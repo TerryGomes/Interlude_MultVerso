@@ -1,0 +1,3146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Hunters Area
+ * The Forest of Mirrors
+ * Catacomb of the Witch
+-->
+<list>
+	<!--  -->
+	<territory name="aden10_2420_01" minZ="-3780" maxZ="-3380">
+		<node x="136548" y="65624" />
+		<node x="140412" y="65640" />
+		<node x="139048" y="67440" />
+		<node x="138004" y="67432" />
+		<node x="136692" y="66268" />
+	</territory>
+	<npcmaker name="aden10_2420_01" territory="aden10_2420_01" spawn="ALL" maximumNpcs="4">
+		<npc id="20630" total="2" respawnDelay="23s"/>
+		<npc id="20631" total="1" respawnDelay="23s"/>
+		<npc id="20632" total="1" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_02" minZ="-3792" maxZ="-3392">
+		<node x="131180" y="65640" />
+		<node x="135812" y="65632" />
+		<node x="136428" y="67028" />
+		<node x="132616" y="68964" />
+		<node x="131164" y="68040" />
+	</territory>
+	<npcmaker name="aden10_2420_02" territory="aden10_2420_02" spawn="ALL" maximumNpcs="9">
+		<npc id="20630" total="3" respawnDelay="23s"/>
+		<npc id="20631" total="3" respawnDelay="23s"/>
+		<npc id="20632" total="3" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_03" minZ="-3732" maxZ="-3332">
+		<node x="132524" y="69020" />
+		<node x="136736" y="66912" />
+		<node x="137608" y="67744" />
+		<node x="137592" y="69460" />
+		<node x="136916" y="70500" />
+		<node x="134800" y="71124" />
+	</territory>
+	<npcmaker name="aden10_2420_03" territory="aden10_2420_03" spawn="ALL" maximumNpcs="7">
+		<npc id="20630" total="3" respawnDelay="23s"/>
+		<npc id="20631" total="2" respawnDelay="23s"/>
+		<npc id="20632" total="2" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_04" minZ="-3728" maxZ="-3028">
+		<node x="134684" y="72980" />
+		<node x="135976" y="71264" />
+		<node x="137284" y="71652" />
+		<node x="138824" y="73148" />
+		<node x="135704" y="75096" />
+		<node x="134800" y="74100" />
+	</territory>
+	<npcmaker name="aden10_2420_04" territory="aden10_2420_04" spawn="ALL" maximumNpcs="8">
+		<npc id="20630" total="3" respawnDelay="23s"/>
+		<npc id="20631" total="2" respawnDelay="23s"/>
+		<npc id="20632" total="3" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_05" minZ="-3732" maxZ="-2832">
+		<node x="138876" y="73236" />
+		<node x="141140" y="73288" />
+		<node x="141388" y="77764" />
+		<node x="135748" y="75136" />
+	</territory>
+	<npcmaker name="aden10_2420_05" territory="aden10_2420_05" spawn="ALL" maximumNpcs="9">
+		<npc id="20630" total="3" respawnDelay="23s"/>
+		<npc id="20631" total="3" respawnDelay="23s"/>
+		<npc id="20632" total="3" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_06" minZ="-3376" maxZ="-2776">
+		<node x="142284" y="73384" />
+		<node x="145200" y="72988" />
+		<node x="146580" y="73440" />
+		<node x="146800" y="75192" />
+		<node x="145444" y="76620" />
+		<node x="142876" y="75752" />
+	</territory>
+	<npcmaker name="aden10_2420_06" territory="aden10_2420_06" spawn="ALL" maximumNpcs="15">
+		<npc id="20633" total="3" respawnDelay="23s"/>
+		<npc id="20634" total="3" respawnDelay="23s"/>
+		<npc id="20635" total="3" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_07" minZ="-3368" maxZ="-2768">
+		<node x="146860" y="75300" />
+		<node x="149624" y="77104" />
+		<node x="148824" y="78660" />
+		<node x="147968" y="78744" />
+		<node x="146348" y="78224" />
+		<node x="145388" y="76728" />
+	</territory>
+	<npcmaker name="aden10_2420_07" territory="aden10_2420_07" spawn="ALL" maximumNpcs="11">
+		<npc id="20633" total="3" respawnDelay="23s"/>
+		<npc id="20634" total="2" respawnDelay="23s"/>
+		<npc id="20635" total="2" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_08" minZ="-3500" maxZ="-2900">
+		<node x="148856" y="72504" />
+		<node x="151304" y="72768" />
+		<node x="153356" y="74008" />
+		<node x="152272" y="76072" />
+		<node x="149644" y="77064" />
+		<node x="147816" y="75940" />
+		<node x="147696" y="73444" />
+	</territory>
+	<npcmaker name="aden10_2420_08" territory="aden10_2420_08" spawn="ALL" maximumNpcs="20">
+		<npc id="20633" total="4" respawnDelay="23s"/>
+		<npc id="20634" total="4" respawnDelay="23s"/>
+		<npc id="20635" total="4" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_09" minZ="-3476" maxZ="-3076">
+		<node x="148884" y="73132" />
+		<node x="150632" y="73256" />
+		<node x="149204" y="75808" />
+		<node x="148352" y="74836" />
+	</territory>
+	<npcmaker name="aden10_2420_09" territory="aden10_2420_09" spawn="ALL" maximumNpcs="1">
+		<npc id="20633" total="1" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_10" minZ="-3688" maxZ="-2488">
+		<node x="143848" y="77292" />
+		<node x="145268" y="77780" />
+		<node x="147004" y="79848" />
+		<node x="143720" y="82568" />
+		<node x="142920" y="80272" />
+	</territory>
+	<npcmaker name="aden10_2420_10" territory="aden10_2420_10" spawn="ALL" maximumNpcs="15">
+		<npc id="20633" total="3" respawnDelay="23s"/>
+		<npc id="20634" total="3" respawnDelay="23s"/>
+		<npc id="20635" total="3" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_11" minZ="-3676" maxZ="-2976">
+		<node x="138016" y="76308" />
+		<node x="141384" y="77904" />
+		<node x="142176" y="78876" />
+		<node x="141464" y="80872" />
+		<node x="139012" y="82608" />
+	</territory>
+	<npcmaker name="aden10_2420_11" territory="aden10_2420_11" spawn="ALL" maximumNpcs="16">
+		<npc id="20633" total="3" respawnDelay="23s"/>
+		<npc id="20634" total="3" respawnDelay="23s"/>
+		<npc id="20635" total="4" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_12" minZ="-3772" maxZ="-2872">
+		<node x="135728" y="75256" />
+		<node x="137864" y="76280" />
+		<node x="138208" y="78196" />
+		<node x="134868" y="78376" />
+		<node x="134888" y="76540" />
+	</territory>
+	<npcmaker name="aden10_2420_12" territory="aden10_2420_12" spawn="ALL" maximumNpcs="13">
+		<npc id="20633" total="2" respawnDelay="23s"/>
+		<npc id="20634" total="3" respawnDelay="23s"/>
+		<npc id="20635" total="2" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_13" minZ="-3704" maxZ="-3004">
+		<node x="134928" y="81140" />
+		<node x="138768" y="81292" />
+		<node x="136904" y="84532" />
+		<node x="134152" y="85084" />
+	</territory>
+	<npcmaker name="aden10_2420_13" territory="aden10_2420_13" spawn="ALL" maximumNpcs="12">
+		<npc id="20636" total="2" respawnDelay="23s"/>
+		<npc id="20637" total="2" respawnDelay="23s"/>
+		<npc id="20638" total="2" respawnDelay="23s"/>
+		<npc id="20639" total="2" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_14" minZ="-3736" maxZ="-2736">
+		<node x="134432" y="85124" />
+		<node x="136600" y="84692" />
+		<node x="137856" y="86760" />
+		<node x="138068" y="88144" />
+		<node x="137356" y="89640" />
+		<node x="134300" y="89648" />
+		<node x="133340" y="88188" />
+		<node x="133500" y="85880" />
+	</territory>
+	<npcmaker name="aden10_2420_14" territory="aden10_2420_14" spawn="ALL" maximumNpcs="17">
+		<npc id="20636" total="3" respawnDelay="23s"/>
+		<npc id="20637" total="2" respawnDelay="23s"/>
+		<npc id="20638" total="3" respawnDelay="23s"/>
+		<npc id="20639" total="3" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_15" minZ="-3776" maxZ="-2976">
+		<node x="134320" y="89772" />
+		<node x="136936" y="89772" />
+		<node x="136720" y="91100" />
+		<node x="135868" y="92256" />
+		<node x="134452" y="91688" />
+	</territory>
+	<npcmaker name="aden10_2420_15" territory="aden10_2420_15" spawn="ALL" maximumNpcs="6">
+		<npc id="20636" total="1" respawnDelay="23s"/>
+		<npc id="20637" total="1" respawnDelay="23s"/>
+		<npc id="20638" total="1" respawnDelay="23s"/>
+		<npc id="20639" total="1" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_16" minZ="-3552" maxZ="-3152">
+		<node x="139988" y="83808" />
+		<node x="141000" y="85340" />
+		<node x="141120" y="87848" />
+		<node x="139152" y="87048" />
+		<node x="137972" y="85028" />
+		<node x="138720" y="84040" />
+	</territory>
+	<npcmaker name="aden10_2420_16" territory="aden10_2420_16" spawn="ALL" maximumNpcs="6">
+		<npc id="20636" total="1" respawnDelay="23s"/>
+		<npc id="20637" total="1" respawnDelay="23s"/>
+		<npc id="20638" total="1" respawnDelay="23s"/>
+		<npc id="20639" total="1" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_17" minZ="-3604" maxZ="-2804">
+		<node x="139200" y="87224" />
+		<node x="141048" y="87924" />
+		<node x="140608" y="89056" />
+		<node x="138908" y="90352" />
+	</territory>
+	<npcmaker name="aden10_2420_17" territory="aden10_2420_17" spawn="ALL" maximumNpcs="6">
+		<npc id="20636" total="1" respawnDelay="23s"/>
+		<npc id="20637" total="1" respawnDelay="23s"/>
+		<npc id="20638" total="1" respawnDelay="23s"/>
+		<npc id="20639" total="1" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_18" minZ="-3776" maxZ="-3076">
+		<node x="133416" y="94356" />
+		<node x="138476" y="92484" />
+		<node x="139632" y="94328" />
+		<node x="139308" y="95060" />
+		<node x="135808" y="95352" />
+	</territory>
+	<npcmaker name="aden10_2420_18" territory="aden10_2420_18" spawn="ALL" maximumNpcs="6">
+		<npc id="20640" total="2" respawnDelay="23s"/>
+		<npc id="20641" total="2" respawnDelay="23s"/>
+		<npc id="20642" total="2" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_19" minZ="-3796" maxZ="-3296">
+		<node x="143064" y="90636" />
+		<node x="144572" y="91940" />
+		<node x="142284" y="94788" />
+		<node x="139168" y="93604" />
+		<node x="139284" y="92716" />
+		<node x="142228" y="90564" />
+	</territory>
+	<npcmaker name="aden10_2420_19" territory="aden10_2420_19" spawn="ALL" maximumNpcs="8">
+		<npc id="20640" total="3" respawnDelay="23s"/>
+		<npc id="20641" total="2" respawnDelay="23s"/>
+		<npc id="20642" total="3" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_20" minZ="-3784" maxZ="-3284">
+		<node x="144588" y="91952" />
+		<node x="147292" y="93016" />
+		<node x="145564" y="94352" />
+		<node x="142216" y="94888" />
+	</territory>
+	<npcmaker name="aden10_2420_20" territory="aden10_2420_20" spawn="ALL" maximumNpcs="50">
+		<npc id="20643" total="2" respawnDelay="23s"/>
+		<npc id="20644" total="1" respawnDelay="23s"/>
+		<npc id="20645" total="2" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_21" minZ="-3764" maxZ="-3264">
+		<node x="151996" y="91236" />
+		<node x="154152" y="91024" />
+		<node x="154140" y="93108" />
+		<node x="151532" y="94388" />
+		<node x="148824" y="93192" />
+	</territory>
+	<npcmaker name="aden10_2420_21" territory="aden10_2420_21" spawn="ALL" maximumNpcs="82">
+		<npc id="20643" total="2" respawnDelay="23s"/>
+		<npc id="20644" total="3" respawnDelay="23s"/>
+		<npc id="20645" total="2" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_22" minZ="-3780" maxZ="-3080">
+		<node x="154212" y="91064" />
+		<node x="155000" y="89924" />
+		<node x="156672" y="91268" />
+		<node x="158168" y="92932" />
+		<node x="158756" y="94952" />
+		<node x="157716" y="95748" />
+		<node x="154200" y="93072" />
+	</territory>
+	<npcmaker name="aden10_2420_22" territory="aden10_2420_22" spawn="ALL" maximumNpcs="99">
+		<npc id="20643" total="3" respawnDelay="23s"/>
+		<npc id="20644" total="3" respawnDelay="23s"/>
+		<npc id="20645" total="3" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_23" minZ="-3716" maxZ="-3216">
+		<node x="156112" y="88676" />
+		<node x="157148" y="87864" />
+		<node x="158356" y="88160" />
+		<node x="160688" y="90256" />
+		<node x="158620" y="91604" />
+	</territory>
+	<npcmaker name="aden10_2420_23" territory="aden10_2420_23" spawn="ALL" maximumNpcs="50">
+		<npc id="20643" total="2" respawnDelay="23s"/>
+		<npc id="20644" total="2" respawnDelay="23s"/>
+		<npc id="20645" total="1" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_24" minZ="-3560" maxZ="-3060">
+		<node x="158648" y="91700" />
+		<node x="160608" y="90540" />
+		<node x="162024" y="91880" />
+		<node x="162124" y="93144" />
+		<node x="160616" y="94452" />
+		<node x="158752" y="94728" />
+		<node x="158196" y="92840" />
+	</territory>
+	<npcmaker name="aden10_2420_24" territory="aden10_2420_24" spawn="ALL" maximumNpcs="66">
+		<npc id="20643" total="2" respawnDelay="23s"/>
+		<npc id="20644" total="2" respawnDelay="23s"/>
+		<npc id="20645" total="2" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_25" minZ="-3692" maxZ="-2892">
+		<node x="147868" y="86372" />
+		<node x="149664" y="86524" />
+		<node x="150676" y="88644" />
+		<node x="148640" y="90356" />
+		<node x="146012" y="89740" />
+		<node x="145024" y="88768" />
+	</territory>
+	<npcmaker name="aden10_2420_25" territory="aden10_2420_25" spawn="ALL" maximumNpcs="8">
+		<npc id="20640" total="3" respawnDelay="23s"/>
+		<npc id="20641" total="3" respawnDelay="23s"/>
+		<npc id="20642" total="2" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_26" minZ="-3744" maxZ="-3344">
+		<node x="145676" y="82904" />
+		<node x="147412" y="81740" />
+		<node x="147364" y="85724" />
+		<node x="146408" y="87520" />
+		<node x="144828" y="88860" />
+		<node x="143980" y="87632" />
+		<node x="143864" y="85048" />
+	</territory>
+	<npcmaker name="aden10_2420_26" territory="aden10_2420_26" spawn="ALL" maximumNpcs="8">
+		<npc id="20640" total="3" respawnDelay="23s"/>
+		<npc id="20641" total="3" respawnDelay="23s"/>
+		<npc id="20642" total="2" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_27" minZ="-3624" maxZ="-3024">
+		<node x="147960" y="81672" />
+		<node x="152880" y="79876" />
+		<node x="152372" y="84300" />
+		<node x="149332" y="85080" />
+	</territory>
+	<npcmaker name="aden10_2420_27" territory="aden10_2420_27" spawn="ALL" maximumNpcs="11">
+		<npc id="20640" total="4" respawnDelay="23s"/>
+		<npc id="20641" total="4" respawnDelay="23s"/>
+		<npc id="20642" total="3" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_28" minZ="-3728" maxZ="-2928">
+		<node x="149880" y="85036" />
+		<node x="153236" y="84384" />
+		<node x="154168" y="86164" />
+		<node x="150788" y="88648" />
+		<node x="149688" y="86312" />
+	</territory>
+	<npcmaker name="aden10_2420_28" territory="aden10_2420_28" spawn="ALL" maximumNpcs="8">
+		<npc id="20640" total="3" respawnDelay="23s"/>
+		<npc id="20641" total="3" respawnDelay="23s"/>
+		<npc id="20642" total="2" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_29" minZ="-3248" maxZ="-2848">
+		<node x="153572" y="79544" />
+		<node x="156420" y="76616" />
+		<node x="159240" y="78748" />
+		<node x="154012" y="83452" />
+	</territory>
+	<npcmaker name="aden10_2420_29" territory="aden10_2420_29" spawn="ALL" maximumNpcs="164">
+		<npc id="20643" total="4" respawnDelay="23s"/>
+		<npc id="20644" total="5" respawnDelay="23s"/>
+		<npc id="20645" total="5" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_30" minZ="-3056" maxZ="-2656">
+		<node x="153992" y="84368" />
+		<node x="156952" y="81048" />
+		<node x="158028" y="82280" />
+		<node x="155268" y="84292" />
+	</territory>
+	<npcmaker name="aden10_2420_30" territory="aden10_2420_30" spawn="ALL" maximumNpcs="33">
+		<npc id="20643" total="1" respawnDelay="23s"/>
+		<npc id="20644" total="1" respawnDelay="23s"/>
+		<npc id="20645" total="1" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_31" minZ="-2864" maxZ="-2464">
+		<node x="160456" y="83688" />
+		<node x="161740" y="83536" />
+		<node x="163504" y="86032" />
+		<node x="163536" y="87452" />
+		<node x="161856" y="85872" />
+	</territory>
+	<npcmaker name="aden10_2420_31" territory="aden10_2420_31" spawn="ALL" maximumNpcs="33">
+		<npc id="20643" total="1" respawnDelay="23s"/>
+		<npc id="20644" total="1" respawnDelay="23s"/>
+		<npc id="20645" total="1" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_32" minZ="-3180" maxZ="-2580">
+		<node x="156952" y="80944" />
+		<node x="159284" y="78828" />
+		<node x="161872" y="80340" />
+		<node x="161672" y="83184" />
+		<node x="160116" y="83416" />
+		<node x="158256" y="82588" />
+	</territory>
+	<npcmaker name="aden10_2420_32" territory="aden10_2420_32" spawn="ALL" maximumNpcs="99">
+		<npc id="20643" total="3" respawnDelay="23s"/>
+		<npc id="20644" total="3" respawnDelay="23s"/>
+		<npc id="20645" total="3" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_33" minZ="-2772" maxZ="-2372">
+		<node x="161940" y="80396" />
+		<node x="163616" y="79856" />
+		<node x="163568" y="85336" />
+		<node x="161760" y="82900" />
+	</territory>
+	<npcmaker name="aden10_2420_33" territory="aden10_2420_33" spawn="ALL" maximumNpcs="33">
+		<npc id="20643" total="1" respawnDelay="23s"/>
+		<npc id="20644" total="1" respawnDelay="23s"/>
+		<npc id="20645" total="1" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_34" minZ="-3316" maxZ="-2116">
+		<node x="159564" y="75468" />
+		<node x="163516" y="74276" />
+		<node x="163508" y="79704" />
+		<node x="161932" y="80260" />
+		<node x="159444" y="78752" />
+	</territory>
+	<npcmaker name="aden10_2420_34" territory="aden10_2420_34" spawn="ALL" maximumNpcs="132">
+		<npc id="20643" total="4" respawnDelay="23s"/>
+		<npc id="20644" total="4" respawnDelay="23s"/>
+		<npc id="20645" total="4" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_35" minZ="-3760" maxZ="-2960">
+		<node x="156952" y="74628" />
+		<node x="158556" y="75596" />
+		<node x="158316" y="77996" />
+		<node x="156360" y="76476" />
+	</territory>
+	<npcmaker name="aden10_2420_35" territory="aden10_2420_35" spawn="ALL" maximumNpcs="9">
+		<npc id="20640" total="3" respawnDelay="23s"/>
+		<npc id="20641" total="3" respawnDelay="23s"/>
+		<npc id="20642" total="3" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_36" minZ="-3740" maxZ="-3140">
+		<node x="159648" y="71724" />
+		<node x="162304" y="71420" />
+		<node x="162548" y="73944" />
+		<node x="158904" y="74872" />
+		<node x="157752" y="74288" />
+	</territory>
+	<npcmaker name="aden10_2420_36" territory="aden10_2420_36" spawn="ALL" maximumNpcs="9">
+		<npc id="20640" total="3" respawnDelay="23s"/>
+		<npc id="20641" total="3" respawnDelay="23s"/>
+		<npc id="20642" total="3" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_37" minZ="-3460" maxZ="-3060">
+		<node x="160252" y="68212" />
+		<node x="163588" y="67688" />
+		<node x="163568" y="69848" />
+		<node x="162220" y="71404" />
+		<node x="159760" y="71664" />
+		<node x="159564" y="69136" />
+	</territory>
+	<npcmaker name="aden10_2420_37" territory="aden10_2420_37" spawn="ALL" maximumNpcs="12">
+		<npc id="20640" total="4" respawnDelay="23s"/>
+		<npc id="20641" total="4" respawnDelay="23s"/>
+		<npc id="20642" total="4" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_38" minZ="-3796" maxZ="-3196">
+		<node x="156312" y="67804" />
+		<node x="159364" y="69144" />
+		<node x="159708" y="71588" />
+		<node x="156840" y="74448" />
+		<node x="154988" y="70332" />
+	</territory>
+	<npcmaker name="aden10_2420_38" territory="aden10_2420_38" spawn="ALL" maximumNpcs="8">
+		<npc id="20636" total="2" respawnDelay="23s"/>
+		<npc id="20637" total="1" respawnDelay="23s"/>
+		<npc id="20638" total="2" respawnDelay="23s"/>
+		<npc id="20639" total="1" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_39" minZ="-3804" maxZ="-3404">
+		<node x="159464" y="65644" />
+		<node x="163576" y="65636" />
+		<node x="163544" y="66348" />
+		<node x="161368" y="67532" />
+		<node x="159976" y="67616" />
+	</territory>
+	<npcmaker name="aden10_2420_39" territory="aden10_2420_39" spawn="ALL" maximumNpcs="5">
+		<npc id="20640" total="2" respawnDelay="23s"/>
+		<npc id="20641" total="2" respawnDelay="23s"/>
+		<npc id="20642" total="1" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_40" minZ="-3820" maxZ="-3320">
+		<node x="156128" y="65648" />
+		<node x="159360" y="65660" />
+		<node x="159932" y="67744" />
+		<node x="158760" y="68716" />
+		<node x="156328" y="67776" />
+	</territory>
+	<npcmaker name="aden10_2420_40" territory="aden10_2420_40" spawn="ALL" maximumNpcs="14">
+		<npc id="20636" total="3" respawnDelay="23s"/>
+		<npc id="20637" total="2" respawnDelay="23s"/>
+		<npc id="20638" total="3" respawnDelay="23s"/>
+		<npc id="20639" total="2" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_41" minZ="-3760" maxZ="-3260">
+		<node x="151800" y="65696" />
+		<node x="155944" y="65660" />
+		<node x="156140" y="67836" />
+		<node x="154896" y="70016" />
+		<node x="151736" y="69652" />
+	</territory>
+	<npcmaker name="aden10_2420_41" territory="aden10_2420_41" spawn="ALL" maximumNpcs="15">
+		<npc id="20633" total="3" respawnDelay="23s"/>
+		<npc id="20634" total="3" respawnDelay="23s"/>
+		<npc id="20635" total="3" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_42" minZ="-3808" maxZ="-3308">
+		<node x="146004" y="65752" />
+		<node x="151588" y="65676" />
+		<node x="151608" y="69612" />
+		<node x="147612" y="70300" />
+	</territory>
+	<npcmaker name="aden10_2420_42" territory="aden10_2420_42" spawn="ALL" maximumNpcs="10">
+		<npc id="20630" total="4" respawnDelay="23s"/>
+		<npc id="20631" total="3" respawnDelay="23s"/>
+		<npc id="20632" total="3" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_2420_43" minZ="-3812" maxZ="-3412">
+		<node x="143244" y="65740" />
+		<node x="145816" y="65728" />
+		<node x="147496" y="70304" />
+		<node x="142288" y="70272" />
+		<node x="141124" y="69472" />
+		<node x="141236" y="67504" />
+	</territory>
+	<npcmaker name="aden10_2420_43" territory="aden10_2420_43" spawn="ALL" maximumNpcs="4">
+		<npc id="20630" total="1" respawnDelay="23s"/>
+		<npc id="20631" total="2" respawnDelay="23s"/>
+		<npc id="20632" total="1" respawnDelay="23s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_mb2420_01" minZ="-3844" maxZ="-3244">
+		<node x="135008" y="94460" />
+		<node x="136044" y="93892" />
+		<node x="136700" y="94548" />
+		<node x="135628" y="95296" />
+	</territory>
+	<npcmaker name="aden10_mb2420_01" territory="aden10_mb2420_01" spawn="ALL" maximumNpcs="10">
+		<npc id="25103" total="1" respawnDelay="15h" respawnRandom="1h" dbName="sorcery_isirr" dbSaving="DEATH_TIME;PARAMETERS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_mb2420_02" minZ="-3696" maxZ="-3096">
+		<node x="133280" y="86816" />
+		<node x="133928" y="86544" />
+		<node x="134068" y="87340" />
+		<node x="133236" y="87608" />
+	</territory>
+	<npcmaker name="aden10_mb2420_02" territory="aden10_mb2420_02" spawn="ALL" maximumNpcs="10">
+		<npc id="25456" total="1" respawnDelay="15h" respawnRandom="1h" dbName="oblivion_s_mirror" dbSaving="DEATH_TIME;PARAMETERS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_mb2420_03" minZ="-3804" maxZ="-3204">
+		<node x="149520" y="67564" />
+		<node x="150256" y="67156" />
+		<node x="151688" y="67364" />
+		<node x="150284" y="68580" />
+	</territory>
+	<npcmaker name="aden10_mb2420_03" territory="aden10_mb2420_03" spawn="ALL" maximumNpcs="10">
+		<npc id="25460" total="1" respawnDelay="15h" respawnRandom="1h" dbName="ereve_deathman" dbSaving="DEATH_TIME;PARAMETERS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_tb2420_02" minZ="-3792" maxZ="-3392">
+		<node x="131180" y="65640" />
+		<node x="135812" y="65632" />
+		<node x="136428" y="67028" />
+		<node x="132616" y="68964" />
+		<node x="131164" y="68040" />
+	</territory>
+	<npcmaker name="aden10_tb02_m1" territory="aden10_tb2420_02" spawn="RANDOM" maximumNpcs="1">
+		<npc id="18272" total="1" respawnDelay="60s"/>
+		<npc id="21808" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_tb2420_03" minZ="-3732" maxZ="-3332">
+		<node x="132524" y="69020" />
+		<node x="136736" y="66912" />
+		<node x="137608" y="67744" />
+		<node x="137592" y="69460" />
+		<node x="136916" y="70500" />
+		<node x="134800" y="71124" />
+	</territory>
+	<npcmaker name="aden10_tb03_m1" territory="aden10_tb2420_03" spawn="RANDOM" maximumNpcs="1">
+		<npc id="18272" total="1" respawnDelay="60s"/>
+		<npc id="21808" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_tb2420_04" minZ="-3728" maxZ="-3028">
+		<node x="134684" y="72980" />
+		<node x="135976" y="71264" />
+		<node x="137284" y="71652" />
+		<node x="138824" y="73148" />
+		<node x="135704" y="75096" />
+		<node x="134800" y="74100" />
+	</territory>
+	<npcmaker name="aden10_tb04_m1" territory="aden10_tb2420_04" spawn="RANDOM" maximumNpcs="1">
+		<npc id="18272" total="1" respawnDelay="60s"/>
+		<npc id="21808" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_tb2420_05" minZ="-3732" maxZ="-2832">
+		<node x="138876" y="73236" />
+		<node x="141140" y="73288" />
+		<node x="141388" y="77764" />
+		<node x="135748" y="75136" />
+	</territory>
+	<npcmaker name="aden10_tb05_m1" territory="aden10_tb2420_05" spawn="RANDOM" maximumNpcs="2">
+		<npc id="18272" total="2" respawnDelay="60s"/>
+		<npc id="21808" total="2" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_tb2420_06" minZ="-3376" maxZ="-2776">
+		<node x="142284" y="73384" />
+		<node x="145200" y="72988" />
+		<node x="146580" y="73440" />
+		<node x="146800" y="75192" />
+		<node x="145444" y="76620" />
+		<node x="142876" y="75752" />
+	</territory>
+	<npcmaker name="aden10_tb06_m1" territory="aden10_tb2420_06" spawn="RANDOM" maximumNpcs="2">
+		<npc id="18272" total="2" respawnDelay="60s"/>
+		<npc id="21808" total="2" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_tb2420_07" minZ="-3368" maxZ="-2768">
+		<node x="146860" y="75300" />
+		<node x="149624" y="77104" />
+		<node x="148824" y="78660" />
+		<node x="147968" y="78744" />
+		<node x="146348" y="78224" />
+		<node x="145388" y="76728" />
+	</territory>
+	<npcmaker name="aden10_tb07_m1" territory="aden10_tb2420_07" spawn="RANDOM" maximumNpcs="1">
+		<npc id="18272" total="1" respawnDelay="60s"/>
+		<npc id="21808" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_tb2420_08" minZ="-3500" maxZ="-2900">
+		<node x="148856" y="72504" />
+		<node x="151304" y="72768" />
+		<node x="153356" y="74008" />
+		<node x="152272" y="76072" />
+		<node x="149644" y="77064" />
+		<node x="147816" y="75940" />
+		<node x="147696" y="73444" />
+	</territory>
+	<npcmaker name="aden10_tb08_m1" territory="aden10_tb2420_08" spawn="RANDOM" maximumNpcs="2">
+		<npc id="18272" total="2" respawnDelay="60s"/>
+		<npc id="21808" total="2" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_tb2420_10" minZ="-3688" maxZ="-2488">
+		<node x="143848" y="77292" />
+		<node x="145268" y="77780" />
+		<node x="147004" y="79848" />
+		<node x="143720" y="82568" />
+		<node x="142920" y="80272" />
+	</territory>
+	<npcmaker name="aden10_tb10_m1" territory="aden10_tb2420_10" spawn="RANDOM" maximumNpcs="2">
+		<npc id="18273" total="2" respawnDelay="60s"/>
+		<npc id="21809" total="2" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_tb2420_11" minZ="-3676" maxZ="-2976">
+		<node x="138016" y="76308" />
+		<node x="141384" y="77904" />
+		<node x="142176" y="78876" />
+		<node x="141464" y="80872" />
+		<node x="139012" y="82608" />
+	</territory>
+	<npcmaker name="aden10_tb11_m1" territory="aden10_tb2420_11" spawn="RANDOM" maximumNpcs="2">
+		<npc id="18273" total="2" respawnDelay="60s"/>
+		<npc id="21809" total="2" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_tb2420_12" minZ="-3772" maxZ="-2872">
+		<node x="135728" y="75256" />
+		<node x="137864" y="76280" />
+		<node x="138208" y="78196" />
+		<node x="134868" y="78376" />
+		<node x="134888" y="76540" />
+	</territory>
+	<npcmaker name="aden10_tb12_m1" territory="aden10_tb2420_12" spawn="RANDOM" maximumNpcs="1">
+		<npc id="18273" total="1" respawnDelay="60s"/>
+		<npc id="21809" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_tb2420_13" minZ="-3704" maxZ="-3004">
+		<node x="134928" y="81140" />
+		<node x="138768" y="81292" />
+		<node x="136904" y="84532" />
+		<node x="134152" y="85084" />
+	</territory>
+	<npcmaker name="aden10_tb13_m1" territory="aden10_tb2420_13" spawn="RANDOM" maximumNpcs="1">
+		<npc id="18273" total="1" respawnDelay="60s"/>
+		<npc id="21809" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_tb2420_14" minZ="-3736" maxZ="-2736">
+		<node x="134432" y="85124" />
+		<node x="136600" y="84692" />
+		<node x="137856" y="86760" />
+		<node x="138068" y="88144" />
+		<node x="137356" y="89640" />
+		<node x="134300" y="89648" />
+		<node x="133340" y="88188" />
+		<node x="133500" y="85880" />
+	</territory>
+	<npcmaker name="aden10_tb14_m1" territory="aden10_tb2420_14" spawn="RANDOM" maximumNpcs="1">
+		<npc id="18273" total="1" respawnDelay="60s"/>
+		<npc id="21809" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_tb2420_18" minZ="-3776" maxZ="-3076">
+		<node x="133416" y="94356" />
+		<node x="138476" y="92484" />
+		<node x="139632" y="94328" />
+		<node x="139308" y="95060" />
+		<node x="135808" y="95352" />
+	</territory>
+	<npcmaker name="aden10_tb18_m1" territory="aden10_tb2420_18" spawn="RANDOM" maximumNpcs="1">
+		<npc id="18273" total="1" respawnDelay="60s"/>
+		<npc id="21809" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_tb2420_19" minZ="-3796" maxZ="-3296">
+		<node x="143064" y="90636" />
+		<node x="144572" y="91940" />
+		<node x="142284" y="94788" />
+		<node x="139168" y="93604" />
+		<node x="139284" y="92716" />
+		<node x="142228" y="90564" />
+	</territory>
+	<npcmaker name="aden10_tb19_m1" territory="aden10_tb2420_19" spawn="RANDOM" maximumNpcs="1">
+		<npc id="18273" total="1" respawnDelay="60s"/>
+		<npc id="21809" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_tb2420_21" minZ="-3764" maxZ="-3264">
+		<node x="151996" y="91236" />
+		<node x="154152" y="91024" />
+		<node x="154140" y="93108" />
+		<node x="151532" y="94388" />
+		<node x="148824" y="93192" />
+	</territory>
+	<npcmaker name="aden10_tb21_m1" territory="aden10_tb2420_21" spawn="RANDOM" maximumNpcs="1">
+		<npc id="18273" total="1" respawnDelay="60s"/>
+		<npc id="21809" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_tb2420_22" minZ="-3780" maxZ="-3080">
+		<node x="154212" y="91064" />
+		<node x="155000" y="89924" />
+		<node x="156672" y="91268" />
+		<node x="158168" y="92932" />
+		<node x="158756" y="94952" />
+		<node x="157716" y="95748" />
+		<node x="154200" y="93072" />
+	</territory>
+	<npcmaker name="aden10_tb22_m1" territory="aden10_tb2420_22" spawn="RANDOM" maximumNpcs="2">
+		<npc id="18273" total="2" respawnDelay="60s"/>
+		<npc id="21809" total="2" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_tb2420_23" minZ="-3716" maxZ="-3216">
+		<node x="156112" y="88676" />
+		<node x="157148" y="87864" />
+		<node x="158356" y="88160" />
+		<node x="160688" y="90256" />
+		<node x="158620" y="91604" />
+	</territory>
+	<npcmaker name="aden10_tb23_m1" territory="aden10_tb2420_23" spawn="RANDOM" maximumNpcs="1">
+		<npc id="18274" total="1" respawnDelay="60s"/>
+		<npc id="21810" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_tb2420_24" minZ="-3560" maxZ="-3060">
+		<node x="158648" y="91700" />
+		<node x="160608" y="90540" />
+		<node x="162024" y="91880" />
+		<node x="162124" y="93144" />
+		<node x="160616" y="94452" />
+		<node x="158752" y="94728" />
+		<node x="158196" y="92840" />
+	</territory>
+	<npcmaker name="aden10_tb24_m1" territory="aden10_tb2420_24" spawn="RANDOM" maximumNpcs="1">
+		<npc id="18274" total="1" respawnDelay="60s"/>
+		<npc id="21810" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_tb2420_25" minZ="-3692" maxZ="-2892">
+		<node x="147868" y="86372" />
+		<node x="149664" y="86524" />
+		<node x="150676" y="88644" />
+		<node x="148640" y="90356" />
+		<node x="146012" y="89740" />
+		<node x="145024" y="88768" />
+	</territory>
+	<npcmaker name="aden10_tb25_m1" territory="aden10_tb2420_25" spawn="RANDOM" maximumNpcs="2">
+		<npc id="18274" total="2" respawnDelay="60s"/>
+		<npc id="21810" total="2" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_tb2420_26" minZ="-3744" maxZ="-3344">
+		<node x="145676" y="82904" />
+		<node x="147412" y="81740" />
+		<node x="147364" y="85724" />
+		<node x="146408" y="87520" />
+		<node x="144828" y="88860" />
+		<node x="143980" y="87632" />
+		<node x="143864" y="85048" />
+	</territory>
+	<npcmaker name="aden10_tb26_m1" territory="aden10_tb2420_26" spawn="RANDOM" maximumNpcs="2">
+		<npc id="18274" total="2" respawnDelay="60s"/>
+		<npc id="21810" total="2" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_tb2420_27" minZ="-3624" maxZ="-3024">
+		<node x="147960" y="81672" />
+		<node x="152880" y="79876" />
+		<node x="152372" y="84300" />
+		<node x="149332" y="85080" />
+	</territory>
+	<npcmaker name="aden10_tb27_m1" territory="aden10_tb2420_27" spawn="RANDOM" maximumNpcs="3">
+		<npc id="18274" total="3" respawnDelay="60s"/>
+		<npc id="21810" total="3" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_tb2420_28" minZ="-3728" maxZ="-2928">
+		<node x="149880" y="85036" />
+		<node x="153236" y="84384" />
+		<node x="154168" y="86164" />
+		<node x="150788" y="88648" />
+		<node x="149688" y="86312" />
+	</territory>
+	<npcmaker name="aden10_tb28_m1" territory="aden10_tb2420_28" spawn="RANDOM" maximumNpcs="2">
+		<npc id="18274" total="2" respawnDelay="60s"/>
+		<npc id="21810" total="2" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_tb2420_29" minZ="-3248" maxZ="-2848">
+		<node x="153572" y="79544" />
+		<node x="156420" y="76616" />
+		<node x="159240" y="78748" />
+		<node x="154012" y="83452" />
+	</territory>
+	<npcmaker name="aden10_tb29_m1" territory="aden10_tb2420_29" spawn="RANDOM" maximumNpcs="2">
+		<npc id="18275" total="2" respawnDelay="60s"/>
+		<npc id="21811" total="2" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_tb2420_32" minZ="-3180" maxZ="-2580">
+		<node x="156952" y="80944" />
+		<node x="159284" y="78828" />
+		<node x="161872" y="80340" />
+		<node x="161672" y="83184" />
+		<node x="160116" y="83416" />
+		<node x="158256" y="82588" />
+	</territory>
+	<npcmaker name="aden10_tb32_m1" territory="aden10_tb2420_32" spawn="RANDOM" maximumNpcs="2">
+		<npc id="18275" total="2" respawnDelay="60s"/>
+		<npc id="21811" total="2" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_tb2420_34" minZ="-3316" maxZ="-2116">
+		<node x="159564" y="75468" />
+		<node x="163516" y="74276" />
+		<node x="163508" y="79704" />
+		<node x="161932" y="80260" />
+		<node x="159444" y="78752" />
+	</territory>
+	<npcmaker name="aden10_tb34_m1" territory="aden10_tb2420_34" spawn="RANDOM" maximumNpcs="2">
+		<npc id="18275" total="2" respawnDelay="60s"/>
+		<npc id="21811" total="2" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_tb2420_35" minZ="-3760" maxZ="-2960">
+		<node x="156952" y="74628" />
+		<node x="158556" y="75596" />
+		<node x="158316" y="77996" />
+		<node x="156360" y="76476" />
+	</territory>
+	<npcmaker name="aden10_tb35_m1" territory="aden10_tb2420_35" spawn="RANDOM" maximumNpcs="2">
+		<npc id="18275" total="2" respawnDelay="60s"/>
+		<npc id="21811" total="2" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_tb2420_36" minZ="-3740" maxZ="-3140">
+		<node x="159648" y="71724" />
+		<node x="162304" y="71420" />
+		<node x="162548" y="73944" />
+		<node x="158904" y="74872" />
+		<node x="157752" y="74288" />
+	</territory>
+	<npcmaker name="aden10_tb36_m1" territory="aden10_tb2420_36" spawn="RANDOM" maximumNpcs="2">
+		<npc id="18275" total="2" respawnDelay="60s"/>
+		<npc id="21811" total="2" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_tb2420_37" minZ="-3460" maxZ="-3060">
+		<node x="160252" y="68212" />
+		<node x="163588" y="67688" />
+		<node x="163568" y="69848" />
+		<node x="162220" y="71404" />
+		<node x="159760" y="71664" />
+		<node x="159564" y="69136" />
+	</territory>
+	<npcmaker name="aden10_tb37_m1" territory="aden10_tb2420_37" spawn="RANDOM" maximumNpcs="3">
+		<npc id="18275" total="3" respawnDelay="60s"/>
+		<npc id="21811" total="3" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_tb2420_39" minZ="-3804" maxZ="-3404">
+		<node x="159464" y="65644" />
+		<node x="163576" y="65636" />
+		<node x="163544" y="66348" />
+		<node x="161368" y="67532" />
+		<node x="159976" y="67616" />
+	</territory>
+	<npcmaker name="aden10_tb39_m1" territory="aden10_tb2420_39" spawn="RANDOM" maximumNpcs="1">
+		<npc id="18276" total="1" respawnDelay="60s"/>
+		<npc id="21812" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_tb2420_40" minZ="-3820" maxZ="-3320">
+		<node x="156128" y="65648" />
+		<node x="159360" y="65660" />
+		<node x="159932" y="67744" />
+		<node x="158760" y="68716" />
+		<node x="156328" y="67776" />
+	</territory>
+	<npcmaker name="aden10_tb40_m1" territory="aden10_tb2420_40" spawn="RANDOM" maximumNpcs="1">
+		<npc id="18276" total="1" respawnDelay="60s"/>
+		<npc id="21812" total="1" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_tb2420_41" minZ="-3760" maxZ="-3260">
+		<node x="151800" y="65696" />
+		<node x="155944" y="65660" />
+		<node x="156140" y="67836" />
+		<node x="154896" y="70016" />
+		<node x="151736" y="69652" />
+	</territory>
+	<npcmaker name="aden10_tb41_m1" territory="aden10_tb2420_41" spawn="RANDOM" maximumNpcs="2">
+		<npc id="18276" total="2" respawnDelay="60s"/>
+		<npc id="21812" total="2" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden10_tb2420_42" minZ="-3808" maxZ="-3308">
+		<node x="146004" y="65752" />
+		<node x="151588" y="65676" />
+		<node x="151608" y="69612" />
+		<node x="147612" y="70300" />
+	</territory>
+	<npcmaker name="aden10_tb42_m1" territory="aden10_tb2420_42" spawn="RANDOM" maximumNpcs="2">
+		<npc id="18276" total="2" respawnDelay="60s"/>
+		<npc id="21812" total="2" respawnDelay="60s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="godard04_mb2416_01" minZ="-3520" maxZ="-3100">
+		<node x="154500" y="84900" />
+		<node x="155500" y="84900" />
+		<node x="155500" y="85900" />
+		<node x="154500" y="85900" />
+	</territory>
+	<npcmaker name="godard04_mb2416_01" territory="godard04_mb2416_01" spawn="ALL" maximumNpcs="10">
+		<npc id="25238" total="1" respawnDelay="15h" respawnRandom="1h" dbName="nightmare_drake" dbSaving="DEATH_TIME;PARAMETERS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_da01" minZ="-5464" maxZ="-5264">
+		<node x="141569" y="79370" />
+		<node x="142182" y="79370" />
+		<node x="142182" y="80007" />
+		<node x="141569" y="80007" />
+	</territory>
+	<npcmaker name="ssq13_2420_da01" territory="ssq13_2420_da01" spawn="ALL" maximumNpcs="4" event="ssq_seal2_dawn">
+		<npc id="21248" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21156" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21179" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_da02" minZ="-5464" maxZ="-5264">
+		<node x="142874" y="79313" />
+		<node x="144345" y="79313" />
+		<node x="144345" y="79950" />
+		<node x="142874" y="79950" />
+	</territory>
+	<npcmaker name="ssq13_2420_da02" territory="ssq13_2420_da02" spawn="ALL" maximumNpcs="8" event="ssq_seal2_dawn">
+		<npc id="21248" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21156" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21179" total="4" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_da03" minZ="-5464" maxZ="-5264">
+		<node x="145102" y="79366" />
+		<node x="145715" y="79366" />
+		<node x="145715" y="80003" />
+		<node x="145102" y="80003" />
+	</territory>
+	<npcmaker name="ssq13_2420_da03" territory="ssq13_2420_da03" spawn="ALL" maximumNpcs="4" event="ssq_seal2_dawn">
+		<npc id="21249" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21180" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_da04" minZ="-5476" maxZ="-5276">
+		<node x="140464" y="80964" />
+		<node x="141103" y="80964" />
+		<node x="141103" y="82423" />
+		<node x="140464" y="82423" />
+	</territory>
+	<npcmaker name="ssq13_2420_da04" territory="ssq13_2420_da04" spawn="ALL" maximumNpcs="8" event="ssq_seal2_dawn">
+		<npc id="21248" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21156" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21179" total="4" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_da05" minZ="-5464" maxZ="-5264">
+		<node x="142524" y="81448" />
+		<node x="143203" y="81448" />
+		<node x="143203" y="83327" />
+		<node x="142524" y="83347" />
+	</territory>
+	<npcmaker name="ssq13_2420_da05" territory="ssq13_2420_da05" spawn="ALL" maximumNpcs="8" event="ssq_seal2_dawn">
+		<npc id="21248" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21156" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21179" total="4" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_da06" minZ="-5476" maxZ="-5276">
+		<node x="145076" y="81200" />
+		<node x="145716" y="81200" />
+		<node x="145716" y="82659" />
+		<node x="145076" y="82659" />
+	</territory>
+	<npcmaker name="ssq13_2420_da06" territory="ssq13_2420_da06" spawn="ALL" maximumNpcs="8" event="ssq_seal2_dawn">
+		<npc id="21249" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21180" total="4" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_da07" minZ="-5464" maxZ="-5264">
+		<node x="140482" y="83959" />
+		<node x="141095" y="83959" />
+		<node x="141095" y="84596" />
+		<node x="140482" y="84596" />
+	</territory>
+	<npcmaker name="ssq13_2420_da07" territory="ssq13_2420_da07" spawn="ALL" maximumNpcs="4" event="ssq_seal2_dawn">
+		<npc id="21248" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21156" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21179" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_da08" minZ="-5464" maxZ="-5264">
+		<node x="142515" y="83977" />
+		<node x="143986" y="83977" />
+		<node x="143986" y="84614" />
+		<node x="142515" y="84614" />
+	</territory>
+	<npcmaker name="ssq13_2420_da08" territory="ssq13_2420_da08" spawn="ALL" maximumNpcs="8" event="ssq_seal2_dawn">
+		<npc id="21248" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21156" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21179" total="4" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_da09" minZ="-5464" maxZ="-5264">
+		<node x="145094" y="83939" />
+		<node x="145707" y="83939" />
+		<node x="145707" y="84576" />
+		<node x="145094" y="84576" />
+	</territory>
+	<npcmaker name="ssq13_2420_da09" territory="ssq13_2420_da09" spawn="ALL" maximumNpcs="4" event="ssq_seal2_dawn">
+		<npc id="21249" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21180" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_da10" minZ="-5464" maxZ="-5264">
+		<node x="146171" y="79359" />
+		<node x="146784" y="79359" />
+		<node x="146784" y="79996" />
+		<node x="146171" y="79996" />
+	</territory>
+	<npcmaker name="ssq13_2420_da10" territory="ssq13_2420_da10" spawn="ALL" maximumNpcs="4" event="ssq_seal2_dawn">
+		<npc id="21249" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21180" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_da11" minZ="-5476" maxZ="-5276">
+		<node x="148876" y="79360" />
+		<node x="149515" y="79360" />
+		<node x="149515" y="80819" />
+		<node x="148876" y="80819" />
+	</territory>
+	<npcmaker name="ssq13_2420_da11" territory="ssq13_2420_da11" spawn="ALL" maximumNpcs="8" event="ssq_seal2_dawn">
+		<npc id="21250" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21181" total="4" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_da12" minZ="-5464" maxZ="-5264">
+		<node x="150748" y="79393" />
+		<node x="151360" y="79393" />
+		<node x="151360" y="80030" />
+		<node x="150748" y="80030" />
+	</territory>
+	<npcmaker name="ssq13_2420_da12" territory="ssq13_2420_da12" spawn="ALL" maximumNpcs="4" event="ssq_seal2_dawn">
+		<npc id="21251" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21182" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_da13" minZ="-5464" maxZ="-5264">
+		<node x="146125" y="80319" />
+		<node x="147596" y="80319" />
+		<node x="147596" y="80956" />
+		<node x="146125" y="80956" />
+	</territory>
+	<npcmaker name="ssq13_2420_da13" territory="ssq13_2420_da13" spawn="ALL" maximumNpcs="8" event="ssq_seal2_dawn">
+		<npc id="21249" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21180" total="4" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_da14" minZ="-5476" maxZ="-5276">
+		<node x="146151" y="81356" />
+		<node x="146791" y="81356" />
+		<node x="146791" y="82815" />
+		<node x="146151" y="82815" />
+	</territory>
+	<npcmaker name="ssq13_2420_da14" territory="ssq13_2420_da14" spawn="ALL" maximumNpcs="8" event="ssq_seal2_dawn">
+		<npc id="21250" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21181" total="4" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_da15" minZ="-5468" maxZ="-5268">
+		<node x="148645" y="81447" />
+		<node x="150525" y="81447" />
+		<node x="150525" y="82142" />
+		<node x="148645" y="82142" />
+	</territory>
+	<npcmaker name="ssq13_2420_da15" territory="ssq13_2420_da15" spawn="ALL" maximumNpcs="8" event="ssq_seal2_dawn">
+		<npc id="21251" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21182" total="4" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_da16" minZ="-5464" maxZ="-5264">
+		<node x="146177" y="83964" />
+		<node x="146789" y="83964" />
+		<node x="146789" y="84601" />
+		<node x="146177" y="84601" />
+	</territory>
+	<npcmaker name="ssq13_2420_da16" territory="ssq13_2420_da16" spawn="ALL" maximumNpcs="4" event="ssq_seal2_dawn">
+		<npc id="21250" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21181" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_da17" minZ="-5476" maxZ="-5276">
+		<node x="147569" y="83155" />
+		<node x="148209" y="83155" />
+		<node x="148209" y="84615" />
+		<node x="147569" y="84615" />
+	</territory>
+	<npcmaker name="ssq13_2420_da17" territory="ssq13_2420_da17" spawn="ALL" maximumNpcs="8" event="ssq_seal2_dawn">
+		<npc id="21250" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21181" total="4" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_da18" minZ="-5464" maxZ="-5264">
+		<node x="150780" y="83948" />
+		<node x="151392" y="83948" />
+		<node x="151392" y="84585" />
+		<node x="150780" y="84585" />
+	</territory>
+	<npcmaker name="ssq13_2420_da18" territory="ssq13_2420_da18" spawn="ALL" maximumNpcs="4" event="ssq_seal2_dawn">
+		<npc id="21251" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21182" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_da19" minZ="-5464" maxZ="-5264">
+		<node x="140443" y="85047" />
+		<node x="141056" y="85047" />
+		<node x="141056" y="85684" />
+		<node x="140443" y="85684" />
+	</territory>
+	<npcmaker name="ssq13_2420_da19" territory="ssq13_2420_da19" spawn="ALL" maximumNpcs="4" event="ssq_seal2_dawn">
+		<npc id="21249" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21180" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_da20" minZ="-5464" maxZ="-5264">
+		<node x="142248" y="85056" />
+		<node x="143719" y="85056" />
+		<node x="143719" y="85693" />
+		<node x="142248" y="85693" />
+	</territory>
+	<npcmaker name="ssq13_2420_da20" territory="ssq13_2420_da20" spawn="ALL" maximumNpcs="8" event="ssq_seal2_dawn">
+		<npc id="21249" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21180" total="4" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_da21" minZ="-5476" maxZ="-5276">
+		<node x="144097" y="85003" />
+		<node x="144736" y="85003" />
+		<node x="144736" y="86463" />
+		<node x="144097" y="86463" />
+	</territory>
+	<npcmaker name="ssq13_2420_da21" territory="ssq13_2420_da21" spawn="ALL" maximumNpcs="8" event="ssq_seal2_dawn">
+		<npc id="21250" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21181" total="4" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_da22" minZ="-5464" maxZ="-5264">
+		<node x="145102" y="85063" />
+		<node x="145714" y="85063" />
+		<node x="145714" y="85700" />
+		<node x="145102" y="85700" />
+	</territory>
+	<npcmaker name="ssq13_2420_da22" territory="ssq13_2420_da22" spawn="ALL" maximumNpcs="4" event="ssq_seal2_dawn">
+		<npc id="21250" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21181" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_da23" minZ="-5464" maxZ="-5264">
+		<node x="140432" y="86478" />
+		<node x="141903" y="86478" />
+		<node x="141903" y="87115" />
+		<node x="140432" y="87115" />
+	</territory>
+	<npcmaker name="ssq13_2420_da23" territory="ssq13_2420_da23" spawn="ALL" maximumNpcs="8" event="ssq_seal2_dawn">
+		<npc id="21250" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21181" total="4" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_da24" minZ="-5464" maxZ="-5264">
+		<node x="142916" y="87537" />
+		<node x="143596" y="87537" />
+		<node x="143596" y="89416" />
+		<node x="142916" y="89436" />
+	</territory>
+	<npcmaker name="ssq13_2420_da24" territory="ssq13_2420_da24" spawn="ALL" maximumNpcs="8" event="ssq_seal2_dawn">
+		<npc id="21251" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21182" total="4" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_da25" minZ="-5464" maxZ="-5264">
+		<node x="144338" y="87774" />
+		<node x="145809" y="87774" />
+		<node x="145809" y="88411" />
+		<node x="144338" y="88411" />
+	</territory>
+	<npcmaker name="ssq13_2420_da25" territory="ssq13_2420_da25" spawn="ALL" maximumNpcs="8" event="ssq_seal2_dawn">
+		<npc id="21251" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21182" total="4" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_da26" minZ="-5464" maxZ="-5264">
+		<node x="140475" y="89672" />
+		<node x="141088" y="89672" />
+		<node x="141088" y="90309" />
+		<node x="140475" y="90309" />
+	</territory>
+	<npcmaker name="ssq13_2420_da26" territory="ssq13_2420_da26" spawn="ALL" maximumNpcs="4" event="ssq_seal2_dawn">
+		<npc id="21251" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21182" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_da27" minZ="-5464" maxZ="-5264">
+		<node x="145109" y="89637" />
+		<node x="145721" y="89637" />
+		<node x="145721" y="90275" />
+		<node x="145108" y="90275" />
+	</territory>
+	<npcmaker name="ssq13_2420_da27" territory="ssq13_2420_da27" spawn="ALL" maximumNpcs="4" event="ssq_seal2_dawn">
+		<npc id="21251" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21182" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_da28" minZ="-5464" maxZ="-5264">
+		<node x="146179" y="85061" />
+		<node x="146791" y="85061" />
+		<node x="146791" y="85698" />
+		<node x="146178" y="85698" />
+	</territory>
+	<npcmaker name="ssq13_2420_da28" territory="ssq13_2420_da28" spawn="ALL" maximumNpcs="4" event="ssq_seal2_dawn">
+		<npc id="21251" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21182" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_da29" minZ="-5464" maxZ="-5264">
+		<node x="149482" y="85069" />
+		<node x="150162" y="85069" />
+		<node x="150162" y="86948" />
+		<node x="149482" y="86968" />
+	</territory>
+	<npcmaker name="ssq13_2420_da29" territory="ssq13_2420_da29" spawn="ALL" maximumNpcs="8" event="ssq_seal2_dawn">
+		<npc id="21252" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21160" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21183" total="4" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_da30" minZ="-5464" maxZ="-5264">
+		<node x="150787" y="85027" />
+		<node x="151400" y="85027" />
+		<node x="151400" y="85664" />
+		<node x="150787" y="85664" />
+	</territory>
+	<npcmaker name="ssq13_2420_da30" territory="ssq13_2420_da30" spawn="ALL" maximumNpcs="4" event="ssq_seal2_dawn">
+		<npc id="21251" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21182" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_da31" minZ="-5464" maxZ="-5264">
+		<node x="147265" y="86936" />
+		<node x="148736" y="86936" />
+		<node x="148736" y="87573" />
+		<node x="147265" y="87573" />
+	</territory>
+	<npcmaker name="ssq13_2420_da31" territory="ssq13_2420_da31" spawn="ALL" maximumNpcs="8" event="ssq_seal2_dawn">
+		<npc id="21252" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21160" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21183" total="4" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_da32" minZ="-5464" maxZ="-5264">
+		<node x="149498" y="87452" />
+		<node x="150111" y="87452" />
+		<node x="150111" y="88089" />
+		<node x="149498" y="88089" />
+	</territory>
+	<npcmaker name="ssq13_2420_da32" territory="ssq13_2420_da32" spawn="ALL" maximumNpcs="4" event="ssq_seal2_dawn">
+		<npc id="21252" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21160" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21183" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_da34" minZ="-5468" maxZ="-5268">
+		<node x="146202" y="88214" />
+		<node x="148081" y="88214" />
+		<node x="148081" y="88909" />
+		<node x="146202" y="88909" />
+	</territory>
+	<npcmaker name="ssq13_2420_da34" territory="ssq13_2420_da34" spawn="ALL" maximumNpcs="4" event="ssq_seal2_dawn">
+		<npc id="21252" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21160" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21183" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_da35" minZ="-5464" maxZ="-5264">
+		<node x="149640" y="88547" />
+		<node x="150252" y="88547" />
+		<node x="150252" y="89184" />
+		<node x="149640" y="89184" />
+	</territory>
+	<npcmaker name="ssq13_2420_da35" territory="ssq13_2420_da35" spawn="ALL" maximumNpcs="4" event="ssq_seal2_dawn">
+		<npc id="21252" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21160" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21183" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_da36" minZ="-5464" maxZ="-5264">
+		<node x="146167" y="89642" />
+		<node x="146780" y="89642" />
+		<node x="146780" y="90279" />
+		<node x="146167" y="90279" />
+	</territory>
+	<npcmaker name="ssq13_2420_da36" territory="ssq13_2420_da36" spawn="ALL" maximumNpcs="4" event="ssq_seal2_dawn">
+		<npc id="21251" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21182" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_da37" minZ="-5464" maxZ="-5264">
+		<node x="148009" y="89336" />
+		<node x="149480" y="89336" />
+		<node x="149480" y="89974" />
+		<node x="148009" y="89974" />
+	</territory>
+	<npcmaker name="ssq13_2420_da37" territory="ssq13_2420_da37" spawn="ALL" maximumNpcs="8" event="ssq_seal2_dawn">
+		<npc id="21252" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21160" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21183" total="4" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_da38" minZ="-5464" maxZ="-5264">
+		<node x="150776" y="89633" />
+		<node x="151389" y="89633" />
+		<node x="151389" y="90270" />
+		<node x="150776" y="90270" />
+	</territory>
+	<npcmaker name="ssq13_2420_da38" territory="ssq13_2420_da38" spawn="ALL" maximumNpcs="4" event="ssq_seal2_dawn">
+		<npc id="21252" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21160" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21183" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_no01" minZ="-5464" maxZ="-5264">
+		<node x="141569" y="79370" />
+		<node x="142182" y="79370" />
+		<node x="142182" y="80007" />
+		<node x="141569" y="80007" />
+	</territory>
+	<npcmaker name="ssq13_2420_no01" territory="ssq13_2420_no01" spawn="ALL" maximumNpcs="4" event="ssq_seal2_none">
+		<npc id="21248" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21156" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21249" total="1" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_no02" minZ="-5464" maxZ="-5264">
+		<node x="142874" y="79313" />
+		<node x="144345" y="79313" />
+		<node x="144345" y="79950" />
+		<node x="142874" y="79950" />
+	</territory>
+	<npcmaker name="ssq13_2420_no02" territory="ssq13_2420_no02" spawn="ALL" maximumNpcs="8" event="ssq_seal2_none">
+		<npc id="21248" total="3" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21156" total="3" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21249" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_no03" minZ="-5464" maxZ="-5264">
+		<node x="145102" y="79366" />
+		<node x="145715" y="79366" />
+		<node x="145715" y="80003" />
+		<node x="145102" y="80003" />
+	</territory>
+	<npcmaker name="ssq13_2420_no03" territory="ssq13_2420_no03" spawn="ALL" maximumNpcs="4" event="ssq_seal2_none">
+		<npc id="21156" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21249" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="1" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_no04" minZ="-5476" maxZ="-5276">
+		<node x="140464" y="80964" />
+		<node x="141103" y="80964" />
+		<node x="141103" y="82423" />
+		<node x="140464" y="82423" />
+	</territory>
+	<npcmaker name="ssq13_2420_no04" territory="ssq13_2420_no04" spawn="ALL" maximumNpcs="8" event="ssq_seal2_none">
+		<npc id="21248" total="3" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21156" total="3" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21249" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_no05" minZ="-5464" maxZ="-5264">
+		<node x="142524" y="81448" />
+		<node x="143203" y="81448" />
+		<node x="143203" y="83327" />
+		<node x="142524" y="83347" />
+	</territory>
+	<npcmaker name="ssq13_2420_no05" territory="ssq13_2420_no05" spawn="ALL" maximumNpcs="8" event="ssq_seal2_none">
+		<npc id="21248" total="3" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21156" total="3" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21249" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_no06" minZ="-5476" maxZ="-5276">
+		<node x="145076" y="81200" />
+		<node x="145716" y="81200" />
+		<node x="145716" y="82659" />
+		<node x="145076" y="82659" />
+	</territory>
+	<npcmaker name="ssq13_2420_no06" territory="ssq13_2420_no06" spawn="ALL" maximumNpcs="8" event="ssq_seal2_none">
+		<npc id="21156" total="3" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21249" total="3" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_no07" minZ="-5464" maxZ="-5264">
+		<node x="140482" y="83959" />
+		<node x="141095" y="83959" />
+		<node x="141095" y="84596" />
+		<node x="140482" y="84596" />
+	</territory>
+	<npcmaker name="ssq13_2420_no07" territory="ssq13_2420_no07" spawn="ALL" maximumNpcs="4" event="ssq_seal2_none">
+		<npc id="21248" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21156" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21249" total="1" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_no08" minZ="-5464" maxZ="-5264">
+		<node x="142515" y="83977" />
+		<node x="143986" y="83977" />
+		<node x="143986" y="84614" />
+		<node x="142515" y="84614" />
+	</territory>
+	<npcmaker name="ssq13_2420_no08" territory="ssq13_2420_no08" spawn="ALL" maximumNpcs="8" event="ssq_seal2_none">
+		<npc id="21248" total="3" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21156" total="3" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21249" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_no09" minZ="-5464" maxZ="-5264">
+		<node x="145094" y="83939" />
+		<node x="145707" y="83939" />
+		<node x="145707" y="84576" />
+		<node x="145094" y="84576" />
+	</territory>
+	<npcmaker name="ssq13_2420_no09" territory="ssq13_2420_no09" spawn="ALL" maximumNpcs="4" event="ssq_seal2_none">
+		<npc id="21156" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21249" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="1" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_no10" minZ="-5464" maxZ="-5264">
+		<node x="146171" y="79359" />
+		<node x="146784" y="79359" />
+		<node x="146784" y="79996" />
+		<node x="146171" y="79996" />
+	</territory>
+	<npcmaker name="ssq13_2420_no10" territory="ssq13_2420_no10" spawn="ALL" maximumNpcs="4" event="ssq_seal2_none">
+		<npc id="21156" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21249" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="1" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_no11" minZ="-5476" maxZ="-5276">
+		<node x="148876" y="79360" />
+		<node x="149515" y="79360" />
+		<node x="149515" y="80819" />
+		<node x="148876" y="80819" />
+	</territory>
+	<npcmaker name="ssq13_2420_no11" territory="ssq13_2420_no11" spawn="ALL" maximumNpcs="8" event="ssq_seal2_none">
+		<npc id="21249" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21250" total="3" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="3" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_no12" minZ="-5464" maxZ="-5264">
+		<node x="150748" y="79393" />
+		<node x="151360" y="79393" />
+		<node x="151360" y="80030" />
+		<node x="150748" y="80030" />
+	</territory>
+	<npcmaker name="ssq13_2420_no12" territory="ssq13_2420_no12" spawn="ALL" maximumNpcs="4" event="ssq_seal2_none">
+		<npc id="21249" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21251" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_no13" minZ="-5464" maxZ="-5264">
+		<node x="146125" y="80319" />
+		<node x="147596" y="80319" />
+		<node x="147596" y="80956" />
+		<node x="146125" y="80956" />
+	</territory>
+	<npcmaker name="ssq13_2420_no13" territory="ssq13_2420_no13" spawn="ALL" maximumNpcs="8" event="ssq_seal2_none">
+		<npc id="21249" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="3" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21250" total="3" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_no14" minZ="-5476" maxZ="-5276">
+		<node x="146151" y="81356" />
+		<node x="146791" y="81356" />
+		<node x="146791" y="82815" />
+		<node x="146151" y="82815" />
+	</territory>
+	<npcmaker name="ssq13_2420_no14" territory="ssq13_2420_no14" spawn="ALL" maximumNpcs="8" event="ssq_seal2_none">
+		<npc id="21249" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21250" total="3" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="3" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_no15" minZ="-5468" maxZ="-5268">
+		<node x="148645" y="81447" />
+		<node x="150525" y="81447" />
+		<node x="150525" y="82142" />
+		<node x="148645" y="82142" />
+	</territory>
+	<npcmaker name="ssq13_2420_no15" territory="ssq13_2420_no15" spawn="ALL" maximumNpcs="8" event="ssq_seal2_none">
+		<npc id="21157" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21251" total="3" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="3" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_no16" minZ="-5464" maxZ="-5264">
+		<node x="146177" y="83964" />
+		<node x="146789" y="83964" />
+		<node x="146789" y="84601" />
+		<node x="146177" y="84601" />
+	</territory>
+	<npcmaker name="ssq13_2420_no16" territory="ssq13_2420_no16" spawn="ALL" maximumNpcs="4" event="ssq_seal2_none">
+		<npc id="21249" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21250" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="1" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_no17" minZ="-5476" maxZ="-5276">
+		<node x="147569" y="83155" />
+		<node x="148209" y="83155" />
+		<node x="148209" y="84615" />
+		<node x="147569" y="84615" />
+	</territory>
+	<npcmaker name="ssq13_2420_no17" territory="ssq13_2420_no17" spawn="ALL" maximumNpcs="8" event="ssq_seal2_none">
+		<npc id="21249" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21250" total="3" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="3" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_no18" minZ="-5464" maxZ="-5264">
+		<node x="150780" y="83948" />
+		<node x="151392" y="83948" />
+		<node x="151392" y="84585" />
+		<node x="150780" y="84585" />
+	</territory>
+	<npcmaker name="ssq13_2420_no18" territory="ssq13_2420_no18" spawn="ALL" maximumNpcs="4" event="ssq_seal2_none">
+		<npc id="21157" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21251" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="1" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_no19" minZ="-5464" maxZ="-5264">
+		<node x="140443" y="85047" />
+		<node x="141056" y="85047" />
+		<node x="141056" y="85684" />
+		<node x="140443" y="85684" />
+	</territory>
+	<npcmaker name="ssq13_2420_no19" territory="ssq13_2420_no19" spawn="ALL" maximumNpcs="4" event="ssq_seal2_none">
+		<npc id="21250" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21249" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_no20" minZ="-5464" maxZ="-5264">
+		<node x="142248" y="85056" />
+		<node x="143719" y="85056" />
+		<node x="143719" y="85693" />
+		<node x="142248" y="85693" />
+	</territory>
+	<npcmaker name="ssq13_2420_no20" territory="ssq13_2420_no20" spawn="ALL" maximumNpcs="8" event="ssq_seal2_none">
+		<npc id="21250" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21249" total="3" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="3" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_no21" minZ="-5476" maxZ="-5276">
+		<node x="144097" y="85003" />
+		<node x="144736" y="85003" />
+		<node x="144736" y="86463" />
+		<node x="144097" y="86463" />
+	</territory>
+	<npcmaker name="ssq13_2420_no21" territory="ssq13_2420_no21" spawn="ALL" maximumNpcs="8" event="ssq_seal2_none">
+		<npc id="21250" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="3" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21251" total="3" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_no22" minZ="-5464" maxZ="-5264">
+		<node x="145102" y="85063" />
+		<node x="145714" y="85063" />
+		<node x="145714" y="85700" />
+		<node x="145102" y="85700" />
+	</territory>
+	<npcmaker name="ssq13_2420_no22" territory="ssq13_2420_no22" spawn="ALL" maximumNpcs="4" event="ssq_seal2_none">
+		<npc id="21250" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21251" total="1" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_no23" minZ="-5464" maxZ="-5264">
+		<node x="140432" y="86478" />
+		<node x="141903" y="86478" />
+		<node x="141903" y="87115" />
+		<node x="140432" y="87115" />
+	</territory>
+	<npcmaker name="ssq13_2420_no23" territory="ssq13_2420_no23" spawn="ALL" maximumNpcs="8" event="ssq_seal2_none">
+		<npc id="21250" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="3" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21251" total="3" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_no24" minZ="-5464" maxZ="-5264">
+		<node x="142916" y="87537" />
+		<node x="143596" y="87537" />
+		<node x="143596" y="89416" />
+		<node x="142916" y="89436" />
+	</territory>
+	<npcmaker name="ssq13_2420_no24" territory="ssq13_2420_no24" spawn="ALL" maximumNpcs="8" event="ssq_seal2_none">
+		<npc id="21251" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="3" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21252" total="3" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_no25" minZ="-5464" maxZ="-5264">
+		<node x="144338" y="87774" />
+		<node x="145809" y="87774" />
+		<node x="145809" y="88411" />
+		<node x="144338" y="88411" />
+	</territory>
+	<npcmaker name="ssq13_2420_no25" territory="ssq13_2420_no25" spawn="ALL" maximumNpcs="8" event="ssq_seal2_none">
+		<npc id="21251" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="3" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21252" total="3" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_no26" minZ="-5464" maxZ="-5264">
+		<node x="140475" y="89672" />
+		<node x="141088" y="89672" />
+		<node x="141088" y="90309" />
+		<node x="140475" y="90309" />
+	</territory>
+	<npcmaker name="ssq13_2420_no26" territory="ssq13_2420_no26" spawn="ALL" maximumNpcs="4" event="ssq_seal2_none">
+		<npc id="21251" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21252" total="1" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_no27" minZ="-5464" maxZ="-5264">
+		<node x="145109" y="89637" />
+		<node x="145721" y="89637" />
+		<node x="145721" y="90275" />
+		<node x="145108" y="90275" />
+	</territory>
+	<npcmaker name="ssq13_2420_no27" territory="ssq13_2420_no27" spawn="ALL" maximumNpcs="4" event="ssq_seal2_none">
+		<npc id="21251" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21252" total="1" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_no28" minZ="-5464" maxZ="-5264">
+		<node x="146179" y="85061" />
+		<node x="146791" y="85061" />
+		<node x="146791" y="85698" />
+		<node x="146178" y="85698" />
+	</territory>
+	<npcmaker name="ssq13_2420_no28" territory="ssq13_2420_no28" spawn="ALL" maximumNpcs="4" event="ssq_seal2_none">
+		<npc id="21251" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21252" total="1" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_no29" minZ="-5464" maxZ="-5264">
+		<node x="149482" y="85069" />
+		<node x="150162" y="85069" />
+		<node x="150162" y="86948" />
+		<node x="149482" y="86968" />
+	</territory>
+	<npcmaker name="ssq13_2420_no29" territory="ssq13_2420_no29" spawn="ALL" maximumNpcs="8" event="ssq_seal2_none">
+		<npc id="21159" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21252" total="3" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21160" total="3" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_no30" minZ="-5464" maxZ="-5264">
+		<node x="150787" y="85027" />
+		<node x="151400" y="85027" />
+		<node x="151400" y="85664" />
+		<node x="150787" y="85664" />
+	</territory>
+	<npcmaker name="ssq13_2420_no30" territory="ssq13_2420_no30" spawn="ALL" maximumNpcs="4" event="ssq_seal2_none">
+		<npc id="21159" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21251" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="1" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_no31" minZ="-5464" maxZ="-5264">
+		<node x="147265" y="86936" />
+		<node x="148736" y="86936" />
+		<node x="148736" y="87573" />
+		<node x="147265" y="87573" />
+	</territory>
+	<npcmaker name="ssq13_2420_no31" territory="ssq13_2420_no31" spawn="ALL" maximumNpcs="8" event="ssq_seal2_none">
+		<npc id="21159" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21252" total="3" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21160" total="3" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_no32" minZ="-5464" maxZ="-5264">
+		<node x="149498" y="87452" />
+		<node x="150111" y="87452" />
+		<node x="150111" y="88089" />
+		<node x="149498" y="88089" />
+	</territory>
+	<npcmaker name="ssq13_2420_no32" territory="ssq13_2420_no32" spawn="ALL" maximumNpcs="4" event="ssq_seal2_none">
+		<npc id="21159" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21252" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21160" total="1" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_no34" minZ="-5468" maxZ="-5268">
+		<node x="146202" y="88214" />
+		<node x="148081" y="88214" />
+		<node x="148081" y="88909" />
+		<node x="146202" y="88909" />
+	</territory>
+	<npcmaker name="ssq13_2420_no34" territory="ssq13_2420_no34" spawn="ALL" maximumNpcs="4" event="ssq_seal2_none">
+		<npc id="21159" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21252" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21160" total="1" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_no35" minZ="-5464" maxZ="-5264">
+		<node x="149640" y="88547" />
+		<node x="150252" y="88547" />
+		<node x="150252" y="89184" />
+		<node x="149640" y="89184" />
+	</territory>
+	<npcmaker name="ssq13_2420_no35" territory="ssq13_2420_no35" spawn="ALL" maximumNpcs="4" event="ssq_seal2_none">
+		<npc id="21159" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21252" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21160" total="1" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_no36" minZ="-5464" maxZ="-5264">
+		<node x="146167" y="89642" />
+		<node x="146780" y="89642" />
+		<node x="146780" y="90279" />
+		<node x="146167" y="90279" />
+	</territory>
+	<npcmaker name="ssq13_2420_no36" territory="ssq13_2420_no36" spawn="ALL" maximumNpcs="4" event="ssq_seal2_none">
+		<npc id="21159" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21251" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="1" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_no37" minZ="-5464" maxZ="-5264">
+		<node x="148009" y="89336" />
+		<node x="149480" y="89336" />
+		<node x="149480" y="89974" />
+		<node x="148009" y="89974" />
+	</territory>
+	<npcmaker name="ssq13_2420_no37" territory="ssq13_2420_no37" spawn="ALL" maximumNpcs="8" event="ssq_seal2_none">
+		<npc id="21159" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21252" total="3" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21160" total="3" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_no38" minZ="-5464" maxZ="-5264">
+		<node x="150776" y="89633" />
+		<node x="151389" y="89633" />
+		<node x="151389" y="90270" />
+		<node x="150776" y="90270" />
+	</territory>
+	<npcmaker name="ssq13_2420_no38" territory="ssq13_2420_no38" spawn="ALL" maximumNpcs="4" event="ssq_seal2_none">
+		<npc id="21159" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21252" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21160" total="1" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_ssq01" minZ="-5464" maxZ="-5264">
+		<node x="141569" y="79370" />
+		<node x="142182" y="79370" />
+		<node x="142182" y="80007" />
+		<node x="141569" y="80007" />
+	</territory>
+	<npcmaker name="ssq13_2420_ssq01" territory="ssq13_2420_ssq01" spawn="ALL" maximumNpcs="4" event="ssq_event">
+		<npc id="21248" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21156" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21179" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21200" total="1" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_ssq02" minZ="-5464" maxZ="-5264">
+		<node x="142874" y="79313" />
+		<node x="144345" y="79313" />
+		<node x="144345" y="79950" />
+		<node x="142874" y="79950" />
+	</territory>
+	<npcmaker name="ssq13_2420_ssq02" territory="ssq13_2420_ssq02" spawn="ALL" maximumNpcs="8" event="ssq_event">
+		<npc id="21248" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21156" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21179" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21200" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_ssq03" minZ="-5464" maxZ="-5264">
+		<node x="145102" y="79366" />
+		<node x="145715" y="79366" />
+		<node x="145715" y="80003" />
+		<node x="145102" y="80003" />
+	</territory>
+	<npcmaker name="ssq13_2420_ssq03" territory="ssq13_2420_ssq03" spawn="ALL" maximumNpcs="4" event="ssq_event">
+		<npc id="21249" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21180" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21201" total="1" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_ssq04" minZ="-5476" maxZ="-5276">
+		<node x="140464" y="80964" />
+		<node x="141103" y="80964" />
+		<node x="141103" y="82423" />
+		<node x="140464" y="82423" />
+	</territory>
+	<npcmaker name="ssq13_2420_ssq04" territory="ssq13_2420_ssq04" spawn="ALL" maximumNpcs="8" event="ssq_event">
+		<npc id="21248" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21156" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21179" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21200" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_ssq05" minZ="-5464" maxZ="-5264">
+		<node x="142524" y="81448" />
+		<node x="143203" y="81448" />
+		<node x="143203" y="83327" />
+		<node x="142524" y="83347" />
+	</territory>
+	<npcmaker name="ssq13_2420_ssq05" territory="ssq13_2420_ssq05" spawn="ALL" maximumNpcs="8" event="ssq_event">
+		<npc id="21248" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21156" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21179" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21200" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_ssq06" minZ="-5476" maxZ="-5276">
+		<node x="145076" y="81200" />
+		<node x="145716" y="81200" />
+		<node x="145716" y="82659" />
+		<node x="145076" y="82659" />
+	</territory>
+	<npcmaker name="ssq13_2420_ssq06" territory="ssq13_2420_ssq06" spawn="ALL" maximumNpcs="8" event="ssq_event">
+		<npc id="21249" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21180" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21201" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_ssq07" minZ="-5464" maxZ="-5264">
+		<node x="140482" y="83959" />
+		<node x="141095" y="83959" />
+		<node x="141095" y="84596" />
+		<node x="140482" y="84596" />
+	</territory>
+	<npcmaker name="ssq13_2420_ssq07" territory="ssq13_2420_ssq07" spawn="ALL" maximumNpcs="4" event="ssq_event">
+		<npc id="21248" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21156" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21179" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21200" total="1" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_ssq08" minZ="-5464" maxZ="-5264">
+		<node x="142515" y="83977" />
+		<node x="143986" y="83977" />
+		<node x="143986" y="84614" />
+		<node x="142515" y="84614" />
+	</territory>
+	<npcmaker name="ssq13_2420_ssq08" territory="ssq13_2420_ssq08" spawn="ALL" maximumNpcs="8" event="ssq_event">
+		<npc id="21248" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21156" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21179" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21200" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_ssq09" minZ="-5464" maxZ="-5264">
+		<node x="145094" y="83939" />
+		<node x="145707" y="83939" />
+		<node x="145707" y="84576" />
+		<node x="145094" y="84576" />
+	</territory>
+	<npcmaker name="ssq13_2420_ssq09" territory="ssq13_2420_ssq09" spawn="ALL" maximumNpcs="4" event="ssq_event">
+		<npc id="21249" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21180" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21201" total="1" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_ssq10" minZ="-5464" maxZ="-5264">
+		<node x="146171" y="79359" />
+		<node x="146784" y="79359" />
+		<node x="146784" y="79996" />
+		<node x="146171" y="79996" />
+	</territory>
+	<npcmaker name="ssq13_2420_ssq10" territory="ssq13_2420_ssq10" spawn="ALL" maximumNpcs="4" event="ssq_event">
+		<npc id="21249" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21180" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21201" total="1" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_ssq11" minZ="-5476" maxZ="-5276">
+		<node x="148876" y="79360" />
+		<node x="149515" y="79360" />
+		<node x="149515" y="80819" />
+		<node x="148876" y="80819" />
+	</territory>
+	<npcmaker name="ssq13_2420_ssq11" territory="ssq13_2420_ssq11" spawn="ALL" maximumNpcs="8" event="ssq_event">
+		<npc id="21250" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21181" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21202" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_ssq12" minZ="-5464" maxZ="-5264">
+		<node x="150748" y="79393" />
+		<node x="151360" y="79393" />
+		<node x="151360" y="80030" />
+		<node x="150748" y="80030" />
+	</territory>
+	<npcmaker name="ssq13_2420_ssq12" territory="ssq13_2420_ssq12" spawn="ALL" maximumNpcs="4" event="ssq_event">
+		<npc id="21251" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21182" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21203" total="1" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_ssq13" minZ="-5464" maxZ="-5264">
+		<node x="146125" y="80319" />
+		<node x="147596" y="80319" />
+		<node x="147596" y="80956" />
+		<node x="146125" y="80956" />
+	</territory>
+	<npcmaker name="ssq13_2420_ssq13" territory="ssq13_2420_ssq13" spawn="ALL" maximumNpcs="8" event="ssq_event">
+		<npc id="21249" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21180" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21201" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_ssq14" minZ="-5476" maxZ="-5276">
+		<node x="146151" y="81356" />
+		<node x="146791" y="81356" />
+		<node x="146791" y="82815" />
+		<node x="146151" y="82815" />
+	</territory>
+	<npcmaker name="ssq13_2420_ssq14" territory="ssq13_2420_ssq14" spawn="ALL" maximumNpcs="8" event="ssq_event">
+		<npc id="21250" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21181" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21202" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_ssq15" minZ="-5468" maxZ="-5268">
+		<node x="148645" y="81447" />
+		<node x="150525" y="81447" />
+		<node x="150525" y="82142" />
+		<node x="148645" y="82142" />
+	</territory>
+	<npcmaker name="ssq13_2420_ssq15" territory="ssq13_2420_ssq15" spawn="ALL" maximumNpcs="8" event="ssq_event">
+		<npc id="21251" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21182" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21203" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_ssq16" minZ="-5464" maxZ="-5264">
+		<node x="146177" y="83964" />
+		<node x="146789" y="83964" />
+		<node x="146789" y="84601" />
+		<node x="146177" y="84601" />
+	</territory>
+	<npcmaker name="ssq13_2420_ssq16" territory="ssq13_2420_ssq16" spawn="ALL" maximumNpcs="4" event="ssq_event">
+		<npc id="21250" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21181" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21202" total="1" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_ssq17" minZ="-5476" maxZ="-5276">
+		<node x="147569" y="83155" />
+		<node x="148209" y="83155" />
+		<node x="148209" y="84615" />
+		<node x="147569" y="84615" />
+	</territory>
+	<npcmaker name="ssq13_2420_ssq17" territory="ssq13_2420_ssq17" spawn="ALL" maximumNpcs="8" event="ssq_event">
+		<npc id="21250" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21181" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21202" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_ssq18" minZ="-5464" maxZ="-5264">
+		<node x="150780" y="83948" />
+		<node x="151392" y="83948" />
+		<node x="151392" y="84585" />
+		<node x="150780" y="84585" />
+	</territory>
+	<npcmaker name="ssq13_2420_ssq18" territory="ssq13_2420_ssq18" spawn="ALL" maximumNpcs="4" event="ssq_event">
+		<npc id="21251" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21182" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21203" total="1" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_ssq19" minZ="-5464" maxZ="-5264">
+		<node x="140443" y="85047" />
+		<node x="141056" y="85047" />
+		<node x="141056" y="85684" />
+		<node x="140443" y="85684" />
+	</territory>
+	<npcmaker name="ssq13_2420_ssq19" territory="ssq13_2420_ssq19" spawn="ALL" maximumNpcs="4" event="ssq_event">
+		<npc id="21249" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21180" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21201" total="1" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_ssq20" minZ="-5464" maxZ="-5264">
+		<node x="142248" y="85056" />
+		<node x="143719" y="85056" />
+		<node x="143719" y="85693" />
+		<node x="142248" y="85693" />
+	</territory>
+	<npcmaker name="ssq13_2420_ssq20" territory="ssq13_2420_ssq20" spawn="ALL" maximumNpcs="8" event="ssq_event">
+		<npc id="21249" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21180" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21201" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_ssq21" minZ="-5476" maxZ="-5276">
+		<node x="144097" y="85003" />
+		<node x="144736" y="85003" />
+		<node x="144736" y="86463" />
+		<node x="144097" y="86463" />
+	</territory>
+	<npcmaker name="ssq13_2420_ssq21" territory="ssq13_2420_ssq21" spawn="ALL" maximumNpcs="8" event="ssq_event">
+		<npc id="21250" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21181" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21202" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_ssq22" minZ="-5464" maxZ="-5264">
+		<node x="145102" y="85063" />
+		<node x="145714" y="85063" />
+		<node x="145714" y="85700" />
+		<node x="145102" y="85700" />
+	</territory>
+	<npcmaker name="ssq13_2420_ssq22" territory="ssq13_2420_ssq22" spawn="ALL" maximumNpcs="4" event="ssq_event">
+		<npc id="21250" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21181" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21202" total="1" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_ssq23" minZ="-5464" maxZ="-5264">
+		<node x="140432" y="86478" />
+		<node x="141903" y="86478" />
+		<node x="141903" y="87115" />
+		<node x="140432" y="87115" />
+	</territory>
+	<npcmaker name="ssq13_2420_ssq23" territory="ssq13_2420_ssq23" spawn="ALL" maximumNpcs="8" event="ssq_event">
+		<npc id="21250" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21181" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21202" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_ssq24" minZ="-5464" maxZ="-5264">
+		<node x="142916" y="87537" />
+		<node x="143596" y="87537" />
+		<node x="143596" y="89416" />
+		<node x="142916" y="89436" />
+	</territory>
+	<npcmaker name="ssq13_2420_ssq24" territory="ssq13_2420_ssq24" spawn="ALL" maximumNpcs="8" event="ssq_event">
+		<npc id="21251" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21182" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21203" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_ssq25" minZ="-5464" maxZ="-5264">
+		<node x="144338" y="87774" />
+		<node x="145809" y="87774" />
+		<node x="145809" y="88411" />
+		<node x="144338" y="88411" />
+	</territory>
+	<npcmaker name="ssq13_2420_ssq25" territory="ssq13_2420_ssq25" spawn="ALL" maximumNpcs="8" event="ssq_event">
+		<npc id="21251" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21182" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21203" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_ssq26" minZ="-5464" maxZ="-5264">
+		<node x="140475" y="89672" />
+		<node x="141088" y="89672" />
+		<node x="141088" y="90309" />
+		<node x="140475" y="90309" />
+	</territory>
+	<npcmaker name="ssq13_2420_ssq26" territory="ssq13_2420_ssq26" spawn="ALL" maximumNpcs="4" event="ssq_event">
+		<npc id="21251" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21182" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21203" total="1" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_ssq27" minZ="-5464" maxZ="-5264">
+		<node x="145109" y="89637" />
+		<node x="145721" y="89637" />
+		<node x="145721" y="90275" />
+		<node x="145108" y="90275" />
+	</territory>
+	<npcmaker name="ssq13_2420_ssq27" territory="ssq13_2420_ssq27" spawn="ALL" maximumNpcs="4" event="ssq_event">
+		<npc id="21251" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21182" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21203" total="1" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_ssq28" minZ="-5464" maxZ="-5264">
+		<node x="146179" y="85061" />
+		<node x="146791" y="85061" />
+		<node x="146791" y="85698" />
+		<node x="146178" y="85698" />
+	</territory>
+	<npcmaker name="ssq13_2420_ssq28" territory="ssq13_2420_ssq28" spawn="ALL" maximumNpcs="4" event="ssq_event">
+		<npc id="21251" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21182" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21203" total="1" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_ssq29" minZ="-5464" maxZ="-5264">
+		<node x="149482" y="85069" />
+		<node x="150162" y="85069" />
+		<node x="150162" y="86948" />
+		<node x="149482" y="86968" />
+	</territory>
+	<npcmaker name="ssq13_2420_ssq29" territory="ssq13_2420_ssq29" spawn="ALL" maximumNpcs="8" event="ssq_event">
+		<npc id="21252" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21160" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21183" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21204" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_ssq30" minZ="-5464" maxZ="-5264">
+		<node x="150787" y="85027" />
+		<node x="151400" y="85027" />
+		<node x="151400" y="85664" />
+		<node x="150787" y="85664" />
+	</territory>
+	<npcmaker name="ssq13_2420_ssq30" territory="ssq13_2420_ssq30" spawn="ALL" maximumNpcs="4" event="ssq_event">
+		<npc id="21251" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21182" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21203" total="1" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_ssq31" minZ="-5464" maxZ="-5264">
+		<node x="147265" y="86936" />
+		<node x="148736" y="86936" />
+		<node x="148736" y="87573" />
+		<node x="147265" y="87573" />
+	</territory>
+	<npcmaker name="ssq13_2420_ssq31" territory="ssq13_2420_ssq31" spawn="ALL" maximumNpcs="8" event="ssq_event">
+		<npc id="21252" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21160" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21183" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21204" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_ssq32" minZ="-5464" maxZ="-5264">
+		<node x="149498" y="87452" />
+		<node x="150111" y="87452" />
+		<node x="150111" y="88089" />
+		<node x="149498" y="88089" />
+	</territory>
+	<npcmaker name="ssq13_2420_ssq32" territory="ssq13_2420_ssq32" spawn="ALL" maximumNpcs="4" event="ssq_event">
+		<npc id="21252" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21160" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21183" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21204" total="1" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_ssq34" minZ="-5468" maxZ="-5268">
+		<node x="146202" y="88214" />
+		<node x="148081" y="88214" />
+		<node x="148081" y="88909" />
+		<node x="146202" y="88909" />
+	</territory>
+	<npcmaker name="ssq13_2420_ssq34" territory="ssq13_2420_ssq34" spawn="ALL" maximumNpcs="4" event="ssq_event">
+		<npc id="21252" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21160" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21183" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21204" total="1" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_ssq35" minZ="-5464" maxZ="-5264">
+		<node x="149640" y="88547" />
+		<node x="150252" y="88547" />
+		<node x="150252" y="89184" />
+		<node x="149640" y="89184" />
+	</territory>
+	<npcmaker name="ssq13_2420_ssq35" territory="ssq13_2420_ssq35" spawn="ALL" maximumNpcs="4" event="ssq_event">
+		<npc id="21252" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21160" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21183" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21204" total="1" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_ssq36" minZ="-5464" maxZ="-5264">
+		<node x="146167" y="89642" />
+		<node x="146780" y="89642" />
+		<node x="146780" y="90279" />
+		<node x="146167" y="90279" />
+	</territory>
+	<npcmaker name="ssq13_2420_ssq36" territory="ssq13_2420_ssq36" spawn="ALL" maximumNpcs="4" event="ssq_event">
+		<npc id="21251" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21182" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21203" total="1" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_ssq37" minZ="-5464" maxZ="-5264">
+		<node x="148009" y="89336" />
+		<node x="149480" y="89336" />
+		<node x="149480" y="89974" />
+		<node x="148009" y="89974" />
+	</territory>
+	<npcmaker name="ssq13_2420_ssq37" territory="ssq13_2420_ssq37" spawn="ALL" maximumNpcs="8" event="ssq_event">
+		<npc id="21252" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21160" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21183" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21204" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_ssq38" minZ="-5464" maxZ="-5264">
+		<node x="150776" y="89633" />
+		<node x="151389" y="89633" />
+		<node x="151389" y="90270" />
+		<node x="150776" y="90270" />
+	</territory>
+	<npcmaker name="ssq13_2420_ssq38" territory="ssq13_2420_ssq38" spawn="ALL" maximumNpcs="4" event="ssq_event">
+		<npc id="21252" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21160" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21183" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21204" total="1" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_tw01" minZ="-5464" maxZ="-5264">
+		<node x="141569" y="79370" />
+		<node x="142182" y="79370" />
+		<node x="142182" y="80007" />
+		<node x="141569" y="80007" />
+	</territory>
+	<npcmaker name="ssq13_2420_tw01" territory="ssq13_2420_tw01" spawn="ALL" maximumNpcs="4" event="ssq_seal2_twilight">
+		<npc id="21248" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21156" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21200" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_tw02" minZ="-5464" maxZ="-5264">
+		<node x="142874" y="79313" />
+		<node x="144345" y="79313" />
+		<node x="144345" y="79950" />
+		<node x="142874" y="79950" />
+	</territory>
+	<npcmaker name="ssq13_2420_tw02" territory="ssq13_2420_tw02" spawn="ALL" maximumNpcs="8" event="ssq_seal2_twilight">
+		<npc id="21248" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21156" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21200" total="4" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_tw03" minZ="-5464" maxZ="-5264">
+		<node x="145102" y="79366" />
+		<node x="145715" y="79366" />
+		<node x="145715" y="80003" />
+		<node x="145102" y="80003" />
+	</territory>
+	<npcmaker name="ssq13_2420_tw03" territory="ssq13_2420_tw03" spawn="ALL" maximumNpcs="4" event="ssq_seal2_twilight">
+		<npc id="21249" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21201" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_tw04" minZ="-5476" maxZ="-5276">
+		<node x="140464" y="80964" />
+		<node x="141103" y="80964" />
+		<node x="141103" y="82423" />
+		<node x="140464" y="82423" />
+	</territory>
+	<npcmaker name="ssq13_2420_tw04" territory="ssq13_2420_tw04" spawn="ALL" maximumNpcs="8" event="ssq_seal2_twilight">
+		<npc id="21248" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21156" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21200" total="4" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_tw05" minZ="-5464" maxZ="-5264">
+		<node x="142524" y="81448" />
+		<node x="143203" y="81448" />
+		<node x="143203" y="83327" />
+		<node x="142524" y="83347" />
+	</territory>
+	<npcmaker name="ssq13_2420_tw05" territory="ssq13_2420_tw05" spawn="ALL" maximumNpcs="8" event="ssq_seal2_twilight">
+		<npc id="21248" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21156" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21200" total="4" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_tw06" minZ="-5476" maxZ="-5276">
+		<node x="145076" y="81200" />
+		<node x="145716" y="81200" />
+		<node x="145716" y="82659" />
+		<node x="145076" y="82659" />
+	</territory>
+	<npcmaker name="ssq13_2420_tw06" territory="ssq13_2420_tw06" spawn="ALL" maximumNpcs="8" event="ssq_seal2_twilight">
+		<npc id="21249" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21201" total="4" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_tw07" minZ="-5464" maxZ="-5264">
+		<node x="140482" y="83959" />
+		<node x="141095" y="83959" />
+		<node x="141095" y="84596" />
+		<node x="140482" y="84596" />
+	</territory>
+	<npcmaker name="ssq13_2420_tw07" territory="ssq13_2420_tw07" spawn="ALL" maximumNpcs="4" event="ssq_seal2_twilight">
+		<npc id="21248" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21156" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21200" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_tw08" minZ="-5464" maxZ="-5264">
+		<node x="142515" y="83977" />
+		<node x="143986" y="83977" />
+		<node x="143986" y="84614" />
+		<node x="142515" y="84614" />
+	</territory>
+	<npcmaker name="ssq13_2420_tw08" territory="ssq13_2420_tw08" spawn="ALL" maximumNpcs="8" event="ssq_seal2_twilight">
+		<npc id="21248" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21156" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21200" total="4" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_tw09" minZ="-5464" maxZ="-5264">
+		<node x="145094" y="83939" />
+		<node x="145707" y="83939" />
+		<node x="145707" y="84576" />
+		<node x="145094" y="84576" />
+	</territory>
+	<npcmaker name="ssq13_2420_tw09" territory="ssq13_2420_tw09" spawn="ALL" maximumNpcs="4" event="ssq_seal2_twilight">
+		<npc id="21249" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21201" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_tw10" minZ="-5464" maxZ="-5264">
+		<node x="146171" y="79359" />
+		<node x="146784" y="79359" />
+		<node x="146784" y="79996" />
+		<node x="146171" y="79996" />
+	</territory>
+	<npcmaker name="ssq13_2420_tw10" territory="ssq13_2420_tw10" spawn="ALL" maximumNpcs="4" event="ssq_seal2_twilight">
+		<npc id="21249" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21201" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_tw11" minZ="-5476" maxZ="-5276">
+		<node x="148876" y="79360" />
+		<node x="149515" y="79360" />
+		<node x="149515" y="80819" />
+		<node x="148876" y="80819" />
+	</territory>
+	<npcmaker name="ssq13_2420_tw11" territory="ssq13_2420_tw11" spawn="ALL" maximumNpcs="8" event="ssq_seal2_twilight">
+		<npc id="21250" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21202" total="4" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_tw12" minZ="-5464" maxZ="-5264">
+		<node x="150748" y="79393" />
+		<node x="151360" y="79393" />
+		<node x="151360" y="80030" />
+		<node x="150748" y="80030" />
+	</territory>
+	<npcmaker name="ssq13_2420_tw12" territory="ssq13_2420_tw12" spawn="ALL" maximumNpcs="4" event="ssq_seal2_twilight">
+		<npc id="21251" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21203" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_tw13" minZ="-5464" maxZ="-5264">
+		<node x="146125" y="80319" />
+		<node x="147596" y="80319" />
+		<node x="147596" y="80956" />
+		<node x="146125" y="80956" />
+	</territory>
+	<npcmaker name="ssq13_2420_tw13" territory="ssq13_2420_tw13" spawn="ALL" maximumNpcs="8" event="ssq_seal2_twilight">
+		<npc id="21249" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21201" total="4" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_tw14" minZ="-5476" maxZ="-5276">
+		<node x="146151" y="81356" />
+		<node x="146791" y="81356" />
+		<node x="146791" y="82815" />
+		<node x="146151" y="82815" />
+	</territory>
+	<npcmaker name="ssq13_2420_tw14" territory="ssq13_2420_tw14" spawn="ALL" maximumNpcs="8" event="ssq_seal2_twilight">
+		<npc id="21250" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21202" total="4" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_tw15" minZ="-5468" maxZ="-5268">
+		<node x="148645" y="81447" />
+		<node x="150525" y="81447" />
+		<node x="150525" y="82142" />
+		<node x="148645" y="82142" />
+	</territory>
+	<npcmaker name="ssq13_2420_tw15" territory="ssq13_2420_tw15" spawn="ALL" maximumNpcs="8" event="ssq_seal2_twilight">
+		<npc id="21251" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21203" total="4" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_tw16" minZ="-5464" maxZ="-5264">
+		<node x="146177" y="83964" />
+		<node x="146789" y="83964" />
+		<node x="146789" y="84601" />
+		<node x="146177" y="84601" />
+	</territory>
+	<npcmaker name="ssq13_2420_tw16" territory="ssq13_2420_tw16" spawn="ALL" maximumNpcs="4" event="ssq_seal2_twilight">
+		<npc id="21250" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21202" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_tw17" minZ="-5476" maxZ="-5276">
+		<node x="147569" y="83155" />
+		<node x="148209" y="83155" />
+		<node x="148209" y="84615" />
+		<node x="147569" y="84615" />
+	</territory>
+	<npcmaker name="ssq13_2420_tw17" territory="ssq13_2420_tw17" spawn="ALL" maximumNpcs="8" event="ssq_seal2_twilight">
+		<npc id="21250" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21202" total="4" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_tw18" minZ="-5464" maxZ="-5264">
+		<node x="150780" y="83948" />
+		<node x="151392" y="83948" />
+		<node x="151392" y="84585" />
+		<node x="150780" y="84585" />
+	</territory>
+	<npcmaker name="ssq13_2420_tw18" territory="ssq13_2420_tw18" spawn="ALL" maximumNpcs="4" event="ssq_seal2_twilight">
+		<npc id="21251" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21203" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_tw19" minZ="-5464" maxZ="-5264">
+		<node x="140443" y="85047" />
+		<node x="141056" y="85047" />
+		<node x="141056" y="85684" />
+		<node x="140443" y="85684" />
+	</territory>
+	<npcmaker name="ssq13_2420_tw19" territory="ssq13_2420_tw19" spawn="ALL" maximumNpcs="4" event="ssq_seal2_twilight">
+		<npc id="21249" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21201" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_tw20" minZ="-5464" maxZ="-5264">
+		<node x="142248" y="85056" />
+		<node x="143719" y="85056" />
+		<node x="143719" y="85693" />
+		<node x="142248" y="85693" />
+	</territory>
+	<npcmaker name="ssq13_2420_tw20" territory="ssq13_2420_tw20" spawn="ALL" maximumNpcs="8" event="ssq_seal2_twilight">
+		<npc id="21249" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21201" total="4" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_tw21" minZ="-5476" maxZ="-5276">
+		<node x="144097" y="85003" />
+		<node x="144736" y="85003" />
+		<node x="144736" y="86463" />
+		<node x="144097" y="86463" />
+	</territory>
+	<npcmaker name="ssq13_2420_tw21" territory="ssq13_2420_tw21" spawn="ALL" maximumNpcs="8" event="ssq_seal2_twilight">
+		<npc id="21250" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21202" total="4" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_tw22" minZ="-5464" maxZ="-5264">
+		<node x="145102" y="85063" />
+		<node x="145714" y="85063" />
+		<node x="145714" y="85700" />
+		<node x="145102" y="85700" />
+	</territory>
+	<npcmaker name="ssq13_2420_tw22" territory="ssq13_2420_tw22" spawn="ALL" maximumNpcs="4" event="ssq_seal2_twilight">
+		<npc id="21250" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21202" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_tw23" minZ="-5464" maxZ="-5264">
+		<node x="140432" y="86478" />
+		<node x="141903" y="86478" />
+		<node x="141903" y="87115" />
+		<node x="140432" y="87115" />
+	</territory>
+	<npcmaker name="ssq13_2420_tw23" territory="ssq13_2420_tw23" spawn="ALL" maximumNpcs="8" event="ssq_seal2_twilight">
+		<npc id="21250" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21157" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21202" total="4" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_tw24" minZ="-5464" maxZ="-5264">
+		<node x="142916" y="87537" />
+		<node x="143596" y="87537" />
+		<node x="143596" y="89416" />
+		<node x="142916" y="89436" />
+	</territory>
+	<npcmaker name="ssq13_2420_tw24" territory="ssq13_2420_tw24" spawn="ALL" maximumNpcs="8" event="ssq_seal2_twilight">
+		<npc id="21251" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21203" total="4" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_tw25" minZ="-5464" maxZ="-5264">
+		<node x="144338" y="87774" />
+		<node x="145809" y="87774" />
+		<node x="145809" y="88411" />
+		<node x="144338" y="88411" />
+	</territory>
+	<npcmaker name="ssq13_2420_tw25" territory="ssq13_2420_tw25" spawn="ALL" maximumNpcs="8" event="ssq_seal2_twilight">
+		<npc id="21251" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21203" total="4" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_tw26" minZ="-5464" maxZ="-5264">
+		<node x="140475" y="89672" />
+		<node x="141088" y="89672" />
+		<node x="141088" y="90309" />
+		<node x="140475" y="90309" />
+	</territory>
+	<npcmaker name="ssq13_2420_tw26" territory="ssq13_2420_tw26" spawn="ALL" maximumNpcs="4" event="ssq_seal2_twilight">
+		<npc id="21251" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21203" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_tw27" minZ="-5464" maxZ="-5264">
+		<node x="145109" y="89637" />
+		<node x="145721" y="89637" />
+		<node x="145721" y="90275" />
+		<node x="145108" y="90275" />
+	</territory>
+	<npcmaker name="ssq13_2420_tw27" territory="ssq13_2420_tw27" spawn="ALL" maximumNpcs="4" event="ssq_seal2_twilight">
+		<npc id="21251" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21203" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_tw28" minZ="-5464" maxZ="-5264">
+		<node x="146179" y="85061" />
+		<node x="146791" y="85061" />
+		<node x="146791" y="85698" />
+		<node x="146178" y="85698" />
+	</territory>
+	<npcmaker name="ssq13_2420_tw28" territory="ssq13_2420_tw28" spawn="ALL" maximumNpcs="4" event="ssq_seal2_twilight">
+		<npc id="21251" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21203" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_tw29" minZ="-5464" maxZ="-5264">
+		<node x="149482" y="85069" />
+		<node x="150162" y="85069" />
+		<node x="150162" y="86948" />
+		<node x="149482" y="86968" />
+	</territory>
+	<npcmaker name="ssq13_2420_tw29" territory="ssq13_2420_tw29" spawn="ALL" maximumNpcs="8" event="ssq_seal2_twilight">
+		<npc id="21252" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21160" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21204" total="4" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_tw30" minZ="-5464" maxZ="-5264">
+		<node x="150787" y="85027" />
+		<node x="151400" y="85027" />
+		<node x="151400" y="85664" />
+		<node x="150787" y="85664" />
+	</territory>
+	<npcmaker name="ssq13_2420_tw30" territory="ssq13_2420_tw30" spawn="ALL" maximumNpcs="4" event="ssq_seal2_twilight">
+		<npc id="21251" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21203" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_tw31" minZ="-5464" maxZ="-5264">
+		<node x="147265" y="86936" />
+		<node x="148736" y="86936" />
+		<node x="148736" y="87573" />
+		<node x="147265" y="87573" />
+	</territory>
+	<npcmaker name="ssq13_2420_tw31" territory="ssq13_2420_tw31" spawn="ALL" maximumNpcs="8" event="ssq_seal2_twilight">
+		<npc id="21252" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21160" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21204" total="4" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_tw32" minZ="-5464" maxZ="-5264">
+		<node x="149498" y="87452" />
+		<node x="150111" y="87452" />
+		<node x="150111" y="88089" />
+		<node x="149498" y="88089" />
+	</territory>
+	<npcmaker name="ssq13_2420_tw32" territory="ssq13_2420_tw32" spawn="ALL" maximumNpcs="4" event="ssq_seal2_twilight">
+		<npc id="21252" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21160" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21204" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_tw34" minZ="-5468" maxZ="-5268">
+		<node x="146202" y="88214" />
+		<node x="148081" y="88214" />
+		<node x="148081" y="88909" />
+		<node x="146202" y="88909" />
+	</territory>
+	<npcmaker name="ssq13_2420_tw34" territory="ssq13_2420_tw34" spawn="ALL" maximumNpcs="4" event="ssq_seal2_twilight">
+		<npc id="21252" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21160" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21204" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_tw35" minZ="-5464" maxZ="-5264">
+		<node x="149640" y="88547" />
+		<node x="150252" y="88547" />
+		<node x="150252" y="89184" />
+		<node x="149640" y="89184" />
+	</territory>
+	<npcmaker name="ssq13_2420_tw35" territory="ssq13_2420_tw35" spawn="ALL" maximumNpcs="4" event="ssq_seal2_twilight">
+		<npc id="21252" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21160" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21204" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_tw36" minZ="-5464" maxZ="-5264">
+		<node x="146167" y="89642" />
+		<node x="146780" y="89642" />
+		<node x="146780" y="90279" />
+		<node x="146167" y="90279" />
+	</territory>
+	<npcmaker name="ssq13_2420_tw36" territory="ssq13_2420_tw36" spawn="ALL" maximumNpcs="4" event="ssq_seal2_twilight">
+		<npc id="21251" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21159" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21203" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_tw37" minZ="-5464" maxZ="-5264">
+		<node x="148009" y="89336" />
+		<node x="149480" y="89336" />
+		<node x="149480" y="89974" />
+		<node x="148009" y="89974" />
+	</territory>
+	<npcmaker name="ssq13_2420_tw37" territory="ssq13_2420_tw37" spawn="ALL" maximumNpcs="8" event="ssq_seal2_twilight">
+		<npc id="21252" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21160" total="2" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21204" total="4" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_2420_tw38" minZ="-5464" maxZ="-5264">
+		<node x="150776" y="89633" />
+		<node x="151389" y="89633" />
+		<node x="151389" y="90270" />
+		<node x="150776" y="90270" />
+	</territory>
+	<npcmaker name="ssq13_2420_tw38" territory="ssq13_2420_tw38" spawn="ALL" maximumNpcs="4" event="ssq_seal2_twilight">
+		<npc id="21252" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21160" total="1" respawnDelay="146s" respawnRandom="40s"/>
+		<npc id="21204" total="2" respawnDelay="146s" respawnRandom="40s"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_mb2420_01" minZ="-5476" maxZ="-5276">
+		<node x="150763" y="87529" />
+		<node x="151403" y="87529" />
+		<node x="151403" y="88988" />
+		<node x="150763" y="88988" />
+	</territory>
+	<npcmaker name="ssq13_mb2420_01" territory="ssq13_mb2420_01" spawn="ALL" maximumNpcs="10">
+		<npc id="25281" total="1" respawnDelay="15h" respawnRandom="1h" dbName="anakims_nemesis_zakaron" dbSaving="DEATH_TIME;PARAMETERS"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_npc2420_01" minZ="-5467" maxZ="-5267">
+		<node x="140668" y="79580" />
+		<node x="140868" y="79580" />
+		<node x="140868" y="79780" />
+		<node x="140668" y="79780" />
+	</territory>
+	<npcmaker name="ssq13_npc2420_0101" territory="ssq13_npc2420_01" spawn="ALL" maximumNpcs="1">
+		<npc id="31123" pos="140784;79680;-5425;16500" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_npc2420_02" minZ="-5462" maxZ="-5262">
+		<node x="139916" y="79580" />
+		<node x="140116" y="79580" />
+		<node x="140116" y="79780" />
+		<node x="139916" y="79780" />
+	</territory>
+	<npcmaker name="ssq13_npc2420_0201" territory="ssq13_npc2420_02" spawn="ALL" maximumNpcs="1">
+		<npc id="31117" pos="140032;79680;-5427;32500" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_npc2420_03" minZ="-5463" maxZ="-5263">
+		<node x="140396" y="79228" />
+		<node x="140596" y="79228" />
+		<node x="140596" y="79428" />
+		<node x="140396" y="79428" />
+	</territory>
+	<npcmaker name="ssq13_npc2420_0301" territory="ssq13_npc2420_03" spawn="ALL" maximumNpcs="1">
+		<npc id="31501" pos="140532;79384;-5424;16000" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_npc2420_da11" minZ="-5460" maxZ="-5260">
+		<node x="140444" y="79324" />
+		<node x="141131" y="79324" />
+		<node x="141131" y="80024" />
+		<node x="140444" y="80024" />
+	</territory>
+	<npcmaker name="ssq13_npc2420_da11" territory="ssq13_npc2420_da11" spawn="ALL" maximumNpcs="1" event="ssq_seal2_dawn">
+		<npc id="31126" pos="140480;79472;-5427;0" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_npc2420_f21" minZ="-4069" maxZ="-2069">
+		<node x="136522" y="79179" />
+		<node x="137533" y="79173" />
+		<node x="137516" y="80208" />
+		<node x="136499" y="80203" />
+	</territory>
+	<npcmaker name="ssq13_npc2420_f21" territory="ssq13_npc2420_f21" spawn="ALL" maximumNpcs="1" event="ssq_seal2_dawn">
+		<npc id="31170" pos="137278;79936;-3751;0" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_npc2420_f22" minZ="-4069" maxZ="-2069">
+		<node x="136522" y="79179" />
+		<node x="137533" y="79173" />
+		<node x="137516" y="80208" />
+		<node x="136499" y="80203" />
+	</territory>
+	<npcmaker name="ssq13_npc2420_f22" territory="ssq13_npc2420_f22" spawn="ALL" maximumNpcs="1" event="ssq_seal2_twilight">
+		<npc id="31171" pos="137278;79936;-3751;0" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="ssq13_npc2420_tw11" minZ="-5460" maxZ="-5260">
+		<node x="140444" y="79324" />
+		<node x="141131" y="79324" />
+		<node x="141131" y="80024" />
+		<node x="140444" y="80024" />
+	</territory>
+	<npcmaker name="ssq13_npc2420_tw11" territory="ssq13_npc2420_tw11" spawn="ALL" maximumNpcs="1" event="ssq_seal2_twilight">
+		<npc id="31126" pos="140480;79472;-5427;0" total="1" respawnDelay="1m"/>
+	</npcmaker>
+</list>

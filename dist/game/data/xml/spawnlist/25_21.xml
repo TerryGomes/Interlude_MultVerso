@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Giran Area
+ * Antharas' Nest
+-->
+<list>
+	<!--  -->
+	<territory name="boss_25_21" minZ="-7712" maxZ="-6212">
+		<node x="175201" y="110789" />
+		<node x="179519" y="110645" />
+		<node x="187612" y="113814" />
+		<node x="187652" y="115788" />
+		<node x="179659" y="118982" />
+		<node x="175206" y="118934" />
+		<node x="173003" y="114720" />
+	</territory>
+	<npcmaker name="boss_25_21" territory="boss_25_21" spawn="ALL" maximumNpcs="25">
+		<npc id="29066" pos="185708;114298;-8221;32768" total="1" respawnDelay="264h" respawnRandom="72h" dbName="antharas1" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="29067" pos="185708;114298;-8221;32768" total="1" respawnDelay="264h" respawnRandom="72h" dbName="antharas2" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+		<npc id="29068" pos="185708;114298;-8221;32768" total="1" respawnDelay="264h" respawnRandom="72h" dbName="antharas3" dbSaving="DEATH_TIME;PARAMETERS;POS"/>
+	</npcmaker>
+</list>

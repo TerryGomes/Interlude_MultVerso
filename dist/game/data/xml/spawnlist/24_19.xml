@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Aden Area
+ * Coliseum
+ * Narsel Lake
+-->
+<list>
+	<!--  -->
+	<territory name="aden18_npc2419_01" minZ="-3452" maxZ="-3252">
+		<node x="147404" y="46940" />
+		<node x="147604" y="46940" />
+		<node x="147604" y="47140" />
+		<node x="147404" y="47140" />
+	</territory>
+	<npcmaker name="aden18_npc2419_0101" territory="aden18_npc2419_01" spawn="ALL" maximumNpcs="1">
+		<npc id="31226" pos="147508;47042;-3400;49000" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden18_npc2419_02" minZ="-3444" maxZ="-3244">
+		<node x="151356" y="46268" />
+		<node x="151556" y="46268" />
+		<node x="151556" y="46468" />
+		<node x="151356" y="46468" />
+	</territory>
+	<npcmaker name="aden18_npc2419_0201" territory="aden18_npc2419_02" spawn="ALL" maximumNpcs="1">
+		<npc id="31226" pos="151484;46383;-3400;16000" total="1" respawnDelay="1m"/>
+	</npcmaker>
+	
+	<!--  -->
+	<territory name="aden19_npc2419_01" minZ="-3128" maxZ="-2928">
+		<node x="143116" y="43884" />
+		<node x="143316" y="43884" />
+		<node x="143316" y="44084" />
+		<node x="143116" y="44084" />
+	</territory>
+	<npcmaker name="aden19_npc2419_0101" territory="aden19_npc2419_01" spawn="ALL" maximumNpcs="1">
+		<npc id="31745" pos="143200;44000;-3040;0" total="1" respawnDelay="1m"/>
+	</npcmaker>
+</list>

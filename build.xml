@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Core" default="dist" basedir=".">
+	<property name="src" location="java" />
+	<property name="lib" location="lib" />
+	<property name="build" location="build" />
+	<property name="build.classes" location="${build}/classes" />
+	<property name="build.dist" location="${build}/dist" />
+	<property name="build.dist.doc" location="${build.dist}/doc" />
+	<property name="build.dist.game" location="${build.dist}/game" />
+	<property name="build.dist.libs" location="${build.dist}/libs" />
+	<property name="build.dist.login" location="${build.dist}/login" />
+
+	<path id="classpath">
+		<fileset dir="${lib}">
+			<include name="*.jar" />
+		</fileset>
+	</path>
+
+	<pathconvert property="manifest.libs" pathsep=" ">
+		<path refid="classpath" />
+		<mapper>
+			<chainedmapper>
+				<flattenmapper />
+				<globmapper from="*.jar" to="../libs/*.jar" />
+			</chainedmapper>
+		</mapper>
+	</pathconvert>
+
+	<target name="init" depends="clean,checkRequirements" description="Create the output directories.">
+		<mkdir dir="${build}" />
+		<mkdir dir="${build.classes}" />
+	</target>
+
+	<target name="compile" depends="init" description="Compile the source.">
+		<javac destdir="${build.classes}" compiler="modern" debug="true" debuglevel="lines,vars,source" includeantruntime="false" source="17" target="17">
+			<src path="${src}" />
+			<classpath refid="classpath" />
+		</javac>
+	</target>
+
+	<target name="jar" depends="compile" description="Create the jar files">
+		<jar destfile="${build.dist.login}/login.jar">
+			<fileset dir="${build.classes}">
+				<exclude name="**/gameserver/**" />
+			</fileset>
+			<manifest>
+				<attribute name="Built-By" value="${user.name}" />
+				<attribute name="Built-Date" value="${build.tstamp}" />
+				<attribute name="Class-Path" value="${manifest.libs}" />
+				<attribute name="Main-Class" value="net.sf.l2j.loginserver.L2LoginServer" />
+			</manifest>
+		</jar>
+		<jar destfile="${build.dist.game}/server.jar">
+			<fileset dir="${build.classes}">
+				<exclude name="**/loginserver/**" />
+				<exclude name="**/accountmanager/**" />
+				<exclude name="**/gsregistering/**" />
+			</fileset>
+			<manifest>
+				<attribute name="Built-By" value="${user.name}" />
+				<attribute name="Built-Date" value="${build.tstamp}" />
+				<attribute name="Class-Path" value="${manifest.libs}" />
+				<attribute name="Main-Class" value="net.sf.l2j.gameserver.GameServer" />
+			</manifest>
+		</jar>
+	</target>
+
+	<target name="dist" depends="jar">
+		<copy todir="${build.dist}">
+			<fileset dir="dist" />
+		</copy>
+		<copy todir="${build.dist.libs}">
+			<fileset dir="lib" />
+		</copy>
+
+		<fixcrlf srcdir="${build.dist.game}" eol="crlf" eof="remove" includes="**/*.bat" />
+		<fixcrlf srcdir="${build.dist.game}" eol="lf" eof="remove" includes="**/*.sh" />
+		<fixcrlf srcdir="${build.dist.login}" eol="crlf" eof="remove" includes="**/*.bat" />
+		<fixcrlf srcdir="${build.dist.login}" eol="lf" eof="remove" includes="**/*.sh" />
+
+		<tstamp>
+			<format property="build.date" pattern="yyyy-MM-dd" />
+		</tstamp>
+
+		<!--<zip destfile="${build}/Core_${build.date}.zip" basedir="${build.dist}" />-->
+	</target>
+
+	<target name="clean" description="Remove the output directories">
+		<delete dir="${build}" />
+	</target>
+
+	<target name="checkRequirements" description="Check Requirements">
+		<fail message="Ant 1.8.2 is required. But your version is ${ant.version}">
+			<condition>
+				<not>
+					<antversion atleast="1.8.2" />
+				</not>
+			</condition>
+		</fail>
+		<available classname="java.util.stream.Stream" property="JDK17.present" />
+		<fail unless="JDK17.present" message="Java 17 is required. But your version is Java ${ant.java.version} and probably JDK is not installed." />
+	</target>
+</project>

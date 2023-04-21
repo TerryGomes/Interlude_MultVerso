@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS castle;
+DROP TABLE IF EXISTS grandboss_data;
+DROP TABLE IF EXISTS spawn_data;

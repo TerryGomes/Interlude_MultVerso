@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<skill id="7104" levels="1" name="Mana potion">
+		<set name="power" val="1500"/> <!-- сколько MP ресторим -->
+		<set name="staticHitTime" val="true"/>
+		<set name="target" val="SELF"/>
+		<set name="isHandler" val="true"/> 
+		<set name="altUse" val="true"/>
+		<set name="reuseDelay" val="2000"/>
+		<set name="skillType" val="MANAHEAL"/>
+		<set name="operateType" val="ACTIVE"/>
+		<set name="isPotion" val="true"/>
+		<cond msgId="113" addName="1">
+			<player flying="False"/>
+		</cond>
+	</skill>
+</list>
