@@ -34,7 +34,7 @@ https://www.mediafire.com/file/pym7wzohzv4dkyj/Interlude_MultVerso.rar/file
       <h3>Fixados: </h3>
   <li>Organização dos arquivos.</li>
   <li>Otimização da source [FORMATAÇÃO E CUSTOMIZAÇÃO DO CÓDIGO].</li>
-  <li>jInício da conversão para java 18.</li>
+  <li>jInício da conversão para java 17.</li>
   
  </ul>
  </div>
