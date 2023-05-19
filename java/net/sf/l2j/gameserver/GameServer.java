@@ -82,6 +82,7 @@ import net.sf.l2j.gameserver.handler.TargetHandler;
 import net.sf.l2j.gameserver.handler.UserCommandHandler;
 import net.sf.l2j.gameserver.handler.VoicedCommandHandler;
 import net.sf.l2j.gameserver.idfactory.IdFactory;
+import net.sf.l2j.gameserver.instancemanager.IPManager;
 import net.sf.l2j.gameserver.model.World;
 import net.sf.l2j.gameserver.model.boat.BoatGiranTalking;
 import net.sf.l2j.gameserver.model.boat.BoatGludinRune;
@@ -112,23 +113,23 @@ import net.sf.l2j.util.IPv4Filter;
 public class GameServer
 {
 	private static final CLogger LOGGER = new CLogger(GameServer.class.getName());
-
+	
 	private final SelectorThread<GameClient> _selectorThread;
 	private final long _serverStartTimeMillis;
-
+	
 	private static GameServer _gameServer;
 	public long serverLoadStart = System.currentTimeMillis();
-
+	
 	public static void main(String[] args) throws Exception
 	{
 		_gameServer = new GameServer();
 	}
-
+	
 	public GameServer() throws Exception
 	{
-
+		
 		informarGame();
-
+		
 		// Create log folder
 		new File("./log").mkdir();
 		new File("./log/chat").mkdir();
@@ -137,37 +138,40 @@ public class GameServer
 		new File("./log/gmaudit").mkdir();
 		new File("./log/item").mkdir();
 		new File("./data/crests").mkdirs();
-
+		
 		// Create input stream for log file -- or store file data into memory
 		try (InputStream is = new FileInputStream(new File("config/logging.properties")))
 		{
 			LogManager.getLogManager().readConfiguration(is);
 		}
-
+		
 		StringUtil.printSection("Config");
 		Config.loadGameServer();
-
+		
 		StringUtil.printSection("Poolers");
 		ConnectionPool.init();
 		ThreadPool.init();
-
+		
 		StringUtil.printSection("IdFactory");
 		IdFactory.getInstance();
-
+		
 		StringUtil.printSection("Cache");
 		HtmCache.getInstance();
 		CrestCache.getInstance();
-
+		
 		StringUtil.printSection("World");
 		World.getInstance();
 		MapRegionData.getInstance();
 		AnnouncementData.getInstance();
 		ServerMemoTable.getInstance();
-
+		
 		StringUtil.printSection("Skills");
 		SkillTable.getInstance();
 		SkillTreeData.getInstance();
-
+		
+		StringUtil.printSection("IPManager DualBox");
+		IPManager.getInstance();
+		
 		StringUtil.printSection("Items");
 		ItemData.getInstance();
 		SummonItemData.getInstance();
@@ -182,12 +186,12 @@ public class GameServer
 		AugmentationData.getInstance();
 		CursedWeaponManager.getInstance();
 		SkipData.getInstance();
-
+		
 		StringUtil.printSection("Admins");
 		AdminData.getInstance();
 		BookmarkTable.getInstance();
 		PetitionManager.getInstance();
-
+		
 		StringUtil.printSection("Characters");
 		PlayerData.getInstance();
 		PlayerInfoTable.getInstance();
@@ -195,23 +199,23 @@ public class GameServer
 		PartyMatchRoomManager.getInstance();
 		RaidPointManager.getInstance();
 		HealSpsData.getInstance();
-
+		
 		StringUtil.printSection("Community server");
 		CommunityBoard.getInstance();
-
+		
 		StringUtil.printSection("Clans");
 		ClanTable.getInstance();
-
+		
 		StringUtil.printSection("Geodata & Pathfinding");
 		GeoEngine.getInstance();
-
+		
 		StringUtil.printSection("Zones");
 		ZoneManager.getInstance();
-
+		
 		StringUtil.printSection("Castles & Clan Halls");
 		CastleManager.getInstance();
 		ClanHallManager.getInstance();
-
+		
 		StringUtil.printSection("Task Managers");
 		AttackStanceTaskManager.getInstance();
 		DecayTaskManager.getInstance();
@@ -222,15 +226,15 @@ public class GameServer
 		ShadowItemTaskManager.getInstance();
 		WaterTaskManager.getInstance();
 		DelayedItemsManager.getInstance();
-
+		
 		StringUtil.printSection("Seven Signs");
 		SevenSignsManager.getInstance();
 		FestivalOfDarknessManager.getInstance();
-
+		
 		StringUtil.printSection("Manor Manager");
 		ManorAreaData.getInstance();
 		CastleManorManager.getInstance();
-
+		
 		StringUtil.printSection("NPCs");
 		BufferManager.getInstance();
 		NpcData.getInstance();
@@ -244,17 +248,17 @@ public class GameServer
 		InstantTeleportData.getInstance();
 		TeleportData.getInstance();
 		ObserverGroupData.getInstance();
-
+		
 		CastleManager.getInstance().loadArtifacts();
-
+		
 		StringUtil.printSection("Olympiads & Heroes");
 		OlympiadGameManager.getInstance();
 		Olympiad.getInstance();
 		HeroManager.getInstance();
-
+		
 		StringUtil.printSection("Quests & Scripts");
 		ScriptData.getInstance();
-
+		
 		if (Config.ALLOW_BOAT)
 		{
 			BoatManager.getInstance();
@@ -264,33 +268,33 @@ public class GameServer
 			BoatRunePrimeval.load();
 			BoatTalkingGludin.load();
 		}
-
+		
 		StringUtil.printSection("Events");
 		DerbyTrackManager.getInstance();
 		LotteryManager.getInstance();
-
+		
 		CoupleManager.getInstance();
-
+		
 		if (Config.ALLOW_FISH_CHAMPIONSHIP)
 		{
 			FishingChampionshipManager.getInstance();
 		}
-
+		
 		if ((Config.OFFLINE_TRADE_ENABLE || Config.OFFLINE_CRAFT_ENABLE) && Config.RESTORE_OFFLINERS)
 		{
 			OfflineTradersTable.restoreOfflineTraders();
 		}
-
+		
 		CTFManager.getInstance();
 		DMManager.getInstance();
 		LMManager.getInstance();
 		TvTManager.getInstance();
-
+		
 		AntiFeedManager.getInstance().registerEvent(AntiFeedManager.GAME_ID);
-
+		
 		StringUtil.printSection("Spawns");
 		SpawnManager.getInstance().spawn();
-
+		
 		VDSystemManager.getInstance();
 		
 		StringUtil.printSection("Handlers");
@@ -302,14 +306,14 @@ public class GameServer
 		LOGGER.info("Loaded {} user command handlers.", UserCommandHandler.getInstance().size());
 		LOGGER.info("Loaded {} voiced command handlers.", VoicedCommandHandler.getInstance().size());
 		LOGGER.info("Loaded {} voice command handlers.", VoicedCommandHandler.getInstance().size());
-
+		
 		StringUtil.printSection("System");
 		Runtime.getRuntime().addShutdownHook(Shutdown.getInstance());
-
+		
 		if (Config.DEADLOCK_DETECTOR)
 		{
 			LOGGER.info("Deadlock detector is enabled. Timer: {}s.", Config.DEADLOCK_CHECK_INTERVAL);
-
+			
 			final DeadLockDetector deadDetectThread = new DeadLockDetector();
 			deadDetectThread.setDaemon(true);
 			deadDetectThread.start();
@@ -318,19 +322,19 @@ public class GameServer
 		{
 			LOGGER.info("Deadlock detector is disabled.");
 		}
-
+		
 		LOGGER.info("Gameserver has started, used memory: {} / {} Mo.", SysUtil.getUsedMemory(), SysUtil.getMaxMemory());
 		LOGGER.info("Maximum allowed players: {}.", Config.MAXIMUM_ONLINE_USERS);
 		LOGGER.info("Server loaded in " + (System.currentTimeMillis() - serverLoadStart) / 1000 + " seconds");
-
+		
 		StringUtil.printSection("Login");
 		LoginServerThread.getInstance().start();
-
+		
 		final GamePacketHandler handler = new GamePacketHandler();
 		_selectorThread = new SelectorThread<>(handler, handler, handler, new IPv4Filter());
-
+		
 		_serverStartTimeMillis = System.currentTimeMillis();
-
+		
 		InetAddress bindAddress = null;
 		if (!Config.GAMESERVER_HOSTNAME.equals("*"))
 		{
@@ -343,7 +347,7 @@ public class GameServer
 				LOGGER.error("The GameServer bind address is invalid, using all available IPs.", e);
 			}
 		}
-
+		
 		try
 		{
 			_selectorThread.openServerSocket(bindAddress, Config.GAMESERVER_PORT);
@@ -355,25 +359,25 @@ public class GameServer
 		}
 		_selectorThread.start();
 	}
-
+	
 	public static GameServer getInstance()
 	{
 		return _gameServer;
 	}
-
+	
 	public SelectorThread<GameClient> getSelectorThread()
 	{
 		return _selectorThread;
 	}
-
+	
 	public long getServerStartTime()
 	{
 		return _serverStartTimeMillis;
 	}
-
+	
 	public void informarGame()
 	{
-
+		
 		LOGGER.info("============================================================================");
 		LOGGER.info("Start: ................................................................... " + "GAME SERVER");
 		LOGGER.info("Nome: .................................................................... " + "Dev TerryMaster");

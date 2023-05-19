@@ -88,6 +88,8 @@ public final class GameClient extends MMOClient<MMOConnection<GameClient>>
 	private boolean _isDetached;
 	@SuppressWarnings("unused")
 	private boolean _isAuthedGG;
+	
+	private String _hwid = "";
 
 	private CharSelectSlot[] _slots;
 
@@ -718,5 +720,13 @@ public final class GameClient extends MMOClient<MMOConnection<GameClient>>
 			value[fp.getId()] = currentTime + reuseDelay * 1000000L;
 			return true;
 		}
+	}
+
+	public final String getHWID() {
+		return _hwid;
+	}
+
+	public void setHWID(String hwid) {
+		_hwid = hwid;
 	}
 }

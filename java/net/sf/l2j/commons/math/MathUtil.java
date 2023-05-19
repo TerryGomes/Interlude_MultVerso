@@ -1,4 +1,8 @@
 package net.sf.l2j.commons.math;
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+import java.util.Date;
 
 import net.sf.l2j.gameserver.model.WorldObject;
 import net.sf.l2j.gameserver.model.actor.Creature;
@@ -215,5 +219,14 @@ public class MathUtil
 		float exponent = (float) Math.pow(10, numPlaces);
 
 		return (Math.round(val * exponent) / exponent);
+	}
+
+	public static String formatDate(Date date, String format) {
+		final DateFormat dateFormat = new SimpleDateFormat(format);
+		if (date != null) {
+			return dateFormat.format(date);
+		}
+
+		return null;
 	}
 }

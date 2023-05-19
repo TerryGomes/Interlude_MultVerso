@@ -1,6 +1,10 @@
 package net.sf.l2j.gameserver.geoengine.geodata;
 
+import java.io.BufferedOutputStream;
+import java.io.IOException;
 import java.nio.ByteBuffer;
+
+import net.sf.l2j.gameserver.enums.GeoType;
 
 public class BlockComplex extends ABlock
 {
@@ -18,25 +22,35 @@ public class BlockComplex extends ABlock
 	/**
 	 * Creates ComplexBlock.
 	 * @param bb : Input byte buffer.
+	 * @param format 
 	 */
-	public BlockComplex(ByteBuffer bb)
-	{
-		// Initialize buffer.
+	public BlockComplex(ByteBuffer bb, GeoType format) {
+		// initialize buffer
 		_buffer = new byte[GeoStructure.BLOCK_CELLS * 3];
 
-		// Load data.
-		for (int i = 0; i < GeoStructure.BLOCK_CELLS; i++)
-		{
-			// Get data.
-			short data = bb.getShort();
+		// load data
+		for (int i = 0; i < GeoStructure.BLOCK_CELLS; i++) {
+			if (format != GeoType.L2D) {
+				// get data
+				short data = bb.getShort();
 
-			// Get nswe.
-			_buffer[i * 3] = (byte) (data & 0x000F);
+				// get nswe
+				_buffer[i * 3] = (byte) (data & 0x000F);
 
-			// Get height.
-			data = (short) ((short) (data & 0xFFF0) >> 1);
-			_buffer[i * 3 + 1] = (byte) (data & 0x00FF);
-			_buffer[i * 3 + 2] = (byte) (data >> 8);
+				// get height
+				data = (short) ((short) (data & 0xFFF0) >> 1);
+				_buffer[i * 3 + 1] = (byte) (data & 0x00FF);
+				_buffer[i * 3 + 2] = (byte) (data >> 8);
+			} else {
+				// get nswe
+				final byte nswe = bb.get();
+				_buffer[i * 3] = nswe;
+
+				// get height
+				final short height = bb.getShort();
+				_buffer[i * 3 + 1] = (byte) (height & 0x00FF);
+				_buffer[i * 3 + 2] = (byte) (height >> 8);
+			}
 		}
 	}
 
@@ -110,5 +124,14 @@ public class BlockComplex extends ABlock
 	{
 		// Get nswe.
 		return _buffer[index];
+	}
+	
+	@Override
+	public final void saveBlock(BufferedOutputStream stream) throws IOException {
+		// write block type
+		stream.write(GeoStructure.TYPE_COMPLEX_L2D);
+
+		// write block data
+		stream.write(_buffer, 0, GeoStructure.BLOCK_CELLS * 3);
 	}
 }

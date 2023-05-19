@@ -138,11 +138,11 @@ public class Territory extends Polygon
 					}
 
 					// check close area for available movement
-					if (!GeoEngine.getInstance().canMoveAround(loc.getX(), loc.getY(), z, DISTANCE))
-					{
-						failedGeo++;
-						break;
-					}
+//					if (!GeoEngine.getInstance().canMoveAround(loc.getX(), loc.getY(), z, DISTANCE))
+//					{
+//						failedGeo++;
+//						break;
+//					}
 
 					// return Location with XYZ and random heading
 					return new SpawnLocation(loc.getX(), loc.getY(), z, Rnd.get(65536));

@@ -1,5 +1,7 @@
 package net.sf.l2j.gameserver.geoengine.geodata;
 
+import java.io.BufferedOutputStream;
+
 public class BlockNull extends ABlock
 {
 	@Override
@@ -48,5 +50,9 @@ public class BlockNull extends ABlock
 	public final byte getNswe(int index, IGeoObject ignore)
 	{
 		return GeoStructure.CELL_FLAG_ALL;
+	}
+	
+	@Override
+	public final void saveBlock(BufferedOutputStream stream) {
 	}
 }

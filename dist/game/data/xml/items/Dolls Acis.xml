@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<list>
+<item id="14000" type="EtcItem" name="Baium Doll Lv 1">
+	<set name="icon" val="InterludeIcon.bm_baium_doll_30d" />
+	<set name="default_action" val="equip" />
+	<set name="bodypart" val="face" />
+	<set name="material" val="GOLD" />
+	<set name="weight" val="3" />
+	<set name="is_depositable" val="true" />
+	<set name="is_stackable" val="true" />
+	<set name="item_skill" val="90000-3" />
+</item> 
+
+</list>

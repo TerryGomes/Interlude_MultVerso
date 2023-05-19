@@ -4,7 +4,7 @@ REM ############################################
 REM ## You can change here your own DB params ##
 REM ############################################
 REM MYSQL BIN PATH
-set mysqlBinPath=C:\Program Files\MySQL\MySQL Server 5.7\bin
+set mysqlBinPath=C:\Program Files\MySQL\MySQL Server 5.5\bin
 
 REM LOGINSERVER
 set lsuser=root

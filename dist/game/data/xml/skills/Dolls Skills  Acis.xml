@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list> 
+ 
+<skill id="90000" levels="3" name="Baium Doll">
+<table name="#pAtk">1.02 1.03 1.05</table> 
+<table name="#pDef">1.02 1.03 1.05</table> 
+<set name="icon" val="br_cashtex.skill.br_cash_rune_of_sp_buff_3" />
+<set name="magicLevel" val="1" />
+<set name="target" val="SELF" />
+<set name="skillType" val="BUFF" />
+<set name="operateType" val="PASSIVE" />
+<for>
+<mul stat="pAtk" val="#pAtk"/>
+<mul stat="pDef" val="#pDef"/>
+</for>
+</skill>
+
+</list>

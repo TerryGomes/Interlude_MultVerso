@@ -34,9 +34,13 @@ public final class GeoStructure
 
 	// Geo block type identification.
 	public static final byte TYPE_FLAT_L2J_L2OFF = 0;
+	public static final byte TYPE_FLAT_L2D = (byte) 0xD0;
 	public static final byte TYPE_COMPLEX_L2J = 1;
 	public static final byte TYPE_COMPLEX_L2OFF = 0x40;
+	public static final byte TYPE_COMPLEX_L2D = (byte) 0xD1;
 	public static final byte TYPE_MULTILAYER_L2J = 2;
+	
+	public static final byte TYPE_MULTILAYER_L2D = (byte) 0xD2;
 	// public static final byte TYPE_MULTILAYER_L2OFF = 0x41; // officially not does exist, is anything above complex block (0x41 - 0xFFFF)
 
 	// Geo block dimensions.

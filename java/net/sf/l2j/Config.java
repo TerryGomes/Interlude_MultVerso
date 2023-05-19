@@ -22,7 +22,6 @@ import net.sf.l2j.commons.config.ExProperties;
 import net.sf.l2j.commons.logging.CLogger;
 import net.sf.l2j.commons.math.MathUtil;
 
-import net.sf.l2j.gameserver.enums.GeoType;
 import net.sf.l2j.gameserver.model.holder.IntIntHolder;
 import net.sf.l2j.gameserver.model.olympiad.enums.OlympiadPeriod;
 
@@ -469,7 +468,7 @@ public final class Config
 	
 	/** Geodata */
 	public static String GEODATA_PATH;
-	public static GeoType GEODATA_TYPE;
+	// public static String GEODATA_TYPE;
 	
 	/** Path checking */
 	public static int PART_OF_CHARACTER_HEIGHT;
@@ -484,6 +483,7 @@ public final class Config
 	public static int HEURISTIC_WEIGHT;
 	public static int HEURISTIC_WEIGHT_DIAG;
 	public static int MAX_ITERATIONS;
+	public static boolean ENABLE_GEODATA;
 	
 	public static final String GEOENGINE_FILE = "config/geoengine.properties";
 	
@@ -491,8 +491,10 @@ public final class Config
 	{
 		final ExProperties geoengine = initProperties(Config.GEOENGINE_FILE);
 		
+		ENABLE_GEODATA = geoengine.getProperty("EnableGeoData", false);
+		
 		Config.GEODATA_PATH = geoengine.getProperty("GeoDataPath", "./data/geodata/");
-		Config.GEODATA_TYPE = Enum.valueOf(GeoType.class, geoengine.getProperty("GeoDataType", "L2OFF"));
+		// Config.GEODATA_TYPE = geoengine.getProperty("GeoDataType", "L2OFF");
 		
 		Config.PART_OF_CHARACTER_HEIGHT = geoengine.getProperty("PartOfCharacterHeight", 75);
 		Config.MAX_OBSTACLE_HEIGHT = geoengine.getProperty("MaxObstacleHeight", 32);
@@ -2888,13 +2890,36 @@ public final class Config
 		
 	}
 	
+	public static boolean ALLOW_DUALBOX;
+	public static int ALLOWED_BOXES;
+	public static boolean ALLOW_DUALBOX_OLY;
+	
+	
+	/** by Hwid **/
+	public static boolean HWID_MULTIBOX_PROTECTION_ENABLED;
+	public static int HWID_MULTIBOX_PROTECTION_CLIENTS_PER_PC;
+	public static int HWID_MULTIBOX_PROTECTION_PUNISH;
+	public static final String PROTETION_FILE = "config/protecao/protect.properties";
+	
+	private static final void loadProtion()
+	{
+		final ExProperties protetion = initProperties(Config.PROTETION_FILE);
+		
+		Config.ALLOW_DUALBOX = Boolean.parseBoolean(protetion.getProperty("AllowDualBox", "True"));
+		Config.ALLOWED_BOXES = Integer.parseInt(protetion.getProperty("AllowedBoxes", "1"));
+		Config.ALLOW_DUALBOX_OLY = Boolean.parseBoolean(protetion.getProperty("AllowDualBoxInOly", "True"));
+		
+		Config.HWID_MULTIBOX_PROTECTION_ENABLED = protetion.getProperty("HwidMultiboxProtectionEnabled", false);
+		Config.HWID_MULTIBOX_PROTECTION_CLIENTS_PER_PC = protetion.getProperty("HwidClientsPerPc", 2);
+		Config.HWID_MULTIBOX_PROTECTION_PUNISH = protetion.getProperty("HwidMultiboxPunish", 2);
+	}
+	
 	public static final void loadGameServer()
 	{
 		LOGGER.info("Loading gameserver configuration files.");
 		
 		// fixados Eventos
 		loadOlympiad();
-		
 		
 		loadCaptureTheFlag();
 		loadDeathmatch();
@@ -2923,6 +2948,9 @@ public final class Config
 		loadRates();
 		// multVerso settings
 		loadMultVerso();
+		
+		// Proteção
+		loadProtion();
 	}
 	
 	public static final void loadLoginServer()
