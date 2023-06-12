@@ -82,7 +82,6 @@ import net.sf.l2j.gameserver.handler.TargetHandler;
 import net.sf.l2j.gameserver.handler.UserCommandHandler;
 import net.sf.l2j.gameserver.handler.VoicedCommandHandler;
 import net.sf.l2j.gameserver.idfactory.IdFactory;
-import net.sf.l2j.gameserver.instancemanager.IPManager;
 import net.sf.l2j.gameserver.model.World;
 import net.sf.l2j.gameserver.model.boat.BoatGiranTalking;
 import net.sf.l2j.gameserver.model.boat.BoatGludinRune;
@@ -170,7 +169,6 @@ public class GameServer
 		SkillTreeData.getInstance();
 		
 		StringUtil.printSection("IPManager DualBox");
-		IPManager.getInstance();
 		
 		StringUtil.printSection("Items");
 		ItemData.getInstance();

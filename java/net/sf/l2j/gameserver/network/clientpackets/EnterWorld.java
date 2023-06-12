@@ -391,16 +391,6 @@ public class EnterWorld extends L2GameClientPacket
 			player.teleportTo(TeleportType.TOWN);
 		}
 		
-		// Means that it's not ok multiBox situation, so logout
-		if (!player.checkMultiBox())
-		{
-			System.out.println("DUAL BOX: " + player.getName() + " Disconnected..");
-			player.sendMessage("I'm sorry, but multibox is not allowed here.");
-			// activeChar.startAbnormalEffect(2048);
-			// activeChar.startAbnormalEffect(AbnormalEffect.ROOT);
-			ThreadPool.schedule(new CloseGame(player, 10), 0L);
-		}
-		
 		// Tutorial
 		final QuestState qs = player.getQuestList().getQuestState("Tutorial");
 		if (qs != null)

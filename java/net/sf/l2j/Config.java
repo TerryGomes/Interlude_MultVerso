@@ -25,7 +25,6 @@ import net.sf.l2j.commons.math.MathUtil;
 import net.sf.l2j.gameserver.model.holder.IntIntHolder;
 import net.sf.l2j.gameserver.model.olympiad.enums.OlympiadPeriod;
 
-
 /**
  * This class contains global server configuration.<br>
  * It has static final fields initialized from configuration files.
@@ -1804,7 +1803,7 @@ public final class Config
 	public static int CTF_EVENT_EFFECTS_REMOVAL;
 	public static Map<Integer, Integer> CTF_EVENT_FIGHTER_BUFFS;
 	public static Map<Integer, Integer> CTF_EVENT_MAGE_BUFFS;
-	public static final String CAPTURE_THE_FLAG_FILE = "config/Events/CaptureTheFlag.properties";
+	public static final String CAPTURE_THE_FLAG_FILE = "./config/Events/CaptureTheFlag.properties";
 	
 	private static final void loadCaptureTheFlag()
 	{
@@ -2352,7 +2351,7 @@ public final class Config
 	public static Map<Integer, Integer> DM_EVENT_FIGHTER_BUFFS;
 	public static Map<Integer, Integer> DM_EVENT_MAGE_BUFFS;
 	
-	public static final String DEATHMATCH_FILE = "config/Events/Deathmatch.properties";
+	public static final String DEATHMATCH_FILE = "./config/Events/Deathmatch.properties";
 	
 	private static final void loadDeathmatch()
 	{
@@ -2891,30 +2890,7 @@ public final class Config
 		
 	}
 	
-	public static boolean ALLOW_DUALBOX;
-	public static int ALLOWED_BOXES;
-	public static boolean ALLOW_DUALBOX_OLY;
-	
-	
-	/** by Hwid **/
-	public static boolean HWID_MULTIBOX_PROTECTION_ENABLED;
-	public static int HWID_MULTIBOX_PROTECTION_CLIENTS_PER_PC;
-	public static int HWID_MULTIBOX_PROTECTION_PUNISH;
-	public static final String PROTETION_FILE = "config/protecao/protect.properties";
-	
-	private static final void loadProtion()
-	{
-		final ExProperties protetion = initProperties(Config.PROTETION_FILE);
-		
-		Config.ALLOW_DUALBOX = Boolean.parseBoolean(protetion.getProperty("AllowDualBox", "True"));
-		Config.ALLOWED_BOXES = Integer.parseInt(protetion.getProperty("AllowedBoxes", "1"));
-		Config.ALLOW_DUALBOX_OLY = Boolean.parseBoolean(protetion.getProperty("AllowDualBoxInOly", "True"));
-		
-		Config.HWID_MULTIBOX_PROTECTION_ENABLED = protetion.getProperty("HwidMultiboxProtectionEnabled", false);
-		Config.HWID_MULTIBOX_PROTECTION_CLIENTS_PER_PC = protetion.getProperty("HwidClientsPerPc", 2);
-		Config.HWID_MULTIBOX_PROTECTION_PUNISH = protetion.getProperty("HwidMultiboxPunish", 2);
-	}
-	
+
 	public static final void loadGameServer()
 	{
 		LOGGER.info("Loading gameserver configuration files.");
@@ -2950,8 +2926,7 @@ public final class Config
 		// multVerso settings
 		loadMultVerso();
 		
-		// Proteção
-		loadProtion();
+	
 	}
 	
 	public static final void loadLoginServer()
