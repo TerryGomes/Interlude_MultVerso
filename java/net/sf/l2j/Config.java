@@ -25,6 +25,7 @@ import net.sf.l2j.commons.math.MathUtil;
 import net.sf.l2j.gameserver.model.holder.IntIntHolder;
 import net.sf.l2j.gameserver.model.olympiad.enums.OlympiadPeriod;
 
+
 /**
  * This class contains global server configuration.<br>
  * It has static final fields initialized from configuration files.
