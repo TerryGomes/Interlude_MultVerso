@@ -2891,6 +2891,140 @@ public final class Config
 	}
 	
 
+	
+	
+	public static boolean ALLOW_LIGHT_USE_HEAVY;
+	public static String NOTALLOWCLASS;
+	public static List<Integer> NOTALLOWEDUSEHEAVY;
+	
+	public static boolean ALLOW_HEAVY_USE_LIGHT;
+	public static String NOTALLOWCLASSE;
+	public static List<Integer> NOTALLOWEDUSELIGHT;
+	public static boolean ALT_DISABLE_BOW_CLASSES;
+	public static String DISABLE_BOW_CLASSES_STRING;
+	public static ArrayList<Integer> DISABLE_BOW_CLASSES = new ArrayList<>();
+	public static boolean ALT_DISABLE_DAGGER_CLASSES;
+	public static String DISABLE_DAGGER_CLASSES_STRING;
+	public static ArrayList<Integer> DISABLE_DAGGER_CLASSES = new ArrayList<>();
+	public static boolean ALT_DISABLE_SWORD_CLASSES;
+	public static String DISABLE_SWORD_CLASSES_STRING;
+	public static ArrayList<Integer> DISABLE_SWORD_CLASSES = new ArrayList<>();
+	public static boolean ALT_DISABLE_BLUNT_CLASSES;
+	public static String DISABLE_BLUNT_CLASSES_STRING;
+	public static ArrayList<Integer> DISABLE_BLUNT_CLASSES = new ArrayList<>();
+	public static boolean ALT_DISABLE_DUAL_CLASSES;
+	public static String DISABLE_DUAL_CLASSES_STRING;
+	public static ArrayList<Integer> DISABLE_DUAL_CLASSES = new ArrayList<>();
+	public static boolean ALT_DISABLE_POLE_CLASSES;
+	public static String DISABLE_POLE_CLASSES_STRING;
+	public static ArrayList<Integer> DISABLE_POLE_CLASSES = new ArrayList<>();
+	public static boolean ALT_DISABLE_BIGSWORD_CLASSES;
+	public static String DISABLE_BIGSWORD_CLASSES_STRING;
+	public static ArrayList<Integer> DISABLE_BIGSWORD_CLASSES = new ArrayList<>();
+	
+	
+	
+	public static final String PROTECAO_PERSONAGEM_FILE = "config/RestricaoPersonagem.properties";
+	
+	private static final void loadLoginRestricaoPersonagem()
+	{
+		final ExProperties restricaoPersonagem = initProperties(Config.PROTECAO_PERSONAGEM_FILE);
+		
+		Config.HOSTNAME = restricaoPersonagem.getProperty("Hostname", "localhost");
+		
+		
+
+		
+		ALLOW_HEAVY_USE_LIGHT = restricaoPersonagem.getProperty("AllowHeavyUseLight", false);
+		NOTALLOWCLASSE = restricaoPersonagem.getProperty("NotAllowedUseLight", "");
+		NOTALLOWEDUSELIGHT = new ArrayList<>();
+		for (String classId : NOTALLOWCLASSE.split(","))
+		{
+			NOTALLOWEDUSELIGHT.add(Integer.parseInt(classId));
+		}
+		ALLOW_LIGHT_USE_HEAVY = restricaoPersonagem.getProperty("AllowLightUseHeavy", false);
+		NOTALLOWCLASS = restricaoPersonagem.getProperty("NotAllowedUseHeavy", "");
+		NOTALLOWEDUSEHEAVY = new ArrayList<>();
+		for (String classId : NOTALLOWCLASS.split(","))
+		{
+			NOTALLOWEDUSEHEAVY.add(Integer.parseInt(classId));
+		}
+		
+		ALT_DISABLE_BOW_CLASSES = restricaoPersonagem.getProperty("AltDisableBow", false);
+		DISABLE_BOW_CLASSES_STRING = restricaoPersonagem.getProperty("DisableBowForClasses", "");
+		DISABLE_BOW_CLASSES = new ArrayList<>();
+		for (String class_id : DISABLE_BOW_CLASSES_STRING.split(","))
+		{
+			if (!class_id.equals(""))
+			{
+				DISABLE_BOW_CLASSES.add(Integer.parseInt(class_id));
+			}
+		}
+		ALT_DISABLE_DAGGER_CLASSES = restricaoPersonagem.getProperty("AltDisableDagger", false);
+		DISABLE_DAGGER_CLASSES_STRING = restricaoPersonagem.getProperty("DisableDaggerForClasses", "");
+		DISABLE_DAGGER_CLASSES = new ArrayList<>();
+		for (String class_id : DISABLE_DAGGER_CLASSES_STRING.split(","))
+		{
+			if (!class_id.equals(""))
+			{
+				DISABLE_DAGGER_CLASSES.add(Integer.parseInt(class_id));
+			}
+		}
+		ALT_DISABLE_SWORD_CLASSES = restricaoPersonagem.getProperty("AltDisableSword", false);
+		DISABLE_SWORD_CLASSES_STRING = restricaoPersonagem.getProperty("DisableSwordForClasses", "");
+		DISABLE_SWORD_CLASSES = new ArrayList<>();
+		for (String class_id : DISABLE_SWORD_CLASSES_STRING.split(","))
+		{
+			if (!class_id.equals(""))
+			{
+				DISABLE_SWORD_CLASSES.add(Integer.parseInt(class_id));
+			}
+		}
+		ALT_DISABLE_BLUNT_CLASSES = restricaoPersonagem.getProperty("AltDisableBlunt", false);
+		DISABLE_BLUNT_CLASSES_STRING = restricaoPersonagem.getProperty("DisableBluntForClasses", "");
+		DISABLE_BLUNT_CLASSES = new ArrayList<>();
+		for (String class_id : DISABLE_BLUNT_CLASSES_STRING.split(","))
+		{
+			if (!class_id.equals(""))
+			{
+				DISABLE_BLUNT_CLASSES.add(Integer.parseInt(class_id));
+			}
+		}
+		ALT_DISABLE_DUAL_CLASSES = restricaoPersonagem.getProperty("AltDisableDual", false);
+		DISABLE_DUAL_CLASSES_STRING = restricaoPersonagem.getProperty("DisableDualForClasses", "");
+		DISABLE_DUAL_CLASSES = new ArrayList<>();
+		for (String class_id : DISABLE_DUAL_CLASSES_STRING.split(","))
+		{
+			if (!class_id.equals(""))
+			{
+				DISABLE_DUAL_CLASSES.add(Integer.parseInt(class_id));
+			}
+		}
+		ALT_DISABLE_POLE_CLASSES = restricaoPersonagem.getProperty("AltDisablePolle", false);
+		DISABLE_POLE_CLASSES_STRING = restricaoPersonagem.getProperty("DisablePolleForClasses", "");
+		DISABLE_POLE_CLASSES = new ArrayList<>();
+		for (String class_id : DISABLE_POLE_CLASSES_STRING.split(","))
+		{
+			if (!class_id.equals(""))
+			{
+				DISABLE_POLE_CLASSES.add(Integer.parseInt(class_id));
+			}
+		}
+		
+		
+		
+	
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	public static final void loadGameServer()
 	{
 		LOGGER.info("Loading gameserver configuration files.");
@@ -2923,8 +3057,10 @@ public final class Config
 		loadServer();
 		// rates settings
 		loadRates();
+		
 		// multVerso settings
 		loadMultVerso();
+		loadLoginRestricaoPersonagem();
 		
 	
 	}
