@@ -38,6 +38,7 @@ https://www.mediafire.com/file/pym7wzohzv4dkyj/Interlude_MultVerso.rar/file
   <li>DualBox Proteção.</li>
   <li>Geodata L2jD.</li>
   <li>Voto System.</li>
+  <li>Restrição de Armor & Weapom.</li>
   
  </ul>
  </div>
