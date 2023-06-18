@@ -1,0 +1,11 @@
+jun. 18, 2023 10:17:06 AM net.sf.l2j.gameserver.geoengine.GeoEngine loadGeoBlocks
+SEVERE: Error loading 25_21.l2d region file.
+java.lang.RuntimeException: Invalid layer count for MultilayerBlock
+	at net.sf.l2j.gameserver.geoengine.geodata.BlockMultilayer.<init>(BlockMultilayer.java:61)
+	at net.sf.l2j.gameserver.geoengine.GeoEngine.loadGeoBlocks(GeoEngine.java:207)
+	at net.sf.l2j.gameserver.geoengine.GeoEngine.<init>(GeoEngine.java:86)
+	at net.sf.l2j.gameserver.geoengine.GeoEngine$SingletonHolder.<clinit>(GeoEngine.java:2166)
+	at net.sf.l2j.gameserver.geoengine.GeoEngine.getInstance(GeoEngine.java:2161)
+	at net.sf.l2j.gameserver.GameServer.<init>(GameServer.java:208)
+	at net.sf.l2j.gameserver.GameServer.main(GameServer.java:124)
+

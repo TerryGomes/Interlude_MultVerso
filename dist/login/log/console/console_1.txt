@@ -1,26 +1,18 @@
-[10-05-2023 22:26:15]	INFO	--------------------------------------------------=[ Config ]
-[10-05-2023 22:26:15]	INFO	Loading loginserver configuration files.
-[10-05-2023 22:26:15]	INFO	-------------------------------------------------=[ Poolers ]
-[10-05-2023 22:26:15]	INFO	Initializing ConnectionPool.
-[10-05-2023 22:26:15]	INFO	-----------------------------------------=[ LoginController ]
-[10-05-2023 22:26:15]	INFO	Cached 10 KeyPairs for RSA communication.
-[10-05-2023 22:26:16]	INFO	Stored 20 keys for Blowfish communication.
-[10-05-2023 22:26:16]	INFO	---------------------------------------=[ GameServerManager ]
-[10-05-2023 22:26:16]	INFO	Loaded 127 server names.
-[10-05-2023 22:26:16]	INFO	Loaded 1 registered gameserver(s).
-[10-05-2023 22:26:16]	INFO	Cached 10 RSA keys for gameserver communication.
-[10-05-2023 22:26:16]	INFO	------------------------------------------------=[ Ban List ]
-[10-05-2023 22:26:16]	INFO	Loaded 0 banned IP(s).
-[10-05-2023 22:26:16]	INFO	--------------------------------=[ IP, Ports & Socket infos ]
-[10-05-2023 22:26:16]	INFO	Listening for gameservers on *:9014.
-[10-05-2023 22:26:16]	INFO	Loginserver ready on *:2106.
-[10-05-2023 22:26:16]	INFO	---------------------------=[ Waiting for gameserver answer ]
-[10-05-2023 22:27:11]	INFO	Hooked [1] Bartz gameserver on: 127.0.0.1.
-[10-05-2023 22:46:42]	INFO	GameServer [1] Bartz is now set as disconnected.
-[10-05-2023 22:47:08]	INFO	Hooked [1] Bartz gameserver on: 127.0.0.1.
-[10-05-2023 22:59:56]	INFO	GameServer [1] Bartz is now set as disconnected.
-[10-05-2023 23:00:23]	INFO	Hooked [1] Bartz gameserver on: 127.0.0.1.
-[10-05-2023 23:17:42]	INFO	GameServer [1] Bartz is now set as disconnected.
-[10-05-2023 23:18:17]	INFO	Hooked [1] Bartz gameserver on: 127.0.0.1.
-[10-05-2023 23:32:11]	INFO	GameServer [1] Bartz is now set as disconnected.
-[10-05-2023 23:32:50]	INFO	Hooked [1] Bartz gameserver on: 127.0.0.1.
+[10-05-2023 23:35:11]	INFO	--------------------------------------------------=[ Config ]
+[10-05-2023 23:35:11]	INFO	Loading loginserver configuration files.
+[10-05-2023 23:35:11]	INFO	-------------------------------------------------=[ Poolers ]
+[10-05-2023 23:35:11]	INFO	Initializing ConnectionPool.
+[10-05-2023 23:35:11]	INFO	-----------------------------------------=[ LoginController ]
+[10-05-2023 23:35:12]	INFO	Cached 10 KeyPairs for RSA communication.
+[10-05-2023 23:35:12]	INFO	Stored 20 keys for Blowfish communication.
+[10-05-2023 23:35:12]	INFO	---------------------------------------=[ GameServerManager ]
+[10-05-2023 23:35:12]	INFO	Loaded 127 server names.
+[10-05-2023 23:35:12]	INFO	Loaded 1 registered gameserver(s).
+[10-05-2023 23:35:12]	INFO	Cached 10 RSA keys for gameserver communication.
+[10-05-2023 23:35:12]	INFO	------------------------------------------------=[ Ban List ]
+[10-05-2023 23:35:12]	INFO	Loaded 0 banned IP(s).
+[10-05-2023 23:35:12]	INFO	--------------------------------=[ IP, Ports & Socket infos ]
+[10-05-2023 23:35:12]	INFO	Listening for gameservers on *:9014.
+[10-05-2023 23:35:12]	INFO	Loginserver ready on *:2106.
+[10-05-2023 23:35:12]	INFO	---------------------------=[ Waiting for gameserver answer ]
+[10-05-2023 23:35:26]	INFO	Hooked [1] Bartz gameserver on: 127.0.0.1.

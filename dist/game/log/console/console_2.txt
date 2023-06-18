@@ -1,176 +1,158 @@
-[10-05-2023 23:17:55]	INFO	--------------------------------------------------=[ Config ]
-[10-05-2023 23:17:55]	INFO	Loading gameserver configuration files.
-[10-05-2023 23:17:55]	WARNING	CTFEventEngine[Config.load()]: invalid config property -> CTFcaptureTheFlagecondTeamHeadquartersId
-[10-05-2023 23:17:55]	WARNING	The following property key 'DMdeathmatchtartLeaveTeleportDelay' is missing. It will use default value '20'.
-[10-05-2023 23:17:55]	WARNING	The following property key 'DMdeathmatchcrollsAllowed' is missing. It will use default value 'false'.
-[10-05-2023 23:17:55]	WARNING	The following property key 'DMdeathmatchummonByItemAllowed' is missing. It will use default value 'false'.
-[10-05-2023 23:17:55]	INFO	Loaded 1155 Filter Words.
-[10-05-2023 23:17:55]	WARNING	The following property key 'HwidMultiboxProtectionEnabled' is missing. It will use default value 'false'.
-[10-05-2023 23:17:55]	WARNING	The following property key 'HwidClientsPerPc' is missing. It will use default value '2'.
-[10-05-2023 23:17:55]	WARNING	The following property key 'HwidMultiboxPunish' is missing. It will use default value '2'.
-[10-05-2023 23:17:55]	INFO	-------------------------------------------------=[ Poolers ]
-[10-05-2023 23:17:55]	INFO	Initializing ConnectionPool.
-[10-05-2023 23:17:55]	INFO	Initializing ThreadPool.
-[10-05-2023 23:17:55]	INFO	-----------------------------------------------=[ IdFactory ]
-[10-05-2023 23:17:55]	INFO	Updated characters online status.
-[10-05-2023 23:17:55]	INFO	Cleaned 0 elements from database.
-[10-05-2023 23:17:55]	INFO	Cleaned 0 expired timestamps from database.
-[10-05-2023 23:17:55]	INFO	Initializing 102912 objectIds pool, with 11 used ids.
-[10-05-2023 23:17:55]	INFO	---------------------------------------------------=[ Cache ]
-[10-05-2023 23:17:55]	INFO	Loaded 0 crests.
-[10-05-2023 23:17:55]	INFO	---------------------------------------------------=[ World ]
-[10-05-2023 23:17:55]	INFO	World grid (176 by 256) is now set up.
-[10-05-2023 23:17:56]	INFO	Loaded regions.
-[10-05-2023 23:17:56]	INFO	Loaded 2 announcements.
-[10-05-2023 23:17:56]	INFO	Loaded 1 server variables.
-[10-05-2023 23:17:56]	INFO	--------------------------------------------------=[ Skills ]
-[10-05-2023 23:17:57]	INFO	SkillTable: Loaded 29747 skills.
-[10-05-2023 23:17:57]	INFO	Loaded 117 fishing skills.
-[10-05-2023 23:17:57]	INFO	Loaded 64 clan skills.
-[10-05-2023 23:17:57]	INFO	Loaded 14550 enchant skills.
-[10-05-2023 23:17:57]	INFO	---------------------------------------=[ IPManager DualBox ]
-[10-05-2023 23:17:57]	INFO	IPManager - Loaded.
-[10-05-2023 23:17:57]	INFO	---------------------------------------------------=[ Items ]
-[10-05-2023 23:17:58]	INFO	Loaded items.
-[10-05-2023 23:17:58]	INFO	Loaded 13 summon items.
-[10-05-2023 23:17:58]	INFO	Loaded 180 hennas.
-[10-05-2023 23:17:58]	INFO	Loaded 687 buyLists.
-[10-05-2023 23:17:58]	INFO	Loaded 90 multisell.
-[10-05-2023 23:17:58]	INFO	Loaded 871 recipes.
-[10-05-2023 23:17:58]	INFO	Loaded 51 armor sets.
-[10-05-2023 23:17:58]	INFO	Loaded 270 fish.
-[10-05-2023 23:17:58]	INFO	Loaded 334 spellbooks.
-[10-05-2023 23:17:58]	INFO	Loaded 39 Soul Crystals data and 124 NPCs data.
-[10-05-2023 23:17:58]	INFO	Loaded 4 sets of augmentation stats.
-[10-05-2023 23:17:58]	INFO	Loaded 170 blue, 1070 purple and 540 red Life-Stone skills.
-[10-05-2023 23:17:58]	INFO	Loaded 2 cursed weapons.
-[10-05-2023 23:17:58]	INFO	Loaded 334 skipping item(s).
-[10-05-2023 23:17:58]	INFO	--------------------------------------------------=[ Admins ]
-[10-05-2023 23:17:58]	INFO	Loaded 10 access levels.
-[10-05-2023 23:17:58]	INFO	Loaded 115 admin command rights.
-[10-05-2023 23:17:58]	INFO	Loaded 0 bookmarks.
-[10-05-2023 23:17:58]	INFO	Loaded 0 petitions.
-[10-05-2023 23:17:58]	INFO	----------------------------------------------=[ Characters ]
-[10-05-2023 23:17:58]	INFO	Loaded 89 player classes templates.
-[10-05-2023 23:17:58]	INFO	Loaded 2 player infos.
-[10-05-2023 23:17:58]	INFO	Loaded 81 player levels.
-[10-05-2023 23:17:58]	INFO	Loaded 0 RaidPoints entries.
-[10-05-2023 23:17:58]	INFO	Loaded 29 healSps entries.
-[10-05-2023 23:17:58]	INFO	----------------------------------------=[ Community server ]
-[10-05-2023 23:17:58]	INFO	---------------------------------------------------=[ Clans ]
-[10-05-2023 23:17:58]	INFO	Loaded 0 clans.
-[10-05-2023 23:17:58]	INFO	-----------------------------------=[ Geodata & Pathfinding ]
-[10-05-2023 23:18:01]	INFO	Loaded 139 L2D region files.
-[10-05-2023 23:18:01]	INFO	Loaded 31 node buffers.
-[10-05-2023 23:18:01]	INFO	---------------------------------------------------=[ Zones ]
-[10-05-2023 23:18:07]	INFO	Loaded 25 zones classes and total 1047 zones.
-[10-05-2023 23:18:07]	INFO	------------------------------------=[ Castles & Clan Halls ]
-[10-05-2023 23:18:07]	INFO	Loaded 9 castles.
-[10-05-2023 23:18:07]	INFO	Loaded 44 clan halls and 6 siegable clan halls.
-[10-05-2023 23:18:07]	INFO	-------------------------------------------=[ Task Managers ]
-[10-05-2023 23:18:07]	INFO	Restored 0 items on ground.
-[10-05-2023 23:18:07]	INFO	---------------------------------------------=[ Seven Signs ]
-[10-05-2023 23:18:07]	INFO	Currently on Seal Validation period.
-[10-05-2023 23:18:07]	INFO	The Seal of Strife remains unclaimed.
-[10-05-2023 23:18:07]	INFO	The Seal of Avarice remains unclaimed.
-[10-05-2023 23:18:07]	INFO	The Seal of Gnosis remains unclaimed.
-[10-05-2023 23:18:07]	INFO	Next Seven Signs period change set to Mon May 15 18:00:00 BRT 2023.
-[10-05-2023 23:18:07]	INFO	Next Seven Signs period begins in 4 days, 18 hours and 41 mins.
-[10-05-2023 23:18:07]	INFO	Seven Signs Festival initialization was bypassed due to Seal Validation being under effect.
-[10-05-2023 23:18:07]	INFO	-------------------------------------------=[ Manor Manager ]
-[10-05-2023 23:18:07]	INFO	Loaded 121 manor areas.
-[10-05-2023 23:18:07]	INFO	Loaded 247 seeds.
-[10-05-2023 23:18:07]	INFO	----------------------------------------------------=[ NPCs ]
-[10-05-2023 23:18:07]	INFO	Loaded 62 available buffs.
-[10-05-2023 23:18:07]	INFO	Loaded 2 ready to use schemes.
-[10-05-2023 23:18:08]	INFO	Loaded 6478 NPC templates.
-[10-05-2023 23:18:08]	INFO	Loaded 16 walking routes.
-[10-05-2023 23:18:08]	INFO	Loaded 547 doors templates.
-[10-05-2023 23:18:08]	INFO	Loaded 29 static objects.
-[10-05-2023 23:18:08]	INFO	Loaded 201 spawn data.
-[10-05-2023 23:18:12]	INFO	Loaded 11123 territories.
-[10-05-2023 23:18:12]	INFO	Loaded 11540 NPC makers.
-[10-05-2023 23:18:12]	INFO	Loaded 9 GrandBosses instances.
-[10-05-2023 23:18:12]	INFO	Loaded 7 Dimensional Rift rooms.
-[10-05-2023 23:18:12]	INFO	Loaded 14 newbie buffs.
-[10-05-2023 23:18:12]	INFO	Loaded 72 instant teleport positions.
-[10-05-2023 23:18:12]	INFO	Loaded 117 teleport positions.
-[10-05-2023 23:18:12]	INFO	Loaded 13 observer groups and 25 spawns.
-[10-05-2023 23:18:12]	INFO	--------------------------------------=[ Olympiads & Heroes ]
-[10-05-2023 23:18:12]	INFO	Loaded 22 stadiums.
-[10-05-2023 23:18:12]	INFO	31001 minutes until Olympiad period ends.
-[10-05-2023 23:18:12]	INFO	Next weekly Olympiad change is in 10079 minutes.
-[10-05-2023 23:18:12]	INFO	Loaded 0 nobles.
-[10-05-2023 23:18:12]	INFO	Olympiad competition period starts in 0 days, 0 hours and 0 mins.
-[10-05-2023 23:18:12]	INFO	Olympiad event starts/started @ Wed May 10 18:00:00 BRT 2023.
-[10-05-2023 23:18:12]	INFO	Loaded 0 heroes and 0 all time heroes.
-[10-05-2023 23:18:12]	INFO	----------------------------------------=[ Quests & Scripts ]
-[10-05-2023 23:18:12]	INFO	Olympiad game started.
-[10-05-2023 23:18:12]	INFO	Spawned 11 "start_weapon" NPCs.
-[10-05-2023 23:18:12]	INFO	Bandit Stronghold siege scheduled for Sun May 14 20:00:00 BRT 2023.
-[10-05-2023 23:18:12]	INFO	Devastated Castle siege scheduled for Sun May 14 20:00:00 BRT 2023.
-[10-05-2023 23:18:12]	INFO	Fortress of Resistance siege scheduled for Sun May 14 20:00:00 BRT 2023.
-[10-05-2023 23:18:12]	INFO	Fortress of the Dead siege scheduled for Sun May 14 20:01:00 BRT 2023.
-[10-05-2023 23:18:12]	INFO	Rainbow Springs Chateau siege scheduled for Sun May 14 20:00:00 BRT 2023.
-[10-05-2023 23:18:12]	INFO	Wild Beast Reserve siege scheduled for Sun May 14 20:00:00 BRT 2023.
-[10-05-2023 23:18:12]	INFO	Loaded 422 regular scripts and 8 scheduled scripts.
-[10-05-2023 23:18:12]	INFO	--------------------------------------------------=[ Events ]
-[10-05-2023 23:18:12]	INFO	Loaded 3 Derby Track records, currently on race #4.
-[10-05-2023 23:18:12]	INFO	Loaded 0 couples.
-[10-05-2023 23:18:12]	INFO	Capture The Flag Engine: is disabled.
-[10-05-2023 23:18:12]	INFO	Deathmatch Engine: is Started.
-[10-05-2023 23:18:12]	INFO	Last Man Engine: is Started.
-[10-05-2023 23:18:12]	INFO	Team vs Team Engine: is Started.
-[10-05-2023 23:18:12]	INFO	--------------------------------------------------=[ Spawns ]
-[10-05-2023 23:18:15]	INFO	Spawned 30159 NPCs.
-[10-05-2023 23:18:15]	INFO	Spawned 443 day NPCs, despawned 0 night NPCs.
-[10-05-2023 23:18:15]	INFO	Spawned 673 "extra_mob" NPCs.
-[10-05-2023 23:18:15]	INFO	Spawned 19 "18age" NPCs.
-[10-05-2023 23:18:15]	INFO	Spawned 1432 Seven Signs - Seal of Avarice NPCs, winning cabal none.
-[10-05-2023 23:18:15]	INFO	Spawned 1186 Seven Signs - Seal of Gnosis NPCs, winning cabal none.
-[10-05-2023 23:18:15]	INFO	---------------------------------------------=[ VDS Manager ]
-[10-05-2023 23:18:15]	INFO	Initializing Threads.
-[10-05-2023 23:18:15]	INFO	Configurations: loaded.
-[10-05-2023 23:18:17]	INFO	DonateTaskManager: started.
-[10-05-2023 23:18:17]	INFO	Global: ITOPZ reward started.
-[10-05-2023 23:18:17]	INFO	VDSystem: System initialized.
-[10-05-2023 23:18:17]	INFO	------------------------------------------------=[ Handlers ]
-[10-05-2023 23:18:17]	INFO	Loaded 115 admin command handlers.
-[10-05-2023 23:18:17]	INFO	Loaded 13 chat handlers.
-[10-05-2023 23:18:17]	INFO	Loaded 28 item handlers.
-[10-05-2023 23:18:17]	INFO	Loaded 73 skill handlers.
-[10-05-2023 23:18:17]	INFO	Loaded 25 target handlers.
-[10-05-2023 23:18:17]	INFO	Loaded 15 user command handlers.
-[10-05-2023 23:18:17]	INFO	Loaded 24 voiced command handlers.
-[10-05-2023 23:18:17]	INFO	Loaded 24 voice command handlers.
-[10-05-2023 23:18:17]	INFO	--------------------------------------------------=[ System ]
-[10-05-2023 23:18:17]	INFO	Deadlock detector is disabled.
-[10-05-2023 23:18:17]	INFO	Gameserver has started, used memory: 1294 / 8172 Mo.
-[10-05-2023 23:18:17]	INFO	Maximum allowed players: 100.
-[10-05-2023 23:18:17]	INFO	Server loaded in 21 seconds
-[10-05-2023 23:18:17]	INFO	---------------------------------------------------=[ Login ]
-[10-05-2023 23:18:17]	INFO	Connecting to login on 127.0.0.1:9014.
-[10-05-2023 23:18:17]	INFO	Registered as server: [1] Bartz.
-[10-05-2023 23:23:34]	WARNING	No handler registered for admin command 'admin_setlevel'.
-[10-05-2023 23:23:44]	WARNING	No handler registered for admin command 'admin_setlevel'.
-[10-05-2023 23:23:57]	WARNING	No handler registered for admin command 'admin_setlelvel'.
-[10-05-2023 23:32:00]	INFO	GM: Terrymaster (268474507) issued restarting process in 5 seconds.
-[10-05-2023 23:32:05]	INFO	--------------------------------=[ Under restarting process ]
-[10-05-2023 23:32:05]	INFO	Players have been disconnected.
-[10-05-2023 23:32:05]	INFO	ThreadPool: Shutting down.
-[10-05-2023 23:32:05]	INFO	SevenSignsManager has been saved.
-[10-05-2023 23:32:05]	INFO	Running scripts has been stopped.
-[10-05-2023 23:32:05]	INFO	Saved boss zones data.
-[10-05-2023 23:32:05]	INFO	ZoneManager has been saved.
-[10-05-2023 23:32:05]	INFO	GrandBossManager has been saved.
-[10-05-2023 23:32:05]	INFO	SpawnManager has been saved.
-[10-05-2023 23:32:05]	INFO	Olympiad has been saved.
-[10-05-2023 23:32:05]	INFO	HeroManager has been saved.
-[10-05-2023 23:32:05]	INFO	CastleManorManager has been saved.
-[10-05-2023 23:32:05]	INFO	FishingChampionshipManager has been saved.
-[10-05-2023 23:32:05]	INFO	BufferManager has been saved.
-[10-05-2023 23:32:05]	INFO	PetitionManager has been saved.
-[10-05-2023 23:32:05]	INFO	ClanHallManager has been saved.
-[10-05-2023 23:32:05]	INFO	CoupleManager has been saved.
-[10-05-2023 23:32:05]	INFO	No items on ground to save.
-[10-05-2023 23:32:05]	INFO	ItemsOnGroundTaskManager has been saved.
+[18-06-2023 10:17:37]	INFO	--------------------------------------------------=[ Config ]
+[18-06-2023 10:17:37]	INFO	Loading gameserver configuration files.
+[18-06-2023 10:17:37]	INFO	Loaded 1155 Filter Words.
+[18-06-2023 10:17:37]	INFO	-------------------------------------------------=[ Poolers ]
+[18-06-2023 10:17:37]	INFO	Initializing ConnectionPool.
+[18-06-2023 10:17:37]	INFO	Initializing ThreadPool.
+[18-06-2023 10:17:37]	INFO	-----------------------------------------------=[ IdFactory ]
+[18-06-2023 10:17:37]	INFO	Updated characters online status.
+[18-06-2023 10:17:37]	INFO	Cleaned 0 elements from database.
+[18-06-2023 10:17:37]	INFO	Cleaned 0 expired timestamps from database.
+[18-06-2023 10:17:37]	INFO	Initializing 102912 objectIds pool, with 9 used ids.
+[18-06-2023 10:17:37]	INFO	---------------------------------------------------=[ Cache ]
+[18-06-2023 10:17:37]	INFO	Loaded 0 crests.
+[18-06-2023 10:17:37]	INFO	---------------------------------------------------=[ World ]
+[18-06-2023 10:17:37]	INFO	World grid (176 by 256) is now set up.
+[18-06-2023 10:17:37]	INFO	Loaded regions.
+[18-06-2023 10:17:38]	INFO	Loaded 2 announcements.
+[18-06-2023 10:17:38]	INFO	Loaded 1 server variables.
+[18-06-2023 10:17:38]	INFO	--------------------------------------------------=[ Skills ]
+[18-06-2023 10:17:39]	INFO	SkillTable: Loaded 29747 skills.
+[18-06-2023 10:17:39]	INFO	Loaded 117 fishing skills.
+[18-06-2023 10:17:39]	INFO	Loaded 64 clan skills.
+[18-06-2023 10:17:39]	INFO	Loaded 14550 enchant skills.
+[18-06-2023 10:17:39]	INFO	---------------------------------------=[ IPManager DualBox ]
+[18-06-2023 10:17:39]	INFO	---------------------------------------------------=[ Items ]
+[18-06-2023 10:17:39]	INFO	Loaded items.
+[18-06-2023 10:17:39]	INFO	Loaded 13 summon items.
+[18-06-2023 10:17:39]	INFO	Loaded 180 hennas.
+[18-06-2023 10:17:39]	INFO	Loaded 687 buyLists.
+[18-06-2023 10:17:40]	INFO	Loaded 90 multisell.
+[18-06-2023 10:17:40]	INFO	Loaded 871 recipes.
+[18-06-2023 10:17:40]	INFO	Loaded 51 armor sets.
+[18-06-2023 10:17:40]	INFO	Loaded 270 fish.
+[18-06-2023 10:17:40]	INFO	Loaded 334 spellbooks.
+[18-06-2023 10:17:40]	INFO	Loaded 39 Soul Crystals data and 124 NPCs data.
+[18-06-2023 10:17:40]	INFO	Loaded 4 sets of augmentation stats.
+[18-06-2023 10:17:40]	INFO	Loaded 170 blue, 1070 purple and 540 red Life-Stone skills.
+[18-06-2023 10:17:40]	INFO	Loaded 2 cursed weapons.
+[18-06-2023 10:17:40]	INFO	Loaded 334 skipping item(s).
+[18-06-2023 10:17:40]	INFO	--------------------------------------------------=[ Admins ]
+[18-06-2023 10:17:40]	INFO	Loaded 10 access levels.
+[18-06-2023 10:17:40]	INFO	Loaded 115 admin command rights.
+[18-06-2023 10:17:40]	INFO	Loaded 0 bookmarks.
+[18-06-2023 10:17:40]	INFO	Loaded 0 petitions.
+[18-06-2023 10:17:40]	INFO	----------------------------------------------=[ Characters ]
+[18-06-2023 10:17:40]	INFO	Loaded 89 player classes templates.
+[18-06-2023 10:17:40]	INFO	Loaded 2 player infos.
+[18-06-2023 10:17:40]	INFO	Loaded 81 player levels.
+[18-06-2023 10:17:40]	INFO	Loaded 0 RaidPoints entries.
+[18-06-2023 10:17:40]	INFO	Loaded 29 healSps entries.
+[18-06-2023 10:17:40]	INFO	----------------------------------------=[ Community server ]
+[18-06-2023 10:17:40]	INFO	---------------------------------------------------=[ Clans ]
+[18-06-2023 10:17:40]	INFO	Loaded 0 clans.
+[18-06-2023 10:17:40]	INFO	-----------------------------------=[ Geodata & Pathfinding ]
+[18-06-2023 10:17:42]	INFO	Loaded 128 L2D region files.
+[18-06-2023 10:17:42]	INFO	Loaded 31 node buffers.
+[18-06-2023 10:17:42]	INFO	---------------------------------------------------=[ Zones ]
+[18-06-2023 10:17:49]	INFO	Loaded 25 zones classes and total 1047 zones.
+[18-06-2023 10:17:49]	INFO	------------------------------------=[ Castles & Clan Halls ]
+[18-06-2023 10:17:49]	INFO	Loaded 9 castles.
+[18-06-2023 10:17:49]	INFO	New date for Gludio siege: Sat Jul 08 18:00:00 BRT 2023.
+[18-06-2023 10:17:49]	INFO	New date for Dion siege: Sat Jul 08 18:00:00 BRT 2023.
+[18-06-2023 10:17:49]	INFO	New date for Giran siege: Sun Jul 02 18:00:00 BRT 2023.
+[18-06-2023 10:17:49]	INFO	New date for Oren siege: Sun Jul 02 18:00:00 BRT 2023.
+[18-06-2023 10:17:49]	INFO	New date for Aden siege: Sat Jul 08 18:00:00 BRT 2023.
+[18-06-2023 10:17:49]	INFO	New date for Innadril siege: Sun Jul 02 18:00:00 BRT 2023.
+[18-06-2023 10:17:49]	INFO	New date for Goddard siege: Sun Jul 02 18:00:00 BRT 2023.
+[18-06-2023 10:17:49]	INFO	New date for Rune siege: Sat Jul 08 18:00:00 BRT 2023.
+[18-06-2023 10:17:49]	INFO	New date for Schuttgart siege: Sat Jul 08 18:00:00 BRT 2023.
+[18-06-2023 10:17:49]	INFO	Loaded 44 clan halls and 6 siegable clan halls.
+[18-06-2023 10:17:49]	INFO	-------------------------------------------=[ Task Managers ]
+[18-06-2023 10:17:49]	INFO	Restored 0 items on ground.
+[18-06-2023 10:17:49]	INFO	---------------------------------------------=[ Seven Signs ]
+[18-06-2023 10:17:49]	INFO	Currently on Competition (Quest Event) period.
+[18-06-2023 10:17:49]	INFO	The Seal of Strife remains unclaimed.
+[18-06-2023 10:17:49]	INFO	The Seal of Gnosis remains unclaimed.
+[18-06-2023 10:17:49]	INFO	The Seal of Avarice remains unclaimed.
+[18-06-2023 10:17:49]	INFO	Next Seven Signs period is already computed.
+[18-06-2023 10:17:49]	INFO	Next Seven Signs period begins in 0 days, 0 hours and 0 mins.
+[18-06-2023 10:17:49]	INFO	The first Festival of Darkness cycle begins in 2 minute(s).
+[18-06-2023 10:17:49]	INFO	-------------------------------------------=[ Manor Manager ]
+[18-06-2023 10:17:49]	INFO	Loaded 201 spawn data.
+[18-06-2023 10:17:49]	INFO	Loaded 121 manor areas.
+[18-06-2023 10:17:49]	INFO	Loaded 247 seeds.
+[18-06-2023 10:17:49]	INFO	----------------------------------------------------=[ NPCs ]
+[18-06-2023 10:17:49]	INFO	Loaded 62 available buffs.
+[18-06-2023 10:17:49]	INFO	Loaded 2 ready to use schemes.
+[18-06-2023 10:17:50]	INFO	Loaded 6478 NPC templates.
+[18-06-2023 10:17:50]	INFO	Loaded 16 walking routes.
+[18-06-2023 10:17:51]	INFO	Loaded 547 doors templates.
+[18-06-2023 10:17:51]	INFO	Loaded 29 static objects.
+[18-06-2023 10:17:54]	INFO	Loaded 11123 territories.
+[18-06-2023 10:17:54]	INFO	Loaded 11540 NPC makers.
+[18-06-2023 10:17:54]	INFO	Loaded 9 GrandBosses instances.
+[18-06-2023 10:17:54]	INFO	Loaded 7 Dimensional Rift rooms.
+[18-06-2023 10:17:54]	INFO	Loaded 14 newbie buffs.
+[18-06-2023 10:17:54]	INFO	Loaded 72 instant teleport positions.
+[18-06-2023 10:17:54]	INFO	Spawned 1432 Seven Signs - Seal of Avarice NPCs, winning cabal none.
+[18-06-2023 10:17:54]	INFO	Loaded 117 teleport positions.
+[18-06-2023 10:17:54]	INFO	Spawned 1186 Seven Signs - Seal of Gnosis NPCs, winning cabal none.
+[18-06-2023 10:17:54]	INFO	The Quest Event Results period of Seven Signs has begun.
+[18-06-2023 10:17:54]	INFO	Next Seven Signs period change set to Sun Jun 18 10:32:49 BRT 2023.
+[18-06-2023 10:17:54]	INFO	Loaded 13 observer groups and 25 spawns.
+[18-06-2023 10:17:54]	INFO	--------------------------------------=[ Olympiads & Heroes ]
+[18-06-2023 10:17:54]	INFO	Loaded 22 stadiums.
+[18-06-2023 10:17:54]	INFO	18822 minutes until Olympiad period ends.
+[18-06-2023 10:17:54]	INFO	Next weekly Olympiad change is in 10079 minutes.
+[18-06-2023 10:17:54]	INFO	Loaded 0 nobles.
+[18-06-2023 10:17:54]	INFO	Olympiad competition period starts in 0 days, 7 hours and 42 mins.
+[18-06-2023 10:17:54]	INFO	Olympiad event starts/started @ Sun Jun 18 18:00:00 BRT 2023.
+[18-06-2023 10:17:54]	INFO	Loaded 0 heroes and 0 all time heroes.
+[18-06-2023 10:17:54]	INFO	----------------------------------------=[ Quests & Scripts ]
+[18-06-2023 10:17:55]	INFO	Spawned 11 "start_weapon" NPCs.
+[18-06-2023 10:17:55]	INFO	Bandit Stronghold siege scheduled for Sun Jul 02 20:00:00 BRT 2023.
+[18-06-2023 10:17:55]	INFO	Devastated Castle siege scheduled for Sun Jul 02 20:00:00 BRT 2023.
+[18-06-2023 10:17:55]	INFO	Fortress of Resistance siege scheduled for Sun Jul 02 20:00:00 BRT 2023.
+[18-06-2023 10:17:55]	INFO	Fortress of the Dead siege scheduled for Sun Jul 02 20:01:00 BRT 2023.
+[18-06-2023 10:17:55]	INFO	Rainbow Springs Chateau siege scheduled for Sun Jul 02 20:00:00 BRT 2023.
+[18-06-2023 10:17:55]	INFO	Wild Beast Reserve siege scheduled for Sun Jul 02 20:00:00 BRT 2023.
+[18-06-2023 10:17:55]	INFO	Loaded 422 regular scripts and 8 scheduled scripts.
+[18-06-2023 10:17:55]	INFO	--------------------------------------------------=[ Events ]
+[18-06-2023 10:17:55]	INFO	Loaded 6 Derby Track records, currently on race #7.
+[18-06-2023 10:17:55]	INFO	Loaded 0 couples.
+[18-06-2023 10:17:55]	INFO	A new Fishing Championship event period has started.
+[18-06-2023 10:17:55]	INFO	Capture The Flag Engine: is Started.
+[18-06-2023 10:17:55]	INFO	Deathmatch Engine: is Started.
+[18-06-2023 10:17:55]	INFO	Last Man Engine: is Started.
+[18-06-2023 10:17:55]	INFO	Team vs Team Engine: is Started.
+[18-06-2023 10:17:55]	INFO	--------------------------------------------------=[ Spawns ]
+[18-06-2023 10:17:57]	INFO	Spawned 30159 NPCs.
+[18-06-2023 10:17:57]	INFO	Spawned 443 day NPCs, despawned 0 night NPCs.
+[18-06-2023 10:17:57]	INFO	Spawned 673 "extra_mob" NPCs.
+[18-06-2023 10:17:57]	INFO	Spawned 19 "18age" NPCs.
+[18-06-2023 10:17:58]	INFO	Spawned 1432 Seven Signs - Seal of Avarice NPCs, winning cabal none.
+[18-06-2023 10:17:58]	INFO	Spawned 1186 Seven Signs - Seal of Gnosis NPCs, winning cabal none.
+[18-06-2023 10:17:58]	INFO	---------------------------------------------=[ VDS Manager ]
+[18-06-2023 10:17:58]	INFO	Initializing Threads.
+[18-06-2023 10:17:58]	INFO	Configurations: loaded.
+[18-06-2023 10:17:59]	INFO	DonateTaskManager: started.
+[18-06-2023 10:17:59]	INFO	Global: ITOPZ reward started.
+[18-06-2023 10:17:59]	INFO	VDSystem: System initialized.
+[18-06-2023 10:17:59]	INFO	------------------------------------------------=[ Handlers ]
+[18-06-2023 10:17:59]	INFO	Loaded 115 admin command handlers.
+[18-06-2023 10:17:59]	INFO	Loaded 13 chat handlers.
+[18-06-2023 10:17:59]	INFO	Loaded 28 item handlers.
+[18-06-2023 10:17:59]	INFO	Loaded 73 skill handlers.
+[18-06-2023 10:17:59]	INFO	Loaded 25 target handlers.
+[18-06-2023 10:17:59]	INFO	Loaded 15 user command handlers.
+[18-06-2023 10:17:59]	INFO	Loaded 24 voiced command handlers.
+[18-06-2023 10:17:59]	INFO	Loaded 24 voice command handlers.
+[18-06-2023 10:17:59]	INFO	--------------------------------------------------=[ System ]
+[18-06-2023 10:17:59]	INFO	Deadlock detector is disabled.
+[18-06-2023 10:17:59]	INFO	Gameserver has started, used memory: 1387 / 8172 Mo.
+[18-06-2023 10:17:59]	INFO	Maximum allowed players: 100.
+[18-06-2023 10:17:59]	INFO	Server loaded in 22 seconds
+[18-06-2023 10:17:59]	INFO	---------------------------------------------------=[ Login ]
+[18-06-2023 10:17:59]	INFO	Connecting to login on 127.0.0.1:9014.
+[18-06-2023 10:17:59]	INFO	Registered as server: [1] Bartz.
