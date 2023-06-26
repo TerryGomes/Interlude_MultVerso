@@ -32,12 +32,10 @@ import net.sf.l2j.gameserver.model.olympiad.enums.OlympiadPeriod;
 public final class Config
 {
 	private static final CLogger LOGGER = new CLogger(Config.class.getName());
-	
 	// --------------------------------------------------
 	// Those "hidden" settings haven't configs to avoid admins to fuck their server
 	// You still can experiment changing values here. But don't say I didn't warn you.
 	// --------------------------------------------------
-	
 	/** Reserve Host on LoginServerThread */
 	public static boolean RESERVE_HOST_ON_LOGIN = false; // default false
 	
@@ -2890,9 +2888,6 @@ public final class Config
 		
 	}
 	
-
-	
-	
 	public static boolean ALLOW_LIGHT_USE_HEAVY;
 	public static String NOTALLOWCLASS;
 	public static List<Integer> NOTALLOWEDUSEHEAVY;
@@ -2922,8 +2917,6 @@ public final class Config
 	public static String DISABLE_BIGSWORD_CLASSES_STRING;
 	public static ArrayList<Integer> DISABLE_BIGSWORD_CLASSES = new ArrayList<>();
 	
-	
-	
 	public static final String PROTECAO_PERSONAGEM_FILE = "config/RestricaoPersonagem.properties";
 	
 	private static final void loadLoginRestricaoPersonagem()
@@ -2931,9 +2924,6 @@ public final class Config
 		final ExProperties restricaoPersonagem = initProperties(Config.PROTECAO_PERSONAGEM_FILE);
 		
 		Config.HOSTNAME = restricaoPersonagem.getProperty("Hostname", "localhost");
-		
-		
-
 		
 		ALLOW_HEAVY_USE_LIGHT = restricaoPersonagem.getProperty("AllowHeavyUseLight", false);
 		NOTALLOWCLASSE = restricaoPersonagem.getProperty("NotAllowedUseLight", "");
@@ -3011,19 +3001,7 @@ public final class Config
 			}
 		}
 		
-		
-		
-	
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	
 	public static final void loadGameServer()
 	{
@@ -3062,7 +3040,6 @@ public final class Config
 		loadMultVerso();
 		loadLoginRestricaoPersonagem();
 		
-	
 	}
 	
 	public static final void loadLoginServer()
